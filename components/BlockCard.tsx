@@ -23,7 +23,7 @@ function Label({ block, className }: { block: Block; className: string }) {
   return (
     <h2 className={className}>
       <Link href={`/topic/${block.topicCode}`} className="block">
-        {block.label} <span className="text-neutral-400">›</span>
+        {block.label} <span className="text-muted">›</span>
       </Link>
     </h2>
   )
@@ -37,21 +37,21 @@ export default function BlockCard({ block }: { block: Block }) {
     return (
       <div
         data-testid={`block-${block.slot}`}
-        className="rounded-2xl border border-neutral-200 bg-neutral-50 p-4 opacity-60"
+        className="rounded-card border border-line bg-bg p-4 opacity-60"
       >
         <Meta block={block} done />
         <Label
           block={block}
-          className="mt-1.5 text-xl font-semibold leading-snug text-neutral-500 line-through"
+          className="mt-2 font-display text-lg font-bold leading-snug text-muted line-through"
         />
         <div className="mt-1 flex items-baseline justify-between">
-          <p className="text-sm text-neutral-500">
+          <p className="font-mono text-sm text-muted">
             Block {block.slot} — {block.actualMinutes} min
           </p>
           <button
             type="button"
             onClick={() => setFixing(true)}
-            className="px-2 py-1 text-sm text-neutral-400 underline"
+            className="px-2 py-1 text-xs text-muted underline"
           >
             fix
           </button>
@@ -63,11 +63,11 @@ export default function BlockCard({ block }: { block: Block }) {
   return (
     <div
       data-testid={`block-${block.slot}`}
-      className="rounded-2xl border border-neutral-200 bg-white p-4 shadow-sm"
+      className="rounded-card border border-line bg-surface p-4 shadow-s"
     >
       <Meta block={block} done={false} />
-      <Label block={block} className="mt-1.5 text-2xl font-semibold leading-snug" />
-      {block.sourceRef && <p className="mt-1 text-sm text-neutral-500">{block.sourceRef}</p>}
+      <Label block={block} className="mt-2 font-display text-[22px] font-bold leading-tight" />
+      {block.sourceRef && <p className="mt-1 text-sm text-muted">{block.sourceRef}</p>}
       <form
         action={async (formData) => {
           await logBlock(formData)
@@ -85,7 +85,7 @@ export default function BlockCard({ block }: { block: Block }) {
           required
           defaultValue={block.actualMinutes ?? block.plannedMinutes}
           aria-label="Actual minutes"
-          className="h-14 w-24 rounded-xl border border-neutral-300 text-center text-lg font-medium tabular-nums outline-none focus:border-neutral-900"
+          className="h-14 w-24 rounded-btn border border-line bg-surface text-center font-mono text-lg font-bold outline-none focus:border-ink"
         />
         <DoneButton />
       </form>
@@ -95,16 +95,18 @@ export default function BlockCard({ block }: { block: Block }) {
 
 function Meta({ block, done }: { block: Block; done: boolean }) {
   return (
-    <div className="flex items-center gap-2 text-sm text-neutral-500">
+    <div className="flex items-center gap-2 text-muted">
       <span
         aria-hidden
         className="inline-block size-2.5 shrink-0 rounded-full"
         style={{ backgroundColor: block.colour ?? '#a3a3a3' }}
       />
-      <span className="font-medium tabular-nums">{block.start}</span>
-      <span aria-hidden>·</span>
-      <span className="tabular-nums">{block.plannedMinutes} min</span>
-      <span className="ml-auto">{done ? 'done' : `Block ${block.slot}`}</span>
+      <span className="font-mono text-sm font-bold text-ink">{block.start}</span>
+      <span aria-hidden className="text-sm">
+        ·
+      </span>
+      <span className="font-mono text-sm">{block.plannedMinutes} min</span>
+      <span className="mono-label ml-auto">{done ? 'done' : `Block ${block.slot}`}</span>
     </div>
   )
 }
@@ -115,7 +117,7 @@ function DoneButton() {
     <button
       type="submit"
       disabled={pending}
-      className="h-14 flex-1 rounded-xl bg-neutral-900 text-lg font-medium text-white active:bg-neutral-700 disabled:opacity-50"
+      className="h-14 flex-1 rounded-btn bg-accent text-lg font-semibold text-white active:bg-accent-deep disabled:opacity-50"
     >
       {pending ? 'Saving…' : 'Done'}
     </button>

@@ -48,8 +48,8 @@ export default async function Syllabus({
   return (
     <main className="mx-auto max-w-md px-4 pb-10 pt-5">
       <header className="mb-3 flex items-baseline justify-between">
-        <h1 className="text-lg font-semibold">Syllabus</h1>
-        <Link href="/" className="text-sm text-neutral-500 underline">
+        <h1 className="font-display text-xl font-bold tracking-tight">Syllabus</h1>
+        <Link href="/" className="text-sm font-medium text-accent-deep underline">
           Today
         </Link>
       </header>
@@ -61,13 +61,13 @@ export default async function Syllabus({
           defaultValue={q}
           aria-label="Search notes"
           placeholder="Search notes"
-          className="h-11 w-full rounded-xl border border-neutral-300 bg-white px-4 text-base outline-none focus:border-neutral-900"
+          className="h-11 w-full rounded-btn border border-line bg-surface px-4 text-base outline-none focus:border-ink"
         />
       </form>
 
       {results && (
         <section className="mb-5">
-          <p className="mb-2 text-sm text-neutral-500">
+          <p className="mb-2 text-sm text-muted">
             {results.length === 0 ? `Nothing for “${q}”` : `${results.length} for “${q}”`}
           </p>
           <div className="flex flex-col gap-2">
@@ -76,9 +76,9 @@ export default async function Syllabus({
                 key={r.code}
                 href={`/topic/${r.code}`}
                 data-testid={`result-${r.code}`}
-                className="rounded-xl border border-neutral-200 bg-white p-3"
+                className="rounded-card border border-line bg-surface p-3 shadow-s"
               >
-                <span className="flex items-center gap-2 text-sm text-neutral-500">
+                <span className="flex items-center gap-2 text-sm text-muted">
                   <span
                     aria-hidden
                     className="inline-block size-2 rounded-full"
@@ -86,17 +86,20 @@ export default async function Syllabus({
                   />
                   {r.subjectName}
                 </span>
-                <span className="mt-0.5 block font-medium">{r.name}</span>
-                {r.snippet && <span className="mt-0.5 block text-sm text-neutral-500">{r.snippet}</span>}
+                <span className="mt-0.5 block font-display font-bold">{r.name}</span>
+                {r.snippet && <span className="mt-0.5 block text-sm text-muted">{r.snippet}</span>}
               </Link>
             ))}
           </div>
         </section>
       )}
 
-      <div className="mb-4 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-neutral-500">
+      <div className="mb-4 flex flex-wrap items-center gap-x-3 gap-y-1">
         {LEGEND.map((l) => (
-          <span key={l.label} className="flex items-center gap-1">
+          <span
+            key={l.label}
+            className="flex items-center gap-1.5 font-mono text-[11px] tracking-widest text-muted"
+          >
             <span className={`inline-block size-3 rounded ${STAGE_BG[l.stage]}`} />
             {l.label}
           </span>
@@ -109,7 +112,7 @@ export default async function Syllabus({
           return (
             <section key={g.name}>
               <div className="mb-2 flex items-baseline justify-between">
-                <h2 className="flex items-center gap-2 text-sm font-semibold">
+                <h2 className="flex items-center gap-2 font-display text-[15px] font-bold">
                   <span
                     aria-hidden
                     className="inline-block size-2.5 rounded-full"
@@ -117,7 +120,7 @@ export default async function Syllabus({
                   />
                   {g.name}
                 </h2>
-                <span className="text-xs tabular-nums text-neutral-500">
+                <span className="font-mono text-xs font-bold text-muted">
                   {touched}/{g.topics.length}
                 </span>
               </div>
@@ -130,7 +133,7 @@ export default async function Syllabus({
                     data-stage={t.stage}
                     aria-label={t.name}
                     title={t.name}
-                    className={`size-8 rounded-md ${STAGE_BG[(t.stage as Stage) ?? 'unread'] ?? 'bg-neutral-200'}`}
+                    className={`size-8 rounded-md ${STAGE_BG[(t.stage as Stage) ?? 'unread'] ?? 'bg-stone-200'}`}
                   />
                 ))}
               </div>

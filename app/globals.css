@@ -1,9 +1,52 @@
 @import "tailwindcss";
 
+/*
+ * Foundations v1 — work mode only. Sarthi is a tool, so the Know Me sticker
+ * set (teal/purple/sun, Caveat doodles) is deliberately absent; using it here
+ * would be a bug. Components reference tokens, never raw hex.
+ */
 :root {
+  --bg: #fafaf7;
+  --surface: #ffffff;
+  --ink: #16181d;
+  --muted: #6b7280;
+  --line: #eceae4;
+  --accent: #ff6b5e;
+  --accent-deep: #e85546;
+
   color-scheme: light;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-deep: var(--accent-deep);
+
+  --font-display: var(--font-bricolage), ui-sans-serif, system-ui, sans-serif;
+  --font-body: var(--font-satoshi), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-space-mono), ui-monospace, monospace;
+
+  --radius-card: 18px;
+  --radius-btn: 10px;
+
+  /* warm-tinted, never grey */
+  --shadow-s: 0 2px 8px rgba(22, 24, 29, 0.06);
+  --shadow-m: 0 2px 14px rgba(22, 24, 29, 0.09);
+  --shadow-hover: 0 6px 24px rgba(22, 24, 29, 0.12);
 }
 
 html {
   -webkit-text-size-adjust: 100%;
+}
+
+/* mono-label: eyebrows, tags, slot codes, table headers */
+@utility mono-label {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
 }

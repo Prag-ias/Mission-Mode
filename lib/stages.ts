@@ -9,7 +9,8 @@ export type Stage = (typeof STAGES)[number]
 export const MANUAL_STAGES = ['unread', 'reading', 'read'] as const
 
 export const STAGE_BG: Record<Stage, string> = {
-  unread: 'bg-neutral-200',
+  unread: 'bg-stone-200', // warm — cool grey looks dirty on the warm bg
+
   reading: 'bg-amber-400',
   read: 'bg-emerald-300',
   R1: 'bg-emerald-400',
