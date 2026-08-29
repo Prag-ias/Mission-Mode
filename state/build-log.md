@@ -98,3 +98,38 @@ card-title size.
 **Not done on purpose:** stage/subject colours untouched (data, not chrome — D21); no
 Caveat/sticker tokens (work mode only — D19); deploy left to the user's git push per his
 new workflow.
+
+## v2 — 2026-08-30
+
+**Shipped:** The revision ladder — the heart. Reaching `read` schedules D+1/7/30/90 once,
+ever; completing a rung advances the stage monotonically (D22). `/revise`: everything due,
+most overdue first, hard-capped at 12 with the overflow as a single debt number that also
+sits in the Today footer. D1 items open blind recall (`/revise/[id]`): the note is not
+fetched until the attempt is typed, then 1–3 self-rating into `recall_score`; a 1 pulls D7
+in to +3 (D23). PASS2–4 seeded for all 186 topics, spread across P3/P4/P5 windows —
+558 events, idempotent (D25). Missed blocks: date-derived sweep, two days riding Today as
+"owed", then block debt on /revise cleared by logging late (credits the day of the work)
+or skipping (D24). Block C and every revision block now opens the queue. Suite 16/16
+twice consecutively (repeatability proven), build/lint/tsc clean, queue and both recall
+states checked at 390px.
+
+**Hours:** estimated 7.8, actual ~5.2. One real bug found by the suite: v1's teardown
+didn't know the v2 engine now creates events for its fixture topic (FK violation left a
+stale topic). Fixed in the v1 spec; two other failures were spec bugs (Date-object
+comparison, fixture outside the queue cap), not app bugs.
+
+**Decisions:** D22–D25.
+
+**Needs human verification:** (1) blind recall on the phone keyboard — the type-first
+gate should feel like discipline, not friction; (2) whether "owed" cards on Today read
+clearly at 05:30; (3) queue feel under real load — today it is empty by design until
+topics reach `read`.
+
+**Deferred:** nothing from the v2 spec.
+
+**Risk for next version:** v3 needs the bank. The app work (practice UI, mistake log,
+confidence) is straightforward; the schedule risk is ingestion — six papers with a 30-min
+human review each. If PDFs arrive early, the bank leads the UI and v3 lands whole.
+
+**If the next version runs long, cut:** keyboard shortcuts on desktop first, then year
+filters (subject/topic/format/wrong-only are the load-bearing filters).

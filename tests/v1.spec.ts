@@ -16,6 +16,8 @@ const MARKER = 'ZEBRA-MARKER-V1'
 const sql = postgres(process.env.DATABASE_URL as string, { prepare: false, max: 1, ssl: 'require' })
 
 async function removeFixtures() {
+  // the v2 ladder creates revision_events when the stage test reaches `read`
+  await sql`delete from revision_events where topic_id in (select id from topics where code = 'TEST-01')`
   await sql`delete from notes where topic_id in (select id from topics where code = 'TEST-01')`
   await sql`delete from plan_blocks where date = ${TZ_TODAY} and slot = 'T1'`
   await sql`delete from topics where code = 'TEST-01'`
