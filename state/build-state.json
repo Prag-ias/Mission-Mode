@@ -4,8 +4,8 @@
   "feature_freeze": "2027-02-01",
 
   "current_version": "v2",
-  "gate_approved": false,
-  "gate_note": "v1 gate open since 2026-08-30, design retrofit (Foundations v1) added on top same day. Awaiting phone check of v1 items plus the new design language. User now deploys via git push (no CLI deploys).",
+  "gate_approved": true,
+  "gate_note": "v1 + design gate approved 2026-08-30. Build order confirmed: v2 now, v3 immediately after v2's gate (user request, ahead of the 20 Dec deadline). Early PYQ ingestion agreed — user supplies PDFs to C:/Users/KIIT/Mission 2027/papers/.",
 
   "versions": {
     "v0": { "ship_by": "2026-08-30", "budget_hours": 5,  "status": "shipped", "hours_actual": 4.5 },
@@ -15,7 +15,16 @@
     "v4": { "ship_by": "2027-01-31", "budget_hours": 12, "status": "not_started",  "hours_actual": null }
   },
 
-  "open_tasks": [],
+  "open_tasks": [
+    { "id": "v2-1", "task": "tests/v2.spec.ts from acceptance criteria, before feature code — synthetic topics/blocks only", "est_minutes": 50 },
+    { "id": "v2-2", "task": "Ladder engine (riskiest first): 4 events on read (idempotent), rung→stage advancement (monotonic), completion action, D1 score-1 shortens D7 to +3", "est_minutes": 90 },
+    { "id": "v2-3", "task": "PASS2/3/4 seeding in seed.ts from P3/P4/P5 date ranges, spread across days, idempotent", "est_minutes": 40 },
+    { "id": "v2-4", "task": "/revise queue: due today, most overdue first, cap 12, debt number, complete buttons, D1 items open blind recall", "est_minutes": 75 },
+    { "id": "v2-5", "task": "Blind recall /revise/[id]: note hidden, free text, reveal, rate 1–3 into recall_score", "est_minutes": 60 },
+    { "id": "v2-6", "task": "Missed blocks: idempotent date-based sweep (planned→rescheduled, count caps at 2), carry-over cards on Today for ≤2 days, older = debt list on /revise, cleared by logging late (credits the day of the work) or skipping", "est_minutes": 90 },
+    { "id": "v2-7", "task": "Block C heading opens /revise; Today footer shows revision debt", "est_minutes": 20 },
+    { "id": "v2-8", "task": "Verify: suite green incl. v0/v1 regression, build/lint/tsc, 390px on /revise + recall + Today carry-over; gate close-out", "est_minutes": 45 }
+  ],
   "done_tasks": [
     { "id": "v1-1", "task": "tests/v1.spec.ts written before feature code; synthetic fixtures only", "actual_minutes": 35 },
     { "id": "v1-2", "task": "/syllabus grid + legend + counts + search (?q= ILIKE, snippets)", "actual_minutes": 55 },
