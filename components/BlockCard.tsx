@@ -22,7 +22,10 @@ export default function BlockCard({ block }: { block: Block }) {
 
   if (done) {
     return (
-      <div className="rounded-2xl border border-neutral-200 bg-neutral-50 p-4 opacity-60">
+      <div
+        data-testid={`block-${block.slot}`}
+        className="rounded-2xl border border-neutral-200 bg-neutral-50 p-4 opacity-60"
+      >
         <Meta block={block} done />
         <h2 className="mt-1.5 text-xl font-semibold leading-snug text-neutral-500 line-through">
           {block.label}
@@ -44,7 +47,10 @@ export default function BlockCard({ block }: { block: Block }) {
   }
 
   return (
-    <div className="rounded-2xl border border-neutral-200 bg-white p-4 shadow-sm">
+    <div
+      data-testid={`block-${block.slot}`}
+      className="rounded-2xl border border-neutral-200 bg-white p-4 shadow-sm"
+    >
       <Meta block={block} done={false} />
       <h2 className="mt-1.5 text-2xl font-semibold leading-snug">{block.label}</h2>
       {block.sourceRef && <p className="mt-1 text-sm text-neutral-500">{block.sourceRef}</p>}

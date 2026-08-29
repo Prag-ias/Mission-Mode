@@ -1,0 +1,50 @@
+{
+  "project": "sarthi",
+  "exam_date": "2027-05-23",
+  "feature_freeze": "2027-02-01",
+
+  "current_version": "v0",
+  "gate_approved": true,
+  "gate_note": "v0 is the first build. No prior gate.",
+
+  "versions": {
+    "v0": { "ship_by": "2026-08-30", "budget_hours": 5,  "status": "in_progress", "hours_actual": null },
+    "v1": { "ship_by": "2026-09-27", "budget_hours": 9,  "status": "not_started",  "hours_actual": null },
+    "v2": { "ship_by": "2026-11-01", "budget_hours": 10, "status": "not_started",  "hours_actual": null },
+    "v3": { "ship_by": "2026-12-20", "budget_hours": 12, "status": "not_started",  "hours_actual": null },
+    "v4": { "ship_by": "2027-01-31", "budget_hours": 12, "status": "not_started",  "hours_actual": null }
+  },
+
+  "open_tasks": [
+    { "id": "v0-6", "task": "Push schema + seed + verify idempotency (run twice, counts stable, logged data untouched)", "est_minutes": 20, "blocked_on": "database password — pooler host confirmed (aws-0-ap-south-1), auth failed" },
+    { "id": "v0-7", "task": "Run tests/v0.spec.ts against seeded DB, fix failures", "est_minutes": 30, "blocked_on": "v0-6" },
+    { "id": "v0-8", "task": "Deploy to Vercel with DATABASE_URL + SARTHI_PASSWORD, smoke-test on phone", "est_minutes": 30, "blocked_on": "vercel login (user)" },
+    { "id": "v0-9", "task": "Gate report, build log entry, state update", "est_minutes": 15 }
+  ],
+  "done_tasks": [
+    { "id": "v0-1", "task": "Scaffold Next 15 + Tailwind 4 (manual — create-next-app blocked by tool permissions), pinned deps, build green", "actual_minutes": 40 },
+    { "id": "v0-2", "task": "drizzle config, postgres client (prepare:false, max:1), idempotent seed script", "actual_minutes": 30 },
+    { "id": "v0-3", "task": "Today screen: header (date/days-left/phase), blocks in time order, sticky footer (total/MVD/streak), IST everywhere", "actual_minutes": 45 },
+    { "id": "v0-4", "task": "logBlock action: actual_minutes, status, logged_at, daily_logs recompute, streak roll-forward", "actual_minutes": 25 },
+    { "id": "v0-5", "task": "Cookie auth against SARTHI_PASSWORD; gate verified in browser (wrong + right password paths)", "actual_minutes": 20 },
+    { "id": "v0-6a", "task": "Playwright config + tests/v0.spec.ts written from acceptance criteria (T1/T2 throwaway-block strategy)", "actual_minutes": 35 }
+  ],
+  "deferred": [],
+  "needs_human_verification": [
+    "Usable one-handed at 05:30 without glasses (390px layout shipped; only real use can judge it)",
+    "Monday 31 Aug 05:30 shows the three real blocks live on the phone (spec asserts the DB rows; the screen itself needs Monday)",
+    "Copy tone reads plain, not nagging"
+  ],
+
+  "ingestion": {
+    "papers_total": 6,
+    "papers_done": [],
+    "next_due": "2026-10-11",
+    "note": "GS Paper 1 only, 2021-2026. One per fortnight through Phase 1. CSAT out of scope."
+  },
+
+  "replan": {
+    "last_run": null,
+    "note": "Run generate-plan.mjs --from <next Monday> when more than 7 days of blocks are skipped or rescheduled."
+  }
+}

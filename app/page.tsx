@@ -82,7 +82,10 @@ export default async function Today({
         )}
       </div>
 
-      <footer className="fixed inset-x-0 bottom-0 border-t border-neutral-200 bg-white/95 backdrop-blur">
+      <footer
+        data-testid="footer"
+        className="fixed inset-x-0 bottom-0 border-t border-neutral-200 bg-white/95 backdrop-blur"
+      >
         <div className="mx-auto flex max-w-md items-center justify-between px-4 py-3 pb-[max(0.75rem,env(safe-area-inset-bottom))]">
           <span className="text-sm text-neutral-500">
             <span className="text-base font-semibold tabular-nums text-neutral-900">{total}</span> min
