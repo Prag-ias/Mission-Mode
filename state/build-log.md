@@ -78,3 +78,23 @@ it must come first in the plan, not the queue UI.
 
 **If the next version runs long, cut:** blind-recall UI polish first (a plain textarea and
 reveal is enough), then the debt number on the Today footer (the queue itself must not slip).
+
+## design retrofit — 2026-08-30 (user-directed, pre-v2)
+
+**Shipped:** Foundations v1 applied across all three screens and the gate. Work-mode
+palette (warm #FAFAF7 bg, ink #16181D, coral #FF6B5E actions), Bricolage Grotesque for
+display type (topic names, titles), Satoshi for body, Space Mono for stats/times/labels
+(mono-label eyebrows at 11px/0.14em). Radius per spec (cards 18, buttons/inputs 10,
+chips 6), warm-tinted shadows, 1px line borders everywhere. Logo (ink square, coral dot)
+as favicon and on the gate. Satoshi variable woff2s committed; Bricolage/Space Mono via
+next/font/google. Suite still 9/9; build/lint/tsc clean; Today (card + receded card),
+syllabus and topic screens checked at 390px. ~1.5h, charged to no version budget
+(user-directed scope between v1 and v2). Decisions D19–D21.
+
+**Needs human verification:** whether coral-on-white Done reads as the one obvious action
+at 05:30, and Bricolage's characterful letterforms stay readable without glasses at
+card-title size.
+
+**Not done on purpose:** stage/subject colours untouched (data, not chrome — D21); no
+Caveat/sticker tokens (work mode only — D19); deploy left to the user's git push per his
+new workflow.

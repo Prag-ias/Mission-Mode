@@ -59,13 +59,17 @@ export default function NoteEditor({ code, initialBody }: { code: string; initia
 
   return (
     <div>
-      <div className="mb-1 flex items-baseline justify-between">
-        <span className="text-sm font-medium text-neutral-700">Note</span>
-        <span className="text-xs text-neutral-500">
+      <div className="mb-1.5 flex items-baseline justify-between">
+        <span className="mono-label text-muted">Note</span>
+        <span className="text-xs text-muted">
           {status === 'saving' && 'Saving…'}
-          {status === 'saved' && `Saved${savedAt ? ` ${savedAt}` : ''}`}
+          {status === 'saved' && (
+            <>
+              Saved{savedAt && <span className="font-mono"> {savedAt}</span>}
+            </>
+          )}
           {status === 'dirty' && 'Unsaved'}
-          {status === 'error' && 'Not saved — retrying'}
+          {status === 'error' && <span className="text-accent-deep">Not saved — retrying</span>}
         </span>
       </div>
       <textarea
@@ -78,7 +82,7 @@ export default function NoteEditor({ code, initialBody }: { code: string; initia
           schedule()
         }}
         onBlur={() => void flush()}
-        className="min-h-[45vh] w-full resize-y rounded-xl border border-neutral-300 bg-white p-4 text-base leading-relaxed outline-none focus:border-neutral-900"
+        className="min-h-[45vh] w-full resize-y rounded-btn border border-line bg-surface p-4 text-base leading-relaxed outline-none focus:border-ink"
       />
     </div>
   )

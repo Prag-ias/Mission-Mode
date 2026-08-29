@@ -99,3 +99,18 @@ Format: `### DN — <decision>` then **Context**, **Decision**, **Consequence** 
 **Context:** "Full-text search" over at most 186 notes for one user; tsvector columns, triggers and ranking would outweigh the corpus.
 **Decision:** `ILIKE %q%` across note bodies and topic names, 20-result cap, snippet cut in JS.
 **Consequence:** Zero schema changes; if notes ever feel slow to search (they will not at this scale), revisit with pg_trgm.
+
+### D19 — Design language: Foundations v1, work mode only
+**Context:** User supplied his site's token spec (work/know modes, Bricolage + Satoshi + Space Mono + Caveat) and the logo.
+**Decision:** Sarthi is a tool, so it gets exactly the work-mode palette (warm bg, ink, coral accent) and three fonts; Know Me tokens (teal/purple/sun, Caveat) are deliberately absent.
+**Consequence:** Tokens live as CSS vars mapped through Tailwind's @theme; components reference token classes, never hex; coral is actions and key accents, never body text.
+
+### D20 — Satoshi committed to the repo
+**Context:** Satoshi is Fontshare-only (not on Google Fonts); the spec calls for next/font/local with zero layout shift.
+**Decision:** Downloaded the official Fontshare zip once (user-directed), committed the two variable woff2 files (~43KB each) under app/fonts/.
+**Consequence:** Builds need no font network fetch for Satoshi; Bricolage and Space Mono come via next/font/google at build time.
+
+### D21 — Data colours are exempt from the palette
+**Context:** Subject dots (11 seeded colours) and stage cells (amber/emerald ramp) encode information, and work mode defines no sticker colours.
+**Decision:** Keep data colours as data; only chrome (bg, surface, ink, lines, actions) uses the token palette. Unread cells warmed from cool grey to stone.
+**Consequence:** The grid stays legible as a heat map; nothing decorative uses colour outside the tokens.

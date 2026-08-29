@@ -5,7 +5,7 @@
 
   "current_version": "v2",
   "gate_approved": false,
-  "gate_note": "v1 gate open since 2026-08-30. Spec 6/6 green (plus v0 regression), merged to main, auto-deployed. Awaiting phone check: note-taking feel, grid tap accuracy, cross-device note visibility.",
+  "gate_note": "v1 gate open since 2026-08-30, design retrofit (Foundations v1) added on top same day. Awaiting phone check of v1 items plus the new design language. User now deploys via git push (no CLI deploys).",
 
   "versions": {
     "v0": { "ship_by": "2026-08-30", "budget_hours": 5,  "status": "shipped", "hours_actual": 4.5 },
