@@ -26,3 +26,11 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+.vercel
+.env*
+
+# playwright artifacts
+/test-results/
+/playwright-report/
+

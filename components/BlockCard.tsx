@@ -1,5 +1,6 @@
 'use client'
 
+import Link from 'next/link'
 import { useState } from 'react'
 import { useFormStatus } from 'react-dom'
 import { logBlock } from '@/app/actions'
@@ -14,6 +15,18 @@ type Block = {
   actualMinutes: number | null
   status: string
   colour: string | null
+  topicCode: string | null
+}
+
+function Label({ block, className }: { block: Block; className: string }) {
+  if (!block.topicCode) return <h2 className={className}>{block.label}</h2>
+  return (
+    <h2 className={className}>
+      <Link href={`/topic/${block.topicCode}`} className="block">
+        {block.label} <span className="text-neutral-400">›</span>
+      </Link>
+    </h2>
+  )
 }
 
 export default function BlockCard({ block }: { block: Block }) {
@@ -27,9 +40,10 @@ export default function BlockCard({ block }: { block: Block }) {
         className="rounded-2xl border border-neutral-200 bg-neutral-50 p-4 opacity-60"
       >
         <Meta block={block} done />
-        <h2 className="mt-1.5 text-xl font-semibold leading-snug text-neutral-500 line-through">
-          {block.label}
-        </h2>
+        <Label
+          block={block}
+          className="mt-1.5 text-xl font-semibold leading-snug text-neutral-500 line-through"
+        />
         <div className="mt-1 flex items-baseline justify-between">
           <p className="text-sm text-neutral-500">
             Block {block.slot} — {block.actualMinutes} min
@@ -52,7 +66,7 @@ export default function BlockCard({ block }: { block: Block }) {
       className="rounded-2xl border border-neutral-200 bg-white p-4 shadow-sm"
     >
       <Meta block={block} done={false} />
-      <h2 className="mt-1.5 text-2xl font-semibold leading-snug">{block.label}</h2>
+      <Label block={block} className="mt-1.5 text-2xl font-semibold leading-snug" />
       {block.sourceRef && <p className="mt-1 text-sm text-neutral-500">{block.sourceRef}</p>}
       <form
         action={async (formData) => {

@@ -84,3 +84,18 @@ Format: `### DN — <decision>` then **Context**, **Decision**, **Consequence** 
 **Context:** v0 allows no second route, and a silent failed login is confusing even for one user.
 **Decision:** Failed login redirects to `/?bad=1`; the gate renders "Wrong password." when the flag is present.
 **Consequence:** One route preserved; no client state, no session storage, nothing to expire.
+
+### D16 — Version branches; main is what he uses
+**Context:** GitHub is linked to Vercel, so every push to main deploys to the app in daily use.
+**Decision:** Each version builds on a branch (`v1`, `v2`…) and merges to main only when its spec is green; the gate check then happens on production.
+**Consequence:** Mid-version commits can never break a study morning; rollback is one revert or a Vercel rollback.
+
+### D17 — Stage ownership split: hands vs ladder
+**Context:** The stage column spans unread→mains, but the ladder engine that owns R1–R4 does not exist until v2.
+**Decision:** v1's control sets only unread/reading/read, and refuses to touch a topic already at R1+; `first_read_at` stamps on the first transition into read.
+**Consequence:** v2's engine gets a clean trigger (stage becomes read) and manual edits can never downgrade ladder progress.
+
+### D18 — Notes search is ILIKE, not full-text infrastructure
+**Context:** "Full-text search" over at most 186 notes for one user; tsvector columns, triggers and ranking would outweigh the corpus.
+**Decision:** `ILIKE %q%` across note bodies and topic names, 20-result cap, snippet cut in JS.
+**Consequence:** Zero schema changes; if notes ever feel slow to search (they will not at this scale), revisit with pg_trgm.

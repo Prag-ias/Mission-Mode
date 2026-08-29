@@ -3,13 +3,13 @@
   "exam_date": "2027-05-23",
   "feature_freeze": "2027-02-01",
 
-  "current_version": "v1",
+  "current_version": "v2",
   "gate_approved": false,
-  "gate_note": "v0 gate open since 2026-08-30. Awaiting phone check: one-handed usability, Monday 05:30 shows the three real blocks, copy tone. Also pending (not gate items): one-time GitHub push auth, Vercel-GitHub dashboard link.",
+  "gate_note": "v1 gate open since 2026-08-30. Spec 6/6 green (plus v0 regression), merged to main, auto-deployed. Awaiting phone check: note-taking feel, grid tap accuracy, cross-device note visibility.",
 
   "versions": {
     "v0": { "ship_by": "2026-08-30", "budget_hours": 5,  "status": "shipped", "hours_actual": 4.5 },
-    "v1": { "ship_by": "2026-09-27", "budget_hours": 9,  "status": "not_started",  "hours_actual": null },
+    "v1": { "ship_by": "2026-09-27", "budget_hours": 9,  "status": "shipped", "hours_actual": 3.5 },
     "v2": { "ship_by": "2026-11-01", "budget_hours": 10, "status": "not_started",  "hours_actual": null },
     "v3": { "ship_by": "2026-12-20", "budget_hours": 12, "status": "not_started",  "hours_actual": null },
     "v4": { "ship_by": "2027-01-31", "budget_hours": 12, "status": "not_started",  "hours_actual": null }
@@ -17,6 +17,13 @@
 
   "open_tasks": [],
   "done_tasks": [
+    { "id": "v1-1", "task": "tests/v1.spec.ts written before feature code; synthetic fixtures only", "actual_minutes": 35 },
+    { "id": "v1-2", "task": "/syllabus grid + legend + counts + search (?q= ILIKE, snippets)", "actual_minutes": 55 },
+    { "id": "v1-3", "task": "/topic/[code] + stage control (server-action forms) + timestamps + engine-stage guard", "actual_minutes": 35 },
+    { "id": "v1-4", "task": "NoteEditor: debounced autosave, blur/visibility/unmount flush, saved indicator, retry on error", "actual_minutes": 30 },
+    { "id": "v1-5", "task": "Today headings link to topics; Syllabus link in header", "actual_minutes": 10 },
+    { "id": "v1-6", "task": "Verify: 9/9 suite (v0 regression incl.), build/lint/tsc, 390px on all three screens", "actual_minutes": 35 },
+    { "id": "v1-7", "task": "Decisions D16-D18, build log, state, merge, deploy check", "actual_minutes": 15 },
     { "id": "v0-1", "task": "Scaffold Next 15 + Tailwind 4 (manual — create-next-app blocked by tool permissions), pinned deps, build green", "actual_minutes": 40 },
     { "id": "v0-2", "task": "drizzle config, postgres client (prepare:false, max:1), idempotent seed script", "actual_minutes": 30 },
     { "id": "v0-3", "task": "Today screen: header (date/days-left/phase), blocks in time order, sticky footer (total/MVD/streak), IST everywhere", "actual_minutes": 45 },
@@ -30,10 +37,10 @@
   ],
   "deferred": [],
   "needs_human_verification": [
-    "Usable one-handed at 05:30 without glasses (390px layout shipped; only real use can judge it)",
-    "Monday 31 Aug 05:30 shows the three real blocks live on the phone (spec asserts the DB rows; the screen itself needs Monday)",
-    "Copy tone reads plain, not nagging",
-    "https://sarthi-gamma.vercel.app loads on the actual phone"
+    "v1: note-taking feel on the phone keyboard — autosave invisible, Saved stamp glanceable",
+    "v1: grid cell tap accuracy one-handed (32px targets)",
+    "v1: a note typed on the phone appears on the laptop",
+    "v0 (carried): Monday 31 Aug 05:30 shows the three real blocks live; one-handed at 05:30"
   ],
 
   "ingestion": {
