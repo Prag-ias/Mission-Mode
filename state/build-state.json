@@ -4,8 +4,8 @@
   "feature_freeze": "2027-02-01",
 
   "current_version": "v1",
-  "gate_approved": false,
-  "gate_note": "v0 gate open since 2026-08-30. Awaiting phone check: one-handed usability, Monday 05:30 shows the three real blocks, copy tone. Also pending (not gate items): one-time GitHub push auth, Vercel-GitHub dashboard link.",
+  "gate_approved": true,
+  "gate_note": "v0 gate approved by user 2026-08-30 ('Completed now proceed'). GitHub push verified (remote main == local). v1 in progress on branch v1; main stays deployable v0 until the v1 spec is green.",
 
   "versions": {
     "v0": { "ship_by": "2026-08-30", "budget_hours": 5,  "status": "shipped", "hours_actual": 4.5 },
@@ -15,7 +15,15 @@
     "v4": { "ship_by": "2027-01-31", "budget_hours": 12, "status": "not_started",  "hours_actual": null }
   },
 
-  "open_tasks": [],
+  "open_tasks": [
+    { "id": "v1-1", "task": "tests/v1.spec.ts from acceptance criteria, synthetic rows only (TEST-01 topic, T1 block) — written before feature code", "est_minutes": 40 },
+    { "id": "v1-2", "task": "/syllabus coverage grid: 186 cells grouped by 11 subjects, stage colours, legend, touched/total counts, Syllabus link on Today header", "est_minutes": 90 },
+    { "id": "v1-3", "task": "/topic/[code]: name, source, est minutes, stage control (unread/reading/read as server-action forms; R1+ engine-owned read-only), firstReadAt/lastTouchedAt stamps", "est_minutes": 75 },
+    { "id": "v1-4", "task": "Notes: client editor, 800ms debounced autosave + blur/visibility flush, saved indicator, upsert action (one note per topic)", "est_minutes": 90 },
+    { "id": "v1-5", "task": "Search from /syllabus via ?q= URL state: ILIKE over note bodies + topic names, snippet list", "est_minutes": 45 },
+    { "id": "v1-6", "task": "Today block headings link to /topic/[code] (join topic code into the blocks query)", "est_minutes": 20 },
+    { "id": "v1-7", "task": "Verify: spec green, build/lint/tsc clean, 390px pass on both new screens; merge to main; gate report", "est_minutes": 60 }
+  ],
   "done_tasks": [
     { "id": "v0-1", "task": "Scaffold Next 15 + Tailwind 4 (manual — create-next-app blocked by tool permissions), pinned deps, build green", "actual_minutes": 40 },
     { "id": "v0-2", "task": "drizzle config, postgres client (prepare:false, max:1), idempotent seed script", "actual_minutes": 30 },
