@@ -44,3 +44,37 @@ autosave (a save button costs one tap and zero engineering risk).
 
 **Blocked on user, outside the gate:** first `git push` needs a one-time GitHub auth from
 his terminal; the Vercel↔GitHub link he plans to do in the dashboard.
+
+## v1 — 2026-08-30
+
+**Shipped:** The syllabus layer. `/syllabus`: all 186 topics as a colour-coded grid grouped
+by the 11 subjects, stage legend, touched/total per subject, and a notes search box
+(`?q=` URL state, ILIKE over note bodies and topic names, snippets). `/topic/[code]`: name,
+source ref, estimated first-read minutes, stage chip, an unread/reading/read control built
+from three server-action forms (no client JS), and the note — a textarea that autosaves
+800ms after typing stops and again on blur, tab-hide and unmount, with a Saved indicator.
+`first_read_at` stamps on the first transition into read; `last_touched_at` on every stage
+change and note save. Today's block headings now link to their topic. All six spec tests
+green, plus the three v0 tests as regression; build, lint, tsc clean; all three screens
+checked at mobile width.
+
+**Hours:** estimated 7, actual ~3.5. The spec-first discipline paid for itself — zero
+debugging rounds; every test passed on the first run.
+
+**Decisions:** D16 (version branches, main stays deployable), D17 (stage ownership split
+hands/ladder), D18 (ILIKE search, no full-text infrastructure).
+
+**Needs human verification:** (1) note-taking feel on the phone keyboard — autosave should
+be invisible, the Saved stamp glanceable; (2) grid cell tap accuracy one-handed (32px
+targets); (3) whether the grid answers "what have I not touched?" at a glance once real
+stages exist; (4) cross-device: a note typed on the phone appearing on the laptop.
+
+**Deferred:** nothing from the v1 spec. Markdown *rendering* of notes was never in scope —
+notes are written and re-read as plain markdown text until a version needs more.
+
+**Risk for next version:** v2's ladder scheduling (D+1/7/30/90, recall-driven shortening,
+PASS2–4 seeding from phase dates) is the real product and the hardest logic in the app —
+it must come first in the plan, not the queue UI.
+
+**If the next version runs long, cut:** blind-recall UI polish first (a plain textarea and
+reveal is enough), then the debt number on the Today footer (the queue itself must not slip).

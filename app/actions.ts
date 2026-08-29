@@ -4,9 +4,10 @@ import { revalidatePath } from 'next/cache'
 import { redirect } from 'next/navigation'
 import { and, eq, sql } from 'drizzle-orm'
 import { db } from '@/lib/db'
-import { dailyLogs, planBlocks } from '@/db/schema'
+import { dailyLogs, notes, planBlocks, topics } from '@/db/schema'
 import { isAuthed, passwordMatches, setAuthCookie } from '@/lib/auth'
 import { addDaysISO, todayIST } from '@/lib/dates'
+import { MANUAL_STAGES } from '@/lib/stages'
 
 const MVD_MINUTES = 160
 
@@ -44,6 +45,51 @@ export async function logBlock(formData: FormData) {
 
   await recomputeFrom(block.date)
   revalidatePath('/')
+}
+
+export async function setStage(formData: FormData) {
+  if (!(await isAuthed())) return
+
+  const code = String(formData.get('code') ?? '')
+  const stage = String(formData.get('stage') ?? '')
+  if (!(MANUAL_STAGES as readonly string[]).includes(stage)) return
+
+  const [topic] = await db.select().from(topics).where(eq(topics.code, code)).limit(1)
+  if (!topic) return
+  // Ladder-owned stages (R1+, mains) are never changed by hand — that is v2's job.
+  if (!(MANUAL_STAGES as readonly string[]).includes(topic.stage)) return
+
+  const now = new Date()
+  await db
+    .update(topics)
+    .set({
+      stage,
+      lastTouchedAt: now,
+      firstReadAt: topic.firstReadAt ?? (stage === 'read' ? now : null),
+    })
+    .where(eq(topics.id, topic.id))
+
+  revalidatePath('/syllabus')
+  revalidatePath(`/topic/${code}`)
+}
+
+export async function saveNote(code: string, body: string): Promise<{ savedAt: string } | null> {
+  if (!(await isAuthed())) return null
+  if (typeof body !== 'string' || body.length > 100_000) return null
+
+  const [topic] = await db.select().from(topics).where(eq(topics.code, code)).limit(1)
+  if (!topic) return null
+
+  const now = new Date()
+  const [existing] = await db.select().from(notes).where(eq(notes.topicId, topic.id)).limit(1)
+  if (existing) {
+    await db.update(notes).set({ bodyMd: body, updatedAt: now }).where(eq(notes.id, existing.id))
+  } else {
+    await db.insert(notes).values({ topicId: topic.id, bodyMd: body, updatedAt: now })
+  }
+  await db.update(topics).set({ lastTouchedAt: now }).where(eq(topics.id, topic.id))
+
+  return { savedAt: now.toISOString() }
 }
 
 /** Rebuild daily_logs for `date`, then roll the streak forward through today. */

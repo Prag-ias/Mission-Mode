@@ -1,6 +1,7 @@
+import Link from 'next/link'
 import { and, asc, eq, gt, gte, lte } from 'drizzle-orm'
 import { db } from '@/lib/db'
-import { dailyLogs, phases, planBlocks, subjects } from '@/db/schema'
+import { dailyLogs, phases, planBlocks, subjects, topics } from '@/db/schema'
 import { isAuthed } from '@/lib/auth'
 import { addDaysISO, daysBetween, displayDate, EXAM_DATE, todayIST } from '@/lib/dates'
 import { login } from '@/app/actions'
@@ -30,9 +31,11 @@ export default async function Today({
         actualMinutes: planBlocks.actualMinutes,
         status: planBlocks.status,
         colour: subjects.colour,
+        topicCode: topics.code,
       })
       .from(planBlocks)
       .leftJoin(subjects, eq(planBlocks.subjectId, subjects.id))
+      .leftJoin(topics, eq(planBlocks.topicId, topics.id))
       .where(eq(planBlocks.date, today))
       .orderBy(asc(planBlocks.start), asc(planBlocks.slot)),
     db
@@ -71,7 +74,12 @@ export default async function Today({
           <h1 className="text-lg font-semibold">{displayDate(today)}</h1>
           <span className="text-sm tabular-nums text-neutral-500">{daysLeft} days left</span>
         </div>
-        <p className="mt-0.5 text-sm text-neutral-500">{phaseLine}</p>
+        <div className="mt-0.5 flex items-baseline justify-between">
+          <p className="text-sm text-neutral-500">{phaseLine}</p>
+          <Link href="/syllabus" className="text-sm text-neutral-500 underline">
+            Syllabus
+          </Link>
+        </div>
       </header>
 
       <div className="flex flex-col gap-3">
