@@ -1,0 +1,79 @@
+[
+  {
+    "code": "POL",
+    "name": "Polity & Governance",
+    "avg_6yr": 16.0,
+    "target_hours": 150,
+    "colour": "#2563eb"
+  },
+  {
+    "code": "HIS",
+    "name": "Modern History",
+    "avg_6yr": 16.3,
+    "target_hours": 90,
+    "colour": "#b45309"
+  },
+  {
+    "code": "ANM",
+    "name": "Ancient & Medieval History",
+    "avg_6yr": 16.3,
+    "target_hours": 80,
+    "colour": "#92400e"
+  },
+  {
+    "code": "ART",
+    "name": "Art & Culture",
+    "avg_6yr": 16.3,
+    "target_hours": 55,
+    "colour": "#9333ea"
+  },
+  {
+    "code": "ECO",
+    "name": "Economy",
+    "avg_6yr": 16.0,
+    "target_hours": 140,
+    "colour": "#0f766e"
+  },
+  {
+    "code": "ENV",
+    "name": "Environment & Ecology",
+    "avg_6yr": 14.7,
+    "target_hours": 110,
+    "colour": "#15803d"
+  },
+  {
+    "code": "GEO",
+    "name": "Geography",
+    "avg_6yr": 14.0,
+    "target_hours": 130,
+    "colour": "#0369a1"
+  },
+  {
+    "code": "SNT",
+    "name": "Science & Technology",
+    "avg_6yr": 12.8,
+    "target_hours": 80,
+    "colour": "#be123c"
+  },
+  {
+    "code": "CAI",
+    "name": "Current Affairs & IR",
+    "avg_6yr": 10.2,
+    "target_hours": 150,
+    "colour": "#4338ca"
+  },
+  {
+    "code": "CSAT",
+    "name": "CSAT",
+    "avg_6yr": 0.0,
+    "target_hours": 60,
+    "colour": "#525252"
+  },
+  {
+    "code": "SOC",
+    "name": "Sociology (Optional)",
+    "avg_6yr": 0.0,
+    "target_hours": 320,
+    "colour": "#a16207"
+  }
+]

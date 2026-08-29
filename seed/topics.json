@@ -1,0 +1,1862 @@
+[
+  {
+    "code": "POL-01",
+    "subject": "POL",
+    "name": "Historical Background — Regulating Act to Indian Independence Act",
+    "source_ref": "Laxmikanth Ch.1",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-02",
+    "subject": "POL",
+    "name": "Making of the Constitution & Constituent Assembly",
+    "source_ref": "Laxmikanth Ch.2",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-03",
+    "subject": "POL",
+    "name": "Salient Features of the Constitution",
+    "source_ref": "Laxmikanth Ch.3",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-04",
+    "subject": "POL",
+    "name": "Preamble",
+    "source_ref": "Laxmikanth Ch.4",
+    "est_minutes": 60,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-05",
+    "subject": "POL",
+    "name": "Union and its Territory (Art 1–4)",
+    "source_ref": "Laxmikanth Ch.5",
+    "est_minutes": 60,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-06",
+    "subject": "POL",
+    "name": "Citizenship (Art 5–11) & CAA",
+    "source_ref": "Laxmikanth Ch.6",
+    "est_minutes": 75,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-07",
+    "subject": "POL",
+    "name": "Fundamental Rights I — Art 12–13, Right to Equality (14–18)",
+    "source_ref": "Laxmikanth Ch.7",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-08",
+    "subject": "POL",
+    "name": "Fundamental Rights II — Right to Freedom (Art 19–22)",
+    "source_ref": "Laxmikanth Ch.7",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-09",
+    "subject": "POL",
+    "name": "Fundamental Rights III — Art 23–28, Exploitation & Religion",
+    "source_ref": "Laxmikanth Ch.7",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-10",
+    "subject": "POL",
+    "name": "Fundamental Rights IV — Art 29–32, Minorities & Writs",
+    "source_ref": "Laxmikanth Ch.7",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-11",
+    "subject": "POL",
+    "name": "Directive Principles of State Policy (Art 36–51)",
+    "source_ref": "Laxmikanth Ch.8",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-12",
+    "subject": "POL",
+    "name": "Fundamental Duties & Amendment of the Constitution (Art 368)",
+    "source_ref": "Laxmikanth Ch.9,10",
+    "est_minutes": 75,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-13",
+    "subject": "POL",
+    "name": "Basic Structure Doctrine & landmark judgments",
+    "source_ref": "Laxmikanth Ch.11",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-14",
+    "subject": "POL",
+    "name": "Parliamentary System & Federal System",
+    "source_ref": "Laxmikanth Ch.12,13",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-15",
+    "subject": "POL",
+    "name": "Centre–State Relations & Inter-State Relations",
+    "source_ref": "Laxmikanth Ch.14,15",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-16",
+    "subject": "POL",
+    "name": "Emergency Provisions (Art 352, 356, 360)",
+    "source_ref": "Laxmikanth Ch.16",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-17",
+    "subject": "POL",
+    "name": "President, Vice-President, PM & Council of Ministers",
+    "source_ref": "Laxmikanth Ch.17–20",
+    "est_minutes": 150,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-18",
+    "subject": "POL",
+    "name": "Parliament — composition, sessions, devices, types of bills",
+    "source_ref": "Laxmikanth Ch.22",
+    "est_minutes": 180,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-19",
+    "subject": "POL",
+    "name": "Parliamentary & Cabinet Committees",
+    "source_ref": "Laxmikanth Ch.23,24",
+    "est_minutes": 75,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-20",
+    "subject": "POL",
+    "name": "Supreme Court, Judicial Review, Judicial Activism, PIL",
+    "source_ref": "Laxmikanth Ch.25–28",
+    "est_minutes": 150,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-21",
+    "subject": "POL",
+    "name": "Governor, Chief Minister, State Legislature & High Courts",
+    "source_ref": "Laxmikanth Ch.29–34",
+    "est_minutes": 150,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-22",
+    "subject": "POL",
+    "name": "Panchayati Raj & Municipalities (73rd & 74th Amendments)",
+    "source_ref": "Laxmikanth Ch.38,39",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-23",
+    "subject": "POL",
+    "name": "Union Territories, Scheduled & Tribal Areas (5th & 6th Schedules)",
+    "source_ref": "Laxmikanth Ch.36,37",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-24",
+    "subject": "POL",
+    "name": "Constitutional Bodies — EC, UPSC, CAG, AG, Finance Commission, NCSC/NCST",
+    "source_ref": "Laxmikanth Ch.40–49",
+    "est_minutes": 150,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-25",
+    "subject": "POL",
+    "name": "Non-Constitutional Bodies — NITI Aayog, NHRC, CIC, CVC, CBI, Lokpal",
+    "source_ref": "Laxmikanth Ch.50–60",
+    "est_minutes": 150,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-26",
+    "subject": "POL",
+    "name": "Elections, Political Parties, Anti-Defection & the RPA",
+    "source_ref": "Laxmikanth Ch.61–65",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-27",
+    "subject": "POL",
+    "name": "Governance — RTI, e-governance, citizen charters, civil services",
+    "source_ref": "Laxmikanth Governance section",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "POL-28",
+    "subject": "POL",
+    "name": "GS-4 vocabulary pass — accountability, probity, equity, esprit de corps",
+    "source_ref": "Lexicon skim + 2026 Q51–53",
+    "est_minutes": 120,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-01",
+    "subject": "GEO",
+    "name": "Universe, Solar System, Earth's motions, latitude/longitude, time zones",
+    "source_ref": "NCERT 11 Fund. Ch.1–3",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-02",
+    "subject": "GEO",
+    "name": "Interior of the Earth; rocks and minerals; the rock cycle",
+    "source_ref": "NCERT 11 Fund. Ch.3,5",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-03",
+    "subject": "GEO",
+    "name": "Plate tectonics, continental drift, earthquakes, volcanoes",
+    "source_ref": "NCERT 11 Fund. Ch.4 + Leong",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-04",
+    "subject": "GEO",
+    "name": "Geomorphic processes — weathering, erosion, mass movement",
+    "source_ref": "NCERT 11 Fund. Ch.6",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-05",
+    "subject": "GEO",
+    "name": "Landforms — fluvial, glacial, aeolian, karst, coastal",
+    "source_ref": "NCERT 11 Fund. Ch.7 + Leong",
+    "est_minutes": 150,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-06",
+    "subject": "GEO",
+    "name": "Atmosphere — composition, structure, insolation, heat budget",
+    "source_ref": "NCERT 11 Fund. Ch.8,9",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-07",
+    "subject": "GEO",
+    "name": "Temperature, pressure belts, winds, jet streams, Coriolis",
+    "source_ref": "NCERT 11 Fund. Ch.10 + Leong",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-08",
+    "subject": "GEO",
+    "name": "Humidity, clouds, precipitation; tropical & temperate cyclones",
+    "source_ref": "NCERT 11 Fund. Ch.11 + Leong",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-09",
+    "subject": "GEO",
+    "name": "World climatic types (Koppen) and their characteristics",
+    "source_ref": "Leong Part 2",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-10",
+    "subject": "GEO",
+    "name": "Oceans — relief, salinity, temperature, currents, tides, waves",
+    "source_ref": "NCERT 11 Fund. Ch.13,14",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-11",
+    "subject": "GEO",
+    "name": "World biomes and natural vegetation",
+    "source_ref": "Leong Part 2",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-12",
+    "subject": "GEO",
+    "name": "India — physiography: Himalayas, plains, peninsula, coasts, islands",
+    "source_ref": "NCERT 11 India Ch.2",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-13",
+    "subject": "GEO",
+    "name": "India — drainage: Himalayan and Peninsular river systems",
+    "source_ref": "NCERT 11 India Ch.3",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-14",
+    "subject": "GEO",
+    "name": "India — climate: monsoon mechanism, seasons, rainfall distribution",
+    "source_ref": "NCERT 11 India Ch.4",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-15",
+    "subject": "GEO",
+    "name": "India — soils and soil degradation",
+    "source_ref": "NCERT 11 India Ch.6",
+    "est_minutes": 75,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-16",
+    "subject": "GEO",
+    "name": "India — natural vegetation and forest types",
+    "source_ref": "NCERT 11 India Ch.5",
+    "est_minutes": 75,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-17",
+    "subject": "GEO",
+    "name": "India — agriculture: crops, cropping patterns, irrigation, green revolution",
+    "source_ref": "NCERT 12 India Ch.5",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-18",
+    "subject": "GEO",
+    "name": "India — mineral and energy resources",
+    "source_ref": "NCERT 12 India Ch.7",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-19",
+    "subject": "GEO",
+    "name": "India — industries and industrial regions",
+    "source_ref": "NCERT 12 India Ch.8",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-20",
+    "subject": "GEO",
+    "name": "India — transport, communication and trade",
+    "source_ref": "NCERT 12 India Ch.10,11",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-21",
+    "subject": "GEO",
+    "name": "Population — distribution, density, growth, migration, census",
+    "source_ref": "NCERT 12 Human Ch.2,3",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-22",
+    "subject": "GEO",
+    "name": "Settlements and urbanisation",
+    "source_ref": "NCERT 12 Human Ch.4",
+    "est_minutes": 75,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-23",
+    "subject": "GEO",
+    "name": "World economic geography — agriculture, industry, resource distribution",
+    "source_ref": "NCERT 12 Human Ch.5–8",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "GEO-24",
+    "subject": "GEO",
+    "name": "Map work — atlas drills and places in news",
+    "source_ref": "Oxford Atlas + weekly CA",
+    "est_minutes": 600,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-01",
+    "subject": "HIS",
+    "name": "Advent of Europeans; British expansion — Bengal, Mysore, Marathas, Sikhs",
+    "source_ref": "Spectrum Ch.1,2",
+    "est_minutes": 150,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-02",
+    "subject": "HIS",
+    "name": "British economic policies, drain of wealth, land revenue systems",
+    "source_ref": "Spectrum Ch.3",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-03",
+    "subject": "HIS",
+    "name": "Administrative and constitutional developments 1773–1858",
+    "source_ref": "Spectrum Ch.4",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-04",
+    "subject": "HIS",
+    "name": "The Revolt of 1857",
+    "source_ref": "Spectrum Ch.5",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-05",
+    "subject": "HIS",
+    "name": "Socio-religious reform movements",
+    "source_ref": "Spectrum Ch.6",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-06",
+    "subject": "HIS",
+    "name": "Growth of nationalism; founding of the INC; the Moderate phase",
+    "source_ref": "Spectrum Ch.7,8",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-07",
+    "subject": "HIS",
+    "name": "Extremists, Partition of Bengal, Swadeshi, the Surat Split",
+    "source_ref": "Spectrum Ch.9,10",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-08",
+    "subject": "HIS",
+    "name": "Revolutionary movements — both phases",
+    "source_ref": "Spectrum Ch.11",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-09",
+    "subject": "HIS",
+    "name": "Constitutional developments — Morley-Minto 1909, Montagu-Chelmsford 1919",
+    "source_ref": "Spectrum Ch.12",
+    "est_minutes": 90,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-10",
+    "subject": "HIS",
+    "name": "Gandhian era I — Champaran, Kheda, Rowlatt, Jallianwala, Khilafat, NCM",
+    "source_ref": "Spectrum Ch.13,14",
+    "est_minutes": 150,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-11",
+    "subject": "HIS",
+    "name": "Swarajists, Simon Commission, Nehru Report, Civil Disobedience, Round Tables",
+    "source_ref": "Spectrum Ch.15–17",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-12",
+    "subject": "HIS",
+    "name": "Communalism, Poona Pact, GoI Act 1935, provincial elections",
+    "source_ref": "Spectrum Ch.18,19",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-13",
+    "subject": "HIS",
+    "name": "Quit India, INA, Cripps, Wavell Plan, Cabinet Mission",
+    "source_ref": "Spectrum Ch.20–22",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-14",
+    "subject": "HIS",
+    "name": "Independence and Partition; the Mountbatten Plan",
+    "source_ref": "Spectrum Ch.23,24",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-15",
+    "subject": "HIS",
+    "name": "Peasant, tribal, labour and women's movements",
+    "source_ref": "Spectrum Ch.25,26",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "HIS-16",
+    "subject": "HIS",
+    "name": "Press, education, personalities and INC sessions",
+    "source_ref": "Spectrum appendices",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-01",
+    "subject": "ANM",
+    "name": "Prehistory and the Indus Valley Civilisation",
+    "source_ref": "TN Class 11 Ch.1,2",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-02",
+    "subject": "ANM",
+    "name": "The Vedic Age — Early and Later",
+    "source_ref": "TN Class 11 Ch.3",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-03",
+    "subject": "ANM",
+    "name": "Mahajanapadas, rise of Magadha, Persian and Greek invasions",
+    "source_ref": "TN Class 11 Ch.4",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-04",
+    "subject": "ANM",
+    "name": "Buddhism, Jainism and the heterodox sects",
+    "source_ref": "TN Class 11 Ch.5",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-05",
+    "subject": "ANM",
+    "name": "The Mauryan Empire — Ashoka, administration, edicts",
+    "source_ref": "TN Class 11 Ch.6",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-06",
+    "subject": "ANM",
+    "name": "Post-Mauryan — Sungas, Indo-Greeks, Kushanas, Satavahanas",
+    "source_ref": "TN Class 11 Ch.7",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-07",
+    "subject": "ANM",
+    "name": "The Sangam Age and early Tamilakam",
+    "source_ref": "TN Class 11 Ch.8",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-08",
+    "subject": "ANM",
+    "name": "Gupta and post-Gupta — Harsha, Pallavas, Chalukyas",
+    "source_ref": "TN Class 11 Ch.9,10",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-09",
+    "subject": "ANM",
+    "name": "Cholas and the South Indian dynasties",
+    "source_ref": "TN Class 11 Ch.11",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-10",
+    "subject": "ANM",
+    "name": "Early medieval — Rajputs, Arab invasions, Ghaznavids and Ghurids",
+    "source_ref": "TN Class 11 Ch.12",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-11",
+    "subject": "ANM",
+    "name": "The Delhi Sultanate — dynasties, administration, economy",
+    "source_ref": "TN Class 11 Ch.13,14",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-12",
+    "subject": "ANM",
+    "name": "Vijayanagara and the Bahmani kingdoms",
+    "source_ref": "TN Class 11 Ch.15",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-13",
+    "subject": "ANM",
+    "name": "The Bhakti and Sufi movements",
+    "source_ref": "TN Class 11 Ch.16",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ANM-14",
+    "subject": "ANM",
+    "name": "The Mughal Empire — rulers, administration, decline; the Marathas",
+    "source_ref": "TN Class 11 Ch.17,18",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ART-01",
+    "subject": "ART",
+    "name": "Indus and early architecture; stupas, chaityas, viharas",
+    "source_ref": "Singhania Ch.1,2",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ART-02",
+    "subject": "ART",
+    "name": "Temple architecture — Nagara, Dravida, Vesara",
+    "source_ref": "Singhania Ch.3",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ART-03",
+    "subject": "ART",
+    "name": "Cave architecture — Ajanta, Ellora, Bagh, Elephanta",
+    "source_ref": "Singhania Ch.4",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ART-04",
+    "subject": "ART",
+    "name": "Indo-Islamic and colonial architecture",
+    "source_ref": "Singhania Ch.5",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ART-05",
+    "subject": "ART",
+    "name": "Sculpture schools — Gandhara, Mathura, Amaravati",
+    "source_ref": "Singhania Ch.6",
+    "est_minutes": 75,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ART-06",
+    "subject": "ART",
+    "name": "Painting — murals, Mughal, Rajput, Pahari, folk traditions",
+    "source_ref": "Singhania Ch.7",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ART-07",
+    "subject": "ART",
+    "name": "Classical and folk dance forms",
+    "source_ref": "Singhania Ch.8",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ART-08",
+    "subject": "ART",
+    "name": "Music — Hindustani, Carnatic, gharanas, instruments",
+    "source_ref": "Singhania Ch.9",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ART-09",
+    "subject": "ART",
+    "name": "Theatre, puppetry, martial arts, fairs and festivals",
+    "source_ref": "Singhania Ch.10,11",
+    "est_minutes": 75,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ART-10",
+    "subject": "ART",
+    "name": "Literature, languages, philosophy; UNESCO heritage and GI tags",
+    "source_ref": "Singhania Ch.12–14",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-01",
+    "subject": "ECO",
+    "name": "Basic concepts — GDP, GNP, NNP, deflator, base year, sectors",
+    "source_ref": "NCERT 11 IED + Mrunal Pillar 0",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-02",
+    "subject": "ECO",
+    "name": "Money and banking — evolution, money supply, money multiplier",
+    "source_ref": "Mrunal Pillar 1A",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-03",
+    "subject": "ECO",
+    "name": "RBI and monetary policy — CRR, SLR, repo, MPC, LAF",
+    "source_ref": "Mrunal Pillar 1B",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-04",
+    "subject": "ECO",
+    "name": "Banking structure — PSBs, private, RRBs, cooperatives, SFBs, payment banks",
+    "source_ref": "Mrunal Pillar 1C",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-05",
+    "subject": "ECO",
+    "name": "NPAs, Basel norms, IBC and banking reforms",
+    "source_ref": "Mrunal Pillar 1C",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-06",
+    "subject": "ECO",
+    "name": "NBFCs, microfinance and financial inclusion",
+    "source_ref": "Mrunal Pillar 1C",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-07",
+    "subject": "ECO",
+    "name": "Financial markets — SEBI, primary and secondary markets",
+    "source_ref": "Mrunal Pillar 1D",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-08",
+    "subject": "ECO",
+    "name": "Bonds, G-Secs, derivatives, mutual funds, AIFs, InvITs and REITs",
+    "source_ref": "Mrunal Pillar 1D",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-09",
+    "subject": "ECO",
+    "name": "Inflation — types, CPI and WPI, effects and control",
+    "source_ref": "Mrunal Pillar 1E",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-10",
+    "subject": "ECO",
+    "name": "Budget — components, deficits, FRBM, fiscal policy",
+    "source_ref": "Mrunal Pillar 2A",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-11",
+    "subject": "ECO",
+    "name": "Taxation — direct, indirect, GST, Finance Commission",
+    "source_ref": "Mrunal Pillar 2B,2C",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-12",
+    "subject": "ECO",
+    "name": "External sector — BoP, exchange rate, FDI and FPI, forex reserves",
+    "source_ref": "Mrunal Pillar 3A",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-13",
+    "subject": "ECO",
+    "name": "International institutions — IMF, World Bank, WTO, ADB, NDB",
+    "source_ref": "Mrunal Pillar 3B",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-14",
+    "subject": "ECO",
+    "name": "Agriculture — MSP, PDS, subsidies, APMC, agri-credit",
+    "source_ref": "Mrunal Pillar 4A",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-15",
+    "subject": "ECO",
+    "name": "Industry — MSME, industrial policy, PLI, Make in India, IPR",
+    "source_ref": "Mrunal Pillar 4B",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-16",
+    "subject": "ECO",
+    "name": "Services, infrastructure, PPP, energy and logistics",
+    "source_ref": "Mrunal Pillar 4C",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-17",
+    "subject": "ECO",
+    "name": "Poverty, unemployment and inequality — measurement and schemes",
+    "source_ref": "Mrunal Pillar 5",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-18",
+    "subject": "ECO",
+    "name": "Human development — HDI, MPI, education and health indicators",
+    "source_ref": "Mrunal Pillar 6",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-19",
+    "subject": "ECO",
+    "name": "Planning, NITI Aayog, Economic Survey and Budget highlights",
+    "source_ref": "Mrunal Pillar 5 + ES summary",
+    "est_minutes": 120,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ECO-20",
+    "subject": "ECO",
+    "name": "New economy — UPI, ONDC, CBDC, tokenization, gig economy",
+    "source_ref": "PT365 Economy",
+    "est_minutes": 120,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-01",
+    "subject": "ENV",
+    "name": "Ecology basics — ecosystem, food chains and webs, energy flow, pyramids",
+    "source_ref": "Shankar Ch.1",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-02",
+    "subject": "ENV",
+    "name": "Biogeochemical cycles and ecological succession",
+    "source_ref": "Shankar Ch.2",
+    "est_minutes": 75,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-03",
+    "subject": "ENV",
+    "name": "Terrestrial ecosystems — forests, grasslands, deserts",
+    "source_ref": "Shankar Ch.3",
+    "est_minutes": 75,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-04",
+    "subject": "ENV",
+    "name": "Aquatic ecosystems — wetlands, mangroves, coral reefs, estuaries",
+    "source_ref": "Shankar Ch.4",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-05",
+    "subject": "ENV",
+    "name": "Biodiversity — levels, hotspots, the IUCN Red List",
+    "source_ref": "Shankar Ch.5",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-06",
+    "subject": "ENV",
+    "name": "Protected areas — national parks, sanctuaries, biosphere and community reserves",
+    "source_ref": "Shankar Ch.6",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-07",
+    "subject": "ENV",
+    "name": "Indian flora and fauna; endemic and flagship species",
+    "source_ref": "Shankar Ch.7",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-08",
+    "subject": "ENV",
+    "name": "Conservation projects — Tiger, Elephant, Rhino, Cheetah, Gangetic Dolphin",
+    "source_ref": "Shankar Ch.8",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-09",
+    "subject": "ENV",
+    "name": "Environmental laws — WPA 1972, FCA, EPA, Biodiversity Act, FRA",
+    "source_ref": "Shankar Ch.9",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-10",
+    "subject": "ENV",
+    "name": "Institutions — NGT, CPCB, NBA, ZSI, BSI, WII",
+    "source_ref": "Shankar Ch.10",
+    "est_minutes": 75,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-11",
+    "subject": "ENV",
+    "name": "Pollution — air, water, soil, noise, e-waste, plastics and standards",
+    "source_ref": "Shankar Ch.11",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-12",
+    "subject": "ENV",
+    "name": "Climate change science — GHGs, radiative forcing, feedbacks",
+    "source_ref": "Shankar Ch.12",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-13",
+    "subject": "ENV",
+    "name": "Climate governance — UNFCCC, Kyoto, Paris, COPs, NDCs, carbon markets",
+    "source_ref": "Shankar Ch.13",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-14",
+    "subject": "ENV",
+    "name": "Conventions — CBD, CITES, Ramsar, CMS, Basel, Montreal, Stockholm",
+    "source_ref": "Shankar Ch.14",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-15",
+    "subject": "ENV",
+    "name": "Sustainable development — SDGs, circular economy, EIA, green finance",
+    "source_ref": "Shankar Ch.15",
+    "est_minutes": 120,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "ENV-16",
+    "subject": "ENV",
+    "name": "Renewable energy, green hydrogen, biofuels and national missions",
+    "source_ref": "PT365 Environment",
+    "est_minutes": 120,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-01",
+    "subject": "SNT",
+    "name": "Basic biology — cell, genetics, human systems, nutrition",
+    "source_ref": "NCERT 11–12 Bio selected",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-02",
+    "subject": "SNT",
+    "name": "Diseases, immunity, vaccines, antibiotics and AMR",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-03",
+    "subject": "SNT",
+    "name": "Biotechnology — GM crops, gene editing, stem cells, genetic medicine",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-04",
+    "subject": "SNT",
+    "name": "Health missions, drug regulation and public health technology",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 75,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-05",
+    "subject": "SNT",
+    "name": "Space — ISRO missions, launch vehicles, NavIC, private space sector",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-06",
+    "subject": "SNT",
+    "name": "Astronomy basics — stars, black holes, telescopes, global missions",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 75,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-07",
+    "subject": "SNT",
+    "name": "Defence technology — missiles, aircraft, submarines, DRDO, stealth",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-08",
+    "subject": "SNT",
+    "name": "Nuclear science — fission and fusion, reactors, the three-stage programme",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 90,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-09",
+    "subject": "SNT",
+    "name": "IT and computing — AI/ML, LLMs, quantum, blockchain, cloud, 5G/6G",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-10",
+    "subject": "SNT",
+    "name": "Cybersecurity, data protection and semiconductors",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 120,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-11",
+    "subject": "SNT",
+    "name": "Nanotechnology and new materials",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 75,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-12",
+    "subject": "SNT",
+    "name": "Energy technology — batteries, EVs, fuel cells, hydrogen, solar",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 120,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-13",
+    "subject": "SNT",
+    "name": "Robotics, drones, sensors and everyday applied science",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 90,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SNT-14",
+    "subject": "SNT",
+    "name": "S&T policy, institutions, IPR, missions and awards",
+    "source_ref": "PT365 S&T",
+    "est_minutes": 90,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CAI-01",
+    "subject": "CAI",
+    "name": "India's neighbourhood — Pakistan, China, Nepal, Bhutan, Bangladesh, Sri Lanka, Myanmar, Afghanistan, Maldives",
+    "source_ref": "NCERT 12 Pol Sci + monthly CA",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CAI-02",
+    "subject": "CAI",
+    "name": "India and the major powers — US, Russia, EU, Japan",
+    "source_ref": "NCERT 12 Pol Sci + monthly CA",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CAI-03",
+    "subject": "CAI",
+    "name": "India and the regions — West Asia, Africa, Latin America, Central Asia",
+    "source_ref": "Monthly CA",
+    "est_minutes": 120,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CAI-04",
+    "subject": "CAI",
+    "name": "Multilateral groupings — UN, G20, BRICS, SCO, QUAD, I2U2",
+    "source_ref": "Monthly CA",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CAI-05",
+    "subject": "CAI",
+    "name": "Regional groupings — SAARC, BIMSTEC, IORA, ASEAN",
+    "source_ref": "Monthly CA",
+    "est_minutes": 90,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CAI-06",
+    "subject": "CAI",
+    "name": "Economic diplomacy — FTAs, WTO, connectivity projects",
+    "source_ref": "Monthly CA",
+    "est_minutes": 90,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CAI-07",
+    "subject": "CAI",
+    "name": "Global governance — treaties, conventions, international courts",
+    "source_ref": "Monthly CA",
+    "est_minutes": 90,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CAI-08",
+    "subject": "CAI",
+    "name": "Reports and indices",
+    "source_ref": "PT365 + monthly CA",
+    "est_minutes": 90,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CAI-09",
+    "subject": "CAI",
+    "name": "Awards, sports, personalities and books",
+    "source_ref": "PT365",
+    "est_minutes": 75,
+    "intro_phase": 4,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CAI-10",
+    "subject": "CAI",
+    "name": "Government schemes tracker",
+    "source_ref": "PT365 Schemes",
+    "est_minutes": 180,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CSA-01",
+    "subject": "CSAT",
+    "name": "Comprehension — passage strategy and elimination under time",
+    "source_ref": "CSAT manual",
+    "est_minutes": 300,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CSA-02",
+    "subject": "CSAT",
+    "name": "Logical reasoning and analytical ability",
+    "source_ref": "CSAT manual",
+    "est_minutes": 240,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CSA-03",
+    "subject": "CSAT",
+    "name": "Basic numeracy — numbers, ratio, percentage, time-work, time-distance",
+    "source_ref": "CSAT manual",
+    "est_minutes": 300,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CSA-04",
+    "subject": "CSAT",
+    "name": "Data interpretation — charts, tables, data sufficiency",
+    "source_ref": "CSAT manual",
+    "est_minutes": 180,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CSA-05",
+    "subject": "CSAT",
+    "name": "Decision making and problem solving",
+    "source_ref": "CSAT manual",
+    "est_minutes": 90,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "CSA-06",
+    "subject": "CSAT",
+    "name": "Full CSAT papers under time",
+    "source_ref": "PYQ CSAT 2021–26",
+    "est_minutes": 480,
+    "intro_phase": 4,
+    "stage": "unread",
+    "pyq_drills": true
+  },
+  {
+    "code": "SOC-01",
+    "subject": "SOC",
+    "name": "Sociology as a discipline — emergence, scope, relation with other social sciences",
+    "source_ref": "Haralambos Ch.1 + IGNOU",
+    "est_minutes": 150,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-02",
+    "subject": "SOC",
+    "name": "Sociology and common sense; science, scientific method and its critique",
+    "source_ref": "Haralambos + IGNOU",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-03",
+    "subject": "SOC",
+    "name": "Research methods — techniques, positivism and its critique, objectivity",
+    "source_ref": "IGNOU ESO-13",
+    "est_minutes": 180,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-04",
+    "subject": "SOC",
+    "name": "Karl Marx — historical materialism, mode of production, alienation, class struggle",
+    "source_ref": "Haralambos + Ritzer",
+    "est_minutes": 180,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-05",
+    "subject": "SOC",
+    "name": "Emile Durkheim — division of labour, social fact, suicide, religion",
+    "source_ref": "Haralambos + Ritzer",
+    "est_minutes": 180,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-06",
+    "subject": "SOC",
+    "name": "Max Weber — social action, ideal types, authority, bureaucracy, Protestant ethic",
+    "source_ref": "Haralambos + Ritzer",
+    "est_minutes": 180,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-07",
+    "subject": "SOC",
+    "name": "Talcott Parsons — social system, pattern variables",
+    "source_ref": "Ritzer",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-08",
+    "subject": "SOC",
+    "name": "Robert Merton — latent and manifest functions, deviance, reference groups",
+    "source_ref": "Ritzer",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-09",
+    "subject": "SOC",
+    "name": "Mead — self and identity; symbolic interactionism",
+    "source_ref": "Ritzer",
+    "est_minutes": 120,
+    "intro_phase": 1,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-10",
+    "subject": "SOC",
+    "name": "Social stratification — theories, dimensions, mobility",
+    "source_ref": "Haralambos Ch.2",
+    "est_minutes": 180,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-11",
+    "subject": "SOC",
+    "name": "Works and economic life — social organisation of work, informal sector",
+    "source_ref": "Haralambos",
+    "est_minutes": 120,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-12",
+    "subject": "SOC",
+    "name": "Politics and society — power, authority, nation-state, protest, revolution",
+    "source_ref": "Haralambos",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-13",
+    "subject": "SOC",
+    "name": "Religion and society — types, secularisation, fundamentalism",
+    "source_ref": "Haralambos Ch.7",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-14",
+    "subject": "SOC",
+    "name": "Kinship, family, marriage; patriarchy and the sexual division of labour",
+    "source_ref": "Haralambos Ch.8",
+    "est_minutes": 180,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-15",
+    "subject": "SOC",
+    "name": "Social change — evolution, functionalist and conflict theories, development and dependency",
+    "source_ref": "Haralambos Ch.10",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-16",
+    "subject": "SOC",
+    "name": "Introducing Indian society — Indology, structural-functionalism, Marxist sociology",
+    "source_ref": "Nadeem Hasnain Ch.1",
+    "est_minutes": 150,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-17",
+    "subject": "SOC",
+    "name": "Social structure — rural, agrarian, industrial, urban and tribal communities",
+    "source_ref": "Hasnain Ch.2",
+    "est_minutes": 180,
+    "intro_phase": 2,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-18",
+    "subject": "SOC",
+    "name": "Caste system — Ghurye, Srinivas, Dumont, Bailey; varna and caste; mobility",
+    "source_ref": "Srinivas + Hasnain",
+    "est_minutes": 210,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-19",
+    "subject": "SOC",
+    "name": "Class structure — agrarian, industrial, the middle class",
+    "source_ref": "Hasnain",
+    "est_minutes": 120,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-20",
+    "subject": "SOC",
+    "name": "Systems of kinship in India — lineage, family, marriage, household, women",
+    "source_ref": "Hasnain Ch.4",
+    "est_minutes": 180,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-21",
+    "subject": "SOC",
+    "name": "Religion and society in India; problems of minorities",
+    "source_ref": "Hasnain Ch.5",
+    "est_minutes": 150,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-22",
+    "subject": "SOC",
+    "name": "Visions of social change — Constitution, law, education, politics",
+    "source_ref": "Srinivas Social Change",
+    "est_minutes": 150,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-23",
+    "subject": "SOC",
+    "name": "Rural transformation — land reforms, green revolution, agrarian distress",
+    "source_ref": "Hasnain Ch.6",
+    "est_minutes": 150,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-24",
+    "subject": "SOC",
+    "name": "Industrialisation and urbanisation — slums, informal sector, migration",
+    "source_ref": "Hasnain Ch.7",
+    "est_minutes": 150,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-25",
+    "subject": "SOC",
+    "name": "Politics and society — nation, democracy, citizenship, regionalism, secularisation",
+    "source_ref": "Hasnain Ch.8",
+    "est_minutes": 150,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-26",
+    "subject": "SOC",
+    "name": "Social movements — peasant, women's, backward classes, environmental, ethnic",
+    "source_ref": "Hasnain Ch.9",
+    "est_minutes": 180,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-27",
+    "subject": "SOC",
+    "name": "Population dynamics — population policy, ageing, health",
+    "source_ref": "Hasnain Ch.10",
+    "est_minutes": 120,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": false
+  },
+  {
+    "code": "SOC-28",
+    "subject": "SOC",
+    "name": "Challenges of social transformation — displacement, violence, illiteracy, disparities",
+    "source_ref": "Hasnain Ch.11",
+    "est_minutes": 150,
+    "intro_phase": 3,
+    "stage": "unread",
+    "pyq_drills": false
+  }
+]

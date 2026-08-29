@@ -1,0 +1,199 @@
+[
+  {
+    "code": "P0",
+    "name": "Ignition",
+    "starts_on": "2026-08-31",
+    "ends_on": "2026-09-27",
+    "weekly_hours": 44,
+    "slotA": [
+      "GEO",
+      "GEO",
+      "POL"
+    ],
+    "slotB": [
+      "POL",
+      "GEO"
+    ],
+    "satB": [
+      "GEO",
+      "POL"
+    ],
+    "satC": [
+      "GEO"
+    ],
+    "satD": [
+      "POL"
+    ],
+    "note": "Deliberately under-loaded. Prove the routine for 28 days. Only books you already own. Optional not started."
+  },
+  {
+    "code": "P1",
+    "name": "Core build A — structural subjects",
+    "starts_on": "2026-09-28",
+    "ends_on": "2026-12-06",
+    "weekly_hours": 44,
+    "slotA": [
+      "POL",
+      "POL",
+      "POL",
+      "GEO"
+    ],
+    "slotB": [
+      "GEO",
+      "HIS",
+      "SOC"
+    ],
+    "satB": [
+      "POL",
+      "GEO",
+      "HIS"
+    ],
+    "satC": [
+      "SOC"
+    ],
+    "satD": [
+      "HIS",
+      "SOC"
+    ],
+    "note": "Polity, Geography, Modern History. Sociology begins 1 Oct and owns Saturday 14:00-17:00 plus one weekday Block B in three."
+  },
+  {
+    "code": "P2",
+    "name": "Core build B — volatile subjects",
+    "starts_on": "2026-12-07",
+    "ends_on": "2027-02-14",
+    "weekly_hours": 44,
+    "slotA": [
+      "ECO",
+      "ECO",
+      "ECO",
+      "ENV"
+    ],
+    "slotB": [
+      "ENV",
+      "ANM",
+      "SOC",
+      "ART",
+      "SNT"
+    ],
+    "satB": [
+      "ECO",
+      "ENV",
+      "ANM"
+    ],
+    "satC": [
+      "SOC"
+    ],
+    "satD": [
+      "SNT",
+      "ART",
+      "CSAT",
+      "CAI"
+    ],
+    "note": "Economy, Environment, Ancient/Medieval/Art. S&T starts here, not Phase 3. CSAT enters. Form filed in January."
+  },
+  {
+    "code": "P3",
+    "name": "Consolidation — pass 2 and the PYQ engine",
+    "starts_on": "2027-02-15",
+    "ends_on": "2027-04-04",
+    "weekly_hours": 46,
+    "mode": "revision",
+    "slotA": [
+      "REVISION"
+    ],
+    "slotB": [
+      "PYQ",
+      "PYQ",
+      "SOC",
+      "SNT"
+    ],
+    "satB": [
+      "REVISION"
+    ],
+    "satC": [
+      "SOC"
+    ],
+    "satD": [
+      "SNT",
+      "CSAT",
+      "CAI"
+    ],
+    "note": "No new books. Revision pass 2 plus all six years of PYQs solved topic-wise. Paid test series begins."
+  },
+  {
+    "code": "P4",
+    "name": "Test sprint",
+    "starts_on": "2027-04-05",
+    "ends_on": "2027-05-09",
+    "weekly_hours": 50,
+    "mode": "test",
+    "slotA": [
+      "REVISION"
+    ],
+    "slotB": [
+      "MOCK",
+      "REVISION",
+      "CSAT"
+    ],
+    "satB": [
+      "MOCK"
+    ],
+    "satC": [
+      "CAI"
+    ],
+    "satD": [
+      "CSAT",
+      "REVISION"
+    ],
+    "note": "Two full mocks a week. Revision pass 3, notes only. PT365 consolidation. Leave begins."
+  },
+  {
+    "code": "P5",
+    "name": "Taper",
+    "starts_on": "2027-05-10",
+    "ends_on": "2027-05-23",
+    "weekly_hours": 70,
+    "mode": "taper",
+    "slotA": [
+      "REVISION"
+    ],
+    "slotB": [
+      "REVISION"
+    ],
+    "satB": [
+      "REVISION"
+    ],
+    "satC": [
+      "REVISION"
+    ],
+    "satD": [
+      "MOCK"
+    ],
+    "note": "Full leave. Notes only. Zero new input. Four mocks then stop. Shift the sleep cycle to match the paper."
+  },
+  {
+    "code": "P6",
+    "name": "Mains",
+    "starts_on": "2027-05-24",
+    "ends_on": "2027-08-20",
+    "weekly_hours": 68,
+    "mode": "mains",
+    "slotA": [
+      "SOC"
+    ],
+    "slotB": [
+      "MAINS_GS"
+    ],
+    "satB": [
+      "ANSWER_WRITING"
+    ],
+    "satC": [
+      "SOC"
+    ],
+    "satD": [
+      "ESSAY"
+    ],
+    "note": "Only exists if leave is taken. Sociology answers, GS 1-4, Ethics from zero, 250+ answers."
+  }
+]

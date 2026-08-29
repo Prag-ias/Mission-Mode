@@ -1,0 +1,21 @@
+{
+  "weekday": [
+    { "code": "A", "start": "05:30", "end": "07:00", "minutes": 90,  "kind": "deep",     "label": "Block A — hardest subject, sharpest brain" },
+    { "code": "B", "start": "19:00", "end": "21:00", "minutes": 120, "kind": "deep",     "label": "Block B — second subject, first reading plus notes" },
+    { "code": "C", "start": "21:40", "end": "22:50", "minutes": 70,  "kind": "revision", "label": "Block C — revision queue and MCQs only" }
+  ],
+  "saturday": [
+    { "code": "SA", "start": "05:30", "end": "07:00", "minutes": 90,  "kind": "deep" },
+    { "code": "SB", "start": "09:00", "end": "12:00", "minutes": 180, "kind": "deep" },
+    { "code": "SC", "start": "14:00", "end": "17:00", "minutes": 180, "kind": "optional", "locked": true, "label": "Sociology — never moved, never shortened" },
+    { "code": "SD", "start": "19:00", "end": "21:00", "minutes": 120, "kind": "deep" },
+    { "code": "SE", "start": "22:00", "end": "23:00", "minutes": 60,  "kind": "revision" }
+  ],
+  "sunday": [
+    { "code": "U1", "start": "09:30", "end": "11:30", "minutes": 120, "kind": "mock",     "label": "Full mock at exam timing" },
+    { "code": "U2", "start": "11:30", "end": "14:00", "minutes": 150, "kind": "analysis", "label": "Analysis — every wrong answer coded" },
+    { "code": "U3", "start": "15:00", "end": "18:00", "minutes": 180, "kind": "ca",       "label": "Weekly current affairs plus the bio-geo-tech drill" },
+    { "code": "U4", "start": "20:00", "end": "22:30", "minutes": 150, "kind": "repair",   "label": "Weak-area repair, driven by the mock" }
+  ],
+  "mvd": { "minutes": 160, "blocks": ["A", "C"], "note": "The minimum viable day. Never zero." }
+}

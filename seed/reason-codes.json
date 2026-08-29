@@ -1,0 +1,8 @@
+[
+  { "code": 1, "slug": "didnt_know",     "label": "Didn't know",        "action": "Return the topic to the reading queue", "signal": "Knowledge gap" },
+  { "code": 2, "slug": "knew_forgot",    "label": "Knew but forgot",    "action": "Shorten this topic's revision interval", "signal": "Revision failure, not a knowledge failure" },
+  { "code": 3, "slug": "misread",        "label": "Misread the question","action": "Slow the first read; watch NOT/EXCEPT", "signal": "Above 15% means a reading problem, not a syllabus problem" },
+  { "code": 4, "slug": "confused_two",   "label": "Confused two things", "action": "Build a comparison table once, revise the table", "signal": "Needs contrast, not repetition" },
+  { "code": 5, "slug": "bad_guess",      "label": "Bad guess",           "action": "Track guessed-question accuracy separately", "signal": "Risk calibration" },
+  { "code": 6, "slug": "out_of_time",    "label": "Ran out of time",     "action": "Change the order you attempt in", "signal": "Strategy, not content" }
+]

@@ -1,0 +1,12 @@
+[
+  { "slug": "simple",           "label": "Single correct",                    "note": "Classic four-option MCQ" },
+  { "slug": "stmt_1_2",         "label": "Statement I and II",                "note": "Which of the statements is/are correct" },
+  { "slug": "stmt_1_2_3",       "label": "Statement I, II and III",           "note": "Dominant format from 2025" },
+  { "slug": "pairs",            "label": "How many pairs are correct",        "note": "Kills elimination technique — 2023 onward" },
+  { "slug": "match_list",       "label": "Match List I with List II",         "note": "Returned in force in 2026 — four questions" },
+  { "slug": "relationship",     "label": "Relationship among the statements", "note": "NEW in 2026 (Q21, Q35). Asks how statements relate, not whether they are true" },
+  { "slug": "conclusion_count", "label": "Which conclusion is correct",       "note": "NEW in 2026 (Q55, 57, 58, 59). Evaluate all, then count" },
+  { "slug": "assertion_basis",  "label": "Assertion plus supporting basis",   "note": "2026 Q11, Q18" },
+  { "slug": "case_study",       "label": "Situational / case study",          "note": "NEW in 2026 (Q51-53). GS-4 style scenarios in Prelims" },
+  { "slug": "identify",         "label": "Identify from clues",               "note": "2026 Q25 — identify the river from four properties" }
+]
