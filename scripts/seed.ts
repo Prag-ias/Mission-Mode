@@ -13,9 +13,10 @@ import fs from 'node:fs'
 import path from 'node:path'
 import postgres from 'postgres'
 import { drizzle } from 'drizzle-orm/postgres-js'
-import { sql } from 'drizzle-orm'
+import { and, asc, eq, sql } from 'drizzle-orm'
 import type { PgTable } from 'drizzle-orm/pg-core'
-import { subjects, topics, phases, planBlocks } from '../db/schema'
+import { subjects, topics, phases, planBlocks, revisionEvents } from '../db/schema'
+import { addDaysISO, daysBetween } from '../lib/dates'
 
 type SubjectRow = { code: string; name: string; avg_6yr: number | null; target_hours: number | null; colour: string | null }
 type TopicRow = {
@@ -130,10 +131,56 @@ async function main() {
       })
   }
 
+  // PASS2–4: whole-syllabus revision passes (v2). One event per topic per
+  // pass, spread evenly across that phase's window so no single day floods
+  // the queue. Uncompleted events follow the current phase dates on re-run;
+  // completed events are never touched.
+  const passes = [
+    ['PASS2', 'P3'],
+    ['PASS3', 'P4'],
+    ['PASS4', 'P5'],
+  ] as const
+  const allTopics = await db.select({ id: topics.id }).from(topics).orderBy(asc(topics.id))
+  for (const [rung, phaseCode] of passes) {
+    const phase = phaseRows.find((p) => p.code === phaseCode)
+    if (!phase) throw new Error(`PASS seeding: phase ${phaseCode} not in phases.json`)
+    const span = daysBetween(phase.starts_on, phase.ends_on)
+    const existing = new Map(
+      (
+        await db
+          .select({ id: revisionEvents.id, topicId: revisionEvents.topicId, dueOn: revisionEvents.dueOn, completedAt: revisionEvents.completedAt })
+          .from(revisionEvents)
+          .where(eq(revisionEvents.rung, rung))
+      ).map((e) => [e.topicId, e]),
+    )
+    const inserts: { topicId: number; rung: string; dueOn: string }[] = []
+    for (let i = 0; i < allTopics.length; i++) {
+      const dueOn = addDaysISO(
+        phase.starts_on,
+        Math.min(span, Math.floor((i * (span + 1)) / allTopics.length)),
+      )
+      const row = existing.get(allTopics[i].id)
+      if (!row) inserts.push({ topicId: allTopics[i].id, rung, dueOn })
+      else if (!row.completedAt && row.dueOn !== dueOn)
+        await db.update(revisionEvents).set({ dueOn }).where(eq(revisionEvents.id, row.id))
+    }
+    for (let i = 0; i < inserts.length; i += 200) {
+      await db.insert(revisionEvents).values(inserts.slice(i, i + 200))
+    }
+  }
+
   const count = async (t: PgTable) =>
     Number((await db.select({ n: sql<number>`count(*)` }).from(t))[0].n)
+  const passCount = Number(
+    (
+      await db
+        .select({ n: sql<number>`count(*)` })
+        .from(revisionEvents)
+        .where(and(sql`${revisionEvents.rung} like 'PASS%'`))
+    )[0].n,
+  )
   console.log(
-    `seeded — subjects ${await count(subjects)} · topics ${await count(topics)} · phases ${await count(phases)} · plan blocks ${await count(planBlocks)}`,
+    `seeded — subjects ${await count(subjects)} · topics ${await count(topics)} · phases ${await count(phases)} · plan blocks ${await count(planBlocks)} · pass events ${passCount}`,
   )
 
   await client.end()

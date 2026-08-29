@@ -114,3 +114,23 @@ Format: `### DN — <decision>` then **Context**, **Decision**, **Consequence** 
 **Context:** Subject dots (11 seeded colours) and stage cells (amber/emerald ramp) encode information, and work mode defines no sticker colours.
 **Decision:** Keep data colours as data; only chrome (bg, surface, ink, lines, actions) uses the token palette. Unread cells warmed from cool grey to stone.
 **Consequence:** The grid stays legible as a heat map; nothing decorative uses colour outside the tokens.
+
+### D22 — Rung completions map to stages, monotonically
+**Context:** "Completing an event advances the topic's stage" with four D-rungs and three passes; nothing may downgrade.
+**Decision:** D1→R1, D7→R2, D30→R3, D90→R4, applied only when it moves the stage up; PASS completions never change stage.
+**Consequence:** Out-of-order completions cannot regress a topic; the ladder engine (not hands) owns everything past `read`.
+
+### D23 — A failed blind recall pulls D7 to +3
+**Context:** "A score of 1 shortens the next interval" without a number.
+**Decision:** Score 1 on D1 sets the uncompleted D7 event's due date to today + 3; scores 2–3 leave the schedule alone.
+**Consequence:** One rule, no per-topic tuning surface — v3's `knew_forgot` hook can reuse the same shortening.
+
+### D24 — Missed blocks never move; the sweep derives everything from dates
+**Context:** Every slot on every day is occupied, so a missed block cannot be relocated without rewriting the plan (the weekly planner's job).
+**Decision:** A date-based idempotent sweep marks past planned blocks `rescheduled` with `reschedule_count = min(2, days missed)`. They ride on Today for two days tagged "owed", then become block debt on /revise, cleared by logging late or skipping. Minutes logged late credit the day the work happened, not the plan date.
+**Consequence:** No cron, no background jobs, no history rewriting; drift is visible within 24 hours and undeniable within 72.
+
+### D25 — PASS2–4 spread evenly across their phase windows
+**Context:** Seeding 186 whole-syllabus pass events on a phase's first day would instantly bury the 12-item queue.
+**Decision:** Each pass distributes topics uniformly across its phase's date range, deterministically by topic order; re-seeding follows re-planned phase dates for uncompleted events only.
+**Consequence:** PASS season adds a steady 4–6 items/day, not a 186-item cliff; completed passes are immutable.

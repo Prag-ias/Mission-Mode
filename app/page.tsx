@@ -1,9 +1,11 @@
 import Link from 'next/link'
-import { and, asc, eq, gt, gte, lte } from 'drizzle-orm'
+import { and, asc, eq, gt, gte, isNull, lt, lte, or, sql } from 'drizzle-orm'
 import { db } from '@/lib/db'
-import { dailyLogs, phases, planBlocks, subjects, topics } from '@/db/schema'
+import { dailyLogs, phases, planBlocks, revisionEvents, subjects, topics } from '@/db/schema'
 import { isAuthed } from '@/lib/auth'
-import { addDaysISO, daysBetween, displayDate, EXAM_DATE, todayIST } from '@/lib/dates'
+import { addDaysISO, daysBetween, displayDate, displayDateShort, EXAM_DATE, todayIST } from '@/lib/dates'
+import { CARRY_DAYS, QUEUE_CAP } from '@/lib/ladder'
+import { sweepMissedBlocks } from '@/lib/sweep'
 import { login } from '@/app/actions'
 import BlockCard from '@/components/BlockCard'
 
@@ -18,26 +20,46 @@ export default async function Today({
   if (!(await isAuthed())) return <Gate bad={bad === '1'} />
 
   const today = todayIST()
+  await sweepMissedBlocks()
 
-  const [blocks, [phase], [nextPhase], [log], [prevLog]] = await Promise.all([
+  // today's blocks, plus carried blocks from the last two days — still owed
+  // (rescheduled), or cleared today (done with today's timestamp)
+  const visibleWhere = or(
+    eq(planBlocks.date, today),
+    and(
+      gte(planBlocks.date, addDaysISO(today, -CARRY_DAYS)),
+      lt(planBlocks.date, today),
+      or(
+        eq(planBlocks.status, 'rescheduled'),
+        and(
+          eq(planBlocks.status, 'done'),
+          sql`(${planBlocks.loggedAt} at time zone 'Asia/Kolkata')::date = ${today}::date`,
+        ),
+      ),
+    ),
+  )
+
+  const [blocks, [phase], [nextPhase], [log], [prevLog], [{ due }]] = await Promise.all([
     db
       .select({
         id: planBlocks.id,
         slot: planBlocks.slot,
+        date: planBlocks.date,
         start: planBlocks.start,
         label: planBlocks.label,
         sourceRef: planBlocks.sourceRef,
         plannedMinutes: planBlocks.plannedMinutes,
         actualMinutes: planBlocks.actualMinutes,
         status: planBlocks.status,
+        kind: planBlocks.kind,
         colour: subjects.colour,
         topicCode: topics.code,
       })
       .from(planBlocks)
       .leftJoin(subjects, eq(planBlocks.subjectId, subjects.id))
       .leftJoin(topics, eq(planBlocks.topicId, topics.id))
-      .where(eq(planBlocks.date, today))
-      .orderBy(asc(planBlocks.start), asc(planBlocks.slot)),
+      .where(visibleWhere)
+      .orderBy(asc(planBlocks.date), asc(planBlocks.start), asc(planBlocks.slot)),
     db
       .select()
       .from(phases)
@@ -46,7 +68,13 @@ export default async function Today({
     db.select().from(phases).where(gt(phases.startsOn, today)).orderBy(asc(phases.startsOn)).limit(1),
     db.select().from(dailyLogs).where(eq(dailyLogs.date, today)).limit(1),
     db.select().from(dailyLogs).where(eq(dailyLogs.date, addDaysISO(today, -1))).limit(1),
+    db
+      .select({ due: sql<number>`count(*)` })
+      .from(revisionEvents)
+      .where(and(lte(revisionEvents.dueOn, today), isNull(revisionEvents.completedAt))),
   ])
+
+  const debt = Math.max(0, Number(due) - QUEUE_CAP)
 
   const daysLeft = daysBetween(today, EXAM_DATE)
   const total = log?.totalMinutes ?? 0
@@ -88,7 +116,12 @@ export default async function Today({
         {blocks.length === 0 ? (
           <p className="mt-16 text-center text-muted">{emptyLine}</p>
         ) : (
-          blocks.map((b) => <BlockCard key={b.id} block={b} />)
+          blocks.map((b) => (
+            <BlockCard
+              key={b.id}
+              block={{ ...b, owedFrom: b.date !== today ? displayDateShort(b.date) : null }}
+            />
+          ))
         )}
       </div>
 
@@ -110,6 +143,9 @@ export default async function Today({
           <span className="text-sm text-muted">
             streak <span className="font-mono font-bold text-ink">{streak}</span> d
           </span>
+          <Link href="/revise" className="text-sm text-muted underline">
+            debt <span className="font-mono font-bold text-ink">{debt}</span>
+          </Link>
         </div>
       </footer>
     </main>

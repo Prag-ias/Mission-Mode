@@ -3,28 +3,19 @@
   "exam_date": "2027-05-23",
   "feature_freeze": "2027-02-01",
 
-  "current_version": "v2",
-  "gate_approved": true,
-  "gate_note": "v1 + design gate approved 2026-08-30. Build order confirmed: v2 now, v3 immediately after v2's gate (user request, ahead of the 20 Dec deadline). Early PYQ ingestion agreed — user supplies PDFs to C:/Users/KIIT/Mission 2027/papers/.",
+  "current_version": "v3",
+  "gate_approved": false,
+  "gate_note": "v2 gate open since 2026-08-30. Suite 16/16 twice, merged to main, awaiting user push + phone check (blind recall feel, owed cards, queue). v3 next per agreed order — blocked on this gate AND on PDFs arriving for ingestion (C:/Users/KIIT/Mission 2027/papers/).",
 
   "versions": {
     "v0": { "ship_by": "2026-08-30", "budget_hours": 5,  "status": "shipped", "hours_actual": 4.5 },
     "v1": { "ship_by": "2026-09-27", "budget_hours": 9,  "status": "shipped", "hours_actual": 3.5 },
-    "v2": { "ship_by": "2026-11-01", "budget_hours": 10, "status": "not_started",  "hours_actual": null },
+    "v2": { "ship_by": "2026-11-01", "budget_hours": 10, "status": "shipped", "hours_actual": 5.2 },
     "v3": { "ship_by": "2026-12-20", "budget_hours": 12, "status": "not_started",  "hours_actual": null },
     "v4": { "ship_by": "2027-01-31", "budget_hours": 12, "status": "not_started",  "hours_actual": null }
   },
 
-  "open_tasks": [
-    { "id": "v2-1", "task": "tests/v2.spec.ts from acceptance criteria, before feature code — synthetic topics/blocks only", "est_minutes": 50 },
-    { "id": "v2-2", "task": "Ladder engine (riskiest first): 4 events on read (idempotent), rung→stage advancement (monotonic), completion action, D1 score-1 shortens D7 to +3", "est_minutes": 90 },
-    { "id": "v2-3", "task": "PASS2/3/4 seeding in seed.ts from P3/P4/P5 date ranges, spread across days, idempotent", "est_minutes": 40 },
-    { "id": "v2-4", "task": "/revise queue: due today, most overdue first, cap 12, debt number, complete buttons, D1 items open blind recall", "est_minutes": 75 },
-    { "id": "v2-5", "task": "Blind recall /revise/[id]: note hidden, free text, reveal, rate 1–3 into recall_score", "est_minutes": 60 },
-    { "id": "v2-6", "task": "Missed blocks: idempotent date-based sweep (planned→rescheduled, count caps at 2), carry-over cards on Today for ≤2 days, older = debt list on /revise, cleared by logging late (credits the day of the work) or skipping", "est_minutes": 90 },
-    { "id": "v2-7", "task": "Block C heading opens /revise; Today footer shows revision debt", "est_minutes": 20 },
-    { "id": "v2-8", "task": "Verify: suite green incl. v0/v1 regression, build/lint/tsc, 390px on /revise + recall + Today carry-over; gate close-out", "est_minutes": 45 }
-  ],
+  "open_tasks": [],
   "done_tasks": [
     { "id": "v1-1", "task": "tests/v1.spec.ts written before feature code; synthetic fixtures only", "actual_minutes": 35 },
     { "id": "v1-2", "task": "/syllabus grid + legend + counts + search (?q= ILIKE, snippets)", "actual_minutes": 55 },
@@ -33,6 +24,14 @@
     { "id": "v1-5", "task": "Today headings link to topics; Syllabus link in header", "actual_minutes": 10 },
     { "id": "v1-6", "task": "Verify: 9/9 suite (v0 regression incl.), build/lint/tsc, 390px on all three screens", "actual_minutes": 35 },
     { "id": "v1-7", "task": "Decisions D16-D18, build log, state, merge, deploy check", "actual_minutes": 15 },
+    { "id": "v2-1", "task": "tests/v2.spec.ts before feature code — 7 tests, synthetic fixtures", "actual_minutes": 50 },
+    { "id": "v2-2", "task": "Ladder engine: events on read, monotonic advancement, completion, D1 score-1 shortens D7", "actual_minutes": 60 },
+    { "id": "v2-3", "task": "PASS2-4 seeding spread across phase windows, idempotent (558 events)", "actual_minutes": 25 },
+    { "id": "v2-4", "task": "/revise queue: cap 12, debt figure, D1 -> blind recall, complete actions", "actual_minutes": 55 },
+    { "id": "v2-5", "task": "Blind recall page: note fetched only after attempt, 1-3 rating", "actual_minutes": 30 },
+    { "id": "v2-6", "task": "Missed-block sweep + owed cards + debt clearing + credit-date rule", "actual_minutes": 40 },
+    { "id": "v2-7", "task": "Debug: v1 teardown FK vs new engine + two spec bugs; suite 16/16 twice", "actual_minutes": 30 },
+    { "id": "v2-8", "task": "390px checks, decisions D22-D25, log, state", "actual_minutes": 25 },
     { "id": "v0-1", "task": "Scaffold Next 15 + Tailwind 4 (manual — create-next-app blocked by tool permissions), pinned deps, build green", "actual_minutes": 40 },
     { "id": "v0-2", "task": "drizzle config, postgres client (prepare:false, max:1), idempotent seed script", "actual_minutes": 30 },
     { "id": "v0-3", "task": "Today screen: header (date/days-left/phase), blocks in time order, sticky footer (total/MVD/streak), IST everywhere", "actual_minutes": 45 },
@@ -46,10 +45,11 @@
   ],
   "deferred": [],
   "needs_human_verification": [
-    "v1: note-taking feel on the phone keyboard — autosave invisible, Saved stamp glanceable",
-    "v1: grid cell tap accuracy one-handed (32px targets)",
-    "v1: a note typed on the phone appears on the laptop",
-    "v0 (carried): Monday 31 Aug 05:30 shows the three real blocks live; one-handed at 05:30"
+    "v2: blind recall on the phone keyboard — type-first gate should feel like discipline, not friction",
+    "v2: 'owed' cards on Today read clearly at 05:30",
+    "v2: Block C -> queue flow on a real evening once topics reach read",
+    "design: coral Done reads as the one action; Bricolage legible without glasses",
+    "v0 (carried): Monday 31 Aug 05:30 shows the three real blocks live; one-handed use"
   ],
 
   "ingestion": {

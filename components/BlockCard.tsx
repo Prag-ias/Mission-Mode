@@ -16,13 +16,22 @@ type Block = {
   status: string
   colour: string | null
   topicCode: string | null
+  kind: string
+  /** set when this is a carried/debt block from a past day — "29 Aug" */
+  owedFrom?: string | null
 }
 
 function Label({ block, className }: { block: Block; className: string }) {
-  if (!block.topicCode) return <h2 className={className}>{block.label}</h2>
+  // Revision blocks open the queue; topic blocks open their topic.
+  const href = block.topicCode
+    ? `/topic/${block.topicCode}`
+    : block.kind === 'revision'
+      ? '/revise'
+      : null
+  if (!href) return <h2 className={className}>{block.label}</h2>
   return (
     <h2 className={className}>
-      <Link href={`/topic/${block.topicCode}`} className="block">
+      <Link href={href} className="block">
         {block.label} <span className="text-muted">›</span>
       </Link>
     </h2>
@@ -106,7 +115,9 @@ function Meta({ block, done }: { block: Block; done: boolean }) {
         ·
       </span>
       <span className="font-mono text-sm">{block.plannedMinutes} min</span>
-      <span className="mono-label ml-auto">{done ? 'done' : `Block ${block.slot}`}</span>
+      <span className={`mono-label ml-auto ${!done && block.owedFrom ? 'text-accent-deep' : ''}`}>
+        {done ? 'done' : block.owedFrom ? `owed · ${block.owedFrom}` : `Block ${block.slot}`}
+      </span>
     </div>
   )
 }
