@@ -134,3 +134,28 @@ Format: `### DN — <decision>` then **Context**, **Decision**, **Consequence** 
 **Context:** Seeding 186 whole-syllabus pass events on a phase's first day would instantly bury the 12-item queue.
 **Decision:** Each pass distributes topics uniformly across its phase's date range, deterministically by topic order; re-seeding follows re-planned phase dates for uncompleted events only.
 **Consequence:** PASS season adds a steady 4–6 items/day, not a 186-item cliff; completed passes are immutable.
+
+### D26 — Vision IAS is the named answer-key fallback
+**Context:** D1 requires exactly one named coaching source where no official UPSC key exists. No keys were found anywhere on disk, and the 2026 official key cannot exist yet (that cycle has not concluded).
+**Decision:** Official UPSC key where published; **Vision IAS** otherwise, stored as `answer_source = 'vision_ias'`. Disagreement between sources sets `disputed = true`.
+**Consequence:** 2026 and probably 2025 rest on Vision IAS plus human review; only answer letters are taken from coaching sources — explanations are always generated fresh per D2, never copied.
+
+### D27 — CSAT is in scope after all (reverses README/CLAUDE.md)
+**Context:** README says "six GS Paper 1 papers only; CSAT ingestion is P2 and probably never happens". The user has all 12 papers and asked for CSAT too.
+**Decision:** Ingest all 12 papers — 6 GS1 + 6 CSAT, ~1,200 questions. The six `CSA-01`…`CSA-06` topics already exist with `pyq_drills = true`, so CSAT tags cleanly with no schema change.
+**Consequence:** Review burden doubles to ~6 hours of the user's time. GS1 is ingested first and completely; CSAT follows only once GS1 is loaded and v3 is usable.
+
+### D28 — Vision transcription, not the tesseract OCR pipeline
+**Context:** README's pipeline is `qpdf → pdftoppm → tesseract`. Neither qpdf nor tesseract is installed, and the one paper carrying an embedded OCR layer (GS1 2023) is visibly corrupted — `tbe`, `QuadrilaterSJ`, mangled Devanagari.
+**Decision:** Render English (odd) pages only with `pdftoppm -r 150 -png`, then transcribe the images directly by reading them, with an independent verification pass over every page.
+**Consequence:** No toolchain installs; italics, bold negatives, Roman-vs-Arabic numbering and tables survive; half the pages are never rendered because Hindi is skipped. `scripts/` gains a renderer, and README's pipeline section needs rewriting before the next paper.
+
+### D29 — Answer keys sourced through Forum IAS, but they are the official documents
+**Context:** upsc.gov.in 403s automated fetch and would not serve the archive keys to the user either; he supplied 2021–2025 keys as images from Forum IAS.
+**Decision:** Use them, but treat provenance as a claim to be tested rather than assumed. Each key is transcribed twice independently and reconciled, then corroborated by a blind answer pass; `answer_source` is set to `official` only where the key carries UPSC's own scoring metadata (series letter, items-dropped count) AND the blind pass agrees at a high rate. Anything weaker stays `forum_ias`, and per D1 every key-vs-reasoning disagreement sets `disputed = true`.
+**Consequence:** Supersedes D26's Vision IAS fallback for these five papers — one named coaching channel, not two. 2021's key is Series A with 99 scored and Q80 dropped, matching our Series A booklet.
+
+### D30 — Bonus topics: tagged and drillable, never scheduled
+**Context:** 79 PYQ questions had no home in the 186-topic tree. Adding topics to `topics.json` would let a future weekly re-plan schedule them — `generate-plan.mjs` has a fallback that takes any remaining topic when no phase matches — which would disturb a plan the user wants left alone.
+**Decision:** Six new topics live in `seed/bonus-topics.json`, a file the planner never reads, and carry `topics.bonus = true` (one additive boolean column). They are excluded from PASS2–4 seeding, keep the D1–D90 ladder if actually read, and must stay out of the coverage grid's denominators so existing coverage never appears to regress. `est_minutes` on them is informational, not planned.
+**Consequence:** The planner *structurally cannot* schedule a bonus topic rather than merely being asked not to. `topics.json` stays untouched, honouring "never hand-edit seed data". The real deliverable is 34 already-explained questions drillable in Block C — roughly 90 minutes, not the 10.8 hours a full read would cost.

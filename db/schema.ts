@@ -30,6 +30,8 @@ export const topics = pgTable('topics', {
   /** unread | reading | read | R1 | R2 | R3 | R4 | mains */
   stage: varchar('stage', { length: 10 }).notNull().default('unread'),
   pyqDrills: boolean('pyq_drills').notNull().default(true),  // false for Sociology (decision Q3)
+  /** true = bonus topic: tagged and drillable, but never scheduled by the planner (decision D30) */
+  bonus: boolean('bonus').notNull().default(false),
   firstReadAt: timestamp('first_read_at', { withTimezone: true }),
   lastTouchedAt: timestamp('last_touched_at', { withTimezone: true }),
 }, (t) => ({ bySubject: index('topics_subject_idx').on(t.subjectId) }))

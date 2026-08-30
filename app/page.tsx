@@ -96,25 +96,33 @@ export default async function Today({
         : 'No blocks planned today.'
 
   return (
-    <main className="mx-auto max-w-md px-4 pb-28 pt-5">
+    <main className="mx-auto max-w-md px-4 pb-28 pt-5 lg:max-w-5xl lg:px-8 lg:pb-24 lg:pt-10">
       <header className="mb-4">
         <div className="flex items-baseline justify-between">
-          <h1 className="font-display text-xl font-bold tracking-tight">{displayDate(today)}</h1>
+          <h1 className="font-display text-xl font-bold tracking-tight lg:text-4xl">{displayDate(today)}</h1>
           <span className="text-sm text-muted">
             <span className="font-mono font-bold text-ink">{daysLeft}</span> days left
           </span>
         </div>
         <div className="mt-1.5 flex items-baseline justify-between">
           <p className="mono-label text-muted">{phaseLine}</p>
-          <Link href="/syllabus" className="text-sm font-medium text-accent-deep underline">
-            Syllabus
-          </Link>
+          <nav className="flex gap-4">
+            <Link href="/practice" className="text-sm font-medium text-accent-deep underline">
+              Practice
+            </Link>
+            <Link href="/revise" className="text-sm font-medium text-accent-deep underline">
+              Revise
+            </Link>
+            <Link href="/syllabus" className="text-sm font-medium text-accent-deep underline">
+              Syllabus
+            </Link>
+          </nav>
         </div>
       </header>
 
-      <div className="flex flex-col gap-3">
+      <div className="flex flex-col gap-3 lg:grid lg:grid-cols-2 lg:items-start lg:gap-4">
         {blocks.length === 0 ? (
-          <p className="mt-16 text-center text-muted">{emptyLine}</p>
+          <p className="mt-16 text-center text-muted lg:col-span-2">{emptyLine}</p>
         ) : (
           blocks.map((b) => (
             <BlockCard
@@ -129,7 +137,7 @@ export default async function Today({
         data-testid="footer"
         className="fixed inset-x-0 bottom-0 border-t border-line bg-surface/95 backdrop-blur"
       >
-        <div className="mx-auto flex max-w-md items-center justify-between px-4 py-3 pb-[max(0.75rem,env(safe-area-inset-bottom))]">
+        <div className="mx-auto flex max-w-md items-center justify-between px-4 py-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] lg:max-w-5xl lg:px-8">
           <span className="text-sm text-muted">
             <span className="font-mono text-base font-bold text-ink">{total}</span> min
           </span>

@@ -1,0 +1,120 @@
+[
+ {
+  "code": "ANM-15",
+  "subject": "ANM",
+  "name": "Sources, texts and the scientific legacy of ancient India",
+  "source_ref": "R.S. Sharma Ancient Past — sources & legacy chapters",
+  "est_minutes": 120,
+  "intro_phase": 2,
+  "stage": "unread",
+  "pyq_drills": true,
+  "bonus": true,
+  "covers_questions": [
+   "2021 Q40",
+   "2024 Q64",
+   "2026 Q7"
+  ],
+  "rationale": "ANM-01 to ANM-09 are purely dynastic-political. Nothing teaches the non-political layer every ancient-India book opens and closes with: how we know (inscriptions, coins, archaeology, foreign travellers from Megasthenes to Fa-Hien and Hiuen Tsang), what the texts are (Vedic corpus, Sutras, Smritis and their commentaries including Mitakshara and Dayabhaga, the Buddhist and Jain canons, Sangam and cl"
+ },
+ {
+  "code": "CAI-11",
+  "subject": "CAI",
+  "name": "International organisations — UN agencies, funds and programmes; non-UN bodies (IUCN, WEF, ICRC)",
+  "source_ref": "PT365 International Relations + monthly CA",
+  "est_minutes": 90,
+  "intro_phase": 3,
+  "stage": "unread",
+  "pyq_drills": true,
+  "bonus": true,
+  "covers_questions": [
+   "2021 Q50",
+   "2023 Q13",
+   "2023 Q30",
+   "2024 Q24",
+   "2024 Q26",
+   "2026 Q38"
+  ],
+  "rationale": "The signature of a genuinely missing node: the same question type landed in a different bucket every year — CAI-01 in 2021, CAI-04 in 2023 and 2026, CAI-07 in 2024, and from the environment side ENV-05 in 2023 and ENV-15 in 2024. The recurring hook is the institution itself: is this body inside the UN system, what is its mandate, what does it publish. Absorbs the ENV specialist's ENV-18 proposal e"
+ },
+ {
+  "code": "GEO-25",
+  "subject": "GEO",
+  "name": "India — water resources: availability, groundwater, water stress, conservation",
+  "source_ref": "NCERT 12 India Ch.6",
+  "est_minutes": 90,
+  "intro_phase": 2,
+  "stage": "unread",
+  "pyq_drills": true,
+  "bonus": true,
+  "covers_questions": [
+   "2023 Q66",
+   "2023 Q76"
+  ],
+  "rationale": "The cleanest structural hole in the set, and verifiable rather than inferred: GEO maps NCERT 12 'India — People and Economy' chapter by chapter — GEO-17 is Ch.5, GEO-18 is Ch.7, GEO-19 is Ch.8, GEO-20 is Ch.10–11 — and Chapter 6, Water Resources, is silently skipped. Nothing teaches surface versus groundwater availability, the per-capita water budget, groundwater extraction and depletion, water-st"
+ },
+ {
+  "code": "POL-29",
+  "subject": "POL",
+  "name": "Criminal justice and internal security — BNS/BNSS/BSA, police, prisons, CAPFs, security laws",
+  "source_ref": "PT365 Polity & Governance",
+  "est_minutes": 120,
+  "intro_phase": 2,
+  "stage": "unread",
+  "pyq_drills": true,
+  "bonus": true,
+  "covers_questions": [
+   "2021 Q83",
+   "2023 Q32",
+   "2023 Q77",
+   "2023 Q91",
+   "2023 Q92",
+   "2026 Q62"
+  ],
+  "rationale": "The tree runs from the Constitution down to the courts at POL-20 and then stops; nothing covers the machinery underneath. Six gap questions fall in this one hole — prisons and parole (2021 Q83, 2023 Q32), anti-terror law (2023 Q77 stmt 3), police organisation and Home Guards (2023 Q91), miscellaneous criminal statutes (2023 Q92) and the new criminal codes (2026 Q62). POL-27 Governance was the plac"
+ },
+ {
+  "code": "SNT-15",
+  "subject": "SNT",
+  "name": "Diversity of life — microbes, fungi, plant and animal groups, behaviour and world fauna",
+  "source_ref": "NCERT 11 Bio Ch.1–4 + PT365 S&T",
+  "est_minutes": 150,
+  "intro_phase": 2,
+  "stage": "unread",
+  "pyq_drills": true,
+  "bonus": true,
+  "covers_questions": [
+   "2021 Q20",
+   "2021 Q21",
+   "2021 Q26",
+   "2022 Q38",
+   "2022 Q99",
+   "2023 Q12",
+   "2023 Q15",
+   "2023 Q16",
+   "2023 Q18",
+   "2023 Q19",
+   "2024 Q19",
+   "2024 Q23",
+   "2024 Q29"
+  ],
+  "rationale": "The single largest genuinely unowned area in the whole tree, and it was proposed twice — ENV-17 and SNT-15 are the same four NCERT chapters under two names. Kept in SNT because SNT-01's source_ref is already 'NCERT 11–12 Bio selected', so this completes a book the candidate opens anyway and sits next to it in phase 2; ENV is an all-Shankar subject where a lone NCERT-Bio node would read as an impor"
+ },
+ {
+  "code": "SNT-16",
+  "subject": "SNT",
+  "name": "Armed forces organisation — services, ranks, commands, CDS and named operations",
+  "source_ref": "PT365 S&T + MoD Annual Report",
+  "est_minutes": 75,
+  "intro_phase": 3,
+  "stage": "unread",
+  "pyq_drills": true,
+  "bonus": true,
+  "covers_questions": [
+   "2024 Q69",
+   "2024 Q77",
+   "2024 Q78",
+   "2026 Q73"
+  ],
+  "rationale": "SNT-07 is defence technology — missiles, aircraft, DRDO, stealth — and teaches none of what these four ask: rank equivalence across the three services, the CDS as head of the Department of Military Affairs, named domestic Army operations, and Corps/command headquarters. Nothing else in 186 topics covers force structure. What lifts it above the one-question rejects is the trend: all four fall in 20"
+ }
+]

@@ -50,3 +50,16 @@ html {
   letter-spacing: 0.14em;
   text-transform: uppercase;
 }
+
+/* question stems and explanations */
+@utility prose-q {
+  & p { margin: 0 0 0.6rem; }
+  & p:last-child { margin-bottom: 0; }
+  & ul { margin: 0.5rem 0; padding-left: 1.25rem; list-style: disc; }
+  & li { margin-bottom: 0.3rem; }
+  & strong { font-weight: 700; }
+  & .tablewrap { overflow-x: auto; margin: 0.75rem 0; }
+  & table { border-collapse: collapse; width: 100%; font-size: 0.9em; }
+  & th, & td { border: 1px solid var(--line); padding: 0.4rem 0.6rem; text-align: left; vertical-align: top; }
+  & th { font-weight: 600; background: var(--bg); }
+}

@@ -41,7 +41,7 @@ export default async function Topic({ params }: { params: Promise<{ code: string
   const manual = (MANUAL_STAGES as readonly string[]).includes(topic.stage)
 
   return (
-    <main className="mx-auto max-w-md px-4 pb-10 pt-5">
+    <main className="mx-auto max-w-md px-4 pb-10 pt-5 lg:max-w-3xl lg:pt-10">
       <header className="mb-4 flex items-baseline justify-between">
         <Link href="/syllabus" className="text-sm font-medium text-accent-deep underline">
           Syllabus
@@ -56,7 +56,7 @@ export default async function Topic({ params }: { params: Promise<{ code: string
         </span>
       </header>
 
-      <h1 className="font-display text-[26px] font-extrabold leading-tight tracking-tight">
+      <h1 className="font-display text-[26px] font-extrabold leading-tight tracking-tight lg:text-4xl">
         {topic.name}
       </h1>
       <p className="mt-1.5 text-sm text-muted">

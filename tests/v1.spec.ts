@@ -57,8 +57,10 @@ test('coverage grid: all topics, grouped by subject, fast', async ({ page }) => 
   console.log(`syllabus warm render: ${elapsed}ms`)
   expect(elapsed).toBeLessThan(2000)
 
-  // 186 real topics + the TEST-01 fixture
+  // 186 core topics + the TEST-01 fixture. Bonus topics (D30) are listed
+  // separately and must not appear in the grid.
   await expect(page.locator('[data-testid^="cell-"]')).toHaveCount(187)
+  await expect(page.locator('[data-testid^="bonus-"]').first()).toBeVisible()
   // all 11 subjects present as group headings
   for (const name of ['Polity & Governance', 'Sociology (Optional)', 'CSAT']) {
     await expect(page.getByRole('heading', { name })).toBeVisible()
