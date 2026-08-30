@@ -35,6 +35,7 @@ type FileQuestion = {
   explanation_md?: string | null
   answer_source?: string | null
   disputed?: boolean
+  dropped_by_upsc?: boolean
   page?: number
 }
 
@@ -60,10 +61,19 @@ async function main() {
   const { paper, year } = data
   if (!paper || !year) throw new Error('file must declare "paper" and "year"')
 
+  // A question UPSC itself dropped has no defensible answer — practising it
+  // would teach whatever we guessed. Keep it in the file for the record and
+  // out of the bank.
+  const droppedNos = data.questions.filter((q) => q.dropped_by_upsc).map((q) => q.q_no)
+  const loadable = data.questions.filter((q) => !q.dropped_by_upsc)
+  if (droppedNos.length) {
+    console.log(`skipping ${droppedNos.length} question(s) dropped by UPSC: Q${droppedNos.join(', Q')}`)
+  }
+
   // ---------------------------------------------------------------- validate
   const problems: string[] = []
   const seen = new Set<number>()
-  for (const q of data.questions) {
+  for (const q of loadable) {
     const at = `Q${q.q_no}`
     if (!Number.isInteger(q.q_no) || q.q_no < 1) problems.push(`${at}: bad q_no`)
     if (seen.has(q.q_no)) problems.push(`${at}: duplicate`)
