@@ -38,12 +38,20 @@
     "GEO-24"
    ],
    "primary_topic_code": "GEO-13",
-   "explanation_md": null,
+   "explanation_md": "Only the Jhelum statement survives.\n\n- **1 — correct.** The Jhelum flows into and out of **Wular** in the Kashmir Valley; the lake sits on the river's course and acts as its natural flood absorber.\n- **2 — wrong.** Kolleru lies *between* the Krishna and Godavari deltas as an inter-deltaic flood-balancing basin, fed by the **Budameru and Tammileru**, not directly by the Krishna.\n- **3 — wrong.** Kanwar (Kabartal) in Begusarai is an oxbow of the **Burhi Gandak** — a separate river from the Gandak.\n\nOne correct → (a).\n\nDurable: all three are Ramsar sites with distinct landform origins — Wular a floodplain lake on the Jhelum, Kolleru an inter-deltaic lagoon, Kabartal an oxbow. Whenever UPSC names a Bihar river, check whether it means **Gandak or Burhi Gandak**; that swap is the whole trap here.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Jhelum does pass through Wular and Kanwar/Kabartal is an oxbow of the Gandak, but Kolleru is fed by Budameru and Tammileru, not directly by the Krishna."
+   },
+   "key_supported": true,
+   "review_flag": "Official key says a, independent reasoning said b."
   },
   {
    "q_no": 2,
@@ -65,12 +73,19 @@
     "GEO-20"
    ],
    "primary_topic_code": "GEO-20",
-   "explanation_md": null,
+   "explanation_md": "Ennore (renamed Kamarajar) is the one major port run as a company and Mundra is the largest private port, but the container claim fails.\n\n- **1 — correct.** Kamarajar Port, Tamil Nadu, was set up as a company under the **Companies Act** rather than as a port trust — India's first and only major port structured that way.\n- **2 — correct.** Adani's **Mundra** in Gujarat is the largest privately owned port in the country.\n- **3 — wrong.** India's largest container port is **Jawaharlal Nehru Port (Nhava Sheva)**, Maharashtra. Visakhapatnam is a big bulk-cargo major port, not the container leader.\n\nTwo pairs → (b).\n\nDurable: major ports are governed by the Major Port Authorities Act, 2021 — with Kamarajar the corporatised exception. Keep the superlatives separate: **containers = JNPA**, private ownership and sheer cargo tonnage = Mundra.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Kamarajar (Ennore) was the first major port corporatised as a company and Mundra is the largest private port, but JNPT — not Visakhapatnam — is India's largest container port."
+   },
+   "key_supported": true
   },
   {
    "q_no": 3,
@@ -93,12 +108,19 @@
     "ENV-07"
    ],
    "primary_topic_code": "GEO-16",
-   "explanation_md": null,
+   "explanation_md": "Teak and mahua shed their leaves in the dry season; jackfruit does not.\n\n- **1 Jackfruit — not deciduous.** *Artocarpus heterophyllus* is an **evergreen** tree of the humid tropics and holds its canopy through the year.\n- **2 Mahua — deciduous.** It drops its leaves in late winter and flowers on bare branches around February–April, which is exactly why the flower crop is so easily collected and fermented.\n- **3 Teak — deciduous.** *Tectona grandis* is the defining species of India's **tropical deciduous (monsoon) forest**, shedding in the dry months to cut water loss.\n\nTwo → (b).\n\nDurable: in India deciduousness is an adaptation to **drought, not cold** — teak and sal mark the monsoon-forest belt covering the largest share of Indian forest, while evergreens like jackfruit belong with the wet Western Ghats and North-East.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles GEO/ENV: deciduous-vs-evergreen is forest-type knowledge (GEO-16) but the named species sit in the Indian flora list (ENV-07).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Mahua and teak are deciduous while jackfruit is evergreen."
+   },
+   "key_supported": true
   },
   {
    "q_no": 4,
@@ -121,12 +143,19 @@
     "GEO-23"
    ],
    "primary_topic_code": "GEO-17",
-   "explanation_md": null,
+   "explanation_md": "India farms more land than China but farms it far less intensively.\n\n- **1 — correct.** India's arable area, over 150 million hectares, is among the largest in the world and clearly exceeds China's, most of whose territory is mountain, desert or plateau.\n- **2 — wrong.** China irrigates a **higher proportion** of its cropland; in India roughly half the net sown area is still rain-fed and monsoon-dependent.\n- **3 — wrong.** Chinese per-hectare yields in rice and wheat run well above Indian yields. Low productivity per hectare is a standing Indian weakness, not a strength.\n\nOne → (a).\n\nDurable: **India has the land, China has the output per hectare.** That single contrast settles most India–China agriculture questions, and it explains why Indian foodgrain growth now has to come from yield — the cultivated area stopped expanding decades ago.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "India-vs-China comparison also touches ECO-14 agriculture, but the facts tested (arable area, irrigated share, yield) are geography-side.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Only the arable-area statement holds; China has a higher irrigated proportion and far higher per-hectare productivity."
+   },
+   "key_supported": true
   },
   {
    "q_no": 5,
@@ -149,12 +178,19 @@
     "GEO-05"
    ],
    "primary_topic_code": "GEO-12",
-   "explanation_md": null,
+   "explanation_md": "The Rann is a former shallow arm of the sea, left stranded as sea level fell and the sea floor silted up and was tectonically raised, producing a vast seasonal salt marsh.\n\n- (a) **Bhitarkanika** is a mangrove wetland built by *deposition* in the Brahmani–Baitarani delta — accretion, not sea-level fall.\n- (b) **Marakkanam salt pans**, Tamil Nadu, are man-made evaporation pans, not a natural landform at all.\n- (c) **Naupada swamp**, Andhra Pradesh, is a small coastal lagoon barred by sand bars — nothing like \"extensive\".\n- (d) **Rann of Kutch** matches both the scale and the mechanism.\n\nDurable: regression plus siltation plus uplift turns a marine gulf into salt marsh — the Great Rann still floods each monsoon and dries into a salt desert, and it holds the only regular breeding colony of the **Greater Flamingo** in India.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Rann of Kutch as an Indian physiographic feature (GEO-12); the mechanism asked about is coastal/sea-level landform formation (GEO-05).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The Rann of Kutch is the classic marshland formed by repeated marine regression."
+   },
+   "key_supported": true
   },
   {
    "q_no": 6,
@@ -177,12 +213,19 @@
     "GEO-02"
    ],
    "primary_topic_code": "GEO-18",
-   "explanation_md": null,
+   "explanation_md": "Ilmenite (an iron–titanium oxide) and rutile (titanium dioxide) are the world's principal **titanium** ores, concentrated in India's beach placer sands.\n\n- (a) Aluminium comes from **bauxite**, a lateritic ore of the Eastern Ghats and the Amarkantak plateau, never from beach sand.\n- (b) Copper comes from sulphide ores such as chalcopyrite — Khetri, Malanjkhand, Singhbhum.\n- (c) Iron is present in ilmenite, but iron is won from **haematite and magnetite**; no one mines beach sand for iron.\n- (d) Titanium — correct.\n\nDurable: the placer sands of Kerala, Tamil Nadu and Odisha carry a fixed suite worth memorising as a set — **ilmenite, rutile, zircon, garnet, sillimanite and monazite**. Monazite is the reason these sands are strategically controlled: it is India's **thorium** source, and thorium is stage three of the nuclear programme.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Ilmenite (FeTiO3) and rutile (TiO2) are the principal titanium ores in India's beach sands."
+   },
+   "key_supported": true
   },
   {
    "q_no": 7,
@@ -204,12 +247,19 @@
     "GEO-23"
    ],
    "primary_topic_code": "GEO-23",
-   "explanation_md": null,
+   "explanation_md": "The Democratic Republic of the Congo alone supplies roughly three-quarters of world cobalt, mined largely as a by-product of copper in the **Katanga copper–cobalt belt**.\n\n- (a) Argentina is a **lithium** producer — one corner of the lithium triangle with Chile and Bolivia — not a cobalt source.\n- (b) Botswana's mineral economy is built on **diamonds**.\n- (d) Kazakhstan leads the world in **uranium**, not cobalt.\n\nDurable: three chokepoints carry the whole EV battery supply chain — **cobalt mined in the DRC, lithium from Australia and South America, and refining concentrated in China**. Where a metal is *mined* and where it is *processed* are separate questions and UPSC asks both; concentration of supply in one unstable jurisdiction is also the standard argument for India's critical-minerals diplomacy.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The Democratic Republic of the Congo supplies roughly three-quarters of global cobalt."
+   },
+   "key_supported": true
   },
   {
    "q_no": 8,
@@ -232,12 +282,19 @@
     "GEO-11"
    ],
    "primary_topic_code": "GEO-24",
-   "explanation_md": null,
+   "explanation_md": "Cameroon's southern and eastern forests drain into the Congo system, which is why it is counted among the Congo Basin states.\n\n- (b) Nigeria belongs to the **Niger** basin, which enters the sea through its own delta.\n- (c) South Sudan lies in the **Nile** basin — the Sudd wetland sits on the White Nile.\n- (d) Uganda is also Nile country, holding **Lake Victoria**, a Nile headwater.\n\nDurable: the six Congo Basin countries are the **DRC, Republic of the Congo, Cameroon, Central African Republic, Gabon and Equatorial Guinea**, together holding the world's second-largest tropical rainforest after the Amazon. The Congo is the river that **crosses the Equator twice**, so one hemisphere is always in its rainy season and its flow stays remarkably steady year-round.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "World regional/physical geography (African basins) has no dedicated topic; it falls to the map-work catch-all GEO-24.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Cameroon is one of the six Congo Basin countries; Nigeria, South Sudan and Uganda are not."
+   },
+   "key_supported": true
   },
   {
    "q_no": 9,
@@ -260,12 +317,19 @@
     "GEO-24"
    ],
    "primary_topic_code": "GEO-12",
-   "explanation_md": null,
+   "explanation_md": "Every statement attaches a hill range to the wrong system, so the count is zero.\n\n- **1 — wrong.** Amarkantak, source of the **Narmada and the Son**, is where the **Vindhya and Satpura** meet in the Maikal hills. The Sahyadri is on the west coast, far away.\n- **2 — wrong.** The **Biligirirangan (BR) Hills** in Karnataka form the bridge between the Western and Eastern Ghats; they have nothing to do with the Satpura.\n- **3 — wrong.** **Seshachalam** in Andhra Pradesh is part of the **Eastern Ghats** — the red sanders hills near Tirupati. The southern end of the Western Ghats is the Agasthyamalai group.\n\nNone → (d).\n\nDurable: three anchors settle a family of questions — Amarkantak = Vindhya + Satpura, BR Hills = the Western–Eastern Ghats junction, Seshachalam = Eastern Ghats and red sanders.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Amarkantak lies at the Vindhya-Satpura junction, Biligirirangan links the Western and Eastern Ghats rather than being Satpura's eastern end, and Seshachalam belongs to the Eastern Ghats."
+   },
+   "key_supported": true
   },
   {
    "q_no": 10,
@@ -288,12 +352,19 @@
     "CAI-06"
    ],
    "primary_topic_code": "GEO-20",
-   "explanation_md": null,
+   "explanation_md": "All three corridors are given wrong endpoints, so none is correct.\n\n- **1 — wrong** twice over. The East–West Corridor is not part of the Golden Quadrilateral — it belongs to the **later NHDP phase** — and it runs **Silchar to Porbandar**, not Dibrugarh to Surat. (The North–South Corridor runs Srinagar to Kanyakumari.)\n- **2 — wrong.** The India–Myanmar–Thailand **Trilateral Highway** runs Moreh–Mandalay–**Mae Sot**, not Chiang Mai.\n- **3 — wrong.** The **BCIM** corridor was conceived to link **Kolkata with Kunming** via Dhaka and Mandalay; Varanasi is not an endpoint.\n\nNone → (d).\n\nDurable: the Golden Quadrilateral joins the four metros; the N–S and E–W corridors are a separate later phase and **cross at Jhansi**. For every connectivity project, memorise the two terminal towns — that is the only detail UPSC ever tests.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles subjects: statement 1 is domestic highways (GEO-20), statements 2-3 are international corridors (CAI-06 connectivity projects).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The East-West Corridor is a separate NHDP-II project running Silchar-Porbandar, the Trilateral Highway ends at Mae Sot not Chiang Mai, and BCIM links Kolkata with Kunming not Varanasi."
+   },
+   "key_supported": true
   },
   {
    "q_no": 11,
@@ -316,12 +387,19 @@
     "GEO-18"
    ],
    "primary_topic_code": "SNT-08",
-   "explanation_md": null,
+   "explanation_md": "India's power mix really is coal-heavy, but the enrichment figure is invented — so (c).\n\n- **Statement-I — correct.** Coal supplies roughly seventy per cent of Indian electricity generation while nuclear contributes a small single-digit share; domestic uranium reserves are modest and low-grade, so coal carries the base load.\n- **Statement-II — incorrect.** Power reactors run on **low-enriched uranium**, typically 3–5% U-235, and India's **PHWRs use natural uranium** at about 0.7% with heavy water as moderator. Enrichment at 60% is far into weapons-grade territory, not a condition for generating electricity.\n\nDurable: **LEU is below 20% U-235, HEU is 20% and above.** The moderator decides the fuel — heavy water permits natural uranium, light water requires enrichment. That one line disposes of most reactor questions, and it is why India built a heavy-water programme.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Format: 2023 Statement-I/II with the explanation option set mapped to assertion_basis, not relationship (relationship is flagged NEW in 2026; this structure predates it). Straddles SNT-08 (enrichment/reactors) and GEO-18 (coal and uranium as energy resources).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "India does rely on coal, but power-reactor fuel needs only about 3-5% enrichment, so Statement-II is false."
+   },
+   "key_supported": true
   },
   {
    "q_no": 12,
@@ -344,12 +422,19 @@
     "ENV-05"
    ],
    "primary_topic_code": "ENV-07",
-   "explanation_md": null,
+   "explanation_md": "Marsupials genuinely have no native Indian range, but the reason offered is fabricated — so (c).\n\n- **Statement-I — correct.** Living marsupials are native to **Australia–New Guinea and the Americas**; none occurs naturally in India.\n- **Statement-II — incorrect.** Marsupials occupy deserts, rainforest, woodland and alpine country, and they live alongside predators — dingoes, quolls and the Tasmanian devil in Australia, and the full American predator guild for the opossums. Nothing restricts them to montane grassland, and \"only\" in a statement is almost always the word that breaks it.\n\nDurable: their distribution is a fact of **plate tectonics**, not habitat preference — marsupials radiated across Gondwana and were left isolated when Australia and South America split away, while the Indian plate carried none north into Asia.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Same Statement-I/II explanation structure as Q11. Animal biogeography (why marsupials are absent from India) has no dedicated topic; ENV-07 is the nearest.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Marsupials are indeed absent from India naturally, but they occupy many habitats and are not restricted to predator-free montane grasslands."
+   },
+   "key_supported": true
   },
   {
    "q_no": 13,
@@ -371,12 +456,21 @@
     "ENV-05"
    ],
    "primary_topic_code": "ENV-05",
-   "explanation_md": null,
+   "explanation_md": "The Invasive Species Specialist Group is one of the specialist groups of the **IUCN's Species Survival Commission**, and it maintains the Global Invasive Species Database.\n\n- (b) UNEP is the UN's environmental authority — it hosts conventions and assessments, not SSC specialist groups.\n- (c) The World Commission on Environment and Development was the one-off **Brundtland Commission**, which reported in 1987 with *Our Common Future* and then dissolved; it runs no database.\n- (d) WWF is a conservation NGO and a founding partner of IUCN, but the specialist-group network belongs to IUCN.\n\nDurable: the IUCN's **Species Survival Commission** is the parent of both the **Red List** and the invasive-species work, including the \"100 of the World's Worst Invasive Alien Species\" list. When a question names a global species assessment or a specialist group, IUCN is the default answer.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Gap: ENV-10 covers only Indian institutions (NGT, CPCB, ZSI, BSI, WII). International conservation bodies (IUCN, UNEP, WWF) have no topic; parked under ENV-05, which at least names the IUCN Red List.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The Invasive Species Specialist Group sits under IUCN's Species Survival Commission."
+   },
+   "key_supported": false,
+   "key_doubt": "No doubt on this one — (a) IUCN is right. Flag is not raised here.",
+   "review_flag": "Explanation pass could not verify the key."
   },
   {
    "q_no": 14,
@@ -398,12 +492,21 @@
     "ENV-07"
    ],
    "primary_topic_code": "ENV-07",
-   "explanation_md": null,
+   "explanation_md": "Only the civet is beyond argument, which is how the key reaches one.\n\n- **1 Lion-tailed Macaque — diurnal.** Like all macaques it forages by day in the Western Ghats canopy and sleeps at night. This one is decisive and uncontested.\n- **2 Malabar Civet — nocturnal.** Viverrids are night-active, and this critically endangered Western Ghats civet is known almost entirely from night records.\n- **3 Sambar — contested.** Standard field literature describes sambar as **mainly nocturnal or crepuscular**, lying up in cover by day, and camera-trap work in Indian reserves shows the same night-weighted pattern.\n\nDurable: family answers faster than species — macaques and langurs diurnal; civets, cats, porcupines and pangolins nocturnal; most deer crepuscular, feeding hardest at dusk and dawn.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Malabar civet and sambar are nocturnal or active after dusk, while the lion-tailed macaque is strictly diurnal."
+   },
+   "key_supported": false,
+   "key_doubt": "Statement 3 is defensible as correct: sambar are usually described as mainly nocturnal or crepuscular, and camera-trap studies in Indian reserves show night-weighted activity. On that reading the answer is (b) Only two, not (a) Only one. UPSC neither dropped nor revised the item, so (a) stands as the scored key — but the question should be treated as unreliable, and the wrong lesson to carry away is that sambar are day-active animals.",
+   "review_flag": "Explanation pass could not verify the key. Official key says a, independent reasoning said b."
   },
   {
    "q_no": 15,
@@ -426,12 +529,19 @@
     "SNT-01"
    ],
    "primary_topic_code": "ENV-07",
-   "explanation_md": null,
+   "explanation_md": "Honeybees encode a food source in the **waggle dance**: the angle of the straight run relative to vertical on the comb gives the direction relative to the sun, and the duration of the run gives the distance.\n\n- (a) Butterflies are solitary foragers with no recruitment communication.\n- (b) Dragonflies are solitary aerial predators — no colony to recruit.\n- (d) Wasps are social and some do recruit nest-mates to food, but the symbolic distance-and-direction dance is specific to honeybees (*Apis*).\n\nDurable: **Karl von Frisch** decoded the dance and shared the 1973 Nobel Prize in Physiology or Medicine with Konrad Lorenz and Nikolaas Tinbergen. It is the textbook case of **symbolic communication outside primates** — the bee is describing a place it cannot point to, using the sun as a shared reference frame.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "low",
    "tagging_note": "Gap: no topic covers general animal behaviour/zoology. Waggle dance is neither Indian-fauna trivia (ENV-07) nor cell/genetics/human-systems biology (SNT-01); both are approximations.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The waggle dance is von Frisch's honeybee communication of direction and distance to food."
+   },
+   "key_supported": true
   },
   {
    "q_no": 16,
@@ -453,12 +563,19 @@
     "SNT-01"
    ],
    "primary_topic_code": "SNT-01",
-   "explanation_md": null,
+   "explanation_md": "All four properties are real, so (d).\n\n- **1 Medicinal — yes.** Reishi (*Ganoderma*) and *Cordyceps* have long medicinal use, and the broader story of drugs from fungi runs from penicillin onward.\n- **2 Psycho-active — yes.** *Psilocybe* mushrooms contain **psilocybin**, a controlled hallucinogen.\n- **3 Insecticidal — yes.** Entomopathogenic fungi kill insects; *Cordyceps militaris* fruits from an insect host, and fungal biopesticides are used commercially.\n- **4 Bioluminescent — yes.** *Mycena* and *Omphalotus* species glow — the \"foxfire\" seen on decaying wood in wet forests.\n\nDurable: with statements shaped \"**some** X have property Y\", UPSC is testing whether you can name **one instance**. A single valid example makes the statement correct, and the sceptical instinct that says \"surely not all of them\" is answering a question that was not asked.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "low",
    "tagging_note": "Four numbered items, so stmt_1_2_3 is used as the nearest counting format (vocabulary has no four-statement slug). Gap: fungi/mycology is not covered by any topic; SNT-01 is the nearest general-biology bucket.",
-   "transcription_note": "Typography note only, no correction made: in the printed column both 'psycho-active' (stmt 2) and 'bioluminescent' (stmt 4, printed 'biolumi-nescent') break across a justified line at a hyphen. 'psycho-active' is kept hyphenated as printed and 'bioluminescent' is joined, since 'bioluminescent' is never lexically hyphenated. If a later pass prefers uniform treatment of soft hyphens, statement 2 would become 'psychoactive'. No effect on meaning or answer."
+   "transcription_note": "Typography note only, no correction made: in the printed column both 'psycho-active' (stmt 2) and 'bioluminescent' (stmt 4, printed 'biolumi-nescent') break across a justified line at a hyphen. 'psycho-active' is kept hyphenated as printed and 'bioluminescent' is joined, since 'bioluminescent' is never lexically hyphenated. If a later pass prefers uniform treatment of soft hyphens, statement 2 would become 'psychoactive'. No effect on meaning or answer.",
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Medicinal (reishi), psychoactive (psilocybin), insecticidal and bioluminescent fungi all exist."
+   },
+   "key_supported": true
   },
   {
    "q_no": 17,
@@ -480,12 +597,19 @@
     "ENV-07"
    ],
    "primary_topic_code": "ENV-07",
-   "explanation_md": null,
+   "explanation_md": "Indian squirrels nest in trees, bury their food, and eat both plant and animal matter.\n\n- **1 — wrong.** The palm squirrel and the giant squirrels are **arboreal**, building leaf-and-twig nests (dreys) in branches or in roof cavities. Ground burrows belong to ground squirrels and marmots elsewhere in the world.\n- **2 — correct.** They **scatter-hoard**, burying nuts and seeds in many small caches and recovering them later by memory and smell.\n- **3 — correct.** They are **omnivorous** — fruit, seeds, flowers and bark, plus insects and occasionally eggs.\n\nTwo → (b).\n\nDurable: caches that are never recovered germinate, which makes squirrels significant **seed dispersers** — the ecological point of scatter-hoarding. Note the split the question is built on: the **nest is above ground, the food store below it**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Indian palm squirrels are omnivorous and cache food in the ground, but they nest in trees rather than in burrows."
+   },
+   "key_supported": true
   },
   {
    "q_no": 18,
@@ -507,12 +631,19 @@
     "SNT-01"
    ],
    "primary_topic_code": "SNT-01",
-   "explanation_md": null,
+   "explanation_md": "Microbial life occupies all three extremes, so (c).\n\n- **1 — correct.** **Hyperthermophiles** at deep-sea hydrothermal vents grow above 100°C; the immense pressure raises water's boiling point, so a liquid habitat persists.\n- **2 — correct.** **Psychrophiles** grow below 0°C in brine channels within sea ice and in permafrost, where dissolved salt keeps water liquid below freezing.\n- **3 — correct.** **Acidophiles** thrive below pH 3 in acid mine drainage and volcanic springs, holding their internal pH near neutral while the outside is corrosive.\n\nDurable: these **extremophiles** are largely **Archaea**, and they are the reason life is considered possible on Europa or Enceladus. Their enzymes are industrially valuable too — the heat-stable *Taq* polymerase that makes PCR work came from a hot-spring bacterium.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Extremophile microbiology is only loosely inside SNT-01 (cell, genetics, human systems, nutrition); no microbiology topic exists in the tree.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Hyperthermophiles, psychrophiles and acidophiles cover all three extremes."
+   },
+   "key_supported": true
   },
   {
    "q_no": 19,
@@ -535,12 +666,19 @@
     "SNT-01"
    ],
    "primary_topic_code": "ENV-07",
-   "explanation_md": null,
+   "explanation_md": "Orangutans make and use stick tools, stripping a twig and probing tree holes for insects and honey.\n\n- (a) The fishing cat scoops fish out with its paws — a skill, but no tool.\n- (c) Otters use a **stone on the chest as an anvil** to break shellfish; that is tool use, but not a stick in a tree hole.\n- (d) The sloth bear rips open termite mounds with its claws and vacuums the insects through a gap in its front teeth — a body adaptation, not a tool.\n\nDurable: stick-tool use for insects is a **great ape** signature — orangutans probing holes, chimpanzees termite-fishing with stripped stems. The distinction the option set is built on is worth keeping: **claws, paws and snouts are anatomy; modifying an external object is tool use**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "low",
    "tagging_note": "Same animal-behaviour gap as Q15; three of the four options are Indian fauna, which is the only reason ENV-07 is primary.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Orangutans are documented making and using stick tools to extract insects from tree holes."
+   },
+   "key_supported": true
   },
   {
    "q_no": 20,
@@ -563,12 +701,19 @@
     "ENV-12"
    ],
    "primary_topic_code": "ENV-14",
-   "explanation_md": null,
+   "explanation_md": "HFCs serve as propellants, blowing agents and fire-suppressants but not as lubricants — three → (c).\n\n- **1 Aerosols — yes.** HFC-134a and relatives replaced CFCs as spray propellants.\n- **2 Foam agents — yes.** They are blowing agents for insulation and packaging foams.\n- **3 Fire retardants — yes.** Clean-agent extinguishing systems use HFCs where water or powder would destroy the equipment being protected.\n- **4 Lubricants — no.** Lubricants are oils and greases that must stay put under load; HFCs are volatile gases, the opposite property. (Their single largest use, refrigeration, is not on the list at all.)\n\nDurable: HFCs have **zero ozone-depletion potential but very high global-warming potential**. That is why they replaced CFCs and HCFCs under the Montreal Protocol and are now themselves being phased down under the **Kigali Amendment, 2016**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Four numbered items counted with stmt_1_2_3 (no four-item slug). HFC uses are studied under Montreal/Kigali (ENV-14); their GHG role sits in ENV-12.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "HFCs are used in aerosols, foam blowing and fire suppression but not as lubricants."
+   },
+   "key_supported": true
   },
   {
    "q_no": 21,
@@ -591,12 +736,19 @@
     "ECO-11"
    ],
    "primary_topic_code": "ECO-08",
-   "explanation_md": null,
+   "explanation_md": "An InvIT is a pass-through vehicle, and it is the **interest** component that is taxed in the unit holder's hands — Statement-I reverses the treatment.\n\n- Statement-I — **incorrect**. Interest distributed by an InvIT is exempt in the trust's hands and taxable in the investor's. The dividend component is the one ordinarily exempt for the unit holder, becoming taxable only where the underlying SPV has opted for the concessional corporate tax regime. Both limbs are inverted.\n- Statement-II — **correct**. The SARFAESI definition of \"borrower\" reaches entities that raise funds by issuing debt securities, which brings InvITs within it, so a lender's security interest against an InvIT is enforceable under the Act.\n\nI false and II true gives (d). A structural tell worth keeping: a debt-enforcement provision could never be the *explanation* for a tax exemption, so (a) was never live even before checking the facts.\n\nDurable point: business trusts — REITs and InvITs — are **pass-through**. The trust is not taxed on income it distributes; the tax follows each stream, character by character, to the unit holder.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Statement-I/II explanation structure, mapped to assertion_basis as in Q11. ECO-08 names InvITs explicitly; the tax limb touches ECO-11.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Statement-I is reversed (interest from InvITs is taxable in the unitholder's hands while dividend is generally exempt), while InvITs were indeed notified as borrowers under SARFAESI, 2002."
+   },
+   "key_supported": true
   },
   {
    "q_no": 22,
@@ -619,12 +771,19 @@
     "ECO-09"
    ],
    "primary_topic_code": "ECO-03",
-   "explanation_md": null,
+   "explanation_md": "Raising the policy rate is precisely what a central bank does when it believes monetary policy can pull consumer prices down, so II states the premise on which I acts.\n\n- Statement-I — **correct**. Through 2022–23 the US Fed, ECB, Bank of England, RBI and most others raised policy rates sharply as post-pandemic demand recovery, supply disruption and energy prices pushed inflation above target.\n- Statement-II — **correct**. Inflation targeting rests on exactly this assumption: a higher policy rate raises borrowing costs, cools credit, investment and consumption, and so drains demand-side price pressure.\n- Explanation link — **holds**. The hikes in I follow from the belief in II; without that belief there would be no reason to hike at all. Hence (a).\n\nThe honest caveat, worth carrying into every question here: the assumption is weakest against **supply-side or imported inflation** — food, fuel, freight — which a policy rate cannot cure, only mask by crushing demand.\n\nDurable point: India's framework targets **CPI inflation at 4% with a ±2% band**, set by the six-member Monetary Policy Committee.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Both statements are factually correct and the belief that monetary policy can curb rising prices is precisely why central banks hiked rates post-pandemic."
+   },
+   "key_supported": true
   },
   {
    "q_no": 23,
@@ -646,12 +805,19 @@
     "ENV-13"
    ],
    "primary_topic_code": "ENV-13",
-   "explanation_md": null,
+   "explanation_md": "A carbon market spreads because it puts a price on emitting and lets that price decide *who* abates most cheaply — a reason that has nothing to do with where the money ends up.\n\n- Statement-I — **correct**. Emissions trading and offset crediting are already the most widely adopted mitigation instruments across jurisdictions, and Article 6 of the Paris Agreement was written to extend them internationally.\n- Statement-II — **correct on the key's reading**. Where the State issues and auctions allowances, or collects penalties for shortfalls, resources do move from emitting firms to the exchequer. Note the softness: in pure permit trading and in offset markets, money moves between private parties, and freely allocated permits transfer value the other way.\n- Explanation link — **fails**. Revenue accruing to the State says nothing about why carbon markets are becoming widespread. That gives (b).\n\nDurable point: India's own instrument is the **Carbon Credit Trading Scheme**, enabled by the Energy Conservation (Amendment) Act, 2022, which succeeds the earlier PAT (Perform, Achieve, Trade) energy-efficiency certificate market.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "ENV-13 names carbon markets directly; the resource-transfer limb has an economics flavour but no ECO topic covers carbon pricing.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Both statements stand on their own, but the direction of resource transfer is not the reason carbon markets are becoming a widespread climate tool."
+   },
+   "key_supported": true
   },
   {
    "q_no": 24,
@@ -674,12 +840,19 @@
     "ECO-12"
    ],
    "primary_topic_code": "ECO-03",
-   "explanation_md": null,
+   "explanation_md": "Sterilization means neutralising the rupee liquidity created or destroyed by the RBI's foreign-exchange operations, and the instrument that does it is buying or selling government securities — **open market operations**.\n\n- (a) Open Market Operations — correct. When the RBI buys dollars to stop the rupee appreciating, it releases rupees into the system; selling an equal value of G-secs takes them straight back out, leaving the money supply and inflation undisturbed.\n- (b) Oversight of payment and settlement systems — a regulatory function under the payment systems law; it moves no liquidity.\n- (c) Debt and cash management for the Centre and States — the RBI acting as banker and debt manager to government, an agency role, not a monetary operation of its own.\n- (d) Regulating NBFCs — pure supervision; it does not touch the monetary base.\n\nDurable point: the **Market Stabilisation Scheme (MSS), introduced 2004**, was created for exactly this purpose. MSS bills and bonds are issued to absorb durable liquidity, and the proceeds are impounded in a separate account with the RBI — never spent by the government.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Sterilization means neutralising the liquidity impact of forex flows, done through open market operations (and the MSS)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 25,
@@ -702,12 +875,19 @@
     "ECO-08"
    ],
    "primary_topic_code": "ECO-07",
-   "explanation_md": null,
+   "explanation_md": "The dividing line is **maturity**: instruments of one year or less trade in the money market, anything longer in the capital market. Only two of the four clear that bar.\n\n- 1. Government Bond Market — **capital market**. Dated G-secs run five to forty years; the issuer being the government is irrelevant, the tenor is what counts.\n- 2. Call Money Market — **money market**. Overnight to fourteen-day interbank lending, used by banks to meet CRR and daily liquidity mismatches.\n- 3. Treasury Bill Market — **money market**. T-bills are issued in 91, 182 and 364-day tenors, all under a year, and are zero-coupon, sold at a discount to face value.\n- 4. Stock Market — **capital market**. Equity has no maturity at all, which puts it at the far end of the long-term segment.\n\nTwo, so (b).\n\nDurable point: the same borrower can appear in both markets — the Government of India funds itself through T-bills (money market) and dated securities (capital market). Classify by **tenor, never by issuer**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Four numbered items counted with stmt_1_2_3 (no four-item slug in the vocabulary).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Government bond market and stock market are capital markets; call money and treasury bills are short-term money-market instruments."
+   },
+   "key_supported": true
   },
   {
    "q_no": 26,
@@ -730,12 +910,19 @@
     "GEO-17"
    ],
    "primary_topic_code": "ECO-14",
-   "explanation_md": null,
+   "explanation_md": "'Small Farmer Large Field' delivers the economies of scale of a big farm **without moving an inch of land out of the farmer's hands** — many small plots are worked as if they were one field by synchronising operations.\n\n- (a) Resettling war refugees on collectively cultivated land — this is collective or commune farming, and ownership itself is pooled. Nothing in SFLF involves resettlement or joint ownership.\n- (b) **Correct**. Marginal farmers in a contiguous area group themselves and harmonise chosen operations — a common sowing window, shared machinery, one nursery, a single harvest and a pooled sale — cutting per-unit costs and improving bargaining power.\n- (c) Surrendering land to a corporate body for a fixed term against payment — that is lease or corporate farming; the farmer stops farming.\n- (d) A company supplying loans, inputs and know-how in return for a specified commodity — that is textbook contract farming.\n\nDurable point: the distinguishing test across all four is **who holds and who operates the land**. SFLF changes neither ownership nor the operator, only the timing and scale of operations.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "'Small Farmer Large Field' is an agri-extension/aggregation concept; nearest fit is ECO-14 (agri institutions and marketing), with cropping-practice overlap in GEO-17.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Small Farmer Large Field is an aggregation model where marginal farmers keep their land but synchronise and harmonise selected operations to capture scale."
+   },
+   "key_supported": true
   },
   {
    "q_no": 27,
@@ -758,12 +945,19 @@
     "ECO-14"
    ],
    "primary_topic_code": "GEO-17",
-   "explanation_md": null,
+   "explanation_md": "Niger seed is a minor kharif oilseed grown almost entirely by tribal cultivators on marginal uplands, and it carries a Minimum Support Price — all three statements hold, so (c).\n\n- 1 — **correct**. Nigerseed is one of the oilseeds in the MSP list announced each year by the government on CACP's recommendation, which is why the crop survives despite tiny acreage.\n- 2 — **correct**. It is sown with the monsoon and harvested late in the year, making it a **kharif** crop; it needs little irrigation and tolerates poor, sloping soil.\n- 3 — **correct**. Tribal households in Odisha, Chhattisgarh, Madhya Pradesh, Jharkhand and the Maharashtra hills press the seed for edible oil for their own kitchens; the cake goes to cattle and the crop doubles as a bee forage.\n\nDurable point: MSP covers **23 crops — 7 cereals, 5 pulses, 7 oilseeds and 4 commercial crops**. Nigerseed is one of the seven oilseeds, alongside groundnut, rapeseed-mustard, soyabean, sesamum, sunflower and safflower.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles subjects: two statements are crop knowledge (GEO-17, kharif oilseed and its use), one is MSP coverage (ECO-14).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Niger is an MSP-notified kharif oilseed and its oil is used for cooking by tribal communities, so all three hold."
+   },
+   "key_supported": true
   },
   {
    "q_no": 28,
@@ -786,12 +980,19 @@
     "ECO-15"
    ],
    "primary_topic_code": "ECO-01",
-   "explanation_md": null,
+   "explanation_md": "An intangible asset has no physical substance yet is identifiable and yields future economic benefit — three of the four items qualify, so (c).\n\n- 1. Brand recognition — **intangible**. It exists only as reputation in customers' minds, but it commands a price premium and is routinely valued on acquisition as goodwill or brand value.\n- 2. Inventory — **tangible**. Physical stock of goods and materials, and a current asset at that; it is consumed or sold within the operating cycle rather than yielding benefit over years.\n- 3. Intellectual property — **intangible**. Patents, copyrights, trademarks and trade secrets are legal rights; the paper they are printed on is not the asset.\n- 4. Mailing list of clients — **intangible**. Customer lists and relationships are separately identifiable, can be sold or licensed, and are recognised as intangible assets on acquisition.\n\nDurable point: inventory is the odd one out on **physical substance**, not on value or importance. The modern firm's balance sheet is increasingly intangible-heavy, which is why measured investment understates real capital formation.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Vocabulary gap: no topic covers intangible capital / asset classification; ECO-01 is the nearest general-concepts bucket, ECO-15 only carries the intellectual-property element.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Brand recognition, intellectual property and a client mailing list are intangible; inventory is a physical, tangible asset."
+   },
+   "key_supported": true
   },
   {
    "q_no": 29,
@@ -814,12 +1015,19 @@
     "POL-24"
    ],
    "primary_topic_code": "ECO-11",
-   "explanation_md": null,
+   "explanation_md": "The Fifteenth Finance Commission used six criteria for horizontal devolution; strip out population, area and income distance and exactly **three** remain, so (b).\n\n- 1. Demographic performance — **used**, weight 12.5%. It rewards states that lowered fertility, deliberately offsetting the switch from the 1971 to the 2011 population figures.\n- 2. Forest and ecology — **used**, 10%. It compensates states for the opportunity cost of retaining dense forest cover.\n- 3. Governance reforms — **not a criterion**. Governance was addressed through grants and performance incentives, never inside the devolution formula.\n- 4. Stable government — **not a criterion**. No Finance Commission has ever devolved on a political-stability measure.\n- 5. Tax and fiscal efforts — **used**, 2.5%. It rewards states that raise own revenue relative to their capacity.\n\nDurable point: **income distance carries 45%**, the single heaviest weight and the equalising element — the further a state's per capita income sits below the richest, the larger its share. Population and area take 15% each.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles ECO/POL: devolution criteria sit in ECO-11 (Finance Commission under taxation), the body itself in POL-24.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Beyond population, area and income distance the Fifteenth Finance Commission used demographic performance, forest and ecology, and tax and fiscal efforts."
+   },
+   "key_supported": true
   },
   {
    "q_no": 30,
@@ -842,12 +1050,19 @@
     "ECO-16"
    ],
    "primary_topic_code": "CAI-04",
-   "explanation_md": null,
+   "explanation_md": "S3i is built around **three** investment verticals, and urban transport is not one of them, so (c).\n\n- 1. Affordable housing — **a focus area**. Financing resilient, low-cost housing in developing countries is the initiative's flagship strand.\n- 2. Mass rapid transport — **not a focus area**. Metro and urban transit financing sits with the multilateral development banks, not with this UNOPS vehicle.\n- 3. Health care — **a focus area**, in the form of health infrastructure such as clinics and hospitals.\n- 4. Renewable energy — **a focus area**, covering clean generation projects in underserved markets.\n\nThe question is really testing whether you know what UNOPS itself is. It is the **United Nations Office for Project Services**, the UN's operational arm for infrastructure delivery, procurement and project management — it implements rather than sets policy, and unlike most UN bodies it is self-financing, recovering its costs from the projects it runs.\n\nDurable point: S3i stands for **Sustainable Investments in Infrastructure and Innovation** — it is UNOPS acting as an investor, blending public and private capital rather than disbursing aid.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "UNOPS is a UN body with no dedicated topic; CAI-04 (multilateral groupings) is the nearest, ECO-16 carries the infrastructure-investment side.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "UNOPS S3i invests in affordable housing, renewable energy and health infrastructure, but not mass rapid transport."
+   },
+   "key_supported": true
   },
   {
    "q_no": 31,
@@ -870,12 +1085,19 @@
     "POL-13"
    ],
    "primary_topic_code": "POL-08",
-   "explanation_md": null,
+   "explanation_md": "Due process asks whether the law and its procedure are themselves fair — a hearing before an impartial authority, notice, reasons — which is exactly the content of **natural justice**, so (a).\n\n- (b) Procedure established by law is the deliberate *opposite* pole. Article 21 as drafted adopted the narrower Japanese-derived formula, requiring only that some validly enacted procedure exist, however harsh.\n- (c) Fair application of law is the strongest distractor, but it concerns only enforcement. An arbitrary law applied evenly to everyone still fails due process; due process tests the law's own fairness, not just its even-handedness.\n- (d) Equality before law is the Article 14 rule-of-law limb — comparative treatment across persons, not the quality of the procedure applied to one.\n\nDurable point: **Maneka Gandhi v. Union of India (1978)** read the substance of due process into Article 21 by holding that the \"procedure established by law\" must itself be right, just, fair and not arbitrary — importing natural justice without amending a word of the text.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Due process tests whether the law itself is fair, just and reasonable, which in essence imports the principles of natural justice rather than mere procedure."
+   },
+   "key_supported": true
   },
   {
    "q_no": 32,
@@ -898,12 +1120,19 @@
     "POL-27"
    ],
    "primary_topic_code": "POL-15",
-   "explanation_md": null,
+   "explanation_md": "Prisons sit in the **State List** of the Seventh Schedule, and that placement is a direct inheritance from the colonial statute that put jails under provincial control — so both statements stand and II explains I, giving (a).\n\n- Statement-I — **correct**. Each State runs its jails under its own prison manual and rules; buildings, staffing, discipline, remission and daily administration are all State business.\n- Statement-II — **correct**. The Prisons Act, 1894 vested superintendence over jails and the power to frame rules in the local, later provincial, government, and that allocation carried through the Government of India Act, 1935 into the Constitution's State List.\n- Explanation link — **holds**. The colonial arrangement was inherited rather than reinvented, which is precisely why States, not the Union, write prison rules today.\n\nDurable point: the Centre can only **advise**. The Model Prison Manual and the model prison legislation circulated by the Home Ministry have no legal force until a State chooses to adopt them, which is why prison conditions differ so sharply across States.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Prison administration has no dedicated topic; tagged to POL-15 for the State List placement and POL-27 for administration.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Prisons are a State List subject run under state rules, and the Prisons Act, 1894 vesting control in the provincial/local government is exactly why that is so."
+   },
+   "key_supported": true
   },
   {
    "q_no": 33,
@@ -925,12 +1154,19 @@
     "POL-03"
    ],
    "primary_topic_code": "POL-03",
-   "explanation_md": null,
+   "explanation_md": "A constitution is what makes a government **limited** — it both creates power and fences it in, and the fencing is the part that distinguishes it from ordinary law, so (c).\n\n- (a) Determining the objectives for making laws — the Preamble and Directive Principles do gesture at this, but a constitution that only set goals and left power unbounded would not be a constitution at all.\n- (b) Enabling the creation of political offices and a government — true but a means, not the chief purpose. An ordinary statute can create offices; only a constitution binds the office-holder afterwards.\n- (c) **Correct**. Defining competence and imposing limits — separation of powers, federal division, justiciable rights, judicial review — is the essence of constitutionalism.\n- (d) Securing social justice, equality and security — an aspiration specific to some constitutions, India's included. Many constitutions carry no such promise and remain constitutions.\n\nDurable point: **constitutionalism means limited government**. A written constitution without enforceable limits is a description of power, not a constraint on it.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": "'Chief' is printed in bold on the paper; markdown emphasis retained."
+   "transcription_note": "'Chief' is printed in bold on the paper; markdown emphasis retained.",
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "A constitution's chief purpose is constitutionalism itself, defining and limiting the powers of government."
+   },
+   "key_supported": true
   },
   {
    "q_no": 34,
@@ -983,12 +1219,19 @@
     "POL-25"
    ],
    "primary_topic_code": "POL-24",
-   "explanation_md": null,
+   "explanation_md": "Only the **National Commission for Backward Classes** is written into the Constitution itself — Article 338B, inserted by the 102nd Amendment Act, 2018 — so (a).\n\n- 1. NCBC — **constitutional**. It functioned as a statutory body from 1993 until the 102nd Amendment gave it constitutional status and a role in advising on the socially and educationally backward classes list.\n- 2. NHRC — **statutory**, created by the Protection of Human Rights Act, 1993. Its stature misleads candidates; no Article backs it.\n- 3. National Law Commission — **neither statutory nor constitutional**. It is an executive body reconstituted for a fixed term by government resolution, which is why its existence lapses between terms.\n- 4. NCDRC — **statutory**, the apex consumer redressal tribunal under the Consumer Protection Act, 1986, re-enacted in 2019.\n\nDurable point: the constitutional commissions guarding group interests are **Article 338 (SCs), 338A (STs), 338B (backward classes) and 350B (linguistic minorities)**. Everything else in this space — NHRC, NCW, CIC, Lokpal — is a creature of statute.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Only the NCBC is constitutional (Article 338B); NHRC and NCDRC are statutory and the Law Commission is a non-statutory executive body."
+   },
+   "key_supported": true
   },
   {
    "q_no": 36,
@@ -1011,12 +1254,19 @@
     "POL-18"
    ],
    "primary_topic_code": "POL-17",
-   "explanation_md": null,
+   "explanation_md": "All three statements fail, so (d) — and each fails on an express provision, which makes this a pure text-recall question.\n\n- 1 — **wrong**. Article 71(2) expressly saves everything the President did in office up to the date the election is declared void. The invalidation is prospective; no order, assent or appointment is undone.\n- 2 — **wrong**. Article 71(4) bars any challenge founded on a vacancy in the electoral college, and Article 62 requires the election to be completed *before* the term expires. Dissolved Assemblies are therefore no ground for postponement — the office cannot be left vacant.\n- 3 — **wrong**. Article 111 prescribes **no time limit** for the President's assent. The only temporal wording is that a bill being returned for reconsideration must be sent back \"as soon as possible\", which binds nothing.\n\nDurable point: the silence in Article 111 is what created the so-called **pocket veto** — a bill may simply be left unsigned indefinitely, as with the Indian Post Office (Amendment) Bill in 1986.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Article 71(2) saves acts done before a void election, presidential elections cannot be postponed for dissolved assemblies, and no time limit is prescribed for assent, so none is correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 37,
@@ -1038,12 +1288,19 @@
     "POL-18"
    ],
    "primary_topic_code": "POL-18",
-   "explanation_md": null,
+   "explanation_md": "The Rajya Sabha's power turns entirely on whether the bill is a **Money Bill** or merely a Finance Bill: full powers over the latter, recommendations only over the former. Statements 1 and 2 hold, 3 fails — so (b).\n\n- 1 — **correct**. A Finance Bill that is not a Money Bill is, once introduced in the Lok Sabha on the President's recommendation, an ordinary bill in every other respect. The Rajya Sabha may amend it or reject it outright.\n- 2 — **correct**. Under Article 109 the Rajya Sabha must return a Money Bill within **14 days** and may only make recommendations, which the Lok Sabha is free to ignore. Silence or delay means the bill is deemed passed.\n- 3 — **wrong on its second half**. There is indeed no joint sitting for a Money Bill, but a joint sitting under Article 108 is never *necessary* for any bill; it is an option the President may exercise on deadlock.\n\nDurable point: **Article 110** defines a Money Bill exhaustively, and the **Speaker's certificate** decides the classification.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Statements 1 and 2 are correct, but a joint sitting is merely available and never 'necessary' for a Finance Bill."
+   },
+   "key_supported": true
   },
   {
    "q_no": 38,
@@ -1066,12 +1323,20 @@
     "ENV-09"
    ],
    "primary_topic_code": "ENV-06",
-   "explanation_md": null,
+   "explanation_md": "A community reserve stands on **private or community land**, so the community that volunteered it — not the forest bureaucracy — manages it. Two statements hold, giving (b).\n\n- 1 — **wrong**. A Community Reserve Management Committee, made up largely of village or Gram Sabha nominees with a Forest Department representative, is the competent authority. Note the stem's own slip: these reserves are declared by the **State** Government, not the Centre.\n- 2 — **correct**. Hunting remains barred; the Act's hunting prohibition runs nationwide and is not relaxed for this category.\n- 3 — **correct**. The sanctuary provision barring removal of forest produce is not carried over to community reserves, so non-timber forest produce collection continues — the category exists to keep local livelihood use alive.\n- 4 — **the statement the key treats as wrong**. The declaration freezes the land-use pattern, changeable only by committee resolution with State approval, so agriculture is constrained rather than guaranteed. Which of 3 and 4 falls is genuinely arguable; the count of two is not.\n\nDurable point: Conservation and Community Reserves were added by the **2002 amendment** to the Wild Life (Protection) Act, 1972.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "The Management Committee, not the Chief Wildlife Warden, governs a community reserve, while hunting is barred and NTFP collection and traditional agriculture continue."
+   },
+   "key_supported": true,
+   "review_flag": "Official key says b, independent reasoning said c."
   },
   {
    "q_no": 39,
@@ -1093,12 +1358,19 @@
     "POL-23"
    ],
    "primary_topic_code": "POL-23",
-   "explanation_md": null,
+   "explanation_md": "Scheduled Areas are a **Fifth Schedule** construct in which the Governor, not the Chief Minister, is the constitutional link to the Union — statements 1 and 2 hold and 3 fails, giving (b).\n\n- 1 — **correct**. Under the Fifth Schedule the **President** declares, alters, increases or rescinds a Scheduled Area within a State by order; no parliamentary legislation is needed.\n- 2 — **correct**. The administrative units used run from the district at the largest down to a cluster of villages within a block, the working criteria being tribal preponderance, compactness, viability and comparative economic backwardness.\n- 3 — **wrong**. The annual report on the administration of Scheduled Areas goes from the **Governor to the President**, not from the Chief Minister to the Home Ministry, and the Union's directions run to the State.\n\nDurable point: Fifth Schedule para 3 carries the Governor's annual report; the Governor may also **bar or modify the application of any Union or State law** to a Scheduled Area, on the advice of the Tribes Advisory Council. The Sixth Schedule, by contrast, uses Autonomous District Councils.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Presidential notification and the district-to-village-cluster range are correct, but the Governor, not the Chief Minister, reports annually to the President."
+   },
+   "key_supported": true
   },
   {
    "q_no": 40,
@@ -1121,12 +1393,19 @@
     "POL-13"
    ],
    "primary_topic_code": "POL-07",
-   "explanation_md": null,
+   "explanation_md": "Article 335 requires that SC/ST claims be considered **consistently with the maintenance of efficiency of administration**, but it nowhere says what efficiency is — so I stands, II falls, and the answer is (c).\n\n- Statement-I — **correct**. The Supreme Court has repeatedly read Article 16(4) as qualified by Article 335, most prominently in *Indra Sawhney* (1992) and again in *M. Nagaraj* (2006), where efficiency was made one of the conditions a State must satisfy before extending reservation in promotion.\n- Statement-II — **incorrect**. Article 335 supplies no definition. The Court itself has since observed that the term is undefined and must not be read narrowly, as though a diverse service were inherently less efficient.\n- Explanation link — irrelevant once II is false; options (a) and (b) both die with it.\n\nDurable point: the **proviso to Article 335, added by the 82nd Amendment Act, 2000**, expressly permits relaxation of qualifying marks and evaluation standards for SC/ST candidates in promotion — efficiency is a consideration, not a bar.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Courts have read Article 335 as a limit on Article 16(4) reservations, but Article 335 nowhere defines 'efficiency of administration'."
+   },
+   "key_supported": true
   },
   {
    "q_no": 41,
@@ -1149,12 +1428,19 @@
     "ANM-06"
    ],
    "primary_topic_code": "ANM-04",
-   "explanation_md": null,
+   "explanation_md": "Dhanyakataka, the ancient city beside the great stupa at Amaravati on the lower Krishna, lay in the **Andhra** country and was the seat of the Chaitika branch of the Mahasanghikas.\n\n- Gandhara is the north-western Peshawar–Taxila belt — Buddhist, but the home of Gandharan art and other schools, not of Dhanyakataka.\n- Kalinga is coastal Odisha; its Buddhist associations run through Ashoka's war and sites like Lalitagiri, far from the Krishna valley.\n- Magadha is the middle Ganga plain — Rajgir, Nalanda, Bodh Gaya — and nowhere near Dhanyakataka.\n\nDurable point: the Krishna–Godavari delta (Amaravati, Dhanyakataka, Nagarjunakonda) was the southern heartland of the Mahasanghikas, the school whose split from the Sthaviras at the Second Buddhist Council fed into later Mahayana.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Dhanyakataka is Amaravati on the Krishna in the Andhra region, a Mahasanghika Buddhist centre."
+   },
+   "key_supported": true
   },
   {
    "q_no": 42,
@@ -1177,12 +1463,19 @@
     "ANM-04"
    ],
    "primary_topic_code": "ART-01",
-   "explanation_md": null,
+   "explanation_md": "Two of the three hold: a stupa is a relic repository and a votive-commemorative monument, but the **form itself is pre-Buddhist**, adopted rather than invented by Buddhism.\n\n- 1 — Wrong. Raising a mound over the remains of the dead is older than Buddhism; Vedic funerary mounds and megalithic burial cairns already did this. Buddhism took over the form and supplied it with doctrinal meaning.\n- 2 — Correct. The classic stupa encloses a relic casket in its core: corporeal relics, objects used by the Buddha, or sacred texts.\n- 3 — Correct. Stupas were raised to commemorate events and places in the Buddha's life, and small votive stupas cluster around the large ones at Sanchi and Bharhut.\n\nDurable point: the instruction attributed to the Buddha in the Mahaparinibbana account is for a stupa over his relics — Buddhism gave the mound its meaning, not its architecture.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles ART/ANM; follows the 2026 Q12/Q14 precedent of putting stupa questions under ART-01 with ANM-04 as the Buddhism secondary.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Stupas as burial mounds are pre-Buddhist in origin, so statement 1 fails, while 2 (relic repository) and 3 (votive/commemorative) are correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 43,
@@ -1204,12 +1497,19 @@
     "ANM-07"
    ],
    "primary_topic_code": "ANM-07",
-   "explanation_md": null,
+   "explanation_md": "All three were **maritime trading ports** on the Tamil coast, one tied to each of the muvendar.\n\n- Korkai: Pandya port near the mouth of the Thamirabarani on the Gulf of Mannar, famous for its pearl fishery.\n- Poompuhar (Kaveripattinam, or Puhar): Chola port at the mouth of the Kaveri, the setting of much of the Silappadikaram.\n- Muchiri (Muziris to Greek and Roman writers): Chera port on the Kerala coast, the hub of the pepper trade with Rome.\n\nWhy the others fail: the capitals were Madurai (Pandya), Uraiyur (Chola) and Vanji (Chera); iron-and-steel making is associated with inland sites; and none of the three is a Jain tirthankara shrine.\n\nDurable point: Roman gold coin hoards and the Periplus of the Erythraean Sea put Muchiri at the centre of Indo-Roman trade — it is the ports, not the capitals, that foreign sources of the Sangam age name.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Korkai (Pandya), Poompuhar/Kaveripattinam (Chola) and Muchiri/Muziris (Chera) were famous ancient South Indian ports."
+   },
+   "key_supported": true
   },
   {
    "q_no": 44,
@@ -1231,12 +1531,19 @@
     "ANM-07"
    ],
    "primary_topic_code": "ANM-07",
-   "explanation_md": null,
+   "explanation_md": "**Vadakkiruttal** is the Sangam practice of a king who has lost his honour, typically after defeat, sitting facing north and fasting until death — ritual suicide rather than surrender.\n\n- (a) fails: women in royal service appear in later court traditions, but that is not what this term names.\n- (b) fails: assemblies of learned men in a royal court is the academy or sangam idea, a different thing entirely.\n- (c) fails: girls guarding grain fields from birds is a stock image in Sangam love poetry, with its own vocabulary.\n- (d) is the practice: death by voluntary starvation, seated facing north.\n\nDurable point: it belongs to the heroic code of puram poetry, where honour outranks survival. Distinguish it from Jain sallekhana, which is a religious vow of fasting to death, not a warrior's answer to defeat.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Vattakirutal (vadakkiruttal) in Sangam poetry is the defeated king's ritual fast unto death facing north."
+   },
+   "key_supported": true
   },
   {
    "q_no": 45,
@@ -1259,12 +1566,19 @@
     "ANM-10"
    ],
    "primary_topic_code": "ANM-09",
-   "explanation_md": null,
+   "explanation_md": "None of the four existed as a kingdom in the early eighth century AD — all are **post-tenth-century** powers, and three of them rose out of the decline of the Western Chalukyas of Kalyani.\n\n- 1 Hoysala — No. Hill chiefs in Karnataka from about the eleventh century, Chalukya feudatories, fully sovereign only under Vishnuvardhana in the twelfth.\n- 2 Gahadavala — No. Established at Kannauj by Chandradeva late in the eleventh century; Jaichand, defeated in 1194, was its last major ruler.\n- 3 Kakatiya — No. Chalukya subordinates in Telangana who became independent in the twelfth century, ruling from Warangal.\n- 4 Yadava — No. The Seuna Yadavas of Devagiri became independent under Bhillama late in the twelfth century.\n\nDurable point: the early eighth century belongs to the Chalukyas of Badami, the Pallavas of Kanchi and the rising Gurjara-Pratiharas. The Hoysala–Kakatiya–Yadava trio is four centuries later.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Vocabulary gap: no topic covers post-Chola Deccan dynasties; Hoysala/Kakatiya/Yadava fall to ANM-09, Gahadavala to ANM-10.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Hoysalas, Gahadavalas, Kakatiyas and Yadavas all arose from the 10th-12th centuries, none in the early 8th century."
+   },
+   "key_supported": true
   },
   {
    "q_no": 46,
@@ -1287,12 +1601,19 @@
     "ANM-08"
    ],
    "primary_topic_code": "ART-10",
-   "explanation_md": null,
+   "explanation_md": "Only the second and fourth pairs hold; the first and third attach famous names to the wrong works.\n\n- 1 Devichandragupta : Bilhana — Wrong. The play is by **Vishakhadatta**, who also wrote Mudrarakshasa. Bilhana wrote the Vikramankadevacharita on the Chalukya Vikramaditya VI.\n- 2 Hammira-Mahakavya : Nayachandra Suri — Correct. A Jain poet's Sanskrit epic on Hammira, the Chahamana ruler of Ranthambore.\n- 3 Milinda-panha : Nagarjuna — Wrong. It is an anonymous Pali dialogue between the monk Nagasena and the Indo-Greek king Menander. Nagarjuna is the Madhyamaka philosopher, a different figure altogether.\n- 4 Nitivakyamrita : Somadeva Suri — Correct. A Jain treatise on statecraft; the same author is credited with Yashastilaka.\n\nDurable point: the Devichandragupta survives only in fragments and quotations in later texts, yet it is the main literary basis for the Ramagupta episode in Gupta history.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles ART/ANM; literature-and-author questions go to ART-10 per the 2021 Q41 precedent, ANM-08 for the Gupta-era context.",
-   "transcription_note": "Rendered as a markdown table; on the paper it is a two-column list of pairs with italic headings 'Literary work' and 'Author', the items separated by a colon (e.g. '1. Devichandragupta : Bilhana'), with the literary works in italics. Verified against the page image."
+   "transcription_note": "Rendered as a markdown table; on the paper it is a two-column list of pairs with italic headings 'Literary work' and 'Author', the items separated by a colon (e.g. '1. Devichandragupta : Bilhana'), with the literary works in italics. Verified against the page image.",
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Devichandragupta is Vishakhadatta's (not Bilhana's) and Milinda-panha is ascribed to Nagasena (not Nagarjuna); pairs 2 and 4 are correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 47,
@@ -1314,12 +1635,19 @@
     "ANM-04"
    ],
    "primary_topic_code": "ANM-04",
-   "explanation_md": null,
+   "explanation_md": "Attributing souls to earth, water, fire, air and stone is distinctively **Jaina**: its classification of jiva includes one-sensed beings embodied in earth-bodies, water-bodies, fire, air and plants.\n\n- Buddhism rejects a permanent soul altogether (anatta), so it cannot extend one to rocks or streams.\n- Shaivism is a theistic tradition centred on devotion to Shiva; it makes no doctrine of souls in inanimate matter.\n- Vaishnavism, likewise, is built on devotion to Vishnu and his avataras.\n- Jainism does make exactly this claim, which is why its ahimsa reaches so far: digging, farming and careless movement all injure embodied souls.\n\nDurable point: the Jaina hierarchy runs from one-sensed sthavara (immobile) beings up to five-sensed trasa beings, and the karmic weight of harming a being rises with the number of senses it possesses.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Topic is unambiguous; format called 'identify' rather than 'simple' on the 2021 Q60 precedent (quoted description, then name the thing).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Jainism uniquely attributes jiva/souls to earth, water, fire and other inanimate bodies."
+   },
+   "key_supported": true
   },
   {
    "q_no": 48,
@@ -1341,12 +1669,19 @@
     "ANM-12"
    ],
    "primary_topic_code": "ANM-12",
-   "explanation_md": null,
+   "explanation_md": "**Devaraya I**, ruling in the early fifteenth century, is the Vijayanagara king credited with damming the Tungabhadra and cutting an aqueduct-canal to carry water several kilometres into the capital — the works that let a large city survive on dry granite terrain.\n\n- Mallikarjuna, Virupaksha and Vira Vijaya all belong to the later, weakening phase of the Sangama line, and none is associated with these hydraulic works.\n- Devaraya I is also the ruler during whose reign the Italian traveller Nicolo de Conti visited Vijayanagara.\n\nDurable point: Vijayanagara's water engineering — the river dam, the aqueduct, and the stepped tanks inside the city — is the standard example of state-built irrigation in the Deccan, and the Portuguese chronicler Nuniz is the source that attributes it to Devaraya I.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Devaraya I dammed the Tungabhadra and built the long aqueduct-canal carrying water to Vijayanagara."
+   },
+   "key_supported": true
   },
   {
    "q_no": 49,
@@ -1369,12 +1704,19 @@
     "HIS-01"
    ],
    "primary_topic_code": "ANM-11",
-   "explanation_md": null,
+   "explanation_md": "**Bahadur Shah** of Gujarat conceded Diu to the Portuguese in the 1530s, buying naval support at a moment when Humayun's armies were pressing him from the north — a defensive bargain that cost him a permanent foothold on his own coast.\n\n- Ahmad Shah belongs to the early fifteenth century and is remembered for founding Ahmedabad, well before the Portuguese arrived in Indian waters.\n- Mahmud Begarha did the opposite: he contested Portuguese sea power off Diu, fighting alongside an Egyptian Mamluk fleet.\n- Muhammad Shah is not the ruler associated with the Diu transaction.\n\nDurable point: Diu is the hinge of the story. Gujarat's sultans first resisted Portuguese naval power and then, squeezed between Delhi and Lisbon, traded a port for an alliance — and Bahadur Shah himself died soon afterwards in a confrontation with the Portuguese off Diu.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Vocabulary gap: the regional sultanates (Gujarat) have no topic of their own; ANM-11 is the nearest, HIS-01 covers the Portuguese side and straddles into HIS.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Bahadur Shah of Gujarat ceded Diu to the Portuguese in 1535 under the treaty seeking help against Humayun."
+   },
+   "key_supported": true
   },
   {
    "q_no": 50,
@@ -1397,12 +1739,19 @@
     "HIS-03"
    ],
    "primary_topic_code": "POL-01",
-   "explanation_md": null,
+   "explanation_md": "The **Charter Act of 1833** renamed the office: the Governor-General of Bengal became the Governor-General of India, with Lord William Bentinck the first to hold the new title, and Madras and Bombay stripped of their legislative powers in his favour.\n\n- The Regulating Act of 1773 created the post of Governor-General of **Bengal** (Warren Hastings), with only nominal authority over the other presidencies.\n- Pitt's India Act of 1784 set up the Board of Control and the system of dual government; it left the title untouched.\n- The Charter Act of 1793 renewed the Company's trade monopoly and strengthened the Governor-General over his council — still as Governor-General of Bengal.\n\nDurable point: 1833 is the centralising Act. One government for all of British India, the Company reduced from trader to administrator, and the first Law Member (Macaulay) added to the Governor-General's council.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles POL/HIS: the Charter Act of 1833 is covered identically by Laxmikanth Ch.1 (POL-01) and Spectrum Ch.4 (HIS-03).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The Charter Act of 1833 redesignated the Governor-General of Bengal as Governor-General of India."
+   },
+   "key_supported": true
   },
   {
    "q_no": 51,
@@ -1426,12 +1775,19 @@
     "ECO-18"
    ],
    "primary_topic_code": "SNT-04",
-   "explanation_md": null,
+   "explanation_md": "Two hold. Janani Suraksha Yojana is a **centrally sponsored** conditional cash transfer under the National Health Mission, aimed squarely at getting poor women to deliver in a facility.\n\n- 1 — Wrong. It is a safe-motherhood intervention under the National Health Mission and is fully centrally sponsored, not a scheme of the State Health Departments.\n- 2 — Correct. Reducing maternal and neo-natal mortality among poor pregnant women is its stated objective.\n- 3 — Correct. Promoting institutional delivery is the mechanism: cash to the mother, and an incentive to the ASHA who brings her in.\n- 4 — Wrong. Care for sick infants up to one year of age belongs to **Janani Shishu Suraksha Karyakram**, the entitlement scheme covering free delivery, drugs, diagnostics, diet, blood and transport.\n\nDurable point: JSY pays cash to bring the mother in; JSSK removes out-of-pocket cost once she is there and extends to sick newborns and infants. Two schemes, two mechanisms.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles SNT/CAI: the taxonomy files health missions under SNT-04, while CAI-10 is the schemes tracker; ECO-18 for the maternal-health indicators.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "JSY is a safe motherhood intervention under the National Health Mission (not state departments) and sick-infant care belongs to JSSK, leaving statements 2 and 3 correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 52,
@@ -1455,12 +1811,19 @@
     "CAI-10"
    ],
    "primary_topic_code": "SNT-04",
-   "explanation_md": null,
+   "explanation_md": "Three hold. The single error is the supplement: Anaemia Mukt Bharat's prophylactic supplementation is **iron and folic acid**, not calcium.\n\n- 1 — Wrong. Age-appropriate prophylactic IFA — syrup or tablets on a colour-coded schedule for children, adolescents and pregnant women — is the first intervention. Calcium supplementation exists elsewhere in maternal health, but it is not the anaemia intervention.\n- 2 — Correct. Delayed cord clamping is promoted so the newborn receives more placental blood, improving infant iron stores.\n- 3 — Correct. Periodic deworming for children and adolescents is a listed intervention, since worm burden causes chronic blood loss.\n- 4 — Correct. Addressing non-nutritional causes in endemic pockets, with malaria, haemoglobinopathies and fluorosis named explicitly, is the sixth intervention.\n\nDurable point: the strategy is framed as 6x6x6 — six target groups, six interventions, six institutional mechanisms — and it deliberately reaches past diet to blood loss and inherited causes.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Same SNT/CAI straddle as Q51; SNT-01 carries the nutrition and anaemia biology.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Anaemia Mukt Bharat uses prophylactic iron-folic acid, not calcium, so statement 1 fails while delayed cord clamping, deworming and non-nutritional causes are all part of the 6x6x6 strategy."
+   },
+   "key_supported": true
   },
   {
    "q_no": 53,
@@ -1482,12 +1845,19 @@
     "SNT-11"
    ],
    "primary_topic_code": "SNT-11",
-   "explanation_md": null,
+   "explanation_md": "Statement 1 is right and statement 2 is not: carbon fibre composites are standard in aircraft and vehicle structures, and used fibre **can** be recovered and reused.\n\n- 1 — Correct. The strength-to-weight ratio is the whole point. Carbon-fibre reinforced polymer replaces metal in airframes, body panels and drive shafts to cut weight and fuel consumption.\n- 2 — Wrong. Recycling routes exist and operate commercially: pyrolysis burns off the polymer matrix and solvolysis dissolves it, leaving the fibres recoverable. The recovered fibre is shorter and lower-grade, so it goes into less demanding parts rather than back into aerospace components.\n\nDurable point: with composites the difficulty is never the fibre itself, it is separating the fibre from the cured resin around it — which is why recycled carbon fibre is down-cycled rather than returned to its original use.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Carbon fibre composites are widely used in vehicles and aircraft, and carbon fibre can in fact be recycled (pyrolysis/solvolysis), so statement 2 is wrong."
+   },
+   "key_supported": true
   },
   {
    "q_no": 54,
@@ -1509,12 +1879,19 @@
     "SNT-13"
    ],
    "primary_topic_code": "SNT-13",
-   "explanation_md": null,
+   "explanation_md": "An accelerometer senses proper acceleration, including the constant 1g pull of gravity, and all three actions depend on exactly that.\n\n- 1 — Required. The crash sensor is an accelerometer registering the violent deceleration of impact; once the reading crosses a threshold the airbag fires within milliseconds.\n- 2 — Required. In free fall the accelerometer reads close to zero g, because nothing is opposing gravity. That signal parks the drive head before the laptop lands.\n- 3 — Required. With the phone at rest the accelerometer reads the direction of the gravity vector relative to the device, which is precisely how it distinguishes portrait from landscape.\n\nDurable point: an accelerometer measures linear acceleration and gravity; a gyroscope measures rate of rotation. Screen rotation works on the accelerometer alone — the gyroscope adds smoothness, not the basic capability.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Airbag crash sensing, laptop free-fall hard-drive parking and screen auto-rotation all rely on accelerometers."
+   },
+   "key_supported": true
   },
   {
    "q_no": 55,
@@ -1537,12 +1914,21 @@
     "ENV-11"
    ],
    "primary_topic_code": "ENV-02",
-   "explanation_md": null,
+   "explanation_md": "Only the nitrification claim survives. A biofilter in a recirculating aquaculture system is the bed of **nitrifying bacteria**; solids handling belongs to a separate, upstream unit.\n\n- 1 — Wrong as written. Uneaten feed is particulate and is removed by mechanical filtration — drum screens, settling chambers — before the water reaches the biofilter, because solids clog the media and rob the bacteria of oxygen.\n- 2 — Correct. Nitrosomonas oxidise ammonia to nitrite and Nitrobacter oxidise nitrite to nitrate. Nitrate is far less toxic to fish, so it can be allowed to accumulate between water exchanges.\n- 3 — Wrong. Biofilters add no phosphorus, and fish take phosphorus from feed, not from the water column. Dissolved phosphorus in a RAS is a discharge problem, not a benefit.\n\nDurable point: a RAS treats water in sequence — mechanical solids removal, then biofiltration for dissolved ammonia, then aeration and disinfection. Match each waste type to its own unit.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Gap: no aquaculture/fisheries topic exists; tagged on the nitrification (ammonia to nitrate) and waste-treatment content.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Biofilters only perform nitrification of ammonia to nitrate; solids removal is mechanical filtration and they do not add phosphorus."
+   },
+   "key_supported": false,
+   "key_doubt": "I make only statement 2 correct, which gives **(a) Only one**, not (b). Statement 3 is unambiguously false, so (b) requires statement 1 to be true — and as written it is not. In a recirculating aquaculture system, uneaten feed is particulate waste removed upstream by mechanical filtration (drum screens, settling chambers, clarifiers); the biofilter handles dissolved nitrogenous waste through nitrification. Solids are in fact routed away from the biofilter precisely because they clog the media and consume the oxygen the nitrifying bacteria need. Some extension literature describes the biofilter loosely as the unit that 'treats waste from uneaten feed and faeces', and if that is the reading UPSC intended, (b) follows. But on the standard unit-by-unit description of a RAS, statement 1 assigns the mechanical filter's job to the biofilter, and the answer should be (a).",
+   "review_flag": "Explanation pass could not verify the key. Official key says b, independent reasoning said a."
   },
   {
    "q_no": 56,
@@ -1564,12 +1950,19 @@
     "SNT-06"
    ],
    "primary_topic_code": "SNT-06",
-   "explanation_md": null,
+   "explanation_md": "Only the third pair is right; the first two have had their descriptions **swapped**.\n\n- 1 Cepheids : giant clouds of dust and gas — Wrong. Cepheids are pulsating variable stars that brighten and dim on a regular cycle.\n- 2 Nebulae : stars which brighten and dim periodically — Wrong. A nebula is exactly the cloud of gas and dust wrongly given against Cepheids in pair 1.\n- 3 Pulsars : neutron stars formed when massive stars run out of fuel and collapse — Correct. A pulsar is a rapidly rotating, strongly magnetised neutron star whose beam sweeps past us at fixed intervals, producing the observed pulse.\n\nDurable point: a Cepheid's pulsation period is tied to its true luminosity, which is what makes Cepheids standard candles for measuring cosmic distance — the period–luminosity relation Henrietta Leavitt established, and the tool Hubble used to show that other galaxies lie outside our own.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": "Printed as a two-column matching list with italic column headings 'Objects in space' (set over two lines) and 'Description', each row separated by a colon; rendered here as a markdown table. Verified against p-23: the deliberate Cepheids/Nebulae description swap is as printed."
+   "transcription_note": "Printed as a two-column matching list with italic column headings 'Objects in space' (set over two lines) and 'Description', each row separated by a colon; rendered here as a markdown table. Verified against p-23: the deliberate Cepheids/Nebulae description swap is as printed.",
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Cepheid and nebula descriptions are swapped; only the pulsar pair is correctly matched."
+   },
+   "key_supported": true
   },
   {
    "q_no": 57,
@@ -1591,12 +1984,19 @@
     "SNT-05"
    ],
    "primary_topic_code": "SNT-05",
-   "explanation_md": null,
+   "explanation_md": "**Japan** runs the Quasi-Zenith Satellite System (QZSS, 'Michibiki'), a regional constellation whose orbits keep a satellite high overhead Japan, sharpening positioning in city streets and mountain valleys where signals from low-elevation satellites are blocked.\n\n- Australia has no constellation of its own and depends on GPS with augmentation services.\n- Canada likewise relies on GPS.\n- Israel has substantial space and satellite capability but no independent navigation constellation.\n\nDurable point: only a handful of navigation systems exist — GPS (United States), GLONASS (Russia), Galileo (European Union) and BeiDou (China) as global systems, with QZSS (Japan) and NavIC (India) as regional ones. QZSS is designed to work alongside GPS rather than replace it.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Japan operates the Quasi-Zenith Satellite System (QZSS/Michibiki)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 58,
@@ -1618,12 +2018,19 @@
     "SNT-07"
    ],
    "primary_topic_code": "SNT-07",
-   "explanation_md": null,
+   "explanation_md": "Both statements invert their subjects, so neither stands.\n\n- 1 — Wrong, and precisely reversed. A **ballistic** missile is rocket-powered only in its boost phase and then coasts on an unpowered ballistic arc, much of it outside the atmosphere. A **cruise** missile is air-breathing — turbojet or ramjet — and stays powered throughout, flying low inside the atmosphere.\n- 2 — Wrong, and reversed again. Agni-V is a solid-fuelled long-range ballistic missile of the 5,000 km-plus class; BrahMos is the India–Russia supersonic cruise missile with a range of a few hundred kilometres.\n\nDurable point: the distinction is propulsion and flight path, not speed. Ballistic means an unpowered coast along a set trajectory; cruise means sustained air-breathing flight with the ability to manoeuvre and hug terrain, which is what makes a cruise missile hard to detect on radar.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Both statements invert the facts: ballistic missiles are rocket-boosted then unpowered, and Agni-V is an ICBM while BrahMos is a supersonic cruise missile."
+   },
+   "key_supported": true
   },
   {
    "q_no": 59,
@@ -1645,12 +2052,20 @@
     "ENV-11"
    ],
    "primary_topic_code": "ENV-11",
-   "explanation_md": null,
+   "explanation_md": "Two hold. Gold mining and coal burning are both major mercury sources; it is the 'no safe level' formulation that does not survive scrutiny.\n\n- 1 — Correct. Artisanal and small-scale gold mining uses mercury to amalgamate gold from ore and then burns the amalgam off, releasing mercury straight into air and water. It is the largest single source of anthropogenic mercury emissions worldwide.\n- 2 — Correct. Coal carries trace mercury, and combustion volatilises it, making coal-fired power the largest stationary industrial source.\n- 3 — Wrong, though tempting, since WHO stresses that even small amounts of mercury can cause serious harm. But reference doses, tolerable intakes and permissible limits in drinking water and food are all defined for mercury, so a safe level is known. 'No known safe level of exposure' is the phrase reserved for **lead**.\n\nDurable point: the Minamata Convention (2013) is the treaty controlling mercury supply, trade, emissions and products — named for the Japanese methylmercury poisoning.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Artisanal gold mining and coal combustion are leading mercury sources, and WHO states no safe level of mercury exposure is known."
+   },
+   "key_supported": true,
+   "review_flag": "Official key says b, independent reasoning said c."
   },
   {
    "q_no": 60,
@@ -1673,12 +2088,19 @@
     "SNT-12"
    ],
    "primary_topic_code": "ENV-16",
-   "explanation_md": null,
+   "explanation_md": "All three are genuine uses. Green hydrogen is chemically identical to hydrogen made any other way — only its **production route** differs — so nothing about being green narrows its end uses.\n\n- 1 — Correct. Hydrogen burns in a modified internal combustion engine; the exhaust is essentially water vapour, with some nitrogen oxides formed from the air drawn in.\n- 2 — Correct. Hydrogen can be blended into natural gas at low percentages and burned in existing pipelines, boilers and turbines for heat or power — the main near-term route because it needs no new infrastructure.\n- 3 — Correct. In a fuel cell, hydrogen reacts with oxygen electrochemically to produce electricity directly, driving the motor of a fuel-cell electric vehicle.\n\nDurable point: the colour refers only to the source. Green is electrolysis of water using renewable electricity; grey is steam methane reforming of natural gas; blue is the same as grey with carbon capture attached.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles ENV and SNT: green hydrogen sits in ENV-16 and in SNT-12 energy technology (fuel cells).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Green hydrogen can be combusted directly, blended with natural gas, and used in fuel cells for vehicles."
+   },
+   "key_supported": true
   },
   {
    "q_no": 61,
@@ -1700,12 +2122,19 @@
     "GEO-24"
    ],
    "primary_topic_code": "GEO-24",
-   "explanation_md": null,
+   "explanation_md": "Ukraine has seven land neighbours — Russia, Belarus, Poland, Slovakia, **Hungary**, **Romania** and Moldova — and only two of them appear in this list.\n\n- **Bulgaria** — no. Romania lies between the two, and further east the Black Sea separates them.\n- **Czech Republic** — no. Slovakia sits in between; the Czech Republic touches Slovakia, not Ukraine.\n- **Hungary** — yes. A short frontier across the Carpathians against Ukraine's Zakarpattia region.\n- **Latvia** — no. Belarus intervenes; Latvia's southern neighbours are Belarus and Lithuania.\n- **Lithuania** — no. Belarus again intervenes, despite the two being close.\n- **Romania** — yes. In fact two separate stretches, one in the north near Bukovina and one in the south towards the Danube delta, because Moldova cuts the border in two.\n\nWorth fixing: run Ukraine's neighbours clockwise from the north — Russia, Moldova, Romania, Hungary, Slovakia, Poland, Belarus. The Baltic states and the Czech Republic are one country too far away in every case.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Pure atlas recall; GEO-24 map work is the only home — no world political geography topic. Counting format here counts listed countries, not statements or pairs.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Ukraine's land neighbours are Russia, Belarus, Poland, Slovakia, Hungary, Romania and Moldova, so only Hungary and Romania from the list qualify."
+   },
+   "key_supported": true
   },
   {
    "q_no": 62,
@@ -1727,12 +2156,19 @@
     "GEO-06"
    ],
    "primary_topic_code": "GEO-06",
-   "explanation_md": null,
+   "explanation_md": "Water vapour, overwhelmingly concentrated in the lower troposphere, is the atmosphere's principal absorber of infrared radiation — which is why the greenhouse effect is strongest near the surface and why (c) holds.\n\n- **(a)** The equator receives on the order of two to three times the annual insolation of the poles, not ten times. Six months of continuous polar daylight partly offsets the very low sun angle.\n- **(b)** Infrared is roughly **half** of incoming solar energy, not two-thirds; visible light is a little over 40% and ultraviolet the small remainder.\n- **(d)** Infrared lies *beyond* the red end of the visible band by definition — longer wavelength, invisible. Calling it part of the visible spectrum is self-contradictory.\n\nDurable: the solar spectrum splits roughly ultraviolet 7% / visible 43% / infrared 50%, and it is the **trace gases** — water vapour, carbon dioxide, methane — that absorb in the infrared. Nitrogen and oxygen, which make up 99% of the air, are essentially transparent to it.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Water vapour, concentrated in the lower troposphere, is the principal absorber of infrared radiation; equator-to-pole insolation ratio is ~2.5:1 not 10:1, IR is about half not two-thirds of insolation, and IR is not part of the visible spectrum."
+   },
+   "key_supported": true
   },
   {
    "q_no": 63,
@@ -1755,12 +2191,19 @@
     "ENV-03"
    ],
    "primary_topic_code": "GEO-11",
-   "explanation_md": null,
+   "explanation_md": "Tropical rainforest soils are famously **nutrient-poor**: nearly the whole nutrient stock is held in living biomass, not in the ground.\n\n- **Statement-I — incorrect.** Heavy year-round rainfall leaches soluble bases straight out of the profile, leaving deeply weathered, iron- and aluminium-rich lateritic soil under a thin humus layer. Clearing the forest exposes how little fertility the soil itself holds — cleared plots are exhausted within a few cropping seasons.\n- **Statement-II — correct.** Constant heat and moisture keep bacteria, fungi and termites working all year, so leaf litter breaks down in weeks rather than the years it takes in a temperate or boreal forest.\n\nThe two do not link the way the question invites. Rapid decomposition plus immediate uptake by a shallow root-and-mycorrhiza mat plus leaching means nutrients are recycled *through the vegetation*, never accumulating in the soil — so Statement-II is actually part of the reason Statement-I is false.\n\nDurable: in a rainforest the nutrient wealth is in the biomass; in a temperate grassland it is in the soil.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles GEO and ENV: rainforest soil nutrients read as biome characteristics (GEO-11) and terrestrial ecosystem nutrient cycling (ENV-03).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Tropical rainforest soils are leached and nutrient-poor (nutrients are locked in biomass), while the rapid decomposition of litter due to heat and moisture is correctly stated."
+   },
+   "key_supported": true
   },
   {
    "q_no": 64,
@@ -1783,12 +2226,19 @@
     "GEO-06"
    ],
    "primary_topic_code": "GEO-07",
-   "explanation_md": null,
+   "explanation_md": "Continents and oceans differ most in temperature in **winter**, not summer, so Statement-I fails even though the physics of Statement-II is sound.\n\n- **Statement-I — incorrect.** In January the interiors of Asia and North America radiate heat away rapidly and plunge far below freezing while adjacent oceans at the same latitude stay comparatively mild — a gap of tens of degrees. In July the land is warm but the ocean has also warmed, so the gap is much smaller. January isotherm maps bend sharply wherever they cross a coastline; July maps far less so.\n- **Statement-II — correct.** Water's specific heat is several times that of dry rock and soil, and the ocean also mixes heat downward and lets light penetrate to depth, so it warms and cools slowly.\n\nStatement-II is true but supports the *opposite* of Statement-I, which is precisely why the answer is (d) and not (a).\n\nDurable: the land–sea heat-capacity contrast drives monsoons and continentality, and its seasonal expression peaks in winter, not summer.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Land-ocean thermal contrast is greatest in winter, when continental interiors cool far below adjacent oceans, so Statement-I is wrong while the higher specific heat of water is correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 65,
@@ -1811,12 +2261,19 @@
     "GEO-02"
    ],
    "primary_topic_code": "GEO-03",
-   "explanation_md": null,
+   "explanation_md": "Both descriptions of body waves are textbook-accurate, so both statements stand.\n\n- **Statement 1 — correct.** P (primary) waves are the fastest seismic waves and are therefore the first arrivals on a seismograph; S waves follow. The **time gap between the two arrivals** is what lets a single station calculate its distance from the epicentre, and three such distances fix the epicentre itself.\n- **Statement 2 — correct.** P waves are longitudinal, or compressional: particles oscillate back and forth *along* the direction of travel, alternately squeezing and stretching the medium. S waves are transverse: particles move at right angles to the direction of propagation.\n\nDurable: because a fluid has no shear strength, **S waves cannot pass through liquids**. Their failure to emerge on the far side of the Earth is the direct evidence for a liquid outer core. The S-wave shadow zone covers everything beyond about 103° from the epicentre; the P-wave shadow zone is the narrower band roughly between 103° and 143°.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "P waves are faster and recorded first, and P waves are longitudinal while S waves are transverse — both statements are accurate."
+   },
+   "key_supported": true
   },
   {
    "q_no": 66,
@@ -1839,12 +2296,19 @@
     "ECO-16"
    ],
    "primary_topic_code": "GEO-18",
-   "explanation_md": null,
+   "explanation_md": "Every one of the three sweeping \"none of them\" claims is false.\n\n- **Statement 1 — incorrect.** Coastal coal plants routinely draw **seawater** for once-through condenser cooling; that is a standard reason for siting generating capacity on the coast in Gujarat, Tamil Nadu and Andhra Pradesh.\n- **Statement 2 — incorrect.** A large share of India's coal capacity sits in districts already classed as water-stressed, much of it in the inland central and peninsular coal belt where the plant is placed near the mine rather than near water. This mismatch is a recurring finding in water-and-energy studies and the reason cooling-water norms were tightened.\n- **Statement 3 — incorrect.** Private generators — Tata Power, Adani Power, JSW and others — own a substantial block of coal-based capacity alongside NTPC and the state generating companies.\n\nDurable: an absolute quantifier like \"none of them\" or \"all of them\" applied to something as large and varied as India's coal fleet is almost always wrong. Thermal power is India's biggest industrial water user, which keeps siting and cooling technology a live policy question.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles GEO/ECO/ENV — thermal power siting, water stress and ownership; no water-resources topic exists to carry the water-stress limb.",
-   "transcription_note": "Statement 2 is printed without an article before 'water-stressed district' — verified on p-27, not a transcription drop."
+   "transcription_note": "Statement 2 is printed without an article before 'water-stressed district' — verified on p-27, not a transcription drop.",
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Coastal plants do use seawater for cooling, many plants sit in water-stressed districts, and several are privately owned (Tata, Adani), so no statement is correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 67,
@@ -1866,12 +2330,19 @@
     "SNT-02"
    ],
    "primary_topic_code": "SNT-02",
-   "explanation_md": null,
+   "explanation_md": "**Wolbachia** is a naturally occurring intracellular bacterium which, once established in *Aedes aegypti*, sharply reduces the mosquito's ability to transmit dengue, Zika, chikungunya and yellow fever — so the method belongs to mosquito-borne viral disease control.\n\n- **(b)** Turning crop residue into packaging uses fungal mycelium or pressed agri-fibre — nothing to do with a bacterium of insects.\n- **(c)** Biodegradable plastics come from bacterial fermentation into polyhydroxyalkanoates or from plant starch, not from *Wolbachia*.\n- **(d)** Biochar is made by pyrolysing biomass — a purely thermo-chemical process with no microbe involved.\n\nThe mechanism worth remembering is **cytoplasmic incompatibility**: infected males mated with uninfected females leave no viable offspring, while infected females breed successfully either way. So once released, the bacterium's frequency climbs through the wild population on its own.\n\nDurable: this *replaces* the mosquito population rather than killing it — a self-sustaining biological alternative to insecticide, and unlike sterile-male techniques it does not need repeated mass releases forever.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Wolbachia bacteria are introduced into Aedes mosquitoes to suppress transmission of dengue, Zika and other arboviruses."
+   },
+   "key_supported": true
   },
   {
    "q_no": 68,
@@ -1894,12 +2365,19 @@
     "ENV-13"
    ],
    "primary_topic_code": "ENV-12",
-   "explanation_md": null,
+   "explanation_md": "All three are genuine, actively discussed carbon dioxide removal or storage proposals.\n\n- **Activity 1 — yes.** Spreading crushed basalt on farmland is **enhanced rock weathering**: silicate minerals react with dissolved CO₂ and convert it to bicarbonate, which is eventually carried to the sea and locked up. It doubles as a soil amendment, adding calcium and magnesium and raising pH.\n- **Activity 2 — yes.** Ocean alkalinity enhancement, or ocean liming, adds lime to seawater, shifting carbonate chemistry so the ocean takes up more atmospheric CO₂ — and partly offsetting acidification at the same time.\n- **Activity 3 — yes.** Injecting captured CO₂ underground, including as carbonated water into worked-out mines or basalt formations, is straightforward geological sequestration. Dissolving the gas first reduces the risk of buoyant leakage back to the surface.\n\nDurable: sort removal routes into three families — **biological** (afforestation, BECCS, blue carbon), **geochemical** (enhanced weathering, ocean alkalinity) and **geological** (injection and mineralisation). Basalt turns up in two of them.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Gap: no carbon capture / carbon dioxide removal / geoengineering topic; ENV-12 is the nearest home for enhanced weathering and ocean alkalinity.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Enhanced basalt weathering, ocean alkalinity enhancement with lime, and geological injection of CO2 as carbonated water are all mainstream carbon capture and sequestration proposals."
+   },
+   "key_supported": true
   },
   {
    "q_no": 69,
@@ -1922,12 +2400,19 @@
     "ENV-05"
    ],
    "primary_topic_code": "SNT-03",
-   "explanation_md": null,
+   "explanation_md": "Metagenomics means sequencing *all* the genetic material in an environmental sample without culturing or even seeing the organisms; \"aerial\" simply names air as that medium — hence collecting airborne DNA from a habitat in one sweep.\n\n- **(b)** is the trap: \"aerial\" invites \"birds\", but avian genomics would mean sampling the birds themselves, not the air around them.\n- **(c)** describes remote blood collection from animals. Blood taken from an identified animal is not an environmental sample, and no bulk community sequencing is implied.\n- **(d)** drone-based collection of plant and animal specimens is sampling logistics. Metagenomics is defined by *what is sequenced*, not by how the collector reached the site.\n\nAirborne eDNA works because organisms constantly shed skin, hair, scales, pollen and faecal particles. A filter drawing air at one site can recover traces of dozens of species at once, which makes it attractive for surveying elusive fauna.\n\nDurable: **meta-** means the whole community at once, unculturable species included; the **e** in eDNA means the organism was never handled.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles SNT and ENV: environmental DNA technique used for biodiversity survey.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Aerial metagenomics is the sampling of airborne environmental DNA to identify all organisms in a habitat at once."
+   },
+   "key_supported": true
   },
   {
    "q_no": 70,
@@ -1950,12 +2435,19 @@
     "SNT-03"
    ],
    "primary_topic_code": "SNT-01",
-   "explanation_md": null,
+   "explanation_md": "**Microsatellites** are short tandem repeats of DNA whose repeat number varies sharply between individuals, populations and species — which makes them classic genetic markers, used for DNA fingerprinting, parentage testing, population structure and evolutionary relationships among taxa.\n\n- **(b)** is wrong: steering stem cells into particular tissues is done with growth factors and transcription factors, not with repeat markers.\n- **(c)** is wrong: clonal propagation of horticultural plants is tissue culture. Microsatellites can be used *afterwards* to verify clonal fidelity, but they do not promote propagation.\n- **(d)** is wrong: drug efficacy is established by controlled clinical trials and statistics; where genetics does enter, pharmacogenomics works mainly with single-nucleotide variants.\n\nDurable: a microsatellite is a repeating unit of roughly one to six base pairs, tandemly repeated many times. Its high mutation rate in **repeat number** produces high polymorphism, which is exactly what a good marker needs. Minisatellites are the longer-repeat cousins used in the original DNA fingerprinting work.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Molecular markers / DNA fingerprinting are not named in either topic; SNT-01 genetics is the closest fit, SNT-03 the applied one.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Microsatellites (short tandem repeats) are standard markers in population genetics and phylogenetic/evolutionary relationship studies."
+   },
+   "key_supported": true
   },
   {
    "q_no": 71,
@@ -1978,12 +2470,19 @@
     "ECO-04"
    ],
    "primary_topic_code": "ECO-15",
-   "explanation_md": null,
+   "explanation_md": "Only the priority-sector claim survives.\n\n- **Statement 1 — incorrect.** The 2006 Act's original manufacturing slabs placed medium enterprises at investment in plant and machinery above ₹5 crore and up to ₹10 crore — not ₹15–25 crore. Since 1 July 2020 the test has been a **composite investment-and-turnover criterion** with no separate manufacturing and services slabs, medium enterprises being defined by investment up to ₹50 crore and turnover up to ₹250 crore, with the ceilings raised again subsequently. No version of the definition has ever used a ₹15–25 crore band.\n- **Statement 2 — correct.** Under RBI's priority sector lending norms, **all** bank loans to MSMEs qualify as priority sector, with no ceiling on the loan amount — a deliberate choice to widen formal credit to the sector.\n\nDurable: the 2020 revision did two things at once — it added turnover alongside investment, and it erased the manufacturing-versus-services distinction the 2006 Act had maintained.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The MSMED Act 2006 set medium enterprises at Rs 5-10 crore investment (revised to Rs 50 crore in 2020), not Rs 15-25 crore, while all bank loans to MSMEs do qualify as priority sector."
+   },
+   "key_supported": true
   },
   {
    "q_no": 72,
@@ -2006,12 +2505,19 @@
     "ECO-12"
    ],
    "primary_topic_code": "ECO-20",
-   "explanation_md": null,
+   "explanation_md": "Both properties are among the main reasons central banks are building digital currencies at all.\n\n- **Statement 1 — correct.** A cross-border payment in central bank digital currency can settle directly on the participants' or central banks' ledgers, bypassing correspondent banking, the SWIFT messaging network and dollar clearing entirely. That independence is a stated attraction for countries wanting to settle trade in their own currencies.\n- **Statement 2 — correct.** **Programmability** is a defining feature of tokenised money: conditions can be written into the token itself — a validity period, a permitted merchant category, a geographic limit — so a subsidy or welfare transfer can only be spent as intended. RBI has piloted exactly such purpose-bound and time-limited retail e-rupee.\n\nDurable: RBI's digital rupee (e₹) pilots began in 2022 — wholesale on 1 November, retail on 1 December. The distinction that matters: CBDC is a **direct liability of the central bank**, whereas UPI merely moves existing commercial bank deposits.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "CBDCs allow settlement outside the dollar/SWIFT rails and can be programmed with conditions such as expiry or use restrictions."
+   },
+   "key_supported": true
   },
   {
    "q_no": 73,
@@ -2034,12 +2540,19 @@
     "ECO-08"
    ],
    "primary_topic_code": "ECO-07",
-   "explanation_md": null,
+   "explanation_md": "**Beta** is the coefficient obtained by regressing a stock's returns against the market's — a single number saying how far the stock tends to move when the market moves.\n\n- **(a)** describes **arbitrage**: buying and selling the same asset simultaneously across two platforms to capture a price difference.\n- **(b)** describes portfolio construction or asset allocation in general. Beta is an *input* to that exercise, not the exercise itself.\n- **(c)** conflates two ideas. Beta does measure exposure to systematic (market) risk, but the option defines a *category of risk* rather than a numeric measure, and the residual that hedging cannot remove is properly called basis risk.\n\nDurable: beta of 1 means the stock moves with the market; above 1, amplified and more volatile; below 1, defensive; negative, it moves against the market. **Alpha** is the paired term — the excess return a portfolio earns over and above what its beta alone would have predicted.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "No topic covers capital-market concepts (beta, hedging, arbitrage) as such; ECO-07 financial markets is the nearest.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Beta measures a stock's volatility relative to movements of the overall market."
+   },
+   "key_supported": true
   },
   {
    "q_no": 74,
@@ -2062,12 +2575,19 @@
     "ECO-04"
    ],
    "primary_topic_code": "ECO-06",
-   "explanation_md": null,
+   "explanation_md": "Two of the three hold.\n\n- **Statement 1 — incorrect.** The SHG movement was carried into formal banking by **NABARD**, whose SHG–Bank Linkage Programme began as a pilot in 1992, building on earlier NGO work by organisations such as MYRADA. The State Bank of India is a participating lender, not the originator.\n- **Statement 2 — correct.** **Joint liability** is the defining feature: the group collectively stands behind a loan taken by any member, so peer pressure and mutual monitoring substitute for physical collateral. This is what made unsecured lending to the poor workable at scale.\n- **Statement 3 — correct.** Scheduled commercial banks, regional rural banks and cooperative banks are all lending channels under the linkage programme; RRBs in particular carry a large share of SHG accounts.\n\nDurable: SHG–BLP is the world's largest microfinance programme by membership, and its core innovation is **collateral substitution through group liability** — not any subsidy on the interest rate.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The SHG-Bank Linkage Programme was initiated by NABARD, not SBI; joint group liability and support by RRBs and scheduled commercial banks are both correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 75,
@@ -2091,12 +2611,19 @@
     "POL-15"
    ],
    "primary_topic_code": "ECO-18",
-   "explanation_md": null,
+   "explanation_md": "Both statements are individually true, but the second does not cause the first.\n\n- **Statement-I — correct.** India's public health system is heavily weighted towards **curative** treatment of illness once it has appeared, with preventive, promotive and rehabilitative services comparatively thin. Successive official reviews have made exactly this point in arguing for the shift to comprehensive primary care.\n- **Statement-II — correct.** \"Public health and sanitation, hospitals and dispensaries\" is **Entry 6 of the State List**, so States organise and run health services; the Union sets policy, funds centrally sponsored schemes and handles inter-State matters.\n- **The link fails.** Which tier of government delivers care does not explain why the care is skewed towards cure over prevention. That skew comes from hospital-centric historical design, workforce incentives and patient demand — all of which would persist under a centralised system too.\n\nDurable: health is a State subject under Entry 6, while population control and family planning, and medical education, sit in the **Concurrent List**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles ECO/SNT/POL; gap: no health-systems or social-sector governance topic. Statement-II is really the Seventh Schedule division, hence POL-15.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Both facts are correct — the public system is curative-heavy and health is organised by States — but State responsibility does not explain the curative bias."
+   },
+   "key_supported": true
   },
   {
    "q_no": 76,
@@ -2119,12 +2646,19 @@
     "CAI-08"
    ],
    "primary_topic_code": "GEO-17",
-   "explanation_md": null,
+   "explanation_md": "The withdrawal figure is right, but the reason offered for it is not.\n\n- **Statement-I — correct.** India is by a wide margin the world's largest groundwater extractor, and the UN's World Water Development Report 2022 puts its share at more than a quarter of global withdrawal — larger than the next two countries combined.\n- **Statement-II — incorrect**, and it fails on the reason rather than the arithmetic. Roughly nine-tenths of India's annual groundwater draft goes to **irrigation**. Domestic and drinking-water use is a small fraction of the total, so population size and sanitation needs cannot account for the scale of extraction.\n- The causal claim also inverts the policy reality. Extraction is driven by tubewell irrigation of water-intensive crops, subsidised power for pumping and assured procurement — which is why the remedies discussed are crop diversification and power pricing, not cuts to domestic supply.\n\nDurable: India's groundwater problem is an **agricultural** problem. The Green Revolution shifted irrigation from canals to private tubewells, and the draft followed.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Gap: no water resources / groundwater topic in the tree. Tagged to irrigation (main use of groundwater) plus CAI-08 for the UN report anchor.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "India does account for over a quarter of global groundwater withdrawal, but roughly 90% goes to irrigation rather than drinking water and sanitation, so Statement-II is wrong."
+   },
+   "key_supported": true
   },
   {
    "q_no": 77,
@@ -2147,12 +2681,19 @@
     "POL-16"
    ],
    "primary_topic_code": "POL-08",
-   "explanation_md": null,
+   "explanation_md": "Two of the three hold.\n\n- **Statement 1 — correct.** **Article 355** places on the Union the duty to protect every State against external aggression *and internal disturbance*, and to ensure that State governments are carried on in accordance with the Constitution.\n- **Statement 2 — correct.** **Article 22(3)(b)** withdraws the safeguards of Article 22(1) and (2) — which include the right to consult and be defended by a legal practitioner of one's choice, and production before a magistrate within 24 hours — from a person detained under a preventive detention law.\n- **Statement 3 — incorrect.** The Prevention of Terrorism Act, 2002 did the opposite: it made a confession recorded before a police officer of specified senior rank **admissible** in evidence, departing from Section 25 of the Indian Evidence Act, which bars confessions to the police. That provision was a principal ground of criticism, and POTA was repealed in 2004.\n\nDurable: preventive detention is the one head where the Constitution itself removes ordinary criminal-procedure safeguards; Article 22(4)–(7) supplies the substitute — an advisory board and a three-month outer limit.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Statement 3 (POTA 2002) has no home — gap: no internal security / anti-terror law topic. Statement 1 is Art 355 (POL-16), statement 2 is preventive detention (POL-08).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Article 355 imposes the duty to protect States from internal disturbance and Article 22(3) removes the legal-counsel right in preventive detention, but POTA 2002 expressly made police confessions admissible."
+   },
+   "key_supported": true
   },
   {
    "q_no": 78,
@@ -2175,12 +2716,19 @@
     "CAI-03"
    ],
    "primary_topic_code": "GEO-24",
-   "explanation_md": null,
+   "explanation_md": "**Somalia** — three decades without a functioning central state, a continuing insurgency, and successive failed rainy seasons across the Horn of Africa that pushed large parts of the country to the edge of famine in 2022 — is the only option matching both halves of the description.\n\n- **Angola**'s civil war ended in 2002. It has suffered drought and food insecurity since, but not decades of continuing strife culminating in a recent famine.\n- **Costa Rica** abolished its army decades ago and is among the most politically stable countries in Latin America.\n- **Ecuador** has had political turbulence and serious organised-crime problems, but no civil war and no famine.\n\nDurable: famine is a **technical declaration**, not a loose word — under the IPC scale it means Phase 5, requiring extreme food gaps, acute malnutrition and death rates beyond defined thresholds in a defined area. And it is conflict, not drought alone, that usually tips a food crisis into famine, because conflict blocks both markets and relief convoys.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles GEO/CAI: pure places-in-news recall (Somalia famine), so GEO-24 map work + places in news is the closest genuine home; CAI-03 is India-centric and only a loose secondary.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Somalia has endured decades of civil conflict and was in the news for severe drought-driven famine."
+   },
+   "key_supported": true
   },
   {
    "q_no": 79,
@@ -2204,12 +2752,20 @@
     "ENV-10"
    ],
    "primary_topic_code": "ENV-09",
-   "explanation_md": null,
+   "explanation_md": "Both are accurate descriptions of what Biodiversity Management Committees do.\n\n- **Statement 1 — correct.** The **Nagoya Protocol** governs access to genetic resources and the fair, equitable sharing of benefits arising from their use. India's implementing machinery reaches the ground through BMCs, constituted by every local body under the Biological Diversity Act, 2002. They document local biological resources and associated traditional knowledge in the **People's Biodiversity Register**, which is the factual base any benefit-sharing claim ultimately rests on.\n- **Statement 2 — correct.** BMCs are consulted on access decisions in their area, and the rules empower a BMC to levy a **collection fee** on anyone accessing biological resources for commercial purposes from within its territorial jurisdiction.\n\nDurable: the Act builds a three-tier structure — the National Biodiversity Authority at Chennai, State Biodiversity Boards, and a BMC at every panchayat and municipality. The NBA handles access sought by foreigners and non-resident entities; State Boards handle Indian applicants; BMCs work at the level of the resource itself.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "BMCs underpin India's Nagoya/ABS implementation, but determining access and benefit sharing is the role of the NBA and State Biodiversity Boards; BMCs only levy collection fees and maintain People's Biodiversity Registers."
+   },
+   "key_supported": true,
+   "review_flag": "Official key says c, independent reasoning said a."
   },
   {
    "q_no": 80,
@@ -2232,12 +2788,19 @@
     "POL-26"
    ],
    "primary_topic_code": "POL-17",
-   "explanation_md": null,
+   "explanation_md": "Only the fourth statement survives.\n\n- **Statement 1 — incorrect.** Article 54 confines the electoral college to **elected** members of both Houses of Parliament and elected members of State Legislative Assemblies, with Delhi and Puducherry added by the 70th Amendment. Nominated members take no part in the presidential election at all.\n- **Statement 2 — incorrect, and backwards.** An MLA's vote value is the State's population divided by the number of elected Assembly seats, then divided by 1000. For a given population, *more* seats means a *smaller* value per MLA.\n- **Statement 3 — incorrect.** Kerala's per-MLA value is higher than Madhya Pradesh's, because Kerala's population is spread across far fewer Assembly seats.\n- **Statement 4 — correct**, and for exactly the stated reason: Puducherry and Arunachal Pradesh have comparable populations, but Puducherry has half as many elective seats, giving it a higher population-per-seat ratio and roughly double the vote value.\n\nDurable: the population used is still the **1971 census**, frozen until the first census taken after 2026.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Counting format (\"How many of the above statements are correct?\") so tagged pairs per the counting rule, not stmt_1_2_3.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Nominated members are excluded from the Electoral College, more Assembly seats lower each MLA's vote value, and MP (131) is below Kerala (152); only the Puducherry-Arunachal comparison is correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 81,
@@ -2259,12 +2822,19 @@
     "HIS-16"
    ],
    "primary_topic_code": "HIS-16",
-   "explanation_md": null,
+   "explanation_md": "Every name on the list worked in **field archaeology and epigraphy** under the British administration, mostly for the Archaeological Survey of India or its regional circles.\n\n- **Alexander Rea** — ASI's Madras Circle; excavated the urn-burial site at Adichanallur.\n- **A. H. Longhurst** — ASI superintendent; work at Nagarjunakonda and Hampi.\n- **Robert Sewell** — Madras civil servant and antiquarian, best known for reconstructing Vijayanagara from its ruins and Portuguese accounts.\n- **James Burgess** — Director-General of the ASI in the 1880s and founder of the journal *Indian Antiquary*.\n- **Walter Elliot** — recovered sculptures from the Amaravati stupa.\n\n(b), (c) and (d) fail for the same reason: not one of them was a newspaper proprietor, a missionary or a railway engineer. If several unfamiliar colonial names appear together in a UPSC stem, the connecting thread is almost always the ASI.\n\n**Remember:** the ASI was founded in 1861 under Alexander Cunningham; Curzon's Ancient Monuments Preservation Act, 1904 and John Marshall's tenure turned it from a survey into a conservation body.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "low",
    "tagging_note": "Gap: no topic covers colonial-era archaeology or the Archaeological Survey of India and its officers. HIS-16 (press, education, personalities) is the least-bad container, not a real fit.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Rea, Longhurst, Sewell, Burgess and Elliot were all ASI archaeologists/antiquarians associated with excavations and survey of monuments."
+   },
+   "key_supported": true
   },
   {
    "q_no": 82,
@@ -2287,12 +2857,19 @@
     "ART-01"
    ],
    "primary_topic_code": "ART-03",
-   "explanation_md": null,
+   "explanation_md": "Besnagar is a **Vaishnava** site with no cave shrine at all, which breaks the first pair while the other two hold.\n\n- **1. Besnagar — Shaivite cave shrine: wrong.** Besnagar, near Vidisha in Madhya Pradesh, is famous for the **Heliodorus pillar**, a free-standing Garuda column raised by a Greek envoy in honour of Vasudeva. Vaishnava, and a pillar rather than a cave.\n- **2. Bhaja — Buddhist cave shrine: correct.** Rock-cut caves in the Western Ghats near Pune, from the Hinayana phase, with an apsidal chaitya hall, wooden ribbing in the vault and a stupa as the object of worship.\n- **3. Sittanavasal — Jain cave shrine: correct.** A Jain cave temple in Tamil Nadu, the Arivar Koil, known for its murals including a lotus tank.\n\nTwo of three, so **only two**.\n\n**Remember:** Hinayana rock-cut caves (Bhaja, Bedsa, Karle) venerate a **stupa** and carry no Buddha image; figural images of the Buddha belong to the later Mahayana phase.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Besnagar is known for the Vaishnavite Heliodorus pillar, not a Shaivite cave shrine, while Bhaja (Buddhist) and Sittanavasal (Jain) are correctly matched."
+   },
+   "key_supported": true
   },
   {
    "q_no": 83,
@@ -2315,12 +2892,19 @@
     "CAI-10"
    ],
    "primary_topic_code": "HIS-07",
-   "explanation_md": null,
+   "explanation_md": "National Handloom Day exists precisely because of the date it borrows, so the second statement is not merely also true — it is the reason for the first.\n\n- **Statement-I: correct.** 7 August is National Handloom Day, first observed in 2015, to honour handloom weavers and the sector's place in the rural economy.\n- **Statement-II: correct.** The **Swadeshi Movement was formally launched at a meeting in Calcutta Town Hall on 7 August 1905**, in protest against the announced partition of Bengal, and the boycott of foreign cloth in favour of indigenous weaving was its most visible expression.\n- **Link: valid.** The government chose 7 August specifically to mark that launch, so Statement-II explains Statement-I.\n\n**Remember:** partition of Bengal was announced in July 1905, took effect on **16 October 1905**, and was annulled in **1911** at the Delhi Durbar — the swadeshi, boycott, national education and passive resistance programme all date from that agitation.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles HIS/CAI: the testable half is Swadeshi 1905 (HIS-07); the National Handloom Day half has no clean home — CAI-10 is the nearest government-initiative bucket.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "7 August is National Handloom Day chosen precisely because the Swadeshi Movement was launched on that date in 1905, so II explains I."
+   },
+   "key_supported": true
   },
   {
    "q_no": 84,
@@ -2342,12 +2926,19 @@
     "POL-27"
    ],
    "primary_topic_code": "POL-27",
-   "explanation_md": null,
+   "explanation_md": "600 mm × 400 mm has exactly the right proportions but is **not one of the sizes the Flag Code actually lists**, which is the trick.\n\n- **Statement-I: incorrect.** The Flag Code of India, 2002 prescribes a fixed set of nine standard sizes, running from 6300 × 4200 mm at the largest down to 150 × 100 mm at the smallest. 600 × 400 mm is not among them.\n- **Statement-II: correct.** The Code requires the ratio of length to height (width) to be **3 : 2**.\n\nSo Statement-I is wrong while Statement-II is right. Note that 600 : 400 does reduce to 3 : 2 — the statement satisfies the ratio rule yet still fails, because conformity to the ratio is not the same as being a listed standard size.\n\n**Remember:** the Flag Code was amended in 2021 to allow polyester and machine-made flags, and again in 2022 to permit a flag displayed in the open to be flown day and night, replacing the old sunrise-to-sunset rule.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "low",
    "tagging_note": "Gap: nothing in the tree covers national symbols or the Flag Code of India, 2002. Tagged POL-27 (governance) only because the Flag Code is an executive instrument.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "The Flag Code's nine standard sizes run 6300x4200 down to 150x100 mm and do not include 600x400, though the 3:2 ratio rule is correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 85,
@@ -2369,12 +2960,19 @@
     "POL-02"
    ],
    "primary_topic_code": "POL-02",
-   "explanation_md": null,
+   "explanation_md": "26 November honours the day the Constitution was **adopted**, not the day the Drafting Committee was formed.\n\n- **Statement-I: correct.** Constitution Day (Samvidhan Divas) has been observed on 26 November since 2015 to spread awareness of constitutional values. The Constituent Assembly adopted the Constitution on **26 November 1949**.\n- **Statement-II: incorrect.** The Drafting Committee under Dr B. R. Ambedkar was constituted on **29 August 1947**, more than two years earlier. By 26 November 1949 the Committee's work was long finished and the Assembly was adopting the final text.\n\nStatement-I correct, Statement-II incorrect.\n\n**Remember:** three dates in sequence — Constituent Assembly first met **9 December 1946**; Constitution **adopted 26 November 1949**; it **came into force 26 January 1950**. A few provisions (citizenship, elections, provisional Parliament) commenced on adoption itself in 1949.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Constitution Day marks adoption of the Constitution on 26 Nov 1949; the Drafting Committee under Ambedkar was set up on 29 August 1947, so II is wrong."
+   },
+   "key_supported": true
   },
   {
    "q_no": 86,
@@ -2397,12 +2995,19 @@
     "GEO-23"
    ],
    "primary_topic_code": "ECO-12",
-   "explanation_md": null,
+   "explanation_md": "Switzerland dominates gold **refining**, not gold **holdings** — the statements confuse a flow with a stock.\n\n- **Statement-I: correct.** Swiss refineries process a very large share of the world's newly mined and recycled gold, and refined gold is consistently among Switzerland's largest exports by value. The country mines essentially none of it; it imports, refines and re-exports.\n- **Statement-II: incorrect.** The largest official gold reserves are held by the **United States**, with Germany second. Switzerland's central-bank holdings, while substantial for its size, are far smaller and it does not rank second.\n\nStatement-I correct, Statement-II incorrect.\n\n**Remember:** separate **trade flow** from **reserve stock**. A refining and trading hub can lead the world in gold exports while holding only modest official reserves — the same logic explains why the Netherlands leads in re-exported goods it never produces.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles ECO/GEO: gold exports are world trade (GEO-23), central-bank gold reserves sit closer to the external sector (ECO-12).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Switzerland is a top gold exporter as a refining hub, but its official gold reserves rank around seventh, not second (Germany is second)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 87,
@@ -2425,12 +3030,19 @@
     "CAI-06"
    ],
    "primary_topic_code": "CAI-04",
-   "explanation_md": null,
+   "explanation_md": "The body is real, but the motive attributed to it is invented — a standard construction in this question type.\n\n- **Statement-I: correct.** The **US–EU Trade and Technology Council** was launched at the Brussels summit in June 2021, with its first ministerial meeting held later that year in Pittsburgh. Its working groups cover technology standards, export controls, artificial intelligence, semiconductor supply chains, investment screening and data governance.\n- **Statement-II: incorrect.** Neither side claims to be bringing technological progress and physical productivity \"under their control\". The declared purpose is to coordinate regulatory approaches, align standards and build supply-chain resilience.\n\nStatement-I correct, Statement-II incorrect.\n\nA useful exam heuristic: when the second statement puts a frankly self-serving or hostile motive into an institution's **own** mouth (\"they claim they are trying to control...\"), it is almost always the false half.\n\n**Remember:** the TTC is a **coordination forum**, not a trade agreement — it negotiates no tariff cuts and creates no binding obligations.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "A US-EU bilateral body with no India angle; the tree's IR topics are India-centric, so CAI-04 is a loose fit rather than an exact one.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The US-EU Trade and Technology Council was launched in 2021, but neither party claims it aims to bring technological progress and productivity under their control."
+   },
+   "key_supported": true
   },
   {
    "q_no": 88,
@@ -2453,12 +3065,19 @@
     "ECO-12"
    ],
    "primary_topic_code": "ECO-15",
-   "explanation_md": null,
+   "explanation_md": "India's share of world goods exports is nowhere near 3.2%, while the PLI claim is straightforwardly true.\n\n- **Statement-I: incorrect.** India's share of global **merchandise** exports is under 2% — roughly 1.8% in recent years. The figure of 3.2% substantially overstates it.\n- **Statement-II: correct.** The Production-Linked Incentive scheme, launched in 2020 and extended across fourteen sectors, has been taken up both by Indian firms and by foreign manufacturers, most visibly in mobile phone assembly.\n\nSo Statement-I is incorrect and Statement-II is correct.\n\nNote also that even if the first statement were true, the second would not explain it — a domestic production subsidy of recent vintage does not account for a standing share of world trade.\n\n**Remember:** India is a far bigger player in **services** than in goods — around 4% of world commercial services exports against under 2% of merchandise. Mixing up the two shares is the usual source of error.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "India's share of world merchandise exports is about 1.8%, not 3.2%, while the PLI scheme has indeed been used by local and foreign firms."
+   },
+   "key_supported": true
   },
   {
    "q_no": 89,
@@ -2482,12 +3101,19 @@
     "CAI-07"
    ],
    "primary_topic_code": "ECO-13",
-   "explanation_md": null,
+   "explanation_md": "The Stability and Growth Pact is a **fiscal discipline rulebook** and nothing else — it says nothing about sharing assets between member states.\n\n- **1. Limits budgetary deficits: correct.** It caps the general government deficit at **3% of GDP** and public debt at **60% of GDP**, enforced through an excessive deficit procedure against members that breach the limits.\n- **2. Sharing infrastructure facilities: incorrect.** No such obligation exists anywhere in the Pact.\n- **3. Sharing technologies: incorrect.** Equally absent; EU technology and research cooperation runs through entirely separate programmes.\n\nOnly one statement is correct.\n\n**Remember:** the 3% and 60% thresholds originate in the **Maastricht convergence criteria (1992)**, which set the conditions for adopting the euro; the Stability and Growth Pact (agreed 1997) is the machinery that keeps enforcing them **after** a country has joined the single currency. Its rules were suspended under a general escape clause during the COVID-19 shock.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles ECO/CAI: the Stability and Growth Pact is an EU fiscal-rules treaty; ECO-13 lists IMF/WB/WTO/ADB/NDB but not the EU, so the fit is by analogy.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The Stability and Growth Pact caps budget deficits (3% of GDP) and debt but has nothing to do with sharing infrastructure or technology."
+   },
+   "key_supported": true
   },
   {
    "q_no": 90,
@@ -2510,12 +3136,19 @@
     "GEO-21"
    ],
    "primary_topic_code": "CAI-07",
-   "explanation_md": null,
+   "explanation_md": "All three statements overstate what the compact is — it is neither universal, nor binding, nor concerned with people who never cross a border.\n\n- **1: incorrect.** The Global Compact for Safe, Orderly and Regular Migration was adopted at Marrakech in December 2018 and endorsed by the UN General Assembly, but **not by all UN members** — the United States withdrew from the process, and several states voted against or abstained.\n- **2: incorrect.** The GCM is expressly **non-binding**. It is a cooperative framework that reaffirms each state's sovereign right to determine its own migration policy.\n- **3: incorrect.** Its objectives address **international** migration. Internally displaced persons, who remain within their own country, fall outside its scope.\n\nNone of the three is correct.\n\n**Remember:** two separate instruments came out of 2018 — the **Global Compact on Refugees** and the **Global Compact for Migration**. Refugees retain their distinct protection under the 1951 Refugee Convention; migrants have never had an equivalent binding treaty.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The GCM was not adopted by all UN members (US and others opted out), is explicitly non-binding, and covers international, not internal, migration."
+   },
+   "key_supported": true
   },
   {
    "q_no": 91,
@@ -2538,12 +3171,19 @@
     "POL-15"
    ],
    "primary_topic_code": "POL-27",
-   "explanation_md": null,
+   "explanation_md": "Home Guards are a **state-raised** voluntary force, which is what sinks the first statement.\n\n- **1: incorrect.** Home Guards are raised under the **Home Guards Acts and Rules of the individual States and Union Territories**, not a central enactment. The Union Home Ministry only issues broad guidelines and shares part of the expenditure on raising and training.\n- **2: correct.** Their role is to serve as an auxiliary to the police in maintaining internal security, along with traffic duty, civil defence and assistance during disasters and elections.\n- **3: correct.** **Border Wing Home Guards** battalions have been raised in several border States to act as an auxiliary to the Border Security Force against infiltration on international borders and coastal stretches.\n\nTwo statements are correct.\n\n**Remember:** police and public order are **State List** subjects (Entries 1 and 2), so a voluntary auxiliary to the police is naturally a state creation — unlike the CAPFs (BSF, CRPF, CISF, ITBP, SSB), which the Centre raises and controls.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "low",
    "tagging_note": "Gap: the tree has no internal-security or police-organisation topic (Home Guards, central armed police forces). POL-27 is a placeholder, not genuine coverage.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Home Guards are raised under State Home Guards Acts and Rules, not the Central Government's, while the auxiliary-to-police role and Border Wing battalions are correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 92,
@@ -2565,12 +3205,19 @@
     "POL-27"
    ],
    "primary_topic_code": "POL-27",
-   "explanation_md": null,
+   "explanation_md": "The Indian Evidence Act creates **no offences at all**, which decides the second pair on its own.\n\n- **1. Unauthorized wearing of police or military uniforms — Official Secrets Act, 1923: correct.** Section 6 of the OSA deals with unauthorised use of uniforms, false statements, forged passes and impersonation.\n- **2. Misleading or interfering with an officer on duty — Indian Evidence Act, 1872: incorrect.** The Evidence Act is a law of **proof** — what may be admitted and how facts are established in court. It defines no conduct as criminal. Obstructing a public servant in the discharge of duty is a penal-code offence, and interference with officers on guard is itself covered by the same Section 6 of the OSA.\n- **3. Celebratory gunfire — Arms (Amendment) Act, 2019: correct.** That amendment made celebratory firing endangering others a distinct punishable offence.\n\nTwo pairs match.\n\n**Remember:** the Arms (Amendment) Act, 2019 also cut the number of firearms one licensee may hold from three to two and extended licence validity from three to five years.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "low",
    "tagging_note": "Gap: no topic covers miscellaneous criminal statutes (Official Secrets Act, Evidence Act, Arms Act). Same missing internal-security/laws-in-news node as Q91.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Both unauthorized uniform wearing and misleading/interfering with officers fall under the Official Secrets Act 1923, so pair 2 is wrongly attributed to the Evidence Act; celebratory gunfire is covered by the Arms (Amendment) Act 2019."
+   },
+   "key_supported": true
   },
   {
    "q_no": 93,
@@ -2593,12 +3240,19 @@
     "CAI-07"
    ],
    "primary_topic_code": "GEO-24",
-   "explanation_md": null,
+   "explanation_md": "Every region named is a genuine news dateline, but each has been attached to somebody else's conflict — a clean shuffle with **no** correct pair.\n\n- **1. North Kivu and Ituri — Armenia–Azerbaijan war: wrong.** Both are provinces of the **Democratic Republic of the Congo**, in the news for armed-group violence including the M23 offensive, and earlier for Ebola outbreaks.\n- **2. Nagorno-Karabakh — insurgency in Mozambique: wrong.** Nagorno-Karabakh is the enclave inside Azerbaijan contested with Armenia; it is precisely the Armenia–Azerbaijan conflict that pair 1 was wrongly given.\n- **3. Kherson and Zaporizhzhia — Israel–Lebanon dispute: wrong.** Both are **Ukrainian oblasts** occupied and claimed by Russia in 2022; Zaporizhzhia also holds Europe's largest nuclear power plant.\n\nNone matched.\n\n**Remember:** Mozambique's insurgency is in **Cabo Delgado** province in the north, near the offshore gas fields — that is the name the examiner withheld here.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "North Kivu/Ituri is DRC, Nagorno-Karabakh is Armenia-Azerbaijan and Kherson/Zaporizhzhia is Ukraine, so every pair is mismatched."
+   },
+   "key_supported": true
   },
   {
    "q_no": 94,
@@ -2621,12 +3275,19 @@
     "CAI-07"
    ],
    "primary_topic_code": "CAI-03",
-   "explanation_md": null,
+   "explanation_md": "Israel has indeed normalised relations with several Arab states, but never through the Arab Peace Initiative, which it did not sign.\n\n- **Statement-I: correct.** Egypt recognised Israel in 1979 and Jordan in 1994; the **Abraham Accords of 2020** added the UAE and Bahrain, with Morocco following, and Sudan also moving to normalise.\n- **Statement-II: incorrect.** The **Arab Peace Initiative** was a Saudi proposal adopted by the **Arab League summit at Beirut in 2002**. It offered collective normalisation in exchange for Israeli withdrawal to the 1967 lines and a Palestinian state with East Jerusalem as capital. Israel was never a signatory — it was an Arab League offer to Israel, not a treaty between them.\n\nStatement-I correct, Statement-II incorrect.\n\n**Remember:** the Abraham Accords inverted the Arab Peace Initiative's sequencing. The 2002 initiative made normalisation **conditional on** a Palestinian settlement; the 2020 accords delivered normalisation **without** one.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "CAI-03 is framed as India and West Asia; this question has no India angle, so the topic covers the region but not the framing.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Israel does have ties with several Arab states via the Abraham Accords, but the 2002 Arab Peace Initiative was never signed by Israel."
+   },
+   "key_supported": true
   },
   {
    "q_no": 95,
@@ -2648,12 +3309,19 @@
     "CAI-09"
    ],
    "primary_topic_code": "CAI-09",
-   "explanation_md": null,
+   "explanation_md": "The Arjuna and Rashtriya Khel Protsahan descriptions have been swapped in from other categories; the Khel Ratna and Dronacharya entries stand.\n\n- **1. Khel Ratna: correct.** Renamed after Major Dhyan Chand in 2021, it is the highest sporting honour, for the most spectacular and outstanding performance over the preceding **four years**.\n- **2. Arjuna Award: incorrect.** It too rewards consistently outstanding performance over four years. **Lifetime achievement** is the separate **Dhyan Chand Award**.\n- **3. Dronacharya Award: correct.** For eminent coaches who have produced outstanding sportspersons or teams.\n- **4. Rashtriya Khel Protsahan Puraskar: incorrect.** It goes to **corporate entities, institutions and organisations** that promote sport — through talent nurturing, CSR spending, employment to sportspersons or sports for development — not to retired sportspersons.\n\nTwo pairs match.\n\n**Remember:** two awards carry Dhyan Chand's name — the **Khel Ratna** (best performance over four years) and the **Dhyan Chand Award** (lifetime contribution). Confusing them is the standard trap.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": "The pair table in the paper has no column headings; the two columns are the award and the reason it is given."
+   "transcription_note": "The pair table in the paper has no column headings; the two columns are the award and the reason it is given.",
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Khel Ratna and Dronacharya are correctly described; Arjuna is for four years of consistent performance (lifetime is Dhyan Chand) and Rashtriya Khel Protsahan Puraskar goes to organizations/corporates."
+   },
+   "key_supported": true
   },
   {
    "q_no": 96,
@@ -2675,12 +3343,19 @@
     "CAI-09"
    ],
    "primary_topic_code": "CAI-09",
-   "explanation_md": null,
+   "explanation_md": "The two trophy names have simply been **swapped**, so the first two statements survive and the last two fail.\n\n- **1: correct.** The 44th Chess Olympiad, 2022, held at Mahabalipuram near Chennai, was the **first time India hosted** the event; it was relocated to India at short notice.\n- **2: correct.** The official mascot was **Thambi**, a knight — *thambi* meaning younger brother in Tamil.\n- **3: incorrect.** The **open section** winner takes the **Hamilton-Russell Cup**, donated in the 1920s.\n- **4: incorrect.** The **women's section** trophy is the **Vera Menchik Cup**, named after the first women's world champion.\n\nTwo statements are correct.\n\n**Remember:** Menchik → **women's**; Hamilton-Russell → **open**. The mnemonic is that the cup named after a woman player is the women's trophy — the examiner reverses exactly this.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "India hosting for the first time and mascot 'Thambi' are correct, but the trophies are swapped — Hamilton-Russell Cup is for the open section and Vera Menchik Cup for women."
+   },
+   "key_supported": true
   },
   {
    "q_no": 97,
@@ -2702,12 +3377,19 @@
     "GEO-24"
    ],
    "primary_topic_code": "GEO-24",
-   "explanation_md": null,
+   "explanation_md": "Each conflict zone has been assigned to the wrong country, so **none** of the three pairs matches.\n\n- **1. Donbas — Syria: wrong.** The Donbas is the industrial region of eastern **Ukraine**, comprising the Donetsk and Luhansk oblasts, fought over since 2014 and central to the 2022 invasion.\n- **2. Kachin — Ethiopia: wrong.** Kachin is a state in northern **Myanmar**, on the border with China, where the Kachin Independence Army has fought the Myanmar military for decades.\n- **3. Tigray — North Yemen: wrong.** Tigray is the northernmost region of **Ethiopia**, site of the war between the TPLF and the federal government that began in 2020 and ended with the 2022 Pretoria agreement.\n\nNone correctly matched.\n\n**Remember:** each of these three sits on the frontier it is named for — **Donbas borders Russia, Kachin borders China, Tigray borders Eritrea**. Fixing the neighbour fixes the country, which is what these shuffled-pair questions actually test.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles map work and international current affairs: Donbas/Kachin/Tigray are places-in-news, and GEO-24 is the only topic that explicitly owns that drill.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Donbas is in Ukraine, Kachin in Myanmar and Tigray in Ethiopia, so none of the pairs match."
+   },
+   "key_supported": true
   },
   {
    "q_no": 98,
@@ -2730,12 +3412,19 @@
     "GEO-24"
    ],
    "primary_topic_code": "CAI-03",
-   "explanation_md": null,
+   "explanation_md": "All four states saw the military seize power in a short run of **successful coups** between 2020 and 2021.\n\nMali's army removed the president in August 2020 and struck again in May 2021; a military council took power in **Chad** in April 2021 after President Idriss Déby's death; **Guinea's** special forces deposed Alpha Condé in September 2021; and in **Sudan** the military dissolved the transitional civilian government in October 2021.\n\n- **(a) rare earths: wrong.** None of the four came to attention for rare earth discoveries.\n- **(b) Chinese military bases: wrong.** China's only acknowledged overseas military base is at **Djibouti**.\n- **(c) Sahara expanding southward: wrong.** Desertification is a real Sahelian concern for Mali, Chad and Sudan, but Guinea is a coastal West African state well outside that belt, and this is not what put the four in the news together.\n\n**Remember:** the African Union's standing rule is to **suspend** members after an unconstitutional change of government — it did so for Mali, Guinea and Sudan, though notably not for Chad.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Gap: no topic covers world political current affairs with no India angle. CAI-03 is framed as India and the regions, but is the nearest bucket for Sahel/Africa news; GEO-24 carries the places-in-news half.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Chad, Guinea, Mali and Sudan all experienced successful military coups in 2020-2021."
+   },
+   "key_supported": true
   },
   {
    "q_no": 99,
@@ -2758,12 +3447,19 @@
     "SNT-12"
    ],
    "primary_topic_code": "ENV-16",
-   "explanation_md": null,
+   "explanation_md": "All three industries already run on hydrogen or on a carbon-based reductant, so green hydrogen substitutes directly into each of them.\n\n- **1. Fertilizer plants: yes.** Ammonia synthesis needs hydrogen, today produced by steam reforming natural gas. Replacing it with electrolytic hydrogen gives **green ammonia** and hence green urea, with no change to the Haber-Bosch step itself.\n- **2. Oil refineries: yes.** Refineries are among the world's largest existing hydrogen consumers, using it for hydrocracking and for removing sulphur from fuels. Swapping grey hydrogen for green cuts those emissions immediately.\n- **3. Steel plants: yes.** Hydrogen can replace coking coal as the reducing agent in direct-reduced iron, so the by-product of reduction becomes water instead of carbon dioxide.\n\nAll three, so **(c)**.\n\n**Remember:** the colour code — **green** = electrolysis powered by renewables; **grey** = steam methane reforming; **blue** = grey plus carbon capture. India's **National Green Hydrogen Mission** was approved in January 2023.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Format is the count shape (Only one/Only two/All three/None) but the items are industries, not matched pairs; classified pairs on the answer mode, not the word 'pairs'. Content sits across ENV-16 green hydrogen and SNT-12 hydrogen energy tech.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Green hydrogen is a recognised decarbonisation route for ammonia/fertilizer production, refinery hydrogen use and direct reduction in steelmaking."
+   },
+   "key_supported": true
   },
   {
    "q_no": 100,
@@ -2786,12 +3482,27 @@
     "ECO-20"
    ],
    "primary_topic_code": "CAI-04",
-   "explanation_md": null,
+   "explanation_md": "Both statements are accurate: the G-20 began as a finance-ministry forum, and digital public infrastructure was a headline priority of India's presidency.\n\n- **1: correct.** The G-20 was created in **1999**, in the aftermath of the Asian financial crisis, as a forum for **Finance Ministers and Central Bank Governors** to discuss international economic and financial stability. It was elevated to the level of **leaders' summits only in 2008**, during the global financial crisis.\n- **2: correct.** **Digital public infrastructure** — Aadhaar, UPI and DigiLocker offered as a replicable model — was a flagship priority of India's presidency, alongside green development, LiFE, women-led development and reform of multilateral institutions.\n\nBoth correct.\n\n**Remember:** the original finance track still runs alongside the newer **sherpa track**; the leaders' summit is a layer added on top in 2008, not the body's founding form. India held the presidency from December 2022, hosting the New Delhi summit in September 2023, where the **African Union** was admitted as a permanent member.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles CAI and ECO: statement 1 is G-20 institutional history, statement 2 is digital public infrastructure, which lives in ECO-20.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "G-20 began in 1999 as a Finance Ministers and Central Bank Governors forum, and digital public infrastructure was a stated Indian G20 presidency priority."
+   },
+   "key_supported": true
   }
- ]
+ ],
+ "independent_pass": {
+  "done_on": "2026-08-30",
+  "note": "Blind cross-check produced without reading the answer field."
+ },
+ "explanations_generated": {
+  "on": "2026-08-30",
+  "note": "Written fresh from subject knowledge (D2)."
+ }
 }

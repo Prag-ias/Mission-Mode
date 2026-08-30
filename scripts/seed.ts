@@ -22,6 +22,7 @@ type SubjectRow = { code: string; name: string; avg_6yr: number | null; target_h
 type TopicRow = {
   code: string; subject: string; name: string; source_ref: string | null
   est_minutes: number; intro_phase: number; stage: string; pyq_drills: boolean
+  bonus?: boolean
 }
 type PhaseRow = { code: string; name: string; starts_on: string; ends_on: string; weekly_hours: number; note?: string }
 type BlockRow = {
@@ -41,6 +42,9 @@ async function main() {
   const subjectRows = read<SubjectRow[]>('subjects.json')
   const topicRows = read<TopicRow[]>('topics.json')
   const phaseRows = read<PhaseRow[]>('phases.json')
+  // Bonus topics (decision D30) live in their own file so generate-plan.mjs,
+  // which reads only topics.json, cannot schedule them even on a re-plan.
+  const bonusRows = read<TopicRow[]>('bonus-topics.json')
   const blockRows = read<BlockRow[]>('plan-blocks.json')
 
   await db
@@ -62,12 +66,13 @@ async function main() {
 
   await db
     .insert(topics)
-    .values(topicRows.map((t) => {
+    .values([...topicRows.map((t) => ({ ...t, bonus: false })), ...bonusRows.map((t) => ({ ...t, bonus: true }))].map((t) => {
       const sid = subjectId.get(t.subject)
       if (!sid) throw new Error(`topic ${t.code}: unknown subject ${t.subject}`)
       return {
         code: t.code, subjectId: sid, name: t.name, sourceRef: t.source_ref ?? null,
         estMinutes: t.est_minutes, introPhase: t.intro_phase, stage: t.stage, pyqDrills: t.pyq_drills,
+        bonus: t.bonus,
       }
     }))
     .onConflictDoUpdate({
@@ -79,6 +84,7 @@ async function main() {
         estMinutes: sql`excluded.est_minutes`,
         introPhase: sql`excluded.intro_phase`,
         pyqDrills: sql`excluded.pyq_drills`,
+        bonus: sql`excluded.bonus`,
       },
     })
 
@@ -140,7 +146,13 @@ async function main() {
     ['PASS3', 'P4'],
     ['PASS4', 'P5'],
   ] as const
-  const allTopics = await db.select({ id: topics.id }).from(topics).orderBy(asc(topics.id))
+  // Bonus topics are excluded from the whole-syllabus passes: seeding PASS events for
+  // material that was never scheduled would manufacture revision debt out of nothing.
+  const allTopics = await db
+    .select({ id: topics.id })
+    .from(topics)
+    .where(eq(topics.bonus, false))
+    .orderBy(asc(topics.id))
   for (const [rung, phaseCode] of passes) {
     const phase = phaseRows.find((p) => p.code === phaseCode)
     if (!phase) throw new Error(`PASS seeding: phase ${phaseCode} not in phases.json`)
