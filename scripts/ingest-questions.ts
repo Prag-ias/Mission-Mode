@@ -106,7 +106,7 @@ async function main() {
   ).map((f: { slug: string }) => f.slug)
 
   const vocab: string[] = []
-  for (const q of data.questions) {
+  for (const q of loadable) {
     if (q.format && !formats.includes(q.format)) vocab.push(`Q${q.q_no}: unknown format "${q.format}"`)
     if (q.subject_code && !subjectId.has(q.subject_code)) vocab.push(`Q${q.q_no}: unknown subject "${q.subject_code}"`)
     for (const c of q.topic_codes ?? []) {
@@ -123,10 +123,10 @@ async function main() {
     process.exit(1)
   }
 
-  const disputed = data.questions.filter((q) => q.disputed).length
-  const noExplanation = data.questions.filter((q) => !q.explanation_md?.trim()).length
+  const disputed = loadable.filter((q) => q.disputed).length
+  const noExplanation = loadable.filter((q) => !q.explanation_md?.trim()).length
 
-  console.log(`${paper} ${year} — ${data.questions.length} questions validated`)
+  console.log(`${paper} ${year} — ${loadable.length} questions validated`)
   console.log(`  disputed: ${disputed} · without explanation: ${noExplanation}`)
   console.log(`  reviewed_by_human: ${data.reviewed_by_human === true}${data.reviewed_on ? ` (${data.reviewed_on})` : ''}`)
 
@@ -145,7 +145,7 @@ async function main() {
   // ------------------------------------------------------------------- write
   let inserted = 0
   let updated = 0
-  for (const q of data.questions) {
+  for (const q of loadable) {
     const [existing] = await db
       .select({ id: questions.id })
       .from(questions)

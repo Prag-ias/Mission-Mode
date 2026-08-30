@@ -5,7 +5,7 @@
  "code": "TDMN-A-ASO",
  "source_pdf": "PYQs/Prelims/GS PAPER 1/GS PAPER 1 2026.pdf",
  "transcribed_on": "2026-08-30",
- "reviewed_by_human": false,
+ "reviewed_by_human": true,
  "questions": [
   {
    "q_no": 1,
@@ -3605,5 +3605,7 @@
  "explanations_generated": {
   "on": "2026-08-30",
   "note": "Written fresh from subject knowledge, never copied from any published solution (decision D2)."
- }
+ },
+ "reviewed_on": "2026-08-30",
+ "review_note": "Reviewed and approved by Pragaman. Q64 excluded as dropped by UPSC. Q20/Q78/Q82 key-vs-blind disagreements accepted in favour of the official provisional key. Q62/Q73/Q96 remain tagged to nearest-fit topics; the underlying topics.json gaps (new criminal codes BNS/BNSS/BSA, armed-forces structure, insurance) are still open study decisions."
 }
