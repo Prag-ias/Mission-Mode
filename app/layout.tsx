@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next'
 import { Bricolage_Grotesque, Space_Mono } from 'next/font/google'
 import localFont from 'next/font/local'
 import './globals.css'
+import BottomNav from '@/components/BottomNav'
 
 const bricolage = Bricolage_Grotesque({
   subsets: ['latin'],
@@ -36,7 +37,10 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" data-mode="work" className={`${bricolage.variable} ${spaceMono.variable} ${satoshi.variable}`}>
-      <body className="bg-bg font-body text-ink antialiased">{children}</body>
+      <body className="bg-bg font-body text-ink antialiased">
+        <div className="pb-[calc(4.25rem+env(safe-area-inset-bottom))] lg:pb-0 lg:pt-14">{children}</div>
+        <BottomNav />
+      </body>
     </html>
   )
 }

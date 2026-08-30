@@ -73,9 +73,7 @@ export default async function Practice({
     <main className="mx-auto max-w-3xl px-4 pb-16 pt-5 sm:px-6 lg:pt-10">
       <header className="mb-6 flex items-baseline justify-between">
         <h1 className="font-display text-2xl font-bold tracking-tight lg:text-4xl">Practice</h1>
-        <Link href="/" className="text-sm font-medium text-accent-deep underline">
-          Today
-        </Link>
+
       </header>
 
       <div className="grid gap-5 lg:grid-cols-[1fr_260px] lg:gap-8">

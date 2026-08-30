@@ -55,9 +55,7 @@ export default async function Syllabus({
     <main className="mx-auto max-w-md px-4 pb-10 pt-5 lg:max-w-6xl lg:px-8 lg:pt-10">
       <header className="mb-3 flex items-baseline justify-between">
         <h1 className="font-display text-xl font-bold tracking-tight lg:text-4xl">Syllabus</h1>
-        <Link href="/" className="text-sm font-medium text-accent-deep underline">
-          Today
-        </Link>
+
       </header>
 
       <form method="GET" className="mb-4">

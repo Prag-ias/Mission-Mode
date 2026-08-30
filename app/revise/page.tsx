@@ -64,9 +64,7 @@ export default async function Revise() {
     <main className="mx-auto max-w-md px-4 pb-10 pt-5 lg:max-w-2xl lg:pt-10">
       <header className="mb-4 flex items-baseline justify-between">
         <h1 className="font-display text-xl font-bold tracking-tight lg:text-4xl">Revise</h1>
-        <Link href="/" className="text-sm font-medium text-accent-deep underline">
-          Today
-        </Link>
+
       </header>
 
       <div className="mb-4 flex items-baseline justify-between">

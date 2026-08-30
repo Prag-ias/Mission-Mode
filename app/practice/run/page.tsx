@@ -1,7 +1,7 @@
 import { redirect } from 'next/navigation'
 import { and, sql } from 'drizzle-orm'
 import { db } from '@/lib/db'
-import { questions } from '@/db/schema'
+
 import { isAuthed } from '@/lib/auth'
 import { filterQuery, parseFilters } from '@/lib/practice'
 import PracticeRunner from '@/components/PracticeRunner'
