@@ -253,28 +253,28 @@
   "ingestion": {
     "papers_total": 12,
     "papers_done": [
-      "GS1 2026"
+      "GS1 2026 (loaded, 99 live)",
+      "GS1 2021 (transcribed, awaiting key)"
     ],
     "in_flight": [
       {
-        "paper": "GS1 2021",
-        "run_id": "wf_cf19cbd7-285",
-        "stage": "transcribe/verify/tag"
-      },
-      {
         "paper": "GS1 2022",
-        "run_id": "wf_9c26ecd1-64f",
-        "stage": "transcribe/verify/tag"
+        "run_id": "wf_9c26ecd1-64f"
       },
       {
         "paper": "GS1 2023",
-        "run_id": "wf_3361ee38-ac0",
-        "stage": "transcribe/verify/tag"
+        "run_id": "wf_3361ee38-ac0"
+      },
+      {
+        "paper": "GS1 2024",
+        "run_id": "wf_68c230d0-4f8"
+      },
+      {
+        "paper": "GS1 2025",
+        "run_id": "wf_02b48dc1-e80"
       }
     ],
     "not_started": [
-      "GS1 2024",
-      "GS1 2025",
       "CSAT 2021-2026"
     ],
     "script": "workflows/scripts/ingest-gs1-paper-wf_cf19cbd7-285.js (resume with scriptPath + resumeFromRunId)",
@@ -290,7 +290,8 @@
       "GS1 2024 https://upsc.gov.in/sites/default/files/AnsKey-CivilServicesPExam-2024-GeneralStudies-I-210525.pdf",
       "GS1 2025 no official key published yet - Vision IAS fallback per D26"
     ],
-    "note": "upsc.gov.in 403s automated fetch and serves keys as downloads, so the user must save them. Keys are series-specific: verify each paper's booklet series before applying a key. 2021/2026 confirmed Series A; 2022/2024 show a '( 3 - A )' page mark; 2023/2025 need their cover page checked."
+    "note": "upsc.gov.in 403s automated fetch and serves keys as downloads, so the user must save them. Keys are series-specific: verify each paper's booklet series before applying a key. 2021/2026 confirmed Series A; 2022/2024 show a '( 3 - A )' page mark; 2023/2025 need their cover page checked.",
+    "collector": "node scripts/collect-paper.mjs <task-output.json> writes the unreviewed draft and reports topic-tree gaps"
   },
   "replan": {
     "last_run": null,
