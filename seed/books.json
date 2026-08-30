@@ -1,0 +1,191 @@
+[
+ {
+  "title": "Indian Polity — M. Laxmikanth",
+  "detail": "The single most important book on this list. Start it in Phase 0.",
+  "tier": "owned",
+  "due": null,
+  "price": null,
+  "status": "owned",
+  "sort": 1
+ },
+ {
+  "title": "NCERT Geography, Class 11 & 12",
+  "detail": "Fundamentals of Physical Geography, India Physical Environment, Human Geography, India People & Economy",
+  "tier": "owned",
+  "due": null,
+  "price": null,
+  "status": "owned",
+  "sort": 2
+ },
+ {
+  "title": "Certificate Physical and Human Geography — G.C. Leong",
+  "detail": "Your NCERTs are thin on climatology, and 2024–25 leaned hard on it",
+  "tier": "tier1",
+  "due": "order by 7 September",
+  "price": "₹300",
+  "status": "to_buy",
+  "sort": 10
+ },
+ {
+  "title": "A Brief History of Modern India — Spectrum",
+  "detail": "Rajiv Ahir. The standard, and rightly so",
+  "tier": "tier1",
+  "due": "order by 7 September",
+  "price": "₹500",
+  "status": "to_buy",
+  "sort": 11
+ },
+ {
+  "title": "Environment — Shankar IAS",
+  "detail": "Or PMF IAS. Pick one, never both",
+  "tier": "tier1",
+  "due": "order by 7 September",
+  "price": "₹550",
+  "status": "to_buy",
+  "sort": 12
+ },
+ {
+  "title": "Indian Art and Culture — Nitin Singhania",
+  "detail": "Faster to revise than the Fine Arts NCERT, which matters by pass four",
+  "tier": "tier1",
+  "due": "order by 7 September",
+  "price": "₹500",
+  "status": "to_buy",
+  "sort": 13
+ },
+ {
+  "title": "Oxford Student Atlas for India",
+  "detail": "Open on the desk during every Geography and Environment session",
+  "tier": "tier1",
+  "due": "order by 7 September",
+  "price": "₹450",
+  "status": "to_buy",
+  "sort": 14
+ },
+ {
+  "title": "NCERT Class 11 — Indian Economic Development",
+  "detail": "Free PDF at ncert.nic.in, but a physical copy is worth it",
+  "tier": "tier1",
+  "due": "order by 7 September",
+  "price": "₹150",
+  "status": "to_buy",
+  "sort": 15
+ },
+ {
+  "title": "NCERT Class 12 Political Science — both books",
+  "detail": "Contemporary World Politics carries 10+ questions a year on its own",
+  "tier": "tier1",
+  "due": "order by 7 September",
+  "price": "₹250",
+  "status": "to_buy",
+  "sort": 16
+ },
+ {
+  "title": "Tamil Nadu Class 11 History",
+  "detail": "Ancient and medieval, better written than the old NCERTs",
+  "tier": "tier2",
+  "due": "by mid-October",
+  "price": "free PDF",
+  "status": "pdf",
+  "sort": 20
+ },
+ {
+  "title": "Mrunal Patel — Pillars handouts",
+  "detail": "Economy. Free, and better than most paid economy material",
+  "tier": "tier2",
+  "due": "by mid-October",
+  "price": "free",
+  "status": "pdf",
+  "sort": 21
+ },
+ {
+  "title": "A CSAT manual",
+  "detail": "Disha or Arihant. One book, worked through twice, is enough",
+  "tier": "tier2",
+  "due": "by mid-October",
+  "price": "₹450",
+  "status": "to_buy",
+  "sort": 22
+ },
+ {
+  "title": "NCERT Class 11–12 Biology — ecology chapters only",
+  "detail": "Chapters 13–16 of Class 12. Free PDF",
+  "tier": "tier2",
+  "due": "by mid-October",
+  "price": "free PDF",
+  "status": "pdf",
+  "sort": 23
+ },
+ {
+  "title": "Sociology: Themes and Perspectives — Haralambos & Holborn",
+  "detail": "Paper 1 backbone. Read it like a novel the first time",
+  "tier": "sociology",
+  "due": "by 15 September",
+  "price": "₹800",
+  "status": "to_buy",
+  "sort": 30
+ },
+ {
+  "title": "IGNOU BA/MA Sociology material",
+  "detail": "Free downloads. Genuinely the best value on this entire page",
+  "tier": "sociology",
+  "due": "by 15 September",
+  "price": "free",
+  "status": "pdf",
+  "sort": 31
+ },
+ {
+  "title": "Social Change in Modern India — M.N. Srinivas",
+  "detail": "Paper 2. Short, foundational, quotable in answers",
+  "tier": "sociology",
+  "due": "by 15 September",
+  "price": "₹350",
+  "status": "to_buy",
+  "sort": 32
+ },
+ {
+  "title": "Indian Society: Themes and Social Issues — Nadeem Hasnain",
+  "detail": "Paper 2 workhorse. Doubles as GS-1 society",
+  "tier": "sociology",
+  "due": "by 15 September",
+  "price": "₹600",
+  "status": "to_buy",
+  "sort": 33
+ },
+ {
+  "title": "Sociological Theory — George Ritzer",
+  "detail": "Reference only. Do not read cover to cover",
+  "tier": "sociology",
+  "due": "by 15 September",
+  "price": "₹900",
+  "status": "to_buy",
+  "sort": 34
+ },
+ {
+  "title": "Vision IAS PT365 compilations",
+  "detail": "All of them. Science & Tech, Environment, Economy, Polity, Schemes",
+  "tier": "tier3",
+  "due": "January onward",
+  "price": "free PDF",
+  "status": "pdf",
+  "sort": 40
+ },
+ {
+  "title": "Prelims test series — Forum IAS",
+  "detail": "~₹4,500, moderate difficulty, strong current-affairs tests, good value. Vision IAS at ~₹6,500 is closer to the real paper if the budget stretches",
+  "tier": "tier3",
+  "due": "January onward",
+  "price": "₹4,500",
+  "status": "to_buy",
+  "sort": 41
+ },
+ {
+  "title": "Free supplementary tests",
+  "detail": "Insights and CivilsDaily daily quizzes — use from October, no reason to pay before February",
+  "tier": "tier3",
+  "due": "January onward",
+  "price": "free",
+  "status": "pdf",
+  "sort": 42
+ }
+]

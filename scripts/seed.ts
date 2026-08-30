@@ -15,7 +15,7 @@ import postgres from 'postgres'
 import { drizzle } from 'drizzle-orm/postgres-js'
 import { and, asc, eq, sql } from 'drizzle-orm'
 import type { PgTable } from 'drizzle-orm/pg-core'
-import { subjects, topics, phases, planBlocks, revisionEvents } from '../db/schema'
+import { books, subjects, topics, phases, planBlocks, revisionEvents } from '../db/schema'
 import { addDaysISO, daysBetween } from '../lib/dates'
 
 type SubjectRow = { code: string; name: string; avg_6yr: number | null; target_hours: number | null; colour: string | null }
@@ -45,6 +45,10 @@ async function main() {
   // Bonus topics (decision D30) live in their own file so generate-plan.mjs,
   // which reads only topics.json, cannot schedule them even on a re-plan.
   const bonusRows = read<TopicRow[]>('bonus-topics.json')
+  const bookRows = read<{
+    title: string; detail: string | null; tier: string; due: string | null
+    price: string | null; status: string; sort: number
+  }[]>('books.json')
   const blockRows = read<BlockRow[]>('plan-blocks.json')
 
   await db
@@ -136,6 +140,22 @@ async function main() {
         },
       })
   }
+
+  // Books (section 08 of the campaign plan). Status is user tracking and is
+  // written on first insert only — reseeding never undoes a purchase tick.
+  await db
+    .insert(books)
+    .values(bookRows)
+    .onConflictDoUpdate({
+      target: books.title,
+      set: {
+        detail: sql`excluded.detail`,
+        tier: sql`excluded.tier`,
+        due: sql`excluded.due`,
+        price: sql`excluded.price`,
+        sort: sql`excluded.sort`,
+      },
+    })
 
   // PASS2–4: whole-syllabus revision passes (v2). One event per topic per
   // pass, spread evenly across that phase's window so no single day floods

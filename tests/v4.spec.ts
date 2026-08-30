@@ -157,7 +157,7 @@ test('new routes hold at phone and desktop widths', async ({ page }) => {
   await login(page)
   for (const [w, h] of [[390, 844], [1440, 900]] as const) {
     await page.setViewportSize({ width: w, height: h })
-    for (const route of ['/audit', '/tests/new', '/ca']) {
+    for (const route of ['/audit', '/tests/new', '/ca', '/guide']) {
       await page.goto(route)
       const overflow = await page.evaluate(
         () => document.documentElement.scrollWidth > document.documentElement.clientWidth + 1,
