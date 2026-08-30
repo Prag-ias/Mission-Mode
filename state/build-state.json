@@ -27,8 +27,8 @@
     "v3": {
       "ship_by": "2026-12-20",
       "budget_hours": 12,
-      "status": "in_progress",
-      "hours_actual": null
+      "status": "shipped",
+      "hours_actual": 7
     },
     "v4": {
       "ship_by": "2027-01-31",
@@ -39,16 +39,10 @@
   },
   "open_tasks": [
     {
-      "id": "ing-7",
-      "task": "GS1 2021-2025: transcribe/verify/tag (2021,2022,2023 in flight), then keys, blind pass, explanations, review, load",
-      "est_minutes": 300,
-      "status": "in_progress"
-    },
-    {
       "id": "ing-8",
-      "task": "6 CSAT papers (decision D27)",
+      "task": "CSAT papers x6 (D27), after 2025 loads",
       "est_minutes": 300,
-      "blocked_on": "ing-7"
+      "blocked_on": "user go-ahead"
     }
   ],
   "done_tasks": [
@@ -224,27 +218,14 @@
     "papers_total": 12,
     "papers_done": [
       "GS1 2026 (loaded, 99 live)",
-      "GS1 2021 (transcribed, awaiting key)"
+      "GS1 2021 (loaded, 99 live)",
+      "GS1 2022 (loaded, 99 live)",
+      "GS1 2023 (loaded, 99 live)",
+      "GS1 2024 (loaded, 97 live)"
     ],
-    "in_flight": [
-      {
-        "paper": "GS1 2022",
-        "run_id": "wf_9c26ecd1-64f"
-      },
-      {
-        "paper": "GS1 2023",
-        "run_id": "wf_3361ee38-ac0"
-      },
-      {
-        "paper": "GS1 2024",
-        "run_id": "wf_68c230d0-4f8"
-      },
-      {
-        "paper": "GS1 2025",
-        "run_id": "wf_02b48dc1-e80"
-      }
-    ],
+    "in_flight": [],
     "not_started": [
+      "GS1 2025 (validated file ready - user deferred the load)",
       "CSAT 2021-2026"
     ],
     "script": "workflows/scripts/ingest-gs1-paper-wf_cf19cbd7-285.js (resume with scriptPath + resumeFromRunId)",
