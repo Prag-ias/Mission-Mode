@@ -59,7 +59,7 @@ test('seed loaded the real content, including Monday 31 Aug', async () => {
   const [counts] = await sql`
     select
       (select count(*) from subjects)::int    as subjects,
-      (select count(*) from topics)::int      as topics,
+      (select count(*) from topics where bonus = false)::int as topics,
       (select count(*) from phases)::int      as phases,
       (select count(*) from plan_blocks where slot not in ('T1','T2'))::int as blocks`
   expect(counts).toEqual({ subjects: 11, topics: 186, phases: 7, blocks: 912 })

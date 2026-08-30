@@ -31,13 +31,19 @@ export default async function Syllabus({
       subjectId: topics.subjectId,
       subjectName: subjects.name,
       colour: subjects.colour,
+      bonus: topics.bonus,
     })
     .from(topics)
     .innerJoin(subjects, eq(topics.subjectId, subjects.id))
     .orderBy(asc(topics.subjectId), asc(topics.code))
 
+  // Bonus topics (D30) are deliberately kept out of the grid's denominators:
+  // folding them in would make existing coverage appear to regress overnight.
+  const core = rows.filter((r) => !r.bonus)
+  const bonus = rows.filter((r) => r.bonus)
+
   const groups: { name: string; colour: string | null; topics: typeof rows }[] = []
-  for (const r of rows) {
+  for (const r of core) {
     const g = groups[groups.length - 1]
     if (g && g.name === r.subjectName) g.topics.push(r)
     else groups.push({ name: r.subjectName, colour: r.colour, topics: [r] })
@@ -46,9 +52,9 @@ export default async function Syllabus({
   const results = q.length >= 2 ? await search(q) : null
 
   return (
-    <main className="mx-auto max-w-md px-4 pb-10 pt-5">
+    <main className="mx-auto max-w-md px-4 pb-10 pt-5 lg:max-w-6xl lg:px-8 lg:pt-10">
       <header className="mb-3 flex items-baseline justify-between">
-        <h1 className="font-display text-xl font-bold tracking-tight">Syllabus</h1>
+        <h1 className="font-display text-xl font-bold tracking-tight lg:text-4xl">Syllabus</h1>
         <Link href="/" className="text-sm font-medium text-accent-deep underline">
           Today
         </Link>
@@ -106,7 +112,7 @@ export default async function Syllabus({
         ))}
       </div>
 
-      <div className="flex flex-col gap-5">
+      <div className="flex flex-col gap-5 lg:grid lg:grid-cols-2 lg:items-start lg:gap-x-10 xl:grid-cols-3">
         {groups.map((g) => {
           const touched = g.topics.filter((t) => t.stage !== 'unread').length
           return (
@@ -141,6 +147,38 @@ export default async function Syllabus({
           )
         })}
       </div>
+
+      {bonus.length > 0 && (
+        <section className="mt-8 rounded-card border border-line bg-surface p-4 shadow-s lg:mt-10">
+          <div className="mb-1 flex items-baseline justify-between">
+            <h2 className="font-display text-[15px] font-bold">Bonus — extra marks, never scheduled</h2>
+            <span className="font-mono text-xs font-bold text-muted">
+              {bonus.filter((t) => t.stage !== 'unread').length}/{bonus.length}
+            </span>
+          </div>
+          <p className="mb-3 text-sm text-muted">
+            Areas past papers tested that the plan does not cover. Not counted above, and never in a
+            study block — read them if you have room, or just drill their questions in practice.
+          </p>
+          <div className="flex flex-col gap-1.5">
+            {bonus.map((t) => (
+              <Link
+                key={t.code}
+                href={`/topic/${t.code}`}
+                data-testid={`bonus-${t.code}`}
+                className="flex items-center gap-2.5 rounded-btn border border-line bg-bg px-3 py-2.5 lg:hover:border-muted"
+              >
+                <span
+                  aria-hidden
+                  className={`inline-block size-3 shrink-0 rounded ${STAGE_BG[(t.stage as Stage) ?? 'unread'] ?? 'bg-stone-200'}`}
+                />
+                <span className="flex-1 text-sm">{t.name}</span>
+                <span className="mono-label shrink-0 text-muted">{t.code}</span>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
     </main>
   )
 }

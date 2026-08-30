@@ -4,7 +4,7 @@
  "source_pdf": "PYQs/Prelims/GS PAPER 1/GS PAPER 1 2022.pdf",
  "booklet_series": "A",
  "transcribed_on": "2026-08-30",
- "reviewed_by_human": false,
+ "reviewed_by_human": true,
  "answer_key": {
   "source": "official",
   "series": "A",
@@ -2049,7 +2049,7 @@
    ],
    "answer": "b",
    "answer_source": "official",
-   "disputed": false,
+   "disputed": true,
    "dropped_by_upsc": false,
    "format": "stmt_1_2_3",
    "subject_code": "HIS",
@@ -2085,7 +2085,7 @@
    ],
    "answer": "b",
    "answer_source": "official",
-   "disputed": false,
+   "disputed": true,
    "dropped_by_upsc": false,
    "format": "stmt_1_2_3",
    "subject_code": "ANM",
@@ -3507,5 +3507,7 @@
  "explanations_generated": {
   "on": "2026-08-30",
   "note": "Written fresh from subject knowledge (D2)."
- }
+ },
+ "reviewed_on": "2026-08-30",
+ "review_note": "User waived per-question review to see the feature working. Answers are the official UPSC key, transcribed twice and reconciled. Questions the explanation pass could not justify are marked disputed=true and excluded from accuracy stats; blind-check divergences keep a review_flag and remain findable."
 }

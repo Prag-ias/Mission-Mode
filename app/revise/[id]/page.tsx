@@ -29,7 +29,7 @@ export default async function Recall({ params }: { params: Promise<{ id: string 
   if (!event || event.rung !== 'D1') redirect('/revise')
 
   return (
-    <main className="mx-auto max-w-md px-4 pb-10 pt-5">
+    <main className="mx-auto max-w-md px-4 pb-10 pt-5 lg:max-w-2xl lg:pt-10">
       <header className="mb-4 flex items-baseline justify-between">
         <span className="mono-label text-muted">D1 · blind recall</span>
         <span className="flex items-center gap-2 text-sm text-muted">
