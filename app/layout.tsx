@@ -4,6 +4,7 @@ import localFont from 'next/font/local'
 import './globals.css'
 import BottomNav from '@/components/BottomNav'
 import SWRegister from '@/components/SWRegister'
+import GuideMenu from '@/components/GuideMenu'
 
 const bricolage = Bricolage_Grotesque({
   subsets: ['latin'],
@@ -43,6 +44,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="bg-bg font-body text-ink antialiased">
         <div className="pb-[calc(4.25rem+env(safe-area-inset-bottom))] lg:pb-0 lg:pt-14">{children}</div>
         <BottomNav />
+        <GuideMenu />
         <SWRegister />
       </body>
     </html>

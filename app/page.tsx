@@ -100,7 +100,7 @@ export default async function Today({
 
   return (
     <main className="mx-auto max-w-md px-4 pb-20 pt-5 lg:max-w-5xl lg:px-8 lg:pb-24 lg:pt-6">
-      <header className="mb-4">
+      <header className="mb-4 pr-12 lg:pr-0">
         <p className="mono-label text-muted">{greeting}</p>
         <div className="mt-0.5 flex items-baseline justify-between">
           <h1 className="font-display text-2xl font-bold tracking-tight lg:text-4xl">{displayDate(today)}</h1>

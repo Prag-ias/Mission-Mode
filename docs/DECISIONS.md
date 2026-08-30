@@ -194,3 +194,8 @@ Format: `### DN — <decision>` then **Context**, **Decision**, **Consequence** 
 **Context:** A 13-way parallel read wedged /api/export for 60s+, reproduced in a plain node script; audit's 7-way did the same under suite load. postgres-js on this stack deadlocks when bursts far exceed the pool.
 **Decision:** Fan-outs bigger than ~4 queries run sequentially (export, audit); pool raised to 10 for the nav's prefetch bursts.
 **Consequence:** Export answers in ~0.6s, audit in ~0.3s, and the suite dropped from 5.3 to 1.6 minutes.
+
+### D37 — The field guide, and a books table
+**Context:** User's final build request: a top-right menu with the campaign plan's daily routine (section 04), day-synced, and the closed book list (section 08) with have/buy/free-PDF tracking that follows him between phone and laptop.
+**Decision:** A `books` table (additive, user-directed — same precedent as `bonus`), seeded from `seed/books.json`; status is user tracking and reseeding never overwrites it. `/guide` renders today's routine by IST weekday with a "now" marker on the live row, and the list grouped by tier with a still-to-buy rupee total. The menu floats top-right; the service worker went network-first everywhere after a cache-first dev-chunk poisoning.
+**Consequence:** The routine and the source list live inside the app he opens at 05:30; the list stays closed — seed edits are the only way to add a book.

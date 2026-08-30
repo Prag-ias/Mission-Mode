@@ -174,3 +174,21 @@ keyed, one command away); CSAT ingestion (D27).
 
 **With v4 shipped, the build order is complete.** Feature freeze per CLAUDE.md is
 1 Feb 2027; between now and then: bug fixes, the deferred items above, and nothing else.
+
+## the field guide — 2026-08-31 (02:30, the finalizer)
+
+**Shipped:** the top-right menu → /guide. Today's routine from the campaign plan,
+picked by IST weekday (weekday/Saturday/Sunday shapes), with the row the clock is
+currently inside marked "now", study rows tinted dawn, and the MVD + sleep rules
+underneath. Below it, the closed book list: 21 items across five tiers, each with
+Have it / To buy / Free PDF tracking stored in a new `books` table (D37) so a tick
+on the phone shows on the laptop, plus a live ₹ still-to-buy total. Suite 32/32,
+prod and dev verified clean in fresh browsers.
+
+**The bug that wasn't:** a zombie dev process from hours earlier held port 3000 and
+served stale webpack chunks — "Cannot read properties of undefined (reading 'call')"
+on every machine that connected, while every fresh server passed. Killed. The
+service worker also moved to network-first everywhere so stale chunks can never be
+pinned by the cache again.
+
+**Deferred, unchanged:** offline write queue, 2025 load, CSAT ingestion.

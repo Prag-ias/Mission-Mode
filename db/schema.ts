@@ -144,6 +144,21 @@ export const testSubjects = pgTable('test_subjects', {
   correct: smallint('correct'),
 }, (t) => ({ pk: uniqueIndex('test_subjects_pk').on(t.testId, t.subjectId) }))
 
+/** The closed source list from the campaign plan (section 08). Status is the
+ *  user's tracking — owned, still to buy, or use the free PDF — and survives
+ *  reseeds the way topic stages do. */
+export const books = pgTable('books', {
+  id: serial('id').primaryKey(),
+  title: text('title').notNull().unique(),
+  detail: text('detail'),
+  tier: varchar('tier', { length: 12 }).notNull(),   // owned | tier1 | tier2 | sociology | tier3
+  due: text('due'),
+  price: text('price'),
+  /** owned | to_buy | pdf */
+  status: varchar('status', { length: 8 }).notNull().default('to_buy'),
+  sort: integer('sort').notNull().default(0),
+})
+
 export const caItems = pgTable('ca_items', {
   id: serial('id').primaryKey(),
   capturedOn: date('captured_on').notNull(),

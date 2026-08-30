@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server'
 import { db } from '@/lib/db'
 import {
-  attempts, caItems, dailyLogs, notes, phases, planBlocks,
+  attempts, books, caItems, dailyLogs, notes, phases, planBlocks,
   questions, questionTopics, revisionEvents, subjects, testSubjects, tests, topics,
 } from '@/db/schema'
 import { isAuthed } from '@/lib/auth'
@@ -33,6 +33,7 @@ export async function GET() {
     tests: await db.select().from(tests),
     test_subjects: await db.select().from(testSubjects),
     ca_items: await db.select().from(caItems),
+    books: await db.select().from(books),
   }
 
   return NextResponse.json(body, {

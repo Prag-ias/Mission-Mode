@@ -6,7 +6,7 @@
  * Navigations: network-first, falling back to the cached copy of that page,
  * falling back to the cached shell. Static assets: cache-first.
  */
-const CACHE = 'sarthi-v1'
+const CACHE = 'sarthi-v2'
 
 self.addEventListener('install', (e) => {
   self.skipWaiting()
@@ -42,17 +42,18 @@ self.addEventListener('fetch', (e) => {
     return
   }
 
+  // Network-first for everything: dev chunks are not content-hashed, and even
+  // in production this guarantees a deploy is picked up immediately. The cache
+  // is purely the offline fallback.
   e.respondWith(
-    caches.match(req).then(
-      (hit) =>
-        hit ??
-        fetch(req).then((res) => {
-          if (res.ok) {
-            const copy = res.clone()
-            caches.open(CACHE).then((c) => c.put(req, copy))
-          }
-          return res
-        }),
-    ),
+    fetch(req)
+      .then((res) => {
+        if (res.ok) {
+          const copy = res.clone()
+          caches.open(CACHE).then((c) => c.put(req, copy))
+        }
+        return res
+      })
+      .catch(async () => (await caches.match(req)) ?? Response.error()),
   )
 })
