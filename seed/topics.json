@@ -792,9 +792,9 @@
   {
     "code": "ANM-12",
     "subject": "ANM",
-    "name": "Vijayanagara and the Bahmani kingdoms",
+    "name": "Vijayanagara, Bahmani and the regional kingdoms",
     "source_ref": "TN Class 11 Ch.15",
-    "est_minutes": 90,
+    "est_minutes": 150,
     "intro_phase": 2,
     "stage": "unread",
     "pyq_drills": true
@@ -913,7 +913,7 @@
     "code": "ART-10",
     "subject": "ART",
     "name": "Literature, languages, philosophy; UNESCO heritage and GI tags",
-    "source_ref": "Singhania Ch.12–14",
+    "source_ref": "Singhania Ch.12–14 + PT365 Culture",
     "est_minutes": 120,
     "intro_phase": 2,
     "stage": "unread",
@@ -1402,7 +1402,7 @@
   {
     "code": "SNT-13",
     "subject": "SNT",
-    "name": "Robotics, drones, sensors and everyday applied science",
+    "name": "Everyday physics and chemistry; robotics, drones and sensors",
     "source_ref": "PT365 S&T",
     "est_minutes": 90,
     "intro_phase": 3,
