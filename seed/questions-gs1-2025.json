@@ -1,0 +1,2780 @@
+{
+ "paper": "GS1",
+ "year": 2025,
+ "source_pdf": "PYQs/Prelims/GS PAPER 1/GS PAPER 1 2025.pdf",
+ "booklet_series": null,
+ "transcribed_on": "2026-08-30",
+ "reviewed_by_human": false,
+ "answer_key": null,
+ "questions": [
+  {
+   "q_no": 1,
+   "page": 3,
+   "stem": "With reference to investments, consider the following :\nI. Bonds\nII. Hedge Funds\nIII. Stocks\nIV. Venture Capital\nHow many of the above are treated as Alternative Investment Funds?",
+   "options": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All the four"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-08",
+    "ECO-07"
+   ],
+   "primary_topic_code": "ECO-08",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Count-of-items ('How many of the above'), mapped to pairs — the vocabulary has no separate count-of-items slug.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 2,
+   "page": 3,
+   "stem": "Which of the following are the sources of income for the Reserve Bank of India?\nI. Buying and selling Government bonds\nII. Buying and selling foreign currency\nIII. Pension fund management\nIV. Lending to private companies\nV. Printing and distributing currency notes\nSelect the correct answer using the code given below.",
+   "options": [
+    "I and II only",
+    "II, III and IV",
+    "I, III, IV and V",
+    "I, II and V"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-03",
+    "ECO-02"
+   ],
+   "primary_topic_code": "ECO-03",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 3,
+   "page": 3,
+   "stem": "With reference to the Government of India, consider the following information :\n\n|  | Organization | Some of its functions | It works under |\n| --- | --- | --- | --- |\n| I. | Directorate of Enforcement | Enforcement of the Fugitive Economic Offenders Act, 2018 | Internal Security Division–I, Ministry of Home Affairs |\n| II. | Directorate of Revenue Intelligence | Enforces the Provisions of the Customs Act, 1962 | Department of Revenue, Ministry of Finance |\n| III. | Directorate General of Systems and Data Management | Carrying out big data analytics to assist tax officers for better policy and nabbing tax evaders | Department of Revenue, Ministry of Finance |\n\nIn how many of the above rows is the information correctly matched?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-25",
+    "ECO-11"
+   ],
+   "primary_topic_code": "POL-25",
+   "explanation_md": null,
+   "has_table": true,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Straddles POL and ECO: ED/DRI/DG Systems are enforcement bodies (POL-25 lists CBI-type bodies but not ED) sitting under the Department of Revenue (ECO-11).",
+   "transcription_note": null
+  },
+  {
+   "q_no": 4,
+   "page": 3,
+   "stem": "Consider the following statements :\nI. The Reserve Bank of India mandates all the listed companies in India to submit a Business Responsibility and Sustainability Report (BRSR).\nII. In India, a company submitting a BRSR makes disclosures in the report that are largely non-financial in nature.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-07",
+    "ENV-15"
+   ],
+   "primary_topic_code": "ECO-07",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Straddles ECO and ENV — BRSR is a SEBI listing disclosure (ECO-07) whose content is ESG/sustainability reporting (ENV-15).",
+   "transcription_note": null
+  },
+  {
+   "q_no": 5,
+   "page": 3,
+   "stem": "Consider the following statements :\nStatement I :\nIn India, income from allied agricultural activities like poultry farming and wool rearing in rural areas is exempted from any tax.\nStatement II :\nIn India, rural agricultural land is not considered a capital asset under the provisions of the Income-tax Act, 1961.\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is correct but Statement II is not correct",
+    "Statement I is not correct but Statement II is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "assertion_basis",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-11",
+    "ECO-14"
+   ],
+   "primary_topic_code": "ECO-11",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 6,
+   "page": 3,
+   "stem": "Consider the following statements :\nI. India has joined the Minerals Security Partnership as a member.\nII. India is a resource-rich country in all the 30 critical minerals that it has identified.\nIII. The Parliament in 2023 has amended the Mines and Minerals (Development and Regulation) Act, 1957 empowering the Central Government to exclusively auction mining lease and composite license for certain critical minerals.\nWhich of the statements given above are correct?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-18",
+    "CAI-04"
+   ],
+   "primary_topic_code": "GEO-18",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Straddles GEO and CAI — critical-mineral endowment and the MMDR amendment sit in GEO-18, the Minerals Security Partnership in CAI-04.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 7,
+   "page": 5,
+   "stem": "Consider the following statements :\nStatement I :\nAs regards returns from an investment in a company, generally, bondholders are considered to be relatively at lower risk than stockholders.\nStatement II :\nBondholders are lenders to a company whereas stockholders are its owners.\nStatement III :\nFor repayment purpose, bondholders are prioritized over stockholders by a company.\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Both Statement I and Statement II are correct and Statement I explains Statement II",
+    "Only one of the Statements II and III is correct and that explains Statement I",
+    "Neither Statement II nor Statement III is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "relationship",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-08",
+    "ECO-07"
+   ],
+   "primary_topic_code": "ECO-08",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 8,
+   "page": 5,
+   "stem": "Consider the following statements :\nI. India accounts for a very large portion of all equity option contracts traded globally thus exhibiting a great boom.\nII. India's stock market has grown rapidly in the recent past even overtaking Hong Kong's at some point of time.\nIII. There is no regulatory body either to warn the small investors about the risks of options trading or to act on unregistered financial advisors in this regard.\nWhich of the statements given above are correct?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-07",
+    "ECO-08"
+   ],
+   "primary_topic_code": "ECO-07",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 9,
+   "page": 5,
+   "stem": "Consider the following statements :\nStatement I :\nCircular economy reduces the emissions of greenhouse gases.\nStatement II :\nCircular economy reduces the use of raw materials as inputs.\nStatement III :\nCircular economy reduces wastage in the production process.\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Both Statement II and Statement III are correct but only one of them explains Statement I",
+    "Only one of the Statements II and III is correct and that explains Statement I",
+    "Neither Statement II nor Statement III is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "relationship",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-15",
+    "ENV-12"
+   ],
+   "primary_topic_code": "ENV-15",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 10,
+   "page": 5,
+   "stem": "Consider the following statements :\nI. Capital receipts create a liability or cause a reduction in the assets of the Government.\nII. Borrowings and disinvestment are capital receipts.\nIII. Interest received on loans creates a liability of the Government.\nWhich of the statements given above are correct?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-10"
+   ],
+   "primary_topic_code": "ECO-10",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 11,
+   "page": 7,
+   "stem": "Consider the following statements about Raja Ram Mohan Roy :\nI. He possessed great love and respect for the traditional philosophical systems of the East.\nII. He desired his countrymen to accept the rational and scientific approach and the principle of human dignity and social equality of all men and women.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2",
+   "subject_code": "HIS",
+   "topic_codes": [
+    "HIS-05"
+   ],
+   "primary_topic_code": "HIS-05",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 12,
+   "page": 7,
+   "stem": "Consider the following subjects with regard to Non-Cooperation Programme :\nI. Boycott of law-courts and foreign cloth\nII. Observance of strict non-violence\nIII. Retention of titles and honours without using them in public\nIV. Establishment of Panchayats for settling disputes\nHow many of the above were parts of Non-Cooperation Programme?",
+   "options": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All the four"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "HIS",
+   "topic_codes": [
+    "HIS-10"
+   ],
+   "primary_topic_code": "HIS-10",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Count-of-items form mapped to pairs; topic fit itself is unambiguous.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 13,
+   "page": 7,
+   "stem": "The irrigation device called 'Araghatta' was",
+   "options": [
+    "a water bag made of leather pulled over a pulley",
+    "a large wheel with earthen pots tied to the outer ends of its spokes",
+    "a larger earthen pot driven by bullocks",
+    "a large water bucket pulled up by rope directly by hand"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "ANM",
+   "topic_codes": [
+    "ANM-10",
+    "ANM-11"
+   ],
+   "primary_topic_code": "ANM-10",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "low",
+   "tagging_note": "Gap: no topic covers ancient/medieval agricultural technology or irrigation devices; parked under early-medieval agrarian economy, with Sultanate economy as the alternative home.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 14,
+   "page": 7,
+   "stem": "Who among the following rulers in ancient India had assumed the titles 'Mattavilasa', 'Vichitrachitta' and 'Gunabhara'?",
+   "options": [
+    "Mahendravarman I",
+    "Simhavishnu",
+    "Narasimhavarman I",
+    "Simhavarman"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "ANM",
+   "topic_codes": [
+    "ANM-08"
+   ],
+   "primary_topic_code": "ANM-08",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 15,
+   "page": 7,
+   "stem": "Fa-hien (Faxian), the Chinese pilgrim, travelled to India during the reign of",
+   "options": [
+    "Samudragupta",
+    "Chandragupta II",
+    "Kumaragupta I",
+    "Skandagupta"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "ANM",
+   "topic_codes": [
+    "ANM-08"
+   ],
+   "primary_topic_code": "ANM-08",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 16,
+   "page": 9,
+   "stem": "Who among the following led a successful military campaign against the kingdom of Srivijaya, the powerful maritime State, which ruled the Malay Peninsula, Sumatra, Java and the neighbouring islands?",
+   "options": [
+    "Amoghavarsha (Rashtrakuta)",
+    "Prataparudra (Kakatiya)",
+    "Rajendra I (Chola)",
+    "Vishnuvardhana (Hoysala)"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "ANM",
+   "topic_codes": [
+    "ANM-09"
+   ],
+   "primary_topic_code": "ANM-09",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 17,
+   "page": 9,
+   "stem": "With reference to ancient India (600–322 BC), consider the following pairs :\n\n|  | Territorial region | River flowing in the region |\n| --- | --- | --- |\n| I. | Asmaka | Godavari |\n| II. | Kamboja | Vipas |\n| III. | Avanti | Mahanadi |\n| IV. | Kosala | Sarayu |\n\nHow many of the pairs given above are correctly matched?",
+   "options": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All the four"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "ANM",
+   "topic_codes": [
+    "ANM-03"
+   ],
+   "primary_topic_code": "ANM-03",
+   "explanation_md": null,
+   "has_table": true,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Mahajanapada-era territorial regions; the river half is historical geography, but the testable content is ANM-03.",
+   "transcription_note": "Printed as an unruled two-column pair list under the headings 'Territorial region' and 'River flowing in the region', with a colon between each pair; represented here as a table. Content and order verified against the page."
+  },
+  {
+   "q_no": 18,
+   "page": 9,
+   "stem": "The first Gandharva Mahavidyalaya, a music training school, was set up in 1901 by Vishnu Digambar Paluskar in",
+   "options": [
+    "Delhi",
+    "Gwalior",
+    "Ujjain",
+    "Lahore"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "ART",
+   "topic_codes": [
+    "ART-08"
+   ],
+   "primary_topic_code": "ART-08",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 19,
+   "page": 9,
+   "stem": "Ashokan inscriptions suggest that the 'Pradeshika', 'Rajuka' and 'Yukta' were important officers at the",
+   "options": [
+    "village-level administration",
+    "district-level administration",
+    "provincial administration",
+    "level of the central administration"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "ANM",
+   "topic_codes": [
+    "ANM-05"
+   ],
+   "primary_topic_code": "ANM-05",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 20,
+   "page": 9,
+   "stem": "Consider the following statements in respect of the Non-Cooperation Movement :\nI. The Congress declared the attainment of 'Swaraj' by all legitimate and peaceful means to be its objective.\nII. It was to be implemented in stages with civil disobedience and non-payment of taxes for the next stage only if 'Swaraj' did not come within a year and the Government resorted to repression.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2",
+   "subject_code": "HIS",
+   "topic_codes": [
+    "HIS-10"
+   ],
+   "primary_topic_code": "HIS-10",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 21,
+   "page": 11,
+   "stem": "Consider the following countries :\nI. Austria\nII. Bulgaria\nIII. Croatia\nIV. Serbia\nV. Sweden\nVI. North Macedonia\nHow many of the above are members of the North Atlantic Treaty Organization?",
+   "options": [
+    "Only three",
+    "Only four",
+    "Only five",
+    "All the six"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "CAI",
+   "topic_codes": [
+    "CAI-04",
+    "GEO-24"
+   ],
+   "primary_topic_code": "CAI-04",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "NATO is not named in CAI-04's list of groupings; the question is really static membership plus European map knowledge (GEO-24).",
+   "transcription_note": null
+  },
+  {
+   "q_no": 22,
+   "page": 11,
+   "stem": "Consider the following countries :\nI. Bolivia\nII. Brazil\nIII. Colombia\nIV. Ecuador\nV. Paraguay\nVI. Venezuela\nAndes mountains pass through how many of the above countries?",
+   "options": [
+    "Only two",
+    "Only three",
+    "Only four",
+    "Only five"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-24"
+   ],
+   "primary_topic_code": "GEO-24",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Pure atlas recall for South America; GEO-24 map work is the only genuine home — no world-regional physiography topic exists.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 23,
+   "page": 11,
+   "stem": "Consider the following water bodies :\nI. Lake Tanganyika\nII. Lake Tonlé Sap\nIII. Patos Lagoon\nThrough how many of them does the equator pass?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-24",
+    "GEO-01"
+   ],
+   "primary_topic_code": "GEO-24",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 24,
+   "page": 11,
+   "stem": "Consider the following statements about turmeric during the year 2022–23 :\nI. India is the largest producer and exporter of turmeric in the world.\nII. More than 30 varieties of turmeric are grown in India.\nIII. Maharashtra, Telangana, Karnataka and Tamil Nadu are major turmeric producing States in India.\nWhich of the statements given above are correct?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-17"
+   ],
+   "primary_topic_code": "GEO-17",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 25,
+   "page": 11,
+   "stem": "Which of the following are the evidences of the phenomenon of continental drift?\nI. The belt of ancient rocks from Brazil coast matches with those from Western Africa.\nII. The gold deposits of Ghana are derived from the Brazil plateau when the two continents lay side by side.\nIII. The Gondwana system of sediments from India is known to have its counterparts in six different landmasses of the Southern Hemisphere.\nSelect the correct answer using the code given below.",
+   "options": [
+    "I and III only",
+    "I and II only",
+    "I, II and III",
+    "II and III only"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-03"
+   ],
+   "primary_topic_code": "GEO-03",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 26,
+   "page": 11,
+   "stem": "Consider the following statements :\nStatement I :\nThe amount of dust particles in the atmosphere is more in subtropical and temperate areas than in equatorial and polar regions.\nStatement II :\nSubtropical and temperate areas have less dry winds.\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is correct but Statement II is not correct",
+    "Statement I is not correct but Statement II is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "assertion_basis",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-06",
+    "GEO-07"
+   ],
+   "primary_topic_code": "GEO-06",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 27,
+   "page": 13,
+   "stem": "Consider the following statements :\nStatement I :\nIn January, in the Northern Hemisphere, the isotherms bend equatorward while crossing the landmasses, and poleward while crossing the oceans.\nStatement II :\nIn January, the air over the oceans is warmer than that over the landmasses in the Northern Hemisphere.\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is correct but Statement II is not correct",
+    "Statement I is not correct but Statement II is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "relationship",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-07",
+    "GEO-06"
+   ],
+   "primary_topic_code": "GEO-07",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 28,
+   "page": 13,
+   "stem": "Consider the following statements :\nStatement I :\nIn the context of effect of water on rocks, chalk is known as a very permeable rock whereas clay is known as quite an impermeable or least permeable rock.\nStatement II :\nChalk is porous and hence can absorb water.\nStatement III :\nClay is not at all porous.\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Both Statement II and Statement III are correct but only one of them explains Statement I",
+    "Only one of the Statements II and III is correct and that explains Statement I",
+    "Neither Statement II nor Statement III is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "relationship",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-02",
+    "GEO-05"
+   ],
+   "primary_topic_code": "GEO-02",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Tests rock porosity vs permeability and groundwater behaviour; the tree has no hydrogeology/groundwater topic, so rocks-and-minerals (GEO-02) is the nearest home, with karst/limestone (GEO-05) as support.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 29,
+   "page": 13,
+   "stem": "Consider the following statements :\nI. Without the atmosphere, temperature would be well below freezing point everywhere on the Earth's surface.\nII. Heat absorbed and trapped by the atmosphere maintains our planet's average temperature.\nIII. Atmosphere's gases, like carbon dioxide, are particularly good at absorbing and trapping radiation.\nWhich of the statements given above are correct?",
+   "options": [
+    "I and III only",
+    "I and II only",
+    "I, II and III",
+    "II and III only"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-06",
+    "ENV-12"
+   ],
+   "primary_topic_code": "GEO-06",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Straddles GEO and ENV: heat budget/atmospheric absorption is GEO-06, but the CO2-traps-radiation statement is squarely ENV-12 greenhouse science.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 30,
+   "page": 13,
+   "stem": "Consider the following statements about the Rashtriya Gokul Mission :\nI. It is important for the upliftment of rural poor as majority of low producing indigenous animals are with small and marginal farmers and landless labourers.\nII. It was initiated to promote indigenous cattle and buffalo rearing and conservation in a scientific and holistic manner.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2",
+   "subject_code": "CAI",
+   "topic_codes": [
+    "CAI-10",
+    "ECO-14"
+   ],
+   "primary_topic_code": "CAI-10",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "No animal husbandry / livestock topic exists in the tree; a named scheme puts it in the schemes tracker, with agriculture policy as the fallback.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 31,
+   "page": 15,
+   "stem": "Consider the following statements :\nStatement I :\nStudies indicate that carbon dioxide emissions from cement industry account for more than 5% of global carbon emissions.\nStatement II :\nSilica-bearing clay is mixed with limestone while manufacturing cement.\nStatement III :\nLimestone is converted into lime during clinker production for cement manufacturing.\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Both Statement II and Statement III are correct but only one of them explains Statement I",
+    "Only one of the Statements II and III is correct and that explains Statement I",
+    "Neither Statement II nor Statement III is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "relationship",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-12",
+    "ENV-11"
+   ],
+   "primary_topic_code": "ENV-12",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "The emissions share is ENV-12, but statements II and III are cement process chemistry (clinker, limestone to lime) which no topic in the vocabulary covers.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 32,
+   "page": 15,
+   "stem": "Consider the following statements :\nStatement I :\nAt the 28th United Nations Climate Change Conference (COP28), India refrained from signing the 'Declaration on Climate and Health'.\nStatement II :\nThe COP28 Declaration on Climate and Health is a binding declaration; and if signed, it becomes mandatory to decarbonize health sector.\nStatement III :\nIf India's health sector is decarbonized, the resilience of its health-care system may be compromised.\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Both Statement II and Statement III are correct but only one of them explains Statement I",
+    "Only one of the Statements II and III is correct and that explains Statement I",
+    "Neither Statement II nor Statement III is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "relationship",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-13",
+    "SNT-04"
+   ],
+   "primary_topic_code": "ENV-13",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Straddles ENV and SNT: a COP28 declaration (ENV-13) whose subject matter is health-sector decarbonisation and health-system resilience (SNT-04).",
+   "transcription_note": null
+  },
+  {
+   "q_no": 33,
+   "page": 15,
+   "stem": "Consider the following statements :\nStatement I :\nScientific studies suggest that a shift is taking place in the Earth's rotation and axis.\nStatement II :\nSolar flares and associated coronal mass ejections bombarded the Earth's outermost atmosphere with tremendous amount of energy.\nStatement III :\nAs the Earth's polar ice melts, the water tends to move towards the equator.\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Both Statement II and Statement III are correct but only one of them explains Statement I",
+    "Only one of the Statements II and III is correct and that explains Statement I",
+    "Neither Statement II nor Statement III is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "relationship",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-01",
+    "ENV-12",
+    "SNT-06"
+   ],
+   "primary_topic_code": "GEO-01",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Three-way straddle: Earth's rotation/axis is GEO-01, polar ice melt redistributing mass is ENV-12, solar flares and CMEs sit under SNT-06.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 34,
+   "page": 17,
+   "stem": "Consider the following statements :\nStatement I :\nArticle 6 of the Paris Agreement on climate change is frequently discussed in global discussions on sustainable development and climate change.\nStatement II :\nArticle 6 of the Paris Agreement on climate change sets out the principles of carbon markets.\nStatement III :\nArticle 6 of the Paris Agreement on climate change intends to promote inter-country non-market strategies to reach their climate targets.\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Both Statement II and Statement III are correct but only one of them explains Statement I",
+    "Only one of the Statements II and III is correct and that explains Statement I",
+    "Neither Statement II nor Statement III is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "relationship",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-13"
+   ],
+   "primary_topic_code": "ENV-13",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 35,
+   "page": 17,
+   "stem": "Which one of the following launched the 'Nature Solutions Finance Hub for Asia and the Pacific'?",
+   "options": [
+    "The Asian Development Bank (ADB)",
+    "The Asian Infrastructure Investment Bank (AIIB)",
+    "The New Development Bank (NDB)",
+    "The International Bank for Reconstruction and Development (IBRD)"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-13",
+    "ENV-15"
+   ],
+   "primary_topic_code": "ECO-13",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Answering it means knowing which multilateral bank (ECO-13 names ADB, NDB, IBRD); the subject matter is nature/green finance under ENV-15.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 36,
+   "page": 17,
+   "stem": "With reference to 'Direct Air Capture', an emerging technology, which of the following statements is/are correct?\nI. It can be used as a way of carbon sequestration.\nII. It can be a valuable approach for plastic production and in food processing.\nIII. In aviation, it can be a source of carbon for combining with hydrogen to create synthetic low-carbon fuel.\nSelect the correct answer using the code given below.",
+   "options": [
+    "I and II only",
+    "III only",
+    "I, II and III",
+    "None of the above statements is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-12",
+    "ENV-16"
+   ],
+   "primary_topic_code": "ENV-12",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "No dedicated carbon capture / CCUS / Direct Air Capture topic exists; climate change science is the closest, with synthetic low-carbon fuel pulling towards ENV-16.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 37,
+   "page": 17,
+   "stem": "Regarding Peacock tarantula (Gooty tarantula), consider the following statements :\nI. It is an omnivorous crustacean.\nII. Its natural habitat in India is only limited to some forest areas.\nIII. In its natural habitat, it is an arboreal species.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "I and III",
+    "II only",
+    "II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-07",
+    "ENV-05"
+   ],
+   "primary_topic_code": "ENV-07",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": "Verified against p-17 at 2x zoom. 'Gooty tarantula' is printed in roman type in this scan, not italics; transcribed as roman text."
+  },
+  {
+   "q_no": 38,
+   "page": 19,
+   "stem": "Consider the following statements :\nI. Carbon dioxide (CO2) emissions in India are less than 0·5 t CO2/capita.\nII. In terms of CO2 emissions from fuel combustion, India ranks second in Asia-Pacific region.\nIII. Electricity and heat producers are the largest sources of CO2 emissions in India.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I and III only",
+    "II only",
+    "II and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-12",
+    "ENV-11"
+   ],
+   "primary_topic_code": "ENV-12",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": "In the paper CO2 uses a subscript 2 and the decimal is printed with a middle dot (0·5); rendered here as plain text. Verified at 2x zoom."
+  },
+  {
+   "q_no": 39,
+   "page": 19,
+   "stem": "Consider the following pairs :\n\n| Plant | Description |\n|---|---|\n| I. Cassava | Woody shrub |\n| II. Ginger | Herb with pseudostem |\n| III. Malabar spinach | Herbaceous climber |\n| IV. Mint | Annual shrub |\n| V. Papaya | Woody shrub |\n\nHow many of the above pairs are correctly matched?",
+   "options": [
+    "Only two",
+    "Only three",
+    "Only four",
+    "All the five"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-01",
+    "GEO-17"
+   ],
+   "primary_topic_code": "SNT-01",
+   "explanation_md": null,
+   "has_table": true,
+   "has_figure": false,
+   "tagging_confidence": "low",
+   "tagging_note": "Real gap: this is plant morphology (habit — shrub, herb, climber), and no topic covers botany. SNT-01 basic biology is cell/genetics/human systems and does not reach plant habit; GEO-17 only catches these as crops.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 40,
+   "page": 19,
+   "stem": "With reference to the planet Earth, consider the following statements :\nI. Rain forests produce more oxygen than that produced by oceans.\nII. Marine phytoplankton and photosynthetic bacteria produce about 50% of world's oxygen.\nIII. Well-oxygenated surface water contains several folds higher oxygen than that in atmospheric air.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I and II",
+    "II only",
+    "I and III",
+    "None of the above statements is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-02",
+    "ENV-04",
+    "ENV-01"
+   ],
+   "primary_topic_code": "ENV-02",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Oxygen production and dissolved oxygen sit between the oxygen cycle (ENV-02) and marine ecosystems (ENV-04); neither is an exact fit.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 41,
+   "page": 21,
+   "stem": "Consider the following types of vehicles :\nI. Full battery electric vehicles\nII. Hydrogen fuel cell vehicles\nIII. Fuel cell-electric hybrid vehicles\nHow many of the above are considered as alternative powertrain vehicles?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-12",
+    "ENV-16"
+   ],
+   "primary_topic_code": "SNT-12",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Format stretch: options are counts of listed items, not of pairs or statements. The vocabulary has no generic 'how many of the above' slug, so pairs is used as the count format.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 42,
+   "page": 21,
+   "stem": "With reference to Unmanned Aerial Vehicles (UAVs), consider the following statements :\nI. All types of UAVs can do vertical landing.\nII. All types of UAVs can do automated hovering.\nIII. All types of UAVs can use battery only as a source of power supply.\nHow many of the statements given above are correct?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-13",
+    "SNT-07"
+   ],
+   "primary_topic_code": "SNT-13",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 43,
+   "page": 21,
+   "stem": "In the context of electric vehicle batteries, consider the following elements :\nI. Cobalt\nII. Graphite\nIII. Lithium\nIV. Nickel\nHow many of the above usually make up battery cathodes?",
+   "options": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All the four"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-12"
+   ],
+   "primary_topic_code": "SNT-12",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Format stretch: counts listed elements, not pairs or statements; pairs used as the count format for want of a 'how many of the above' slug.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 44,
+   "page": 21,
+   "stem": "Consider the following :\nI. Cigarette butts\nII. Eyeglass lenses\nIII. Car tyres\nHow many of them contain plastic?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-11"
+   ],
+   "primary_topic_code": "ENV-11",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Format stretch: counts listed objects, not pairs or statements; pairs used as the count format.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 45,
+   "page": 21,
+   "stem": "Consider the following substances :\nI. Ethanol\nII. Nitroglycerine\nIII. Urea\nCoal gasification technology can be used in the production of how many of them?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-12",
+    "GEO-18"
+   ],
+   "primary_topic_code": "SNT-12",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "low",
+   "tagging_note": "Two problems: format counts listed substances rather than pairs/statements, and coal gasification chemistry has no real home — SNT-12 is batteries/EV/hydrogen/solar and ENV-16 is renewables only, so coal-to-chemicals falls through the tree.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 46,
+   "page": 21,
+   "stem": "What is the common characteristic of the chemical substances generally known as CL-20, HMX and LLM-105, which are sometimes talked about in media?",
+   "options": [
+    "These are alternatives to hydrofluorocarbon refrigerants",
+    "These are explosives in military weapons",
+    "These are high-energy fuels for cruise missiles",
+    "These are fuels for rocket propulsion"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-07",
+    "SNT-11"
+   ],
+   "primary_topic_code": "SNT-07",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 47,
+   "page": 23,
+   "stem": "Consider the following statements :\nI. It is expected that Majorana 1 chip will enable quantum computing.\nII. Majorana 1 chip has been introduced by Amazon Web Services (AWS).\nIII. Deep learning is a subset of machine learning.\nWhich of the statements given above are correct?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-09",
+    "SNT-10"
+   ],
+   "primary_topic_code": "SNT-09",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 48,
+   "page": 23,
+   "stem": "With reference to monoclonal antibodies, often mentioned in news, consider the following statements :\nI. They are man-made proteins.\nII. They stimulate immunological function due to their ability to bind to specific antigens.\nIII. They are used in treating viral infections like that of Nipah virus.\nWhich of the statements given above are correct?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-02",
+    "SNT-03"
+   ],
+   "primary_topic_code": "SNT-02",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 49,
+   "page": 23,
+   "stem": "Consider the following statements :\nI. No virus can survive in ocean waters.\nII. No virus can infect bacteria.\nIII. No virus can change the cellular transcriptional activity in host cells.\nHow many of the statements given above are correct?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-01",
+    "SNT-02"
+   ],
+   "primary_topic_code": "SNT-01",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Counting format on statements, not pairs. Pure virology (bacteriophages, marine viruses, host transcription) has no dedicated topic; SNT-01 basic biology is the nearest fit.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 50,
+   "page": 23,
+   "stem": "Consider the following statements :\nStatement I :\nActivated carbon is a good and an attractive tool to remove pollutants from effluent streams and to remediate contaminants from various industries.\nStatement II :\nActivated carbon exhibits a large surface area and a strong potential for adsorbing heavy metals.\nStatement III :\nActivated carbon can be easily synthesized from environmental wastes with high carbon content.\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Both Statement II and Statement III are correct but only one of them explains Statement I",
+    "Only one of the Statements II and III is correct and that explains Statement I",
+    "Neither Statement II nor Statement III is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "relationship",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-11",
+    "SNT-11"
+   ],
+   "primary_topic_code": "ENV-11",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Straddles ENV pollution remediation and SNT new materials (adsorption, surface area).",
+   "transcription_note": null
+  },
+  {
+   "q_no": 51,
+   "page": 25,
+   "stem": "With reference to the Indian polity, consider the following statements :\nI. An Ordinance can amend any Central Act.\nII. An Ordinance can abridge a Fundamental Right.\nIII. An Ordinance can come into effect from a back date.\nWhich of the statements given above are correct?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-17",
+    "POL-07"
+   ],
+   "primary_topic_code": "POL-17",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Ordinance power sits in POL-17 (President/Governor); statement II is an Art 13 point from POL-07.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 52,
+   "page": 25,
+   "stem": "Consider the following pairs :\n\n| State | Description |\n|---|---|\n| I. Arunachal Pradesh | The capital is named after a fort, and the State has two National Parks |\n| II. Nagaland | The State came into existence on the basis of a Constitutional Amendment Act |\n| III. Tripura | Initially a Part 'C' State, it became a centrally administered territory with the reorganization of States in 1956 and later attained the status of a full-fledged State |\n\nHow many of the above pairs are correctly matched?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-05",
+    "ENV-06"
+   ],
+   "primary_topic_code": "POL-05",
+   "explanation_md": null,
+   "has_table": true,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Straddles subjects: state formation/reorganisation (POL-05) plus a national-parks count (ENV-06) and capital-city static GK that no topic squarely covers.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 53,
+   "page": 25,
+   "stem": "With reference to India, consider the following :\nI. The Inter-State Council\nII. The National Security Council\nIII. Zonal Councils\nHow many of the above were established as per the provisions of the Constitution of India?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-15",
+    "POL-25"
+   ],
+   "primary_topic_code": "POL-15",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 54,
+   "page": 25,
+   "stem": "Consider the following statements :\nI. The Constitution of India explicitly mentions that in certain spheres the Governor of a State acts in his/her own discretion.\nII. The President of India can, of his/her own, reserve a bill passed by a State Legislature for his/her consideration without it being forwarded by the Governor of the State concerned.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-21",
+    "POL-17"
+   ],
+   "primary_topic_code": "POL-21",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 55,
+   "page": 25,
+   "stem": "Consider the following pairs :\n\n| Provision in the Constitution of India | Stated under |\n|---|---|\n| I. Separation of Judiciary from the Executive in the public services of the State | The Directive Principles of the State Policy |\n| II. Valuing and preserving of the rich heritage of our composite culture | The Fundamental Duties |\n| III. Prohibition of employment of children below the age of 14 years in factories | The Fundamental Rights |\n\nHow many of the above pairs are correctly matched?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-11",
+    "POL-12",
+    "POL-09"
+   ],
+   "primary_topic_code": "POL-11",
+   "explanation_md": null,
+   "has_table": true,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Deliberately spans three chapters: Art 50 (DPSP), Art 51A(f) (Fundamental Duties), Art 24 (Fundamental Rights).",
+   "transcription_note": null
+  },
+  {
+   "q_no": 56,
+   "page": 27,
+   "stem": "Consider the following statements :\nWith reference to the Constitution of India, if an area in a State is declared as Scheduled Area under the Fifth Schedule\nI. the State Government loses its executive power in such areas and a local body assumes total administration\nII. the Union Government can take over the total administration of such areas under certain circumstances on the recommendations of the Governor\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-23"
+   ],
+   "primary_topic_code": "POL-23",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 57,
+   "page": 27,
+   "stem": "With reference to India, consider the following pairs :\n\n| Organization | Union Ministry |\n|---|---|\n| I. The National Automotive Board | Ministry of Commerce and Industry |\n| II. The Coir Board | Ministry of Heavy Industries |\n| III. The National Centre for Trade Information | Ministry of Micro, Small and Medium Enterprises |\n\nHow many of the above pairs are correctly matched?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-15"
+   ],
+   "primary_topic_code": "ECO-15",
+   "explanation_md": null,
+   "has_table": true,
+   "has_figure": false,
+   "tagging_confidence": "low",
+   "tagging_note": "Gap in the syllabus tree: no topic covers static GK mapping of boards/bodies to their parent Union ministry. ECO-15 (industry/MSME) is only an approximate home for Coir Board and the National Automotive Board.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 58,
+   "page": 27,
+   "stem": "Consider the following subjects under the Constitution of India :\nI. List I–Union List, in the Seventh Schedule\nII. Extent of the executive power of a State\nIII. Conditions of the Governor's office\nFor a constitutional amendment with respect to which of the above, ratification by the Legislatures of not less than one-half of the States is required before presenting the bill to the President of India for assent?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-12",
+    "POL-15"
+   ],
+   "primary_topic_code": "POL-12",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 59,
+   "page": 27,
+   "stem": "With reference to the Indian polity, consider the following statements :\nI. The Governor of a State is not answerable to any court for the exercise and performance of the powers and duties of his/her office.\nII. No criminal proceedings shall be instituted or continued against the Governor during his/her term of office.\nIII. Members of a State Legislature are not liable to any proceedings in any court in respect of anything said within the House.\nWhich of the statements given above are correct?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-21"
+   ],
+   "primary_topic_code": "POL-21",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 60,
+   "page": 27,
+   "stem": "Consider the following activities :\nI. Production of crude oil\nII. Refining, storage and distribution of petroleum\nIII. Marketing and sale of petroleum products\nIV. Production of natural gas\nHow many of the above activities are regulated by the Petroleum and Natural Gas Regulatory Board in our country?",
+   "options": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All the four"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-16",
+    "GEO-18"
+   ],
+   "primary_topic_code": "ECO-16",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Counting format applied to activities. Tests the PNGRB's statutory mandate; no regulator-specific topic exists, so ECO-16 (energy/infrastructure) carries it.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 61,
+   "page": 29,
+   "stem": "Suppose the revenue expenditure is ₹ 80,000 crores and the revenue receipts of the Government are ₹ 60,000 crores. The Government budget also shows borrowings of ₹ 10,000 crores and interest payments of ₹ 6,000 crores. Which of the following statements are correct?\nI. Revenue deficit is ₹ 20,000 crores.\nII. Fiscal deficit is ₹ 10,000 crores.\nIII. Primary deficit is ₹ 4,000 crores.\nSelect the correct answer using the code given below.",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-10"
+   ],
+   "primary_topic_code": "ECO-10",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 62,
+   "page": 29,
+   "stem": "India is one of the founding members of the International North-South Transport Corridor (INSTC), a multimodal transportation corridor, which will connect",
+   "options": [
+    "India to Central Asia to Europe via Iran",
+    "India to Central Asia via China",
+    "India to South-East Asia through Bangladesh and Myanmar",
+    "India to Europe through Azerbaijan"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "CAI",
+   "topic_codes": [
+    "CAI-06",
+    "CAI-03"
+   ],
+   "primary_topic_code": "CAI-06",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 63,
+   "page": 29,
+   "stem": "Consider the following statements :\nStatement I :\nOf the two major ethanol producers in the world, i.e., Brazil and the United States of America, the former produces more ethanol than the latter.\nStatement II :\nUnlike in the United States of America where corn is the principal feedstock for ethanol production, sugarcane is the principal feedstock for ethanol production in Brazil.\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is correct but Statement II is not correct",
+    "Statement I is not correct but Statement II is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "relationship",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-16",
+    "GEO-23"
+   ],
+   "primary_topic_code": "ENV-16",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Biofuel feedstocks and world ethanol output straddle ENV-16 (biofuels) and GEO-23 (world economic geography); neither owns it cleanly.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 64,
+   "page": 29,
+   "stem": "The World Bank warned that India could become one of the first places where wet-bulb temperatures routinely exceed 35 °C. Which of the following statements best reflect(s) the implication of the above-said report?\nI. Peninsular India will most likely suffer from flooding, tropical cyclones and droughts.\nII. The survival of animals including humans will be affected as shedding of their body heat through perspiration becomes difficult.\nSelect the correct answer using the code given below.",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-12",
+    "GEO-14"
+   ],
+   "primary_topic_code": "ENV-12",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 65,
+   "page": 29,
+   "stem": "A country's fiscal deficit stands at ₹ 50,000 crores. It is receiving ₹ 10,000 crores through non-debt creating capital receipts. The country's interest liabilities are ₹ 1,500 crores. What is the gross primary deficit?",
+   "options": [
+    "₹ 48,500 crores",
+    "₹ 51,500 crores",
+    "₹ 58,500 crores",
+    "None of the above"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-10"
+   ],
+   "primary_topic_code": "ECO-10",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 66,
+   "page": 31,
+   "stem": "Which of the following statements with regard to recommendations of the 15th Finance Commission of India are correct?\nI. It has recommended grants of ₹ 4,800 crores from the year 2022–23 to the year 2025–26 for incentivizing States to enhance educational outcomes.\nII. 45% of the net proceeds of Union taxes are to be shared with States.\nIII. ₹ 45,000 crores are to be kept as performance-based incentive for all States for carrying out agricultural reforms.\nIV. It reintroduced tax effort criteria to reward fiscal performance.\nSelect the correct answer using the code given below.",
+   "options": [
+    "I, II and III",
+    "I, II and IV",
+    "I, III and IV",
+    "II, III and IV"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-11",
+    "POL-24"
+   ],
+   "primary_topic_code": "ECO-11",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Straddles subjects: Finance Commission recommendations are in ECO-11, the body itself in POL-24.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 67,
+   "page": 31,
+   "stem": "Consider the following statements in respect of the International Bank for Reconstruction and Development (IBRD) :\nI. It provides loans and guarantees to middle income countries.\nII. It works single-handedly to help developing countries to reduce poverty.\nIII. It was established to help Europe rebuild after the World War II.\nWhich of the statements given above are correct?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-13"
+   ],
+   "primary_topic_code": "ECO-13",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 68,
+   "page": 31,
+   "stem": "Consider the following statements in respect of RTGS and NEFT :\nI. In RTGS, the settlement time is instantaneous while in case of NEFT, it takes some time to settle payments.\nII. In RTGS, the customer is charged for inward transactions while that is not the case for NEFT.\nIII. Operating hours for RTGS are restricted on certain days while this is not true for NEFT.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "I and II",
+    "I and III",
+    "III only"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-20",
+    "ECO-04"
+   ],
+   "primary_topic_code": "ECO-20",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "No topic explicitly covers RBI payment systems (RTGS/NEFT); ECO-20 digital payments is the closest, ECO-04 banking structure secondary.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 69,
+   "page": 31,
+   "stem": "Consider the following countries :\nI. United Arab Emirates\nII. France\nIII. Germany\nIV. Singapore\nV. Bangladesh\nHow many countries amongst the above are there other than India where international merchant payments are accepted under UPI?",
+   "options": [
+    "Only two",
+    "Only three",
+    "Only four",
+    "All the five"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-20",
+    "CAI-06"
+   ],
+   "primary_topic_code": "ECO-20",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Counting format on a country list; UPI internationalisation also touches economic diplomacy (CAI-06).",
+   "transcription_note": null
+  },
+  {
+   "q_no": 70,
+   "page": 31,
+   "stem": "Consider the following statements about 'PM Surya Ghar Muft Bijli Yojana' :\nI. It targets installation of one crore solar rooftop panels in the residential sector.\nII. The Ministry of New and Renewable Energy aims to impart training on installation, operation, maintenance and repairs of solar rooftop systems at grassroot levels.\nIII. It aims to create more than three lakhs skilled manpower through fresh skilling, and up-skilling, under scheme component of capacity building.\nWhich of the statements given above are correct?",
+   "options": [
+    "I and II only",
+    "I and III only",
+    "II and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-16",
+    "CAI-10"
+   ],
+   "primary_topic_code": "ENV-16",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Straddles subjects: solar rooftop mission content sits in ENV-16, but the question tests scheme targets and skilling numbers, which belong to the CAI-10 schemes tracker.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 71,
+   "page": 33,
+   "stem": "\"Sedition has become my religion\" was the famous statement given by Gandhiji at the time of",
+   "options": [
+    "the Champaran Satyagraha",
+    "publicly violating Salt Law at Dandi",
+    "attending the Second Round Table Conference in London",
+    "the launch of the Quit India Movement"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "HIS",
+   "topic_codes": [
+    "HIS-13",
+    "HIS-11"
+   ],
+   "primary_topic_code": "HIS-13",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 72,
+   "page": 33,
+   "stem": "The famous female figurine known as 'Dancing Girl', found at Mohenjo-daro, is made of",
+   "options": [
+    "carnelian",
+    "clay",
+    "bronze",
+    "gold"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "ANM",
+   "topic_codes": [
+    "ANM-01",
+    "ART-01"
+   ],
+   "primary_topic_code": "ANM-01",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "IVC fact; ART-01 carries Indus art/sculpture, hence both.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 73,
+   "page": 33,
+   "stem": "Who provided legal defence to the people arrested in the aftermath of Chauri Chaura incident?",
+   "options": [
+    "C. R. Das",
+    "Madan Mohan Malaviya and Krishna Kant",
+    "Dr. Saifuddin Kitchlew and Khwaja Hasan Nizami",
+    "M. A. Jinnah"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "HIS",
+   "topic_codes": [
+    "HIS-10"
+   ],
+   "primary_topic_code": "HIS-10",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 74,
+   "page": 33,
+   "stem": "Subsequent to which one of the following events, Gandhiji, who consistently opposed untouchability and appealed for its eradication from all spheres, decided to include the upliftment of 'Harijans' in his political and social programme?",
+   "options": [
+    "The Poona Pact",
+    "The Gandhi-Irwin Agreement (Delhi Pact)",
+    "Arrest of Congress leadership at the time of the Quit India Movement",
+    "Promulgation of the Government of India Act, 1935"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "HIS",
+   "topic_codes": [
+    "HIS-12",
+    "HIS-11"
+   ],
+   "primary_topic_code": "HIS-12",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 75,
+   "page": 33,
+   "stem": "Consider the following fruits :\nI. Papaya\nII. Pineapple\nIII. Guava\n\nHow many of the above were introduced in India by the Portuguese in the sixteenth and seventeenth centuries?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "HIS",
+   "topic_codes": [
+    "HIS-01",
+    "GEO-17"
+   ],
+   "primary_topic_code": "HIS-01",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Counting format over list items, not literal pairs. No topic covers Portuguese-era crop introductions; filed under advent of Europeans, with GEO-17 crops as the straddle.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 76,
+   "page": 33,
+   "stem": "Consider the following countries :\nI. United Kingdom\nII. Denmark\nIII. New Zealand\nIV. Australia\nV. Brazil\n\nHow many of the above countries have more than four time zones?",
+   "options": [
+    "All the five",
+    "Only four",
+    "Only three",
+    "Only two"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-01",
+    "GEO-24"
+   ],
+   "primary_topic_code": "GEO-01",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Counting format over list items rather than pairs; topic itself is clear — GEO-01 names time zones explicitly.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 77,
+   "page": 35,
+   "stem": "Consider the following statements :\nI. Anadyr in Siberia and Nome in Alaska are a few kilometers from each other, but when people are waking up and getting set for breakfast in these cities, it would be different days.\nII. When it is Monday in Anadyr, it is Tuesday in Nome.\n\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-01"
+   ],
+   "primary_topic_code": "GEO-01",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 78,
+   "page": 35,
+   "stem": "Who among the following was the founder of the 'Self-Respect Movement'?",
+   "options": [
+    "'Periyar' E. V. Ramaswamy Naicker",
+    "Dr. B. R. Ambedkar",
+    "Bhaskarrao Jadhav",
+    "Dinkarrao Javalkar"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "HIS",
+   "topic_codes": [
+    "HIS-05",
+    "HIS-15"
+   ],
+   "primary_topic_code": "HIS-05",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Gap: no topic covers non-Brahmin/anti-caste movements specifically; Self-Respect Movement parked under socio-religious reform.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 79,
+   "page": 35,
+   "stem": "Consider the following pairs :\n\n| | Country | Resource-rich in |\n|---|---|---|\n| I. | Botswana | Diamond |\n| II. | Chile | Lithium |\n| III. | Indonesia | Nickel |\n\nIn how many of the above rows is the given information correctly matched?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-23",
+    "GEO-24"
+   ],
+   "primary_topic_code": "GEO-23",
+   "explanation_md": null,
+   "has_table": true,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 80,
+   "page": 35,
+   "stem": "Consider the following pairs :\n\n| | Region | Country |\n|---|---|---|\n| I. | Mallorca | Italy |\n| II. | Normandy | Spain |\n| III. | Sardinia | France |\n\nIn how many of the above rows is the given information correctly matched?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-24",
+    "GEO-23"
+   ],
+   "primary_topic_code": "GEO-24",
+   "explanation_md": null,
+   "has_table": true,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 81,
+   "page": 37,
+   "stem": "Consider the following statements :\nStatement I :\nSome rare earth elements are used in the manufacture of flat television screens and computer monitors.\nStatement II :\nSome rare earth elements have phosphorescent properties.\n\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is correct but Statement II is not correct",
+    "Statement I is not correct but Statement II is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "relationship",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-11"
+   ],
+   "primary_topic_code": "SNT-11",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Gap: no chemistry or critical-minerals topic exists; rare earth properties/uses filed under new materials.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 82,
+   "page": 37,
+   "stem": "Consider the following statements :\nI. Indian Railways have prepared a National Rail Plan (NRP) to create a 'future ready' railway system by 2028.\nII. 'Kavach' is an Automatic Train Protection system developed in collaboration with Germany.\nIII. 'Kavach' system consists of RFID tags fitted on track in station section.\n\nWhich of the statements given above are **not** correct?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "ECO",
+   "topic_codes": [
+    "ECO-16",
+    "SNT-13",
+    "GEO-20"
+   ],
+   "primary_topic_code": "ECO-16",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Straddles subjects: NRP is infrastructure policy, Kavach is applied sensor tech, railways sit in GEO-20. No dedicated railways topic.",
+   "transcription_note": "'not' is set in bold italic in the paper."
+  },
+  {
+   "q_no": 83,
+   "page": 37,
+   "stem": "Consider the following space missions :\nI. Axiom-4\nII. SpaDeX\nIII. Gaganyaan\n\nHow many of the space missions given above encourage and support microgravity research?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-05"
+   ],
+   "primary_topic_code": "SNT-05",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Counting format over mission list, not literal pairs; topic is unambiguous.",
+   "transcription_note": "'microgravity' is hyphenated across two lines in the original as 'micro-gravity'; joined here."
+  },
+  {
+   "q_no": 84,
+   "page": 37,
+   "stem": "With reference to India's defence, consider the following pairs :\n\n| | Aircraft type | Description |\n|---|---|---|\n| I. | Dornier-228 | Maritime patrol aircraft |\n| II. | IL-76 | Supersonic combat aircraft |\n| III. | C-17 Globemaster III | Military transport aircraft |\n\nHow many of the pairs given above are correctly matched?",
+   "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-07"
+   ],
+   "primary_topic_code": "SNT-07",
+   "explanation_md": null,
+   "has_table": true,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": "'C-17 Globemaster III' is hyphenated across two lines in the original as 'Globe-master'; joined here."
+  },
+  {
+   "q_no": 85,
+   "page": 37,
+   "stem": "Artificial way of causing rainfall to reduce air pollution makes use of",
+   "options": [
+    "silver iodide and potassium iodide",
+    "silver nitrate and potassium iodide",
+    "silver iodide and potassium nitrate",
+    "silver nitrate and potassium chloride"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-11",
+    "GEO-08"
+   ],
+   "primary_topic_code": "ENV-11",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Cloud seeding straddles ENV air pollution and GEO precipitation; the underlying chemistry has no topic in the tree.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 86,
+   "page": 37,
+   "stem": "Consider the following statements with regard to pardoning power of the President of India :\nI. The exercise of this power by the President can be subjected to limited judicial review.\nII. The President can exercise this power without the advice of the Central Government.\n\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-17",
+    "POL-20"
+   ],
+   "primary_topic_code": "POL-17",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 87,
+   "page": 39,
+   "stem": "Consider the following statements :\nI. On the dissolution of the House of the People, the Speaker shall not vacate his/her office until immediately before the first meeting of the House of the People after the dissolution.\nII. According to the provisions of the Constitution of India, a Member of the House of the People on being elected as Speaker shall resign from his/her political party immediately.\nIII. The Speaker of the House of the People may be removed from his/her office by a resolution of the House of the People passed by a majority of all the then Members of the House, provided that no resolution shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution.\n\nWhich of the statements given above are correct?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-18",
+    "POL-26"
+   ],
+   "primary_topic_code": "POL-18",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 88,
+   "page": 39,
+   "stem": "Consider the following statements :\nI. If any question arises as to whether a Member of the House of the People has become subject to disqualification under the 10th Schedule, the President's decision in accordance with the opinion of the Council of Union Ministers shall be final.\nII. There is no mention of the word 'political party' in the Constitution of India.\n\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-26",
+    "POL-18"
+   ],
+   "primary_topic_code": "POL-26",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 89,
+   "page": 39,
+   "stem": "Consider the following statements :\n\nStatement I :\nIn India, State Governments have no power for making rules for grant of concessions in respect of extraction of minor minerals even though such minerals are located in their territories.\n\nStatement II :\nIn India, the Central Government has the power to notify minor minerals under the relevant law.\n\nWhich one of the following is correct in respect of the above statements?",
+   "options": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is correct but Statement II is not correct",
+    "Statement I is not correct but Statement II is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "relationship",
+   "subject_code": "GEO",
+   "topic_codes": [
+    "GEO-18",
+    "POL-15"
+   ],
+   "primary_topic_code": "GEO-18",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Straddles subjects: minor minerals content sits in GEO-18, but the tested point is legislative competence (POL-15). No topic covers the MMDR Act directly.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 90,
+   "page": 39,
+   "stem": "Which organization has enacted the Nature Restoration Law (NRL) to tackle climate change and biodiversity loss?",
+   "options": [
+    "The European Union",
+    "The World Bank",
+    "The Organization for Economic Cooperation and Development",
+    "The Food and Agriculture Organization"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "simple",
+   "subject_code": "ENV",
+   "topic_codes": [
+    "ENV-13",
+    "ENV-05"
+   ],
+   "primary_topic_code": "ENV-13",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Gap: no topic covers foreign/EU domestic environmental legislation; filed under climate governance with biodiversity as secondary.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 91,
+   "page": 41,
+   "stem": "Consider the following statements :\nI. Panchayats at the intermediate level exist in all States.\nII. To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years.\nIII. The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate levels and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level.\n\nWhich of the statements given above are **not** correct?",
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-22"
+   ],
+   "primary_topic_code": "POL-22",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": "'not' is set in bold italic in the paper."
+  },
+  {
+   "q_no": 92,
+   "page": 41,
+   "stem": "Consider the following statements in respect of BIMSTEC :\nI. It is a regional organization consisting of seven member States till January 2025.\nII. It came into existence with the signing of the Dhaka Declaration, 1999.\nIII. Bangladesh, India, Sri Lanka, Thailand and Nepal are founding member States of BIMSTEC.\nIV. In BIMSTEC, the subsector of 'tourism' is being led by India.\n\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I and II",
+    "II and III",
+    "I and IV",
+    "I only"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CAI",
+   "topic_codes": [
+    "CAI-05"
+   ],
+   "primary_topic_code": "CAI-05",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 93,
+   "page": 41,
+   "stem": "Who amongst the following are members of the Jury to select the recipient of 'Gandhi Peace Prize'?\nI. The President of India\nII. The Prime Minister of India\nIII. The Chief Justice of India\nIV. The Leader of Opposition in the Lok Sabha\n\nSelect the correct answer using the code given below.",
+   "options": [
+    "II and IV only",
+    "I, II and III",
+    "II, III and IV",
+    "I and III only"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CAI",
+   "topic_codes": [
+    "CAI-09"
+   ],
+   "primary_topic_code": "CAI-09",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Four numbered items are entities, not statements, but the select-the-combination structure maps to stmt_1_2_3.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 94,
+   "page": 41,
+   "stem": "GPS-Aided Geo Augmented Navigation (GAGAN) uses a system of ground stations to provide necessary augmentation. Which of the following statements is/are correct in respect of GAGAN?\nI. It is designed to provide additional accuracy and integrity.\nII. It will allow more uniform and high quality air traffic management.\nIII. It will provide benefits only in aviation but not in other modes of transportation.\n\nSelect the correct answer using the code given below.",
+   "options": [
+    "I, II and III",
+    "II and III only",
+    "I only",
+    "I and II only"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-05"
+   ],
+   "primary_topic_code": "SNT-05",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 95,
+   "page": 41,
+   "stem": "Consider the following statements regarding AI Action Summit held in Grand Palais, Paris in February 2025 :\nI. Co-chaired with India, the event builds on the advances made at the Bletchley Park Summit held in 2023 and the Seoul Summit held in 2024.\nII. Along with other countries, US and UK also signed the declaration on inclusive and sustainable AI.\n\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2",
+   "subject_code": "SNT",
+   "topic_codes": [
+    "SNT-09",
+    "CAI-07"
+   ],
+   "primary_topic_code": "SNT-09",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Straddles subjects: AI content is SNT-09, but the summit/declaration angle is international governance (CAI-07).",
+   "transcription_note": null
+  },
+  {
+   "q_no": 96,
+   "page": 41,
+   "stem": "Consider the following pairs :\nI. International Year of the Woman Farmer : 2026\nII. International Year of Sustainable and Resilient Tourism : 2027\nIII. International Year of Peace and Trust : 2025\nIV. International Year of Asteroid Awareness and Planetary Defence : 2029\n\nHow many of the pairs given above are correctly matched?",
+   "options": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All the four"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "pairs",
+   "subject_code": "CAI",
+   "topic_codes": [
+    "CAI-04",
+    "CAI-07"
+   ],
+   "primary_topic_code": "CAI-04",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Gap: no topic covers UN International Year designations; filed under UN/multilateral groupings.",
+   "transcription_note": "Laid out as a two-column pair list without column headers, so kept as a list rather than a markdown table."
+  },
+  {
+   "q_no": 97,
+   "page": 43,
+   "stem": "Consider the following statements with regard to BRICS :\nI. 16th BRICS Summit was held under the Chairship of Russia in Kazan.\nII. Indonesia has become a full member of BRICS.\nIII. The theme of the 16th BRICS Summit was Strengthening Multiculturalism for Just Global Development and Security.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I and II",
+    "II and III",
+    "I and III",
+    "I only"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CAI",
+   "topic_codes": [
+    "CAI-04"
+   ],
+   "primary_topic_code": "CAI-04",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Pure current-affairs on the 16th BRICS Summit; CAI-04 (multilateral groupings) covers BRICS by name.",
+   "transcription_note": "Statement III is printed as 'Multiculturalism' in the paper (verified at 3x zoom), not 'Multilateralism'."
+  },
+  {
+   "q_no": 98,
+   "page": 43,
+   "stem": "Consider the following statements about Lokpal :\nI. The power of Lokpal applies to public servants of India, but not to the Indian public servants posted outside India.\nII. The Chairperson or a Member shall not be a Member of the Parliament or a Member of the Legislature of any State or Union Territory, and only the Chief Justice of India, whether incumbent or retired, has to be its Chairperson.\nIII. The Chairperson or a Member shall not be a person of less than forty-five years of age on the date of assuming office as the Chairperson or Member, as the case may be.\nIV. Lokpal cannot inquire into the allegations of corruption against a sitting Prime Minister of India.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "III only",
+    "II and III",
+    "I and IV",
+    "None of the above statements is correct"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "POL",
+   "topic_codes": [
+    "POL-25"
+   ],
+   "primary_topic_code": "POL-25",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Four statements (I-IV); no four-statement slug exists, so stmt_1_2_3 per the three-or-more rule. Lokpal is named inside POL-25.",
+   "transcription_note": null
+  },
+  {
+   "q_no": 99,
+   "page": 43,
+   "stem": "Consider the following statements in respect of the first Kho Kho World Cup :\nI. The event was held in Delhi, India.\nII. Indian men beat Nepal with a score of 78–40 in the final to become the World Champion in men category.\nIII. Indian women beat Nepal with a score of 54–36 in the final to become the World Champion in women category.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CAI",
+   "topic_codes": [
+    "CAI-09"
+   ],
+   "primary_topic_code": "CAI-09",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": null
+  },
+  {
+   "q_no": 100,
+   "page": 43,
+   "stem": "Consider the following statements :\nI. In the finals of the 45th Chess Olympiad held in 2024, Gukesh Dommaraju became the world's youngest winner after defeating the Russian player Ian Nepomniachtchi.\nII. Abhimanyu Mishra, an American chess player, holds the record of becoming world's youngest ever Grandmaster.\nWhich of the statements given above is/are correct?",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": null,
+   "answer_source": null,
+   "disputed": false,
+   "dropped_by_upsc": false,
+   "format": "stmt_1_2",
+   "subject_code": "CAI",
+   "topic_codes": [
+    "CAI-09"
+   ],
+   "primary_topic_code": "CAI-09",
+   "explanation_md": null,
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": null,
+   "transcription_note": "Last question of the paper; page footer reads LVPK–O–PSO/56A, page 43, [ P.T.O. Pages 45 and 47 are SPACE FOR ROUGH WORK sheets with no questions."
+  }
+ ]
+}
