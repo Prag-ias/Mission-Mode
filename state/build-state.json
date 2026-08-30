@@ -2,9 +2,9 @@
   "project": "sarthi",
   "exam_date": "2027-05-23",
   "feature_freeze": "2027-02-01",
-  "current_version": "v3",
-  "gate_approved": true,
-  "gate_note": "v0, v1+design, and v2 gates all approved by the user on 2026-08-30. v3 in progress: ingestion first (bank leads the UI), then the practice/mistake-log app work. GS1 2026 reviewed and loaded (99 questions live). Deploys are by the user's own git push; no CLI deploys from this session.",
+  "current_version": "v4",
+  "gate_approved": false,
+  "gate_note": "v4 gate open since 2026-08-31 01:20 IST — shipped hours before Day 1's Block A. Awaiting checks: mock entry <4 min with a real scorecard, audit on the Sunday laptop, install + offline open on the phone, day-arc tints at 05:30. After approval the build order is complete; only bug fixes and stated deferred items remain until the 1 Feb freeze.",
   "versions": {
     "v0": {
       "ship_by": "2026-08-30",
@@ -33,8 +33,8 @@
     "v4": {
       "ship_by": "2027-01-31",
       "budget_hours": 12,
-      "status": "not_started",
-      "hours_actual": null
+      "status": "shipped",
+      "hours_actual": 5
     }
   },
   "open_tasks": [
@@ -49,41 +49,6 @@
       "task": "6 CSAT papers (decision D27)",
       "est_minutes": 300,
       "blocked_on": "ing-7"
-    },
-    {
-      "id": "v3-1",
-      "task": "tests/v3.spec.ts from acceptance criteria, before feature code",
-      "est_minutes": 50
-    },
-    {
-      "id": "v3-2",
-      "task": "/practice: batches of 10-20, filters (subject, topic, year, format, previously-wrong), one question per screen",
-      "est_minutes": 120
-    },
-    {
-      "id": "v3-3",
-      "task": "Confidence before reveal (sure/unsure/guess) recorded on every attempt; 'correct but guessed' reportable separately",
-      "est_minutes": 45
-    },
-    {
-      "id": "v3-4",
-      "task": "Mistake log: wrong answer requires one of the six reason codes before the next question; no skipping",
-      "est_minutes": 60
-    },
-    {
-      "id": "v3-5",
-      "task": "Ladder feedback: reason code 2 (knew_forgot) shortens that topic's next revision interval, reusing D23's rule",
-      "est_minutes": 30
-    },
-    {
-      "id": "v3-6",
-      "task": "Disputed badge; disputed questions practised but excluded from accuracy stats",
-      "est_minutes": 30
-    },
-    {
-      "id": "v3-7",
-      "task": "Batch summary screen (never a dead end); verify, 390px, gate close-out",
-      "est_minutes": 75
     }
   ],
   "done_tasks": [
@@ -243,12 +208,17 @@
       "actual_minutes": 20
     }
   ],
-  "deferred": [],
+  "deferred": [
+    "Offline write queue (D35) — reads work offline; logging needs a connection",
+    "GS1 2025: validated file ready, not loaded (user chose to defer)",
+    "CSAT ingestion, 6 papers (D27)"
+  ],
   "needs_human_verification": [
-    "GS1 2026 bank in real use: do the explanations read well at 21:40 when tired?",
-    "Q62 has no topic for the new criminal codes (BNS/BNSS/BSA) - a real gap in topics.json, and live examinable law. Q73 (armed forces structure) and Q96 (insurance) likewise. Adding topics is a study decision, not an engineering one.",
-    "Economy vs Current Affairs boundary: my tagging put 17 under CAI where the 2026 analysis doc has 13, and 15 under ECO where it has 18",
-    "v2 (carried): blind recall on the phone keyboard; 'owed' cards on Today at 05:30"
+    "v4: mock entry under four minutes with a real scorecard",
+    "v4: audit answers 'am I on track' at a glance on the Sunday laptop",
+    "v4: add to home screen, then airplane mode - Today must still open",
+    "design: day-arc tints at 05:30 - calm or noise?",
+    "Day 1 itself: the 05:30 block, logged one-handed"
   ],
   "ingestion": {
     "papers_total": 12,

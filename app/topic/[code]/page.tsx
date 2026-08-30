@@ -1,8 +1,8 @@
 import Link from 'next/link'
 import { notFound, redirect } from 'next/navigation'
-import { desc, eq } from 'drizzle-orm'
+import { desc, eq, sql } from 'drizzle-orm'
 import { db } from '@/lib/db'
-import { notes, subjects, topics } from '@/db/schema'
+import { caItems, notes, subjects, topics } from '@/db/schema'
 import { isAuthed } from '@/lib/auth'
 import { MANUAL_STAGES, STAGE_BG, type Stage } from '@/lib/stages'
 import { setStage } from '@/app/actions'
@@ -37,6 +37,13 @@ export default async function Topic({ params }: { params: Promise<{ code: string
     .where(eq(notes.topicId, topic.id))
     .orderBy(desc(notes.updatedAt))
     .limit(1)
+
+  const ca = await db
+    .select()
+    .from(caItems)
+    .where(sql`${caItems.topicIds} @> ${JSON.stringify([topic.id])}::jsonb`)
+    .orderBy(desc(caItems.capturedOn))
+    .limit(10)
 
   const manual = (MANUAL_STAGES as readonly string[]).includes(topic.stage)
 
@@ -99,6 +106,20 @@ export default async function Topic({ params }: { params: Promise<{ code: string
       <section className="mt-6">
         <NoteEditor code={topic.code} initialBody={note?.bodyMd ?? ''} />
       </section>
+
+      {ca.length > 0 && (
+        <section className="mt-6" data-testid="ca-list">
+          <p className="mono-label mb-2 text-muted">current affairs on this topic</p>
+          <div className="flex flex-col gap-2">
+            {ca.map((it) => (
+              <div key={it.id} className="rounded-btn border border-line bg-surface p-3 text-sm shadow-s">
+                <p className="font-medium">{it.headline}</p>
+                {it.summary && <p className="mt-0.5 text-muted">{it.summary}</p>}
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
     </main>
   )
 }

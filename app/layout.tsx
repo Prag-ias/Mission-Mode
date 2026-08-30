@@ -3,6 +3,7 @@ import { Bricolage_Grotesque, Space_Mono } from 'next/font/google'
 import localFont from 'next/font/local'
 import './globals.css'
 import BottomNav from '@/components/BottomNav'
+import SWRegister from '@/components/SWRegister'
 
 const bricolage = Bricolage_Grotesque({
   subsets: ['latin'],
@@ -26,6 +27,8 @@ const satoshi = localFont({
 export const metadata: Metadata = {
   title: 'Sarthi',
   description: 'UPSC CSE 2027. The app decides, you execute.',
+  manifest: '/manifest.webmanifest',
+  appleWebApp: { capable: true, statusBarStyle: 'default', title: 'Sarthi' },
 }
 
 export const viewport: Viewport = {
@@ -40,6 +43,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="bg-bg font-body text-ink antialiased">
         <div className="pb-[calc(4.25rem+env(safe-area-inset-bottom))] lg:pb-0 lg:pt-14">{children}</div>
         <BottomNav />
+        <SWRegister />
       </body>
     </html>
   )

@@ -3,7 +3,7 @@ import { and, asc, eq, gt, gte, isNull, lt, lte, or, sql } from 'drizzle-orm'
 import { db } from '@/lib/db'
 import { dailyLogs, phases, planBlocks, revisionEvents, subjects, topics } from '@/db/schema'
 import { isAuthed } from '@/lib/auth'
-import { addDaysISO, daysBetween, displayDate, displayDateShort, EXAM_DATE, todayIST } from '@/lib/dates'
+import { addDaysISO, daysBetween, displayDate, displayDateShort, EXAM_DATE, hourIST, todayIST } from '@/lib/dates'
 import { CARRY_DAYS, QUEUE_CAP } from '@/lib/ladder'
 import { sweepMissedBlocks } from '@/lib/sweep'
 import { login } from '@/app/actions'
@@ -88,6 +88,9 @@ export default async function Today({
       ? `${nextPhase.name} — starts ${displayDate(nextPhase.startsOn)}`
       : 'Plan complete'
 
+  const h = hourIST()
+  const greeting = h < 4 ? 'late block' : h < 12 ? 'good morning' : h < 17 ? 'good afternoon' : h < 21 ? 'good evening' : 'late block'
+
   const emptyLine =
     today < '2026-08-31'
       ? 'Nothing today. Day 1 is Monday 31 August, 05:30.'
@@ -98,8 +101,9 @@ export default async function Today({
   return (
     <main className="mx-auto max-w-md px-4 pb-20 pt-5 lg:max-w-5xl lg:px-8 lg:pb-24 lg:pt-6">
       <header className="mb-4">
-        <div className="flex items-baseline justify-between">
-          <h1 className="font-display text-xl font-bold tracking-tight lg:text-4xl">{displayDate(today)}</h1>
+        <p className="mono-label text-muted">{greeting}</p>
+        <div className="mt-0.5 flex items-baseline justify-between">
+          <h1 className="font-display text-2xl font-bold tracking-tight lg:text-4xl">{displayDate(today)}</h1>
           <span className="text-sm text-muted">
             <span className="font-mono font-bold text-ink">{daysLeft}</span> days left
           </span>
@@ -128,8 +132,19 @@ export default async function Today({
         className="fixed inset-x-0 bottom-[calc(4.25rem+env(safe-area-inset-bottom))] border-y border-line bg-surface/95 backdrop-blur lg:bottom-0 lg:border-b-0"
       >
         <div className="mx-auto flex max-w-md items-center justify-between px-4 py-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] lg:max-w-5xl lg:px-8">
-          <span className="text-sm text-muted">
-            <span className="font-mono text-base font-bold text-ink">{total}</span> min
+          <span className="flex items-center gap-2 text-sm text-muted">
+            <svg aria-hidden viewBox="0 0 24 24" className="size-6 -rotate-90">
+              <circle cx="12" cy="12" r="9" fill="none" stroke="var(--line)" strokeWidth="3.5" />
+              <circle
+                cx="12" cy="12" r="9" fill="none"
+                stroke={mvdMet ? 'var(--dawn-deep)' : 'var(--accent)'}
+                strokeWidth="3.5" strokeLinecap="round"
+                strokeDasharray={`${Math.min(1, total / 160) * 56.5} 56.5`}
+              />
+            </svg>
+            <span>
+              <span className="font-mono text-base font-bold text-ink">{total}</span> min
+            </span>
           </span>
           <span
             className={
@@ -158,6 +173,7 @@ function Gate({ bad }: { bad: boolean }) {
         <circle cx="32" cy="32" r="12" fill="#FF6B5E" />
       </svg>
       <h1 className="mt-4 font-display text-3xl font-extrabold tracking-tight">Sarthi</h1>
+      <p className="mt-1 text-sm text-muted">The app decides. You execute.</p>
       <form action={login} className="mt-5 flex flex-col gap-3">
         <input
           type="password"

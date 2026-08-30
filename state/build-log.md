@@ -133,3 +133,44 @@ human review each. If PDFs arrive early, the bank leads the UI and v3 lands whol
 
 **If the next version runs long, cut:** keyboard shortcuts on desktop first, then year
 filters (subject/topic/format/wrong-only are the load-bearing filters).
+
+## v4 + design — 2026-08-31 (01:20, shipped hours before Day 1's Block A)
+
+**Shipped:** The last version. /tests/new enters a mock's totals and per-subject rows in
+about two minutes and scores it +2/−⅔; a subject under 60% pulls its three stalest topics
+into the revision queue at day 3/5/7 (D33). /audit is the Sunday screen — adherence,
+coverage, debt, rolling 3-mock average charted against 120 and the 92.66 cut-off, the
+reason-code mix with the 15% misread line called out, and a freshness meter per subject
+(D34) — all on one screen without scrolling. /ca captures a current-affairs item in under
+twenty seconds with datalist topic tags; tagged items surface on their topic pages; Sundays
+show the bio-geo-tech drill and each item carries a drill tick. /api/export returns every
+table as JSON from one button. The app is installable (manifest + generated icons) and a
+service worker read-caches pages so it opens offline with today's plan (D35 — the write
+queue is deferred, stated, not half-built).
+
+**Design:** the Sunsama-inspired pass. Day-arc tints — Block A wears dawn, B dusk, C
+night — a sunrise wash at the top of every page, layered warm shadows, an MVD progress
+ring in the footer, a time-of-day greeting, hover lifts, focus rings, reduced-motion
+respect. Audit joined the bottom nav (bar-chart icon). Personality came from the product's
+own soul — the shape of a day — not from decoration.
+
+**Two real bugs found by building v4:** wide Promise.all fan-outs deadlock postgres-js on
+this stack (reproduced standalone); export hung 60s+, audit likewise under load. Both now
+sequential, pool at 10 (D36). Suite fell from 5.3 to 1.6 minutes. And the date rolled over
+to Day 1 mid-session, which the v0 spec caught by colliding its fixtures with the real
+31 Aug blocks — the spec now excludes its own slots.
+
+**Suite:** 29/29 across v0–v4. Database verified pristine for the 05:30 session: three
+Day-1 blocks planned, zero logs, zero fixtures.
+
+**Hours:** ~5 of the 12 budget.
+
+**Needs human verification:** mock entry under four minutes with a real scorecard; audit
+"am I on track" legibility on the Sunday laptop; install-to-home-screen and offline open
+on the actual phone; whether the day-arc tints read as calm or as noise at 05:30.
+
+**Deferred:** offline write queue (D35); 2025 GS1 validation + load (transcribed and
+keyed, one command away); CSAT ingestion (D27).
+
+**With v4 shipped, the build order is complete.** Feature freeze per CLAUDE.md is
+1 Feb 2027; between now and then: bug fixes, the deferred items above, and nothing else.

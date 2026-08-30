@@ -48,6 +48,16 @@ const TABS = [
     ),
   },
   {
+    href: '/audit',
+    label: 'Audit',
+    // bar chart
+    icon: (
+      <>
+        <path d="M4 20V10M10 20V4M16 20v-7M21 20H3" />
+      </>
+    ),
+  },
+  {
     href: '/syllabus',
     label: 'Syllabus',
     // grid
