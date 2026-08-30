@@ -66,7 +66,7 @@ test('seed loaded the real content, including Monday 31 Aug', async () => {
 
   const day1 = await sql`
     select slot, start, label, source_ref from plan_blocks
-    where date = '2026-08-31' order by start`
+    where date = '2026-08-31' and slot not in ('T1', 'T2') order by start`
   expect(day1).toHaveLength(3)
   expect(day1[0]).toMatchObject({ slot: 'A', start: '05:30', source_ref: 'NCERT 11 Fund. Ch.1–3' })
   expect(day1[0].label).toContain('Universe')

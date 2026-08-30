@@ -159,3 +159,38 @@ Format: `### DN — <decision>` then **Context**, **Decision**, **Consequence** 
 **Context:** 79 PYQ questions had no home in the 186-topic tree. Adding topics to `topics.json` would let a future weekly re-plan schedule them — `generate-plan.mjs` has a fallback that takes any remaining topic when no phase matches — which would disturb a plan the user wants left alone.
 **Decision:** Six new topics live in `seed/bonus-topics.json`, a file the planner never reads, and carry `topics.bonus = true` (one additive boolean column). They are excluded from PASS2–4 seeding, keep the D1–D90 ladder if actually read, and must stay out of the coverage grid's denominators so existing coverage never appears to regress. `est_minutes` on them is informational, not planned.
 **Consequence:** The planner *structurally cannot* schedule a bonus topic rather than merely being asked not to. `topics.json` stays untouched, honouring "never hand-edit seed data". The real deliverable is 34 already-explained questions drillable in Block C — roughly 90 minutes, not the 10.8 hours a full read would cost.
+
+### D30 — Bonus topics live outside the plan, by construction
+**Context:** User wanted the six gap topics as a "top 1% zone" — extra marks without disturbing the 912-block plan.
+**Decision:** They live in `seed/bonus-topics.json` with a `bonus` boolean column; `generate-plan.mjs` reads only `topics.json`, so the planner cannot schedule them even on a re-plan. Ladder on once read; PASS2–4 and the coverage grid's denominators exclude them.
+**Consequence:** The grid cannot silently regress; the bonus section reads as opt-in extra credit; their PYQ sets are drillable in practice regardless.
+
+### D31 — The three approved topics.json amendments
+**Context:** Zero-cost fixes from the gap analysis, explicitly approved by the user (seed data is otherwise never edited).
+**Decision:** SNT-13 renamed to lead with everyday physics and chemistry; ART-10 gains PT365 Culture; ANM-12 widened to the regional kingdoms at +60 min.
+**Consequence:** Three recurring PYQ areas now have honestly-named shelves without new topics.
+
+### D32 — Mock entry stores what the schema stores
+**Context:** "Enter 100 answers, auto-score" — but external mocks carry no key the app knows, and `tests`/`test_subjects` hold totals and per-subject rollups, not per-question answers.
+**Decision:** /tests/new asks for totals plus optional per-subject rows from the solution review; score = correct×2 − wrong×⅔.
+**Consequence:** Entry takes ~2 minutes with a scorecard in hand; the schema is used as-is; question-level mock storage would need a schema change nobody asked for.
+
+### D33 — A weak mock subject pulls its stalest topics forward
+**Context:** "Subjects below 60% push their three weakest topics into the revision queue within seven days" — weakest is undefined.
+**Decision:** Weakest = the read-or-above topics touched longest ago. Their earliest pending non-PASS revision event is pulled to day 3/5/7; a topic with none gets a D30 inserted there.
+**Consequence:** A bad section converts directly into scheduled revision within the week; nothing is ever downgraded.
+
+### D34 — Freshness decays by stage-weighted days
+**Context:** The decay meter needs one number per subject from days-since-touch and ladder stage.
+**Decision:** freshness = max(0, 100 − days×12/weight), weights read 1 · R1 2 · R2 3 · R3 4 · R4 6 · mains 8; subject score is the mean over its ladder topics.
+**Consequence:** A just-read topic fades in ~8 days; an R4 topic holds for ~7 weeks — matching the ladder's own intervals.
+
+### D35 — PWA ships read-cache only
+**Context:** The spec asks for an offline write queue, but NG4 already rules out true offline sync and the acceptance test is offline *read*.
+**Decision:** Manifest + service worker with network-first navigations and cached fallbacks; writes offline simply fail visibly. Write queueing is deferred, stated here rather than half-built.
+**Consequence:** The app opens from the home screen with no network and shows today's plan; logging still needs a connection.
+
+### D36 — Wide Promise.all over the driver is banned
+**Context:** A 13-way parallel read wedged /api/export for 60s+, reproduced in a plain node script; audit's 7-way did the same under suite load. postgres-js on this stack deadlocks when bursts far exceed the pool.
+**Decision:** Fan-outs bigger than ~4 queries run sequentially (export, audit); pool raised to 10 for the nav's prefetch bursts.
+**Consequence:** Export answers in ~0.6s, audit in ~0.3s, and the suite dropped from 5.3 to 1.6 minutes.

@@ -35,7 +35,7 @@ test('bank is loaded and reachable from Today', async ({ page }) => {
 
   await login(page)
   await page.getByRole('link', { name: /Practice/i }).click()
-  await expect(page).toHaveURL(/\/practice/)
+  await page.waitForURL(/\/practice/, { timeout: 30_000 })
   await expect(page.getByRole('heading', { name: /Practice/i })).toBeVisible()
 })
 

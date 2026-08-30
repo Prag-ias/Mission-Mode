@@ -7,6 +7,12 @@ const TZ = 'Asia/Kolkata'
 
 export const EXAM_DATE = '2027-05-23'
 
+export function hourIST(): number {
+  return Number(
+    new Intl.DateTimeFormat('en-GB', { timeZone: TZ, hour: 'numeric', hour12: false }).format(new Date()),
+  )
+}
+
 export function todayIST(): string {
   return new Intl.DateTimeFormat('en-CA', { timeZone: TZ }).format(new Date())
 }

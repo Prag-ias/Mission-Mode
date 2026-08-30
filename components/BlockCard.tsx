@@ -21,13 +21,26 @@ type Block = {
   owedFrom?: string | null
 }
 
+/** Each block wears the hour it belongs to — the day runs dawn to night. */
+function timeTint(start: string): string {
+  const h = Number(start.slice(0, 2))
+  if (h < 8) return 'tint-dawn'
+  if (h < 17) return 'tint-day'
+  if (h < 21) return 'tint-dusk'
+  return 'tint-night'
+}
+
 function Label({ block, className }: { block: Block; className: string }) {
   // Revision blocks open the queue; topic blocks open their topic.
   const href = block.topicCode
     ? `/topic/${block.topicCode}`
     : block.kind === 'revision'
       ? '/revise'
-      : null
+      : block.kind === 'ca'
+        ? '/ca'
+        : block.kind === 'mock' || block.kind === 'analysis'
+          ? '/tests/new'
+          : null
   if (!href) return <h2 className={className}>{block.label}</h2>
   return (
     <h2 className={className}>
@@ -72,7 +85,7 @@ export default function BlockCard({ block }: { block: Block }) {
   return (
     <div
       data-testid={`block-${block.slot}`}
-      className="rounded-card border border-line bg-surface p-4 shadow-s"
+      className={`rounded-card border border-line bg-surface p-4 shadow-s card-lift ${timeTint(block.start)}`}
     >
       <Meta block={block} done={false} />
       <Label block={block} className="mt-2 font-display text-[22px] font-bold leading-tight" />

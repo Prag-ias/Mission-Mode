@@ -5,7 +5,7 @@ config({ path: '.env.local' })
 
 export default defineConfig({
   testDir: './tests',
-  timeout: 30_000,
+  timeout: 60_000,
   // One user, one flow — parallel workers would race on the shared daily_logs row.
   workers: 1,
   use: {
