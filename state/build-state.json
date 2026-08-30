@@ -2,79 +2,296 @@
   "project": "sarthi",
   "exam_date": "2027-05-23",
   "feature_freeze": "2027-02-01",
-
   "current_version": "v3",
-  "gate_approved": false,
-  "gate_note": "v2 gate open since 2026-08-30. Suite 16/16 twice, merged to main, awaiting user push + phone check (blind recall feel, owed cards, queue). v3 next per agreed order — blocked on this gate AND on PDFs arriving for ingestion (C:/Users/KIIT/Mission 2027/papers/).",
-
+  "gate_approved": true,
+  "gate_note": "v0, v1+design, and v2 gates all approved by the user on 2026-08-30. v3 in progress: ingestion first (bank leads the UI), then the practice/mistake-log app work. GS1 2026 reviewed and loaded (99 questions live). Deploys are by the user's own git push; no CLI deploys from this session.",
   "versions": {
-    "v0": { "ship_by": "2026-08-30", "budget_hours": 5,  "status": "shipped", "hours_actual": 4.5 },
-    "v1": { "ship_by": "2026-09-27", "budget_hours": 9,  "status": "shipped", "hours_actual": 3.5 },
-    "v2": { "ship_by": "2026-11-01", "budget_hours": 10, "status": "shipped", "hours_actual": 5.2 },
-    "v3": { "ship_by": "2026-12-20", "budget_hours": 12, "status": "not_started",  "hours_actual": null },
-    "v4": { "ship_by": "2027-01-31", "budget_hours": 12, "status": "not_started",  "hours_actual": null }
+    "v0": {
+      "ship_by": "2026-08-30",
+      "budget_hours": 5,
+      "status": "shipped",
+      "hours_actual": 4.5
+    },
+    "v1": {
+      "ship_by": "2026-09-27",
+      "budget_hours": 9,
+      "status": "shipped",
+      "hours_actual": 3.5
+    },
+    "v2": {
+      "ship_by": "2026-11-01",
+      "budget_hours": 10,
+      "status": "shipped",
+      "hours_actual": 5.2
+    },
+    "v3": {
+      "ship_by": "2026-12-20",
+      "budget_hours": 12,
+      "status": "in_progress",
+      "hours_actual": null
+    },
+    "v4": {
+      "ship_by": "2027-01-31",
+      "budget_hours": 12,
+      "status": "not_started",
+      "hours_actual": null
+    }
   },
-
   "open_tasks": [
-    { "id": "ing-1", "task": "GS1 2026 pilot: render English pages, transcribe + independently verify + tag 100 questions", "est_minutes": 60, "status": "in_progress" },
-    { "id": "ing-2", "task": "Answer keys: load official UPSC provisional key (2026), official archive keys (2021-2024), Vision IAS where no official exists", "est_minutes": 40, "blocked_on": "user downloads the two official PDFs — upsc.gov.in blocks automated fetch" },
-    { "id": "ing-3", "task": "Cross-check every answer against my own independent reasoning; disagreements become disputed=true", "est_minutes": 90 },
-    { "id": "ing-4", "task": "Generate explanations upfront in batches of 20 (decision D2)", "est_minutes": 120 },
-    { "id": "ing-5", "task": "Human review artifact for the pilot: 100 questions, answers, provenance, low-confidence tags flagged", "est_minutes": 45 },
-    { "id": "ing-6", "task": "Load pilot via scripts/ingest-questions.ts (refuses unless reviewed_by_human and --confirm)", "est_minutes": 15 },
-    { "id": "ing-7", "task": "Remaining 5 GS1 papers with the validated pipeline", "est_minutes": 300, "blocked_on": "ing-6 (pilot approved)" },
-    { "id": "ing-8", "task": "6 CSAT papers (decision D27)", "est_minutes": 300, "blocked_on": "ing-7" },
-    { "id": "v3-1", "task": "tests/v3.spec.ts from acceptance criteria, before feature code", "est_minutes": 50 },
-    { "id": "v3-2", "task": "/practice: batches of 10-20, filters (subject, topic, year, format, previously-wrong), one question per screen", "est_minutes": 120 },
-    { "id": "v3-3", "task": "Confidence before reveal (sure/unsure/guess) recorded on every attempt; 'correct but guessed' reportable separately", "est_minutes": 45 },
-    { "id": "v3-4", "task": "Mistake log: wrong answer requires one of the six reason codes before the next question; no skipping", "est_minutes": 60 },
-    { "id": "v3-5", "task": "Ladder feedback: reason code 2 (knew_forgot) shortens that topic's next revision interval, reusing D23's rule", "est_minutes": 30 },
-    { "id": "v3-6", "task": "Disputed badge; disputed questions practised but excluded from accuracy stats", "est_minutes": 30 },
-    { "id": "v3-7", "task": "Batch summary screen (never a dead end); verify, 390px, gate close-out", "est_minutes": 75 }
+    {
+      "id": "ing-7",
+      "task": "GS1 2021-2025: transcribe/verify/tag (2021,2022,2023 in flight), then keys, blind pass, explanations, review, load",
+      "est_minutes": 300,
+      "status": "in_progress"
+    },
+    {
+      "id": "ing-8",
+      "task": "6 CSAT papers (decision D27)",
+      "est_minutes": 300,
+      "blocked_on": "ing-7"
+    },
+    {
+      "id": "v3-1",
+      "task": "tests/v3.spec.ts from acceptance criteria, before feature code",
+      "est_minutes": 50
+    },
+    {
+      "id": "v3-2",
+      "task": "/practice: batches of 10-20, filters (subject, topic, year, format, previously-wrong), one question per screen",
+      "est_minutes": 120
+    },
+    {
+      "id": "v3-3",
+      "task": "Confidence before reveal (sure/unsure/guess) recorded on every attempt; 'correct but guessed' reportable separately",
+      "est_minutes": 45
+    },
+    {
+      "id": "v3-4",
+      "task": "Mistake log: wrong answer requires one of the six reason codes before the next question; no skipping",
+      "est_minutes": 60
+    },
+    {
+      "id": "v3-5",
+      "task": "Ladder feedback: reason code 2 (knew_forgot) shortens that topic's next revision interval, reusing D23's rule",
+      "est_minutes": 30
+    },
+    {
+      "id": "v3-6",
+      "task": "Disputed badge; disputed questions practised but excluded from accuracy stats",
+      "est_minutes": 30
+    },
+    {
+      "id": "v3-7",
+      "task": "Batch summary screen (never a dead end); verify, 390px, gate close-out",
+      "est_minutes": 75
+    }
   ],
   "done_tasks": [
-    { "id": "v1-1", "task": "tests/v1.spec.ts written before feature code; synthetic fixtures only", "actual_minutes": 35 },
-    { "id": "v1-2", "task": "/syllabus grid + legend + counts + search (?q= ILIKE, snippets)", "actual_minutes": 55 },
-    { "id": "v1-3", "task": "/topic/[code] + stage control (server-action forms) + timestamps + engine-stage guard", "actual_minutes": 35 },
-    { "id": "v1-4", "task": "NoteEditor: debounced autosave, blur/visibility/unmount flush, saved indicator, retry on error", "actual_minutes": 30 },
-    { "id": "v1-5", "task": "Today headings link to topics; Syllabus link in header", "actual_minutes": 10 },
-    { "id": "v1-6", "task": "Verify: 9/9 suite (v0 regression incl.), build/lint/tsc, 390px on all three screens", "actual_minutes": 35 },
-    { "id": "v1-7", "task": "Decisions D16-D18, build log, state, merge, deploy check", "actual_minutes": 15 },
-    { "id": "v2-1", "task": "tests/v2.spec.ts before feature code — 7 tests, synthetic fixtures", "actual_minutes": 50 },
-    { "id": "v2-2", "task": "Ladder engine: events on read, monotonic advancement, completion, D1 score-1 shortens D7", "actual_minutes": 60 },
-    { "id": "v2-3", "task": "PASS2-4 seeding spread across phase windows, idempotent (558 events)", "actual_minutes": 25 },
-    { "id": "v2-4", "task": "/revise queue: cap 12, debt figure, D1 -> blind recall, complete actions", "actual_minutes": 55 },
-    { "id": "v2-5", "task": "Blind recall page: note fetched only after attempt, 1-3 rating", "actual_minutes": 30 },
-    { "id": "v2-6", "task": "Missed-block sweep + owed cards + debt clearing + credit-date rule", "actual_minutes": 40 },
-    { "id": "v2-7", "task": "Debug: v1 teardown FK vs new engine + two spec bugs; suite 16/16 twice", "actual_minutes": 30 },
-    { "id": "v2-8", "task": "390px checks, decisions D22-D25, log, state", "actual_minutes": 25 },
-    { "id": "v0-1", "task": "Scaffold Next 15 + Tailwind 4 (manual — create-next-app blocked by tool permissions), pinned deps, build green", "actual_minutes": 40 },
-    { "id": "v0-2", "task": "drizzle config, postgres client (prepare:false, max:1), idempotent seed script", "actual_minutes": 30 },
-    { "id": "v0-3", "task": "Today screen: header (date/days-left/phase), blocks in time order, sticky footer (total/MVD/streak), IST everywhere", "actual_minutes": 45 },
-    { "id": "v0-4", "task": "logBlock action: actual_minutes, status, logged_at, daily_logs recompute, streak roll-forward", "actual_minutes": 25 },
-    { "id": "v0-5", "task": "Cookie auth against SARTHI_PASSWORD; gate verified in browser (wrong + right password paths)", "actual_minutes": 20 },
-    { "id": "v0-6", "task": "Playwright config + tests/v0.spec.ts written from acceptance criteria (T1/T2 throwaway-block strategy)", "actual_minutes": 35 },
-    { "id": "v0-7", "task": "DB bring-up: region probe, password propagation, db:push, seed x2 idempotent (11/186/7/912 stable)", "actual_minutes": 45 },
-    { "id": "v0-8", "task": "v0 spec run: 3/3 pass against production DB at 390px; teardown leaves zero residue", "actual_minutes": 15 },
-    { "id": "v0-9", "task": "Vercel: project sarthi, env vars prod+preview, deployed, prod smoke test passed (login -> IST today -> footer)", "actual_minutes": 30 },
-    { "id": "v0-10", "task": "Gate report, build log entry, state update", "actual_minutes": 15 }
+    {
+      "id": "v1-1",
+      "task": "tests/v1.spec.ts written before feature code; synthetic fixtures only",
+      "actual_minutes": 35
+    },
+    {
+      "id": "v1-2",
+      "task": "/syllabus grid + legend + counts + search (?q= ILIKE, snippets)",
+      "actual_minutes": 55
+    },
+    {
+      "id": "v1-3",
+      "task": "/topic/[code] + stage control (server-action forms) + timestamps + engine-stage guard",
+      "actual_minutes": 35
+    },
+    {
+      "id": "v1-4",
+      "task": "NoteEditor: debounced autosave, blur/visibility/unmount flush, saved indicator, retry on error",
+      "actual_minutes": 30
+    },
+    {
+      "id": "v1-5",
+      "task": "Today headings link to topics; Syllabus link in header",
+      "actual_minutes": 10
+    },
+    {
+      "id": "v1-6",
+      "task": "Verify: 9/9 suite (v0 regression incl.), build/lint/tsc, 390px on all three screens",
+      "actual_minutes": 35
+    },
+    {
+      "id": "v1-7",
+      "task": "Decisions D16-D18, build log, state, merge, deploy check",
+      "actual_minutes": 15
+    },
+    {
+      "id": "v2-1",
+      "task": "tests/v2.spec.ts before feature code — 7 tests, synthetic fixtures",
+      "actual_minutes": 50
+    },
+    {
+      "id": "v2-2",
+      "task": "Ladder engine: events on read, monotonic advancement, completion, D1 score-1 shortens D7",
+      "actual_minutes": 60
+    },
+    {
+      "id": "v2-3",
+      "task": "PASS2-4 seeding spread across phase windows, idempotent (558 events)",
+      "actual_minutes": 25
+    },
+    {
+      "id": "v2-4",
+      "task": "/revise queue: cap 12, debt figure, D1 -> blind recall, complete actions",
+      "actual_minutes": 55
+    },
+    {
+      "id": "v2-5",
+      "task": "Blind recall page: note fetched only after attempt, 1-3 rating",
+      "actual_minutes": 30
+    },
+    {
+      "id": "v2-6",
+      "task": "Missed-block sweep + owed cards + debt clearing + credit-date rule",
+      "actual_minutes": 40
+    },
+    {
+      "id": "v2-7",
+      "task": "Debug: v1 teardown FK vs new engine + two spec bugs; suite 16/16 twice",
+      "actual_minutes": 30
+    },
+    {
+      "id": "v2-8",
+      "task": "390px checks, decisions D22-D25, log, state",
+      "actual_minutes": 25
+    },
+    {
+      "id": "v0-1",
+      "task": "Scaffold Next 15 + Tailwind 4 (manual — create-next-app blocked by tool permissions), pinned deps, build green",
+      "actual_minutes": 40
+    },
+    {
+      "id": "v0-2",
+      "task": "drizzle config, postgres client (prepare:false, max:1), idempotent seed script",
+      "actual_minutes": 30
+    },
+    {
+      "id": "v0-3",
+      "task": "Today screen: header (date/days-left/phase), blocks in time order, sticky footer (total/MVD/streak), IST everywhere",
+      "actual_minutes": 45
+    },
+    {
+      "id": "v0-4",
+      "task": "logBlock action: actual_minutes, status, logged_at, daily_logs recompute, streak roll-forward",
+      "actual_minutes": 25
+    },
+    {
+      "id": "v0-5",
+      "task": "Cookie auth against SARTHI_PASSWORD; gate verified in browser (wrong + right password paths)",
+      "actual_minutes": 20
+    },
+    {
+      "id": "v0-6",
+      "task": "Playwright config + tests/v0.spec.ts written from acceptance criteria (T1/T2 throwaway-block strategy)",
+      "actual_minutes": 35
+    },
+    {
+      "id": "v0-7",
+      "task": "DB bring-up: region probe, password propagation, db:push, seed x2 idempotent (11/186/7/912 stable)",
+      "actual_minutes": 45
+    },
+    {
+      "id": "v0-8",
+      "task": "v0 spec run: 3/3 pass against production DB at 390px; teardown leaves zero residue",
+      "actual_minutes": 15
+    },
+    {
+      "id": "v0-9",
+      "task": "Vercel: project sarthi, env vars prod+preview, deployed, prod smoke test passed (login -> IST today -> footer)",
+      "actual_minutes": 30
+    },
+    {
+      "id": "v0-10",
+      "task": "Gate report, build log entry, state update",
+      "actual_minutes": 15
+    },
+    {
+      "id": "ing-1",
+      "task": "GS1 2026 pilot: rendered English pages only, transcribed + independently verified + tagged 100 questions",
+      "actual_minutes": 45
+    },
+    {
+      "id": "ing-2",
+      "task": "Official UPSC provisional key (Series A) merged; Q64 identified as dropped by UPSC and excluded",
+      "actual_minutes": 25
+    },
+    {
+      "id": "ing-3",
+      "task": "Blind independent answer pass before seeing the key; 96/99 agreement, 3 disagreements all self-flagged low confidence",
+      "actual_minutes": 30
+    },
+    {
+      "id": "ing-4",
+      "task": "99 original explanations, batches of 20, each giving a verdict on every statement (D2)",
+      "actual_minutes": 40
+    },
+    {
+      "id": "ing-5",
+      "task": "Review artifact in Foundations v1; 7 items needing judgement surfaced first",
+      "actual_minutes": 35
+    },
+    {
+      "id": "ing-6",
+      "task": "Loaded 99 questions. Dry run caught a real loader bug: write loop iterated all questions while validation only covered loadable ones, so dropped Q64 would have entered with a null answer",
+      "actual_minutes": 20
+    }
   ],
   "deferred": [],
   "needs_human_verification": [
-    "v2: blind recall on the phone keyboard — type-first gate should feel like discipline, not friction",
-    "v2: 'owed' cards on Today read clearly at 05:30",
-    "v2: Block C -> queue flow on a real evening once topics reach read",
-    "design: coral Done reads as the one action; Bricolage legible without glasses",
-    "v0 (carried): Monday 31 Aug 05:30 shows the three real blocks live; one-handed use"
+    "GS1 2026 bank in real use: do the explanations read well at 21:40 when tired?",
+    "Q62 has no topic for the new criminal codes (BNS/BNSS/BSA) - a real gap in topics.json, and live examinable law. Q73 (armed forces structure) and Q96 (insurance) likewise. Adding topics is a study decision, not an engineering one.",
+    "Economy vs Current Affairs boundary: my tagging put 17 under CAI where the 2026 analysis doc has 13, and 15 under ECO where it has 18",
+    "v2 (carried): blind recall on the phone keyboard; 'owed' cards on Today at 05:30"
   ],
-
   "ingestion": {
-    "papers_total": 6,
-    "papers_done": [],
-    "next_due": "2026-10-11",
-    "note": "GS Paper 1 only, 2021-2026. One per fortnight through Phase 1. CSAT out of scope."
+    "papers_total": 12,
+    "papers_done": [
+      "GS1 2026"
+    ],
+    "in_flight": [
+      {
+        "paper": "GS1 2021",
+        "run_id": "wf_cf19cbd7-285",
+        "stage": "transcribe/verify/tag"
+      },
+      {
+        "paper": "GS1 2022",
+        "run_id": "wf_9c26ecd1-64f",
+        "stage": "transcribe/verify/tag"
+      },
+      {
+        "paper": "GS1 2023",
+        "run_id": "wf_3361ee38-ac0",
+        "stage": "transcribe/verify/tag"
+      }
+    ],
+    "not_started": [
+      "GS1 2024",
+      "GS1 2025",
+      "CSAT 2021-2026"
+    ],
+    "script": "workflows/scripts/ingest-gs1-paper-wf_cf19cbd7-285.js (resume with scriptPath + resumeFromRunId)",
+    "pages_rendered": "all 6 GS1 papers under .ingest/pages/ (gitignored, regenerate with scripts/render-pages.mjs)",
+    "keys_held": [
+      "GS1 2026 official_prov (Series A)",
+      "CSAT 2026 official_prov"
+    ],
+    "keys_needed": [
+      "GS1 2021 https://upsc.gov.in/sites/default/files/Anskey-CSP-21-GS-I-300522.pdf",
+      "GS1 2022 https://upsc.gov.in/sites/default/files/AnsKey-CSP-2022-Paper-I-040723.pdf",
+      "GS1 2023 https://upsc.gov.in/sites/default/files/AnsKey-CSP-2023-Paper-I-090524.pdf",
+      "GS1 2024 https://upsc.gov.in/sites/default/files/AnsKey-CivilServicesPExam-2024-GeneralStudies-I-210525.pdf",
+      "GS1 2025 no official key published yet - Vision IAS fallback per D26"
+    ],
+    "note": "upsc.gov.in 403s automated fetch and serves keys as downloads, so the user must save them. Keys are series-specific: verify each paper's booklet series before applying a key. 2021/2026 confirmed Series A; 2022/2024 show a '( 3 - A )' page mark; 2023/2025 need their cover page checked."
   },
-
   "replan": {
     "last_run": null,
     "note": "Run generate-plan.mjs --from <next Monday> when more than 7 days of blocks are skipped or rescheduled."
