@@ -26,7 +26,7 @@
     "ART-08"
    ],
    "primary_topic_code": "ART-08",
-   "explanation_md": null,
+   "explanation_md": "Bilawal is the Hindustani scale of all seven **shuddha** (natural) notes, and its exact Carnatic counterpart is **Dheera Shankarabharanam**, the 29th melakarta, built on the same all-natural swaras.\n\n- (a) **Nat Bhairavi**, the 20th melakarta, corresponds to Hindustani **Asavari** — the natural minor, with komal ga, dha and ni.\n- (b) **Kamavardhini** (Pantuvarali), the 51st melakarta, carries a sharp madhyama and flat rishabha; its Hindustani cousin lies in the Puriya Dhanashri family, nowhere near Bilawal.\n- (c) **Hanumatodi**, the 8th melakarta, matches Hindustani **Bhairavi** — the trap pair of Indian music, because *Carnatic* Bhairavi is a completely different raga from *Hindustani* Bhairavi.\n\nDurable fact: Shankarabharanam = Bilawal = the plain major scale, the reference point both systems measure other scales against. Hold the cross-system map as a set: Shankarabharanam–Bilawal, Nat Bhairavi–Asavari, Hanumatodi–Bhairavi, Mayamalavagowla–Bhairav.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -39,7 +39,8 @@
     "reasoning": "Bilawal is the Hindustani shuddha (all-natural-notes) scale; its Carnatic counterpart is Dheera Shankarabharanam, the 29th melakarta. Nat Bhairavi maps to Asavari, Kamavardhini to Poorvi/Marwa family, Hanumatodi to Bhairavi.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 2,
@@ -61,7 +62,7 @@
     "ECO-12"
    ],
    "primary_topic_code": "HIS-02",
-   "explanation_md": null,
+   "explanation_md": "The 1s 6d ratio was fixed above the market rate because an **overvalued rupee made India's sterling obligations cheaper in rupees** — easing the Home Charges, salaries and pensions remitted to Britain, and keeping India a sound debtor in the London money market.\n\n- (b) A dear rupee does cheapen imports, but the beneficiaries were **British exporters selling into India**; supporting Indian importers was never the stated aim.\n- (c) The opposite of the truth. An overvalued rupee made Indian exports — cotton, jute, wheat — dearer abroad, which is exactly why Bombay millowners and Indian business fought the ratio.\n- (d) Not the motive. The ratio pegged the rupee to **sterling**, not to gold; protecting the rupee's gold value was not the purpose of the artificial fixing.\n\nDurable fact: the **Hilton-Young Commission** (Royal Commission on Indian Currency and Finance, 1926) produced two lasting outputs — the 1s 6d rupee-sterling ratio, enacted by the **Currency Act, 1927**, and the recommendation to create the **Reserve Bank of India**, established in **1935**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -74,7 +75,8 @@
     "reasoning": "The Hilton-Young Commission's artificially high 1s 6d rupee-sterling ratio was adopted because an overvalued rupee reduced the rupee cost of the sterling Home Charges and eased remittance of profits and salaries to Britain, while sustaining India's standing as a debtor. It hurt exporters and was not aimed at Indian importers.",
     "ambiguity_note": "Option (d) is defensible if one reads the fixed ratio as a gold-exchange-standard stabilisation measure; the historiographical (Bipan Chandra) framing behind (a) is remittances plus creditworthiness, which is why I prefer (a)."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 3,
@@ -95,7 +97,7 @@
     "ANM-03"
    ],
    "primary_topic_code": "ANM-03",
-   "explanation_md": null,
+   "explanation_md": "Coin names in Pali texts matched by silver punch-marked coins in the ground are read as evidence of **both** developments, so both 1 and 2 apply.\n\n- **1 Emergence of urban life — applies.** Named denominations circulating in the middle Ganga plain presuppose markets, artisans and traders concentrated in towns. Coinage is one of the standard markers of the **second urbanisation** (from around the sixth century BCE), alongside iron, Northern Black Polished Ware and fortified settlements.\n- **2 Transition to money economy — applies.** A graded series running from *nikkha* and *kahapana* down to the low-value *kakanika* means goods were being valued and settled in coin rather than bartered.\n\nDurable fact: **punch-marked (*ahata*) coins are India's earliest coins** — mostly silver, stamped with several symbols punched separately rather than struck from a single die, and the *kahapana* (Sanskrit *karshapana*) is their standard unit. Literary reference plus excavated coin is the classic \"corroboration\" pattern UPSC likes to test.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -108,7 +110,8 @@
     "reasoning": "Pali references to kahapana/nikkha/kamsa/kakanika corroborated by silver punch-marked coins are cited in standard accounts as evidence both for the second urbanisation and for the shift to a money economy, so both 1 and 2 apply.",
     "ambiguity_note": "A strict reading ties coin evidence only to the money economy (option b); the urban-life link is an inference textbooks make routinely but the statements do not state it directly."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 4,
@@ -129,7 +132,7 @@
     "ART-02"
    ],
    "primary_topic_code": "ART-02",
-   "explanation_md": null,
+   "explanation_md": "**Huchimalligudi at Aihole** and the Gupta-period **Dashavatara temple at Deogarh** carry the curvilinear north-Indian *shikhara*, so 2 and 3.\n\n- **1 Malegitti Shivalaya, Badami — no.** An Early Chalukyan **Dravida** temple: a square *vimana* rising in stepped storeys (*talas*) capped by an octagonal member over the *griva*.\n- **2 Huchimalligudi, Aihole — yes.** Its sanctum carries a curvilinear **Nagara** superstructure, one of the earliest experiments with the form in the Deccan.\n- **3 Dashavatara, Deogarh — yes.** Among the earliest surviving stone temples with a *shikhara* (fifth–sixth century), the type-site for the emerging Nagara idiom.\n- **4 Virupaksha, Pattadakal — no.** Built by Lokamahadevi, queen of Vikramaditya II, on the model of the Kailasanatha at Kanchipuram; fully **Dravida**, and itself the model for the Kailasa at Ellora.\n\nDurable fact: **Pattadakal carries both idioms side by side** — Virupaksha and Mallikarjuna are Dravida, Papanatha and Galaganatha Nagara. That coexistence is the whole reason the site matters.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -142,7 +145,8 @@
     "reasoning": "Huchimalligudi at Aihole and the Gupta-period Dashavatara temple at Deogarh carry curvilinear Nagara shikharas; Malegitti Shivalaya (Badami) and Virupaksha (Pattadakal) are Dravida-vimana temples. Hence 2 and 3.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 5,
@@ -163,7 +167,7 @@
     "ANM-04"
    ],
    "primary_topic_code": "ANM-04",
-   "explanation_md": null,
+   "explanation_md": "Jaina cosmology recognises four **gatis** — states into which a soul is reborn — *deva*, *manushya*, *tiryancha* and *naraki*, and **yaksha** is not one of them.\n\n- (a) *Deva* (gods) — one of the four.\n- (c) *Manushya* (humans) — one of the four, and the only *gati* from which liberation is possible.\n- (d) *Tiryancha* (animals and plants) — one of the four. Jainism's placing of plants and one-sensed beings (*ekendriya*) inside this category is what drives its unusually strict *ahimsa*.\n- (b) *Yaksha* — a nature spirit shared across Jaina, Buddhist and Brahmanical traditions. In Jainism yakshas and yakshis serve as attendant deities (*shasana-devatas*) of the Tirthankaras, but they fall **within** the *deva* category, not beside it as a fifth form.\n\nDurable fact: the item the four-fold list actually contains and this option set omits is **naraki (hell-being)**. Memorise the set as god, human, animal-plant, hell-being.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -176,7 +180,8 @@
     "reasoning": "Jaina cosmology recognises four gatis: deva, manushya, tiryancha and naraki (hell-beings). Yaksha is not one of the four, so it is the item not included.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 6,
@@ -198,7 +203,7 @@
     "ART-06"
    ],
    "primary_topic_code": "ART-03",
-   "explanation_md": null,
+   "explanation_md": "The *Hallisa* (*hallisaka*) *lasya* panel at the **Bagh Caves** shows a ring of women dancing to accompanying musicians — a **joyous group folk dance**, not a devotional or mythological subject.\n\n- (b) Meditating Buddha images do occur at Bagh, which is a Buddhist site, but that is not what this panel depicts.\n- (c) Shiva and Parvati on Kailasa is a Brahmanical theme, sculpted at Ellora, absent from these Buddhist viharas.\n- (d) Samudramanthana is a Puranic subject, familiar from later temple art and from Angkor, not from Bagh.\n\nDurable fact: the **Bagh Caves are Buddhist rock-cut viharas in Dhar district, Madhya Pradesh**, on the Baghini river, roughly contemporary with the later Ajanta phase (c. fifth–sixth century CE) and painted in the same idiom. **Cave 4, the Rang Mahal**, holds the famous procession and dance panels. *Hallisaka* is a circular dance of women named in Sanskrit dramaturgical texts — the ancestor of the *rasa* dance.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -211,7 +216,8 @@
     "reasoning": "The Hallisa/hallisaka lasya scene in Bagh Cave 4 (Rang Mahal) shows a circular group dance by women with musicians — a joyous folk dance, not a religious or mythological scene.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 7,
@@ -232,7 +238,7 @@
     "ANM-08"
    ],
    "primary_topic_code": "ANM-08",
-   "explanation_md": null,
+   "explanation_md": "All three describe the accepted epigraphic trajectory of decimal place-value notation in and beyond India, so (d).\n\n- **1 — correct.** The Gujarat copper-plate grants of **AD 595–596** carry the earliest dated Indian inscriptional use of place-value numerals, recording the year in decimal positional form.\n- **2 — correct.** By the **ninth century** place-value dates are routine in inscriptions across India; the **Gwalior inscription of AD 876** is the standard illustration, notable for carrying a written zero.\n- **3 — correct.** Sanskrit inscriptions in **Southeast Asia** use place-value from the **seventh century**, the Khmer inscription dated 605 Saka (AD 683) being the classic early attestation of the zero symbol.\n\nDurable fact: keep two things separate — **place-value** (a digit's worth depends on its position) and **zero as a numeral in its own right**. India supplied both; Arab intermediaries carried them west, which is why Europe called the system *Hindu-Arabic*.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -245,7 +251,8 @@
     "reasoning": "All three match the standard account: the Gujarat (Sankheda/Mankani) plates of AD 595-96 give the earliest dated epigraphic place-value numerals in India; place-value becomes general in Indian inscriptions by the ninth century (e.g. Gwalior, AD 876); and Sanskrit inscriptions of South-East Asia use it from the seventh century (Khmer K-127, AD 683).",
     "ambiguity_note": "Statement 1's authenticity has been questioned by some epigraphists who treat the Gujarat grant as suspect; if the examiner follows that view the key would be (c)."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 8,
@@ -266,7 +273,7 @@
     "ANM-01"
    ],
    "primary_topic_code": "ANM-01",
-   "explanation_md": null,
+   "explanation_md": "Inferences 1 and 2 follow from the findings as stated; inference 3 contradicts them, so (a).\n\n- **1 — follows.** Spindle whorls spread through ordinary houses with no spinning wheel anywhere means thread was drawn by hand on a hand-spindle, household by household: slow, labour-intensive, done at home.\n- **2 — follows.** Graduated measuring scales and a standardised weight series are precisely the measurement and technical knowledge the inference claims.\n- **3 — does not follow.** Houses with **their own** wells, private courtyards and private bathing platforms indicate individual household property, unequally distributed — the opposite of common property.\n\nDurable fact: **Harappan weights were cubical chert in a binary series (1, 2, 4, 8, 16 …) with 16 as the key unit**, and graduated ivory and shell scales come from Lothal and Mohenjodaro. Harappan cotton is among the world's earliest; the spinning wheel (*charkha*) reaches India only in the medieval centuries, which is exactly why its absence here is meaningful.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -279,7 +286,8 @@
     "reasoning": "Inference 1 follows (whorls in houses without wheels imply slow, home-based spinning) and inference 2 follows (graduated weights and scales imply measurement/scientific knowledge). Inference 3 fails: private wells, courtyards and bathing platforms indicate private property and differentiation, the opposite of common property.",
     "ambiguity_note": "Inference 2 is the weak link — weights and measures are more naturally evidence of standardisation and trade control than of 'scientific knowledge', but only (a) and (d) remain once 3 is rejected, and 3 is clearly wrong."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 9,
@@ -301,7 +309,7 @@
     "HIS-11"
    ],
    "primary_topic_code": "HIS-15",
-   "explanation_md": null,
+   "explanation_md": "(c) states both grievances correctly: **Bardoli (1928)** resisted an enhancement of the **land-revenue assessment**, while the **Eka movement (1921–22)** in Awadh protested **rents** extracted far above the recorded rates.\n\n- (a) Wrong on both halves. Eka slipped out of Congress and Khilafat hands into local leadership and was left unsupported; Bardoli was Congress-linked from the start, led by **Vallabhbhai Patel**, who earned the title *Sardar* there.\n- (b) Inverted. Eka was a movement **against** taluqdars and thikadars, led by **Madari Pasi**, a low-caste leader; Bardoli's base was landholding peasants, chiefly Patidars, not landless labourers.\n- (d) Geography wrong. Eka ran in the northern Awadh districts — Hardoi, Bahraich, Sitapur, Barabanki — not Varanasi and Mirzapur; and Bardoli lies in **Surat district**, south Gujarat, not Saurashtra.\n\nDurable fact: the enquiry that ended Bardoli cut the roughly 22% enhancement to a small fraction of it — the classic instance of a disciplined no-revenue campaign forcing an official climbdown.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -314,7 +322,8 @@
     "reasoning": "Bardoli (1928) resisted the ~22-30% enhancement of land revenue assessment; the Eka movement (1921-22, Hardoi-Bahraich-Sitapur-Barabanki) protested rents extracted well above recorded rates. (a), (b) and (d) misstate leadership, class base and geography — Eka was led by Madari Pasi against taluqdars, and Bardoli was in Surat district, not Saurashtra.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 10,
@@ -335,7 +344,7 @@
     "ANM-02"
    ],
    "primary_topic_code": "ANM-02",
-   "explanation_md": null,
+   "explanation_md": "Items 1 and 3 supply exactly the two things the statements need — the lifting gear and the animal power — so (c).\n\n- **1 — supports.** *Ashma chakra* (stone pulley wheel) and *ahava* (strapped pails) are the apparatus for drawing water **out of a well**, which is precisely Statement I's claim that well irrigation carried cultivation away from flood plains and river margins.\n- **2 — does not support.** Axe (*parashu/kulisha*) and sickle (*datra/sreni*) belong to forest clearance and harvesting. They say nothing about wells or about draught power, so they support neither statement.\n- **3 — supports.** Established use of the ox for ploughing and cart-traction before the Rigvedic period is what makes Statement II's claim — animals harnessed to haul water up from wells — plausible.\n\nDurable fact: **Rigvedic irrigation was well-and-channel irrigation, not river-fed canal systems**; the Punjab–Haryana plains were farmable precisely because the water table there sits close to the surface.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -348,7 +357,8 @@
     "reasoning": "Item 1 (ashma chakra pulley wheel and ahava pails) directly supports well irrigation, and item 3 (pre-Rigvedic use of oxen for ploughing and carts) supports draught-animal power at the well. Item 2 (axe and sickle) concerns forest clearance and harvesting, not well irrigation, so it supports neither statement.",
     "ambiguity_note": "Item 2 could be argued to support statement I's claim about agricultural expansion generally, which would make (b) correct; I reject it because statement I attributes the expansion specifically to well irrigation."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 11,
@@ -371,7 +381,7 @@
     "ANM-01"
    ],
    "primary_topic_code": "ANM-02",
-   "explanation_md": null,
+   "explanation_md": "Only the **shared river-dolphin species** bears on Pleistocene drainage, so (d).\n\n- **1 Nadi-Sukta — no.** The *Rigveda*'s river hymn lists rivers as they flowed in the Vedic period, far later than the Pleistocene. It is evidence for historical geography, not for glacial-age river capture.\n- **2 Bruce Foote — no.** Robert Bruce Foote of the Geological Survey is the \"father of Indian prehistory\" — he identified India's first Palaeolithic tool at **Pallavaram in 1863** — but his fieldwork was peninsular, and he did not reconstruct Sutlej–Yamuna drainage.\n- **3 Dolphins — yes.** The same blind river dolphin (*Platanista*) lives in both the Indus and the Ganga systems, which are today separate. A freshwater mammal cannot cross a sea or a watershed, so its presence in both implies the two systems were once **physically connected**.\n\nDurable fact: this is the standard **zoogeographic** argument — a disjunct distribution of a species incapable of crossing the gap implies a former link between the two areas.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -384,7 +394,8 @@
     "reasoning": "The assertion concerns Pleistocene drainage, so the Rigvedic Nadi-Sukta (1) is chronologically irrelevant and Robert Bruce Foote's work (2) was prehistoric archaeology mainly in peninsular India, not Sutlej-Yamuna drainage reconstruction; the shared species of river dolphin (Platanista) in both Indus and Ganga systems (3) is the standard zoogeographic basis for inferring a past connection.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 12,
@@ -406,7 +417,7 @@
     "ANM-04"
    ],
    "primary_topic_code": "ART-01",
-   "explanation_md": null,
+   "explanation_md": "In **aniconic** early Buddhist art — Bharhut, Sanchi, early Amaravati — the Buddha is never shown in human form, and the **empty seat** stands for his **meditation**.\n\n- (b) The **wheel** (*dharmachakra*), usually flanked by deer, marks the First Sermon at Sarnath.\n- (c) The **stupa** stands for the *Mahaparinibbana*.\n- (d) A **riderless horse**, often with a parasol held above the empty saddle, marks the *Mahabhinishkramana*, the Great Departure.\n\nWorth holding alongside these: the **Bodhi tree** signifies the Enlightenment, **footprints** (*buddhapada*) his presence, and the **lotus** his birth.\n\nDurable fact: the Buddha's human image appears only from about the **first century CE**, in the **Gandhara** and **Mathura** schools; before that, devotion focused on symbol, relic and stupa. The rule to carry into the exam is one symbol per life-event — seat/meditation, tree/enlightenment, wheel/sermon, stupa/death, horse/renunciation.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -419,7 +430,8 @@
     "reasoning": "In aniconic early Buddhist art the empty seat/throne stands for the Buddha's meditation, while the wheel denotes the First Sermon, the stupa the Mahaparinibbana and the horse the Mahabhinishkramana.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 13,
@@ -441,7 +453,7 @@
     "GEO-13"
    ],
    "primary_topic_code": "ANM-02",
-   "explanation_md": null,
+   "explanation_md": "Only **Parushni : Ravi** is correctly matched, so (c).\n\n- **1 Vitasta : Chenab — wrong.** *Vitasta* is the **Jhelum** (Greek Hydaspes).\n- **2 Asikni : Jhelum — wrong.** *Asikni* is the **Chenab** (Greek Akesines). Pairs 1 and 2 are a deliberate swap of each other.\n- **3 Parushni : Ravi — correct.** *Parushni*, later called *Iravati*, is the Ravi — the river of the **Dasharajna**, the battle of ten kings in which Sudas of the Bharatas defeated a tribal confederacy.\n- **4 Yavyavati : Beas — wrong.** The Beas is **Vipas / Vipasha** (Greek Hyphasis), the river at which Alexander's army refused to go further.\n\nDurable fact: learn the Rigvedic river list once and it pays for a decade — Sindhu–Indus, Vitasta–Jhelum, Asikni–Chenab, Parushni–Ravi, Vipas–Beas, Shutudri–Sutlej, Kubha–Kabul, Krumu–Kurram, Gomati–Gomal, Suvastu–Swat, Sadanira–Gandak.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -454,7 +466,8 @@
     "reasoning": "Vitasta is the Jhelum (not Chenab) and Asikni the Chenab (not Jhelum), so pairs 1 and 2 are wrong; Beas is Vipas, not Yavyavati, so pair 4 is wrong; only Parushni : Ravi (3) is correct.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 14,
@@ -476,7 +489,7 @@
     "ART-01"
    ],
    "primary_topic_code": "ART-05",
-   "explanation_md": null,
+   "explanation_md": "Statements 1 and 3 are true and statement 2 is false, so (b).\n\n- **1 — correct.** The Amaravati *mahachaitya* stood on the right bank of the **Krishna** in present-day **Guntur district, Andhra Pradesh** — the lower Krishna valley, the same stretch that holds Nagarjunakonda, Jaggayyapeta and Ghantasala.\n- **2 — incorrect.** Amaravati's stupa was **larger** than Sanchi's Great Stupa, not next to it in size; the statement inverts the comparison.\n- **3 — correct.** The Amaravati idiom — slender, animated, densely crowded narrative figures in pale limestone — shaped later South Indian sculpture and travelled with Buddhism to **Sri Lanka** (Anuradhapura) and **Southeast Asia**.\n\nDurable fact: Amaravati is **Satavahana-period** work in whitish limestone, and its railing and drum slabs were carried off in the nineteenth century — which is why the finest panels sit in the **Government Museum, Chennai** and the **British Museum** rather than at the site.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -489,7 +502,8 @@
     "reasoning": "Statements 1 (lower Krishna valley, Guntur) and 3 (lasting influence on later South Indian sculpture, exported to Sri Lanka and South-east Asia) are true; statement 2 is false because the Amaravati mahachaitya (dome c. 50 m across) was larger than Sanchi Stupa 1 (c. 36.6 m), not next to it in size.",
     "ambiguity_note": "Turns entirely on statement 2. Some older textbooks describe Amaravati as 'next only to Sanchi' in fame rather than size, and if the setter lifted such a line the key would be (d) 1, 2 and 3. Worth flagging for human check."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 15,
@@ -510,7 +524,7 @@
     "ANM-07"
    ],
    "primary_topic_code": "ANM-07",
-   "explanation_md": null,
+   "explanation_md": "The stem asks which pairs are **not** correctly matched, and only **Udiyanjeral : Chola** fails, so (b).\n\n- **1 Senguttuvan : Chera — correctly matched**, therefore not part of the answer. The \"Red Chera\" of the *Silappadikaram* tradition, credited with establishing the **Pattini (Kannagi)** cult.\n- **2 Udiyanjeral : Chola — wrongly matched**, and the whole answer. Udiyan Cheralathan was a **Chera** king, remembered in Sangam poetry for feeding both armies at the Mahabharata war — a Chera claim to epic prestige. The name itself carries the giveaway: *Cheral*.\n- **3 Nedunjeliyan : Pandya — correctly matched**, therefore not part of the answer. The Pandya of **Talaiyalanganam**, victor over a Chera–Chola confederacy, and the king of the *Silappadikaram* who wrongly ordered Kovalan's execution.\n\nDurable fact: fix the three Tamilakam dynasties by emblem and port — **Chera** (bow, Muziris), **Chola** (tiger, Puhar/Kaveripattinam), **Pandya** (fish, Korkai).",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -523,7 +537,8 @@
     "reasoning": "The stem asks which pairs are NOT correctly matched: Senguttuvan was indeed a Chera and Nedunjeliyan a Pandya, but Udiyanjeral (Perunjeral Adan) was a Chera king, not a Chola, so only pair 2 is mismatched.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 16,
@@ -545,7 +560,7 @@
     "HIS-16"
    ],
    "primary_topic_code": "HIS-12",
-   "explanation_md": null,
+   "explanation_md": "Statements 1, 2 and 4 are the standard factors and 3 is the odd one out, so (b).\n\n- **1 — a factor.** After Bose's re-election as Congress President in January 1939 he lost Gandhi's confidence completely; Gandhi treated Sitaramayya's defeat as his own, and the **Pant resolution at Tripuri** required Bose to form his Working Committee in accordance with Gandhi's wishes.\n- **2 — a factor.** The Congress Left was fragmented, and no section of it would break with the Congress establishment on Bose's behalf.\n- **3 — not the intended factor.** The Communists had **backed Bose in the 1939 presidential contest**, so a blanket claim that they did not support him is what makes this the excluded statement.\n- **4 — a factor.** M.N. Roy's followers opposed Bose outright, and the Congress Socialists under **Jayaprakash Narayan** stood aside, valuing Congress unity over the confrontation.\n\nDurable fact: Bose **resigned the Congress presidency in April 1939** and founded the **Forward Bloc in May 1939**, at first as a left wing *inside* the Congress, not a rival party.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -558,7 +573,8 @@
     "reasoning": "Bose's loss of Gandhi's confidence after Tripuri (1), the disunity of the Congress Left (2), and the preference of the Royists and CSP leaders like Jayaprakash Narayan for Congress unity (4) are standard textbook factors; statement 3 is the odd one out because the Communists had backed Bose's 1939 presidential re-election, so a blanket 'did not support' is the likely intended falsehood.",
     "ambiguity_note": "Genuinely over-determined: on most accounts (Bipan Chandra, Sumit Sarkar) the CPI also deserted Bose at Tripuri and voted for the Pant resolution, which would make all four statements true — but no 1-2-3-4 option is offered. The choice between (a) 1,2,3 and (b) 1,2,4 rests on how the setter read the Communists' stance."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 17,
@@ -580,7 +596,7 @@
     "HIS-02"
    ],
    "primary_topic_code": "HIS-04",
-   "explanation_md": null,
+   "explanation_md": "Statements 2 and 3 are correct and 1 is not, so (a).\n\n- **1 — incorrect.** After annexation the taluqdars were **disarmed and their forts demolished**; a systematic disarmament drive was central to the new administration. Being allowed to retain arms and forts is precisely what the Raj refused them.\n- **2 — correct.** The **Summary Settlement of 1856** proceeded on the assumption that taluqdars were outsiders and interlopers who had usurped the rights of village communities, and stripped them of a large share of their villages — the share held by taluqdars fell from roughly two-thirds to under two-fifths.\n- **3 — correct.** The declared aim was to settle revenue **directly with the actual cultivators**, on the argument that removing intermediaries would raise revenue and protect the peasant.\n\nDurable fact: Awadh was annexed in **1856 on the ground of misgovernment**, not under the Doctrine of Lapse. The settlement dispossessed taluqdars without relieving peasants, which made the two natural allies in **1857**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -593,7 +609,8 @@
     "reasoning": "Statement 1 is false — after annexation the taluqdars were disarmed and their forts destroyed, not allowed to keep arms and forts; the Summary Settlement of 1856 did treat them as outsiders/interlopers (2) and the British aim was to settle revenue directly with the cultivating peasants (3).",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 18,
@@ -615,7 +632,7 @@
     "HIS-12"
    ],
    "primary_topic_code": "HIS-09",
-   "explanation_md": null,
+   "explanation_md": "All three explain how the 1919 reforms made community the working unit of Indian politics, so (d).\n\n- **1 — supports.** The Government of India Act, 1919 **retained** the Muslim separate electorates of 1909 and **extended** the device to **Sikhs, Anglo-Indians, Europeans and Indian Christians**, so representation itself was organised by community.\n- **2 — supports.** Splitting a single electorate into communal blocs cut against a common nationalist platform, and nationalist critics read the device as a deliberate counterweight to a strengthening national movement.\n- **3 — supports.** Once seats, offices and patronage were attached to community status, deprived groups had every reason to press for recognition as a separate category — which is exactly how community-based alliances form.\n\nDurable fact: keep the chronology straight. **1909 Morley–Minto** created separate electorates for Muslims; **1919 Mont-Ford** extended them and gave the Depressed Classes **nominated** seats; separate electorates for the Depressed Classes came only with the **Communal Award of 1932**, and were converted into reserved seats within joint electorates by the **Poona Pact**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -628,7 +645,8 @@
     "reasoning": "All three support the assertion: the 1919 reforms retained and extended separate electorates to further communities (1), the device was intended to blunt a strengthening nationalism (2), and the resulting communal privileges drew deprived/depressed classes into seeking similar favours (3), which is precisely community-based political alignment.",
     "ambiguity_note": "Statement 3 is slightly loose for 1919 — the depressed classes got nominated seats under Mont-Ford, separate electorates for them came only with the 1932 Communal Award — so a stricter reading gives (c) 1 and 2 only."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 19,
@@ -649,7 +667,7 @@
     "ART-08"
    ],
    "primary_topic_code": "ART-08",
-   "explanation_md": null,
+   "explanation_md": "Mallikarjun Mansur, from **Dharwad district, Karnataka**, trained under **Manji Khan and Bhurji Khan, the sons of Ustad Alladiya Khan**, which places him squarely in the **Jaipur–Atrauli gharana**.\n\n- (a) **Agra** — Faiyaz Khan's gharana, marked by dhrupad-derived *nom-tom* alap and a forceful, rhythmic delivery.\n- (b) **Gwalior** — the oldest khayal gharana, of Vishnu Digambar Paluskar and Omkarnath Thakur, known for plain, note-clear exposition of common ragas.\n- (c) **Patiala** — Bade Ghulam Ali Khan's gharana, ornate fast *taans* and a thumri-inflected sweetness.\n\nDurable fact: the **Jaipur–Atrauli gharana was founded by Ustad Alladiya Khan** and is known for rare compound (*jod*) ragas and long curving *aakar taans*; **Kesarbai Kerkar** and **Kishori Amonkar** are its other great names. Note too that north Karnataka is a **Hindustani**, not Carnatic, belt — Mansur, Bhimsen Joshi, Gangubai Hangal and Basavaraj Rajguru all come from it.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -662,7 +680,8 @@
     "reasoning": "Mallikarjun Mansur trained under Manji Khan and Bhurji Khan, sons of Alladiya Khan, and is the best-known Karnataka exponent of the Jaipur-Atrauli gharana.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 20,
@@ -683,7 +702,7 @@
     "ANM-02"
    ],
    "primary_topic_code": "ANM-02",
-   "explanation_md": null,
+   "explanation_md": "*Kshetra-patni*, \"mistress of the field\", belongs to the **Atharvaveda**, the Veda most occupied with fields, ploughing, sowing and household prosperity.\n\n- (a) *Rigveda* — carries the **masculine** *kshetrasya pati* / **Kshetrapati**, \"lord of the field\", a deity invoked in RV 4.57. That near-identical term is the trap; the feminine form is not its Rigvedic counterpart.\n- (c) *Ashtadhyayi* — Panini's **grammar** (c. fifth–fourth century BCE) analyses how words are formed. It describes existing usage; it is not where agrarian vocabulary originates.\n- (d) *Arthashastra* — a much later manual of **statecraft and revenue**, concerned with the *sitadhyaksha* and crown lands, not with Vedic field-deities.\n\nDurable fact: the **Atharvaveda** is the Veda of charms, spells, medicine and everyday material life — agriculture, cattle, disease, marriage, the household. When a question asks where some term of ordinary economic or domestic life first appears in the Vedic corpus, the Atharvaveda is the default first guess.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -697,7 +716,8 @@
     "ambiguity_note": "Weakest call in the batch. I could not place kshetra-patni in a specific text with confidence; Atharvaveda (b) is a live alternative given its agricultural charms and household terms like grihapatni. Human verification needed regardless of the official key."
    },
    "dropped_by_upsc": false,
-   "review_flag": "Official key says b, independent reasoning said c. Check this one."
+   "review_flag": "Official key says b, independent reasoning said c. Check this one.",
+   "key_supported": true
   },
   {
    "q_no": 21,
@@ -719,7 +739,7 @@
     "ENV-15"
    ],
    "primary_topic_code": "ENV-13",
-   "explanation_md": null,
+   "explanation_md": "Net-zero by 2070 is a **long-horizon** commitment, so a strategy document is its instrument and any demand for quick short-term results cuts against it.\n\n- **Statement I** — true. India's Long-Term Low Emission Development Strategy, submitted at **COP27 (2022)**, is the formal roadmap to the net-zero-by-2070 goal.\n- **Statement II** — true. BUR-4, submitted in December 2024, recorded roughly an **8% fall in GHG emissions in 2020 over 2019**.\n- **Statement III** — the odd one out. Climate-resilient development is by definition a long-run, adaptation-plus-mitigation idea, not a race to hit near-term numbers.\n- **Relation 1 — accepted.** II supplies observed emission data for the trajectory I describes. This is the weakest link, since one COVID-depressed year proves little, but no \"2 only\" option exists.\n- **Relation 2 — correct.** III's insistence on speed contradicts I's long-horizon logic.\n- **Relation 3 — wrong.** A statement that contradicts I cannot jointly ground sustainability with it.\n\nThe net-zero-2070 pledge came in the **Panchamrit at COP26, Glasgow (2021)**; the LT-LEDS followed a year later.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -732,7 +752,8 @@
     "reasoning": "Statement I (LT-LEDS as tool for net-zero 2070) and II (BUR-4, Dec 2024, ~8% GHG decline in 2020 over 2019) are both factually true; relation 2 is clearly correct because III's insistence on quick short-term targets contradicts I's long-horizon approach, and relation 3 is wrong since a contradictory statement cannot jointly establish long-term sustainability. With no '2 only' option, the code forces 1 and 2, treating II's emission data as empirical support for I.",
     "ambiguity_note": "Relation 1 is genuinely debatable: a single-year (COVID-affected) emission dip is weak empirical support for a 2070 net-zero strategy. The answer is reached partly by elimination because no '2 only' option exists."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 22,
@@ -755,7 +776,7 @@
     "ENV-06"
    ],
    "primary_topic_code": "ENV-07",
-   "explanation_md": null,
+   "explanation_md": "The hoolock is a **lesser ape** — small and slender — which is what kills statement 3.\n\n- **1 — correct.** **Hoollongapar Gibbon Sanctuary** in Jorhat district, Assam, is the best-known refuge of the western hoolock gibbon, listed **Endangered** on the IUCN Red List.\n- **2 — correct.** Gibbons are the specialists of **brachiation**: very long arms, hook-shaped hands and a ball-and-socket wrist joint let them swing hand-over-hand through the canopy at speed.\n- **3 — incorrect.** Gibbons weigh only a few kilograms. A heavy, gorilla-like build is precisely what they lack, and adult gorillas are in any case poor climbers — the statement contradicts itself.\n\nThe division worth holding: **great apes** (gorilla, chimpanzee, bonobo, orangutan, human) versus **lesser apes** (the gibbons). The **hoolock gibbon is the only ape found in India**, confined to the forests of the North-East.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -768,7 +789,8 @@
     "reasoning": "1 true — Hoollongapar Gibbon Sanctuary in Assam hosts the western hoolock gibbon, IUCN Endangered; 2 true — gibbons are specialised brachiators; 3 false — gibbons are small, slender lesser apes, nothing like a gorilla's heavy build.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 23,
@@ -790,7 +812,7 @@
     "ENV-15"
    ],
    "primary_topic_code": "ENV-04",
-   "explanation_md": null,
+   "explanation_md": "Mangroves earn protection because they **absorb wave and surge energy** while supplying fuel, fodder, honey and fish to coastal households — exactly what statement 3 says.\n\n- **1 — incorrect.** Mangroves do not store freshwater; they occupy saline, tidally flooded ground. Clearing mangrove belts for paddy is a leading *cause* of mangrove loss, not a reason to conserve them.\n- **2 — incorrect.** Mangrove roots are **salt-tolerant, not salt-sensitive**. They are halophytes that exclude salt at the root surface or excrete it through leaf glands. Nor do they convert coastal land into freshwater aquaculture — turning mangroves into shrimp ponds destroys them.\n- **3 — correct.** The **bio-shield** function plus biomass-based rural livelihoods is the standard climate-resilience rationale, borne out in the 1999 Odisha super-cyclone and the 2004 tsunami.\n\nThe durable point: mangroves are **halophytes with pneumatophores** (breathing roots) and viviparous seedlings, and they are dense **blue-carbon** stores, holding more carbon per hectare than most terrestrial forests.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -803,7 +825,8 @@
     "reasoning": "1 false — mangroves do not store freshwater and saline mangrove belts are unsuitable for paddy; 2 false — mangrove roots are salt-tolerant/salt-excreting, not salt-sensitive, and they do not convert coastal land into freshwater aquaculture; 3 true — bio-shield against surges plus biomass-based rural livelihoods is the standard rationale.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 24,
@@ -825,7 +848,7 @@
     "ECO-16"
    ],
    "primary_topic_code": "GEO-20",
-   "explanation_md": null,
+   "explanation_md": "Vizhinjam's whole point is **trans-shipment**: a natural deep draught close to the main east–west shipping lane lets mother vessels call at an Indian port instead of a foreign one.\n\n- **1 — incorrect.** It is built as an *international* container trans-shipment hub, not a domestic-only port, and it was developed with foreign partnership and imported equipment. \"Eliminate the need for foreign collaborations\" inverts the model.\n- **2 — incorrect.** Cruise and heritage tourism are incidental at best; this is a container terminal.\n- **3 — correct.** Deep natural draught needing little capital dredging, proximity to the international sea route, and trans-shipment revenue retained in India rather than paid to a foreign hub.\n\nThe structural fact: India had been routing the bulk of its trans-shipment cargo through foreign ports, chiefly **Colombo**. Vizhinjam, near Thiruvananthapuram in Kerala, is India's first dedicated container trans-shipment port, built on a **PPP landlord model** with the State as owner and a private concessionaire operating it.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -838,7 +861,8 @@
     "reasoning": "1 false — Vizhinjam is built precisely as an international trans-shipment hub, not a domestic-only port, and it involved foreign collaboration; 2 false — its focus is container trans-shipment, not cruise/heritage tourism; 3 true — natural ~20 m draft and proximity to the east-west shipping lane cut dependence on Colombo/Singapore and retain trans-shipment revenue.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 25,
@@ -859,7 +883,7 @@
     "GEO-13"
    ],
    "primary_topic_code": "GEO-13",
-   "explanation_md": null,
+   "explanation_md": "**Sutlej** is the only river satisfying all four clues, and clue 4 is what decides it.\n\n- **1, antecedent** — the Sutlej saws through the Himalaya in a deep gorge because the river is older than the uplift. True of the Indus and Brahmaputra as well, so this clue separates nothing.\n- **2, three countries** — China (Tibet), India, Pakistan. **Teesta** fails here: it rises in Sikkim, not on the Tibetan Plateau, and passes through only India and Bangladesh.\n- **3, Tibetan source, irrigation** — the Sutlej rises near **Rakshastal**, beside Mansarovar, and feeds the Bhakra–Nangal system that waters Punjab and Haryana.\n- **4, no distributaries** — the discriminator. The Sutlej is a *tributary*: it joins the Chenab to form the Panjnad and merges into the Indus, so it never splits up. The **Indus** and the **Brahmaputra** both build deltas and break into distributaries, eliminating (b) and (a).\n\n**Antecedent Himalayan rivers: Indus, Sutlej, Brahmaputra** — all rise beyond the range and cut transverse gorges through it.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -872,7 +896,8 @@
     "reasoning": "Sutlej meets all four clues: antecedent (older than Himalayan uplift), rises near Rakas Tal on the Tibetan Plateau, traverses China, India and Pakistan, is the backbone of Bhakra-Nangal irrigation, and as an Indus tributary forms no distributaries. Brahmaputra and Indus fail clue 4 (both build deltas with distributaries); Teesta rises in Sikkim and crosses only two countries.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 26,
@@ -894,7 +919,7 @@
     "GEO-12"
    ],
    "primary_topic_code": "GEO-24",
-   "explanation_md": null,
+   "explanation_md": "The stem asks which statements are **not** correct, so statement 1 being true is what rules out options (a) and (b).\n\n- **1 — correct, so excluded.** Uttar Pradesh touches eight States — Uttarakhand, Himachal Pradesh, Haryana, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, Bihar — plus the NCT of Delhi. Assam, its nearest rival, touches seven.\n- **2 — not correct.** Rajasthan has the longest stretch of the **India–Pakistan** border, but that is not the longest international border overall: **West Bengal's** boundary with Bangladesh is far longer, and Arunachal Pradesh's combined China–Myanmar–Bhutan frontier also exceeds Rajasthan's.\n- **3 — not correct.** Sikkim borders only West Bengal, but **Meghalaya** likewise borders only Assam, so Sikkim is not the only such State.\n\nKeep the two superlatives apart: **West Bengal — longest international border of any Indian State; Rajasthan — longest border with Pakistan.** UPSC recycles this exact confusion.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -907,7 +932,8 @@
     "reasoning": "Question asks which are NOT correct. 1 is correct (UP borders 8 states plus Delhi, more than any other), so excluded. 2 is not correct — Rajasthan has the longest border with Pakistan, but West Bengal and Arunachal Pradesh have longer total international borders. 3 is not correct — Meghalaya also shares its boundary with only one Indian state (Assam), so Sikkim is not unique.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 27,
@@ -928,7 +954,7 @@
     "ENV-07"
    ],
    "primary_topic_code": "ENV-07",
-   "explanation_md": null,
+   "explanation_md": "Doyang is a conservation-behaviour story: villages that once netted the falcons in thousands now guard them, which is precisely statement 1.\n\n- **1 — correct.** After the mass killings around Doyang Lake were exposed in **2012**, Pangti and neighbouring villages in Wokha district banned hunting and turned into protectors; Nagaland is now called the falcon capital of the world.\n- **2 — incorrect.** Satellite tags and rings **track** birds; they do not guide them. Migratory routes are innate and socially learned, not technology-directed.\n- **3 — incorrect.** Amur Falcons are **passage migrants**, not residents. They halt at Doyang for a few weeks around October–November to fatten, then move on.\n\nThe durable fact: the Amur Falcon breeds in south-eastern Siberia, north-east China and Mongolia and winters in **southern Africa**, crossing the Arabian Sea in one of the **longest over-water migrations of any raptor**. India is a refuelling stop on that route, not a destination.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -941,7 +967,8 @@
     "reasoning": "1 true — the Pangti/Doyang turnaround from mass hunting to community protection is the textbook case; 2 false — satellite tagging monitors birds, it does not guide them; 3 false — Amur Falcons remain passage migrants roosting for a few weeks en route to Africa, not permanent residents.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 28,
@@ -964,7 +991,7 @@
     "GEO-17"
    ],
    "primary_topic_code": "ECO-14",
-   "explanation_md": null,
+   "explanation_md": "RAD exists for **rainfed** farming and its instrument is the **Integrated Farming System**, so only statement 3 states an actual objective.\n\n- **1 — incorrect.** RAD promotes diversification, the opposite of monoculture: crops combined with horticulture, livestock, fishery, apiculture and agro-forestry, so that failure of one enterprise does not wipe out the household.\n- **2 — incorrect.** Two errors in one line — RAD targets rainfed rather than irrigated areas, and pushing water-intensive rice contradicts its climate-risk logic.\n- **3 — correct.** Raising productivity while minimising climatic risk through IFS, on an area-based watershed approach, is RAD's stated aim.\n\nThe placement worth memorising: the **National Mission for Sustainable Agriculture is one of the eight missions under the National Action Plan on Climate Change (2008)**, and RAD is a component within NMSA. Roughly half of India's net sown area is still rainfed, which is why this component exists at all.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -977,7 +1004,8 @@
     "reasoning": "1 false — RAD promotes Integrated Farming Systems and crop diversification, the opposite of monoculture; 2 false — RAD targets rainfed, not irrigated, areas and does not push rice; 3 true — enhancing productivity and minimising climatic risk through IFS is RAD's stated objective under NMSA.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 29,
@@ -999,7 +1027,7 @@
     "ECO-12"
    ],
    "primary_topic_code": "ECO-15",
-   "explanation_md": null,
+   "explanation_md": "Oeko-Tex is a **third-party certification against harmful substances in textiles**, so it does both things claimed: it opens chemical-conscious premium markets and signals conformity with an internationally recognised benchmark.\n\n- **1 — correct.** High-end buyers in the EU, Japan and the US screen for restricted chemicals; certification is the entry ticket, and without it Eri silk competes only on price.\n- **2 — correct.** The certificate rests on testing the material at every processing stage against a common international list of harmful substances — exactly the assurance eco-conscious premium buyers demand. The phrase \"quality standards\" is loose, since Oeko-Tex tests safety rather than product quality, but the statement is plainly intended as correct and nothing better is on offer.\n\nWorth carrying: **Eri silk** comes from *Samia ricini*, reared on castor, mainly in Assam and the North-East. It is **ahimsa or peace silk** — the moth leaves the cocoon before it is spun, so no pupa is boiled — which is what makes eco-certification a natural fit for it.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -1012,7 +1040,8 @@
     "reasoning": "Oeko-Tex Standard 100 certifies freedom from harmful substances against an internationally recognised benchmark, so it both opens high-end chemical-free markets (1) and signals conformity to international safety/environmental norms for premium eco-conscious buyers (2). Both implications hold.",
     "ambiguity_note": "Statement 2's inclusion of 'quality standards' is loose — Oeko-Tex tests for harmful substances, not product quality per se — but the statement is clearly intended as correct and there is no better option."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 30,
@@ -1033,7 +1062,7 @@
     "GEO-24"
    ],
    "primary_topic_code": "GEO-24",
-   "explanation_md": null,
+   "explanation_md": "Only **Bahrain and Qatar** lie inside the Persian Gulf, and everything leaving the Gulf must pass through Hormuz.\n\n- **1, Bahrain — yes.** An island state in the Gulf, off the Saudi coast, connected to Saudi Arabia by a causeway.\n- **2, Syria — no.** Syria's coastline is on the **Mediterranean**; its shipping would reach the Indian Ocean through Suez and the Red Sea, never Hormuz.\n- **3, Qatar — yes.** A peninsula projecting into the Gulf; its LNG carriers are the classic Hormuz traffic.\n- **4, Egypt — no.** Egypt fronts the **Mediterranean and the Red Sea** and owns the Suez Canal. It has no Persian Gulf coast at all.\n\nThe map fact: the **Strait of Hormuz** links the Persian Gulf to the Gulf of Oman and thence the Arabian Sea, with **Iran** on the northern shore and **Oman's Musandam exclave and the UAE** on the southern. The states landlocked behind it are Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar and the UAE.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -1046,7 +1075,8 @@
     "reasoning": "Bahrain and Qatar are Persian Gulf states whose shipping must transit the Strait of Hormuz to reach the Arabian Sea/Indian Ocean. Syria is a Mediterranean state and Egypt fronts the Mediterranean and Red Sea, so neither needs Hormuz.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 31,
@@ -1068,7 +1098,7 @@
     "GEO-03"
    ],
    "primary_topic_code": "GEO-24",
-   "explanation_md": null,
+   "explanation_md": "Tungurahua is an active **Andean stratovolcano in Ecuador**, in Tungurahua province near the town of Baños.\n\n- **Peru** — has no volcano of this name; its best-known active cones are El Misti and Ubinas, in the far south.\n- **Bolivia** — its high volcanic peaks lie in the western Cordillera, Sajama being the highest; none is Tungurahua.\n- **Colombia** — its famous volcano is Nevado del Ruiz, remembered for the 1985 Armero disaster.\n\nThe generalisable point: all four countries sit on the **Andean volcanic belt**, produced where the oceanic **Nazca Plate subducts beneath the South American Plate** — a destructive margin that throws up andesitic stratovolcanoes along the whole chain. Also keep the label straight: a **UNESCO Global Geopark** is not a World Heritage Site. It recognises a single unified area of international geological significance managed for conservation, education and sustainable tourism, and its status is revalidated every four years.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1081,7 +1111,8 @@
     "reasoning": "Tungurahua is an active stratovolcano in the Ecuadorian Andes (Tungurahua Province, near Baños); the Tungurahua Volcano Global Geopark is Ecuador's geopark designation. Peru, Bolivia and Colombia have no volcano of that name.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 32,
@@ -1104,7 +1135,7 @@
     "ENV-14"
    ],
    "primary_topic_code": "ENV-06",
-   "explanation_md": null,
+   "explanation_md": "Madhav National Park lies in **Shivpuri district of Madhya Pradesh** and nowhere else, which is where statement 3 fails.\n\n- **1 — correct.** Madhav was notified as a **tiger reserve in 2025**, adding to Madhya Pradesh's already large tally.\n- **2 — correct.** **Sakhya Sagar**, a lake inside the park, was designated a **Ramsar site in 2022**.\n- **3 — incorrect.** The park is wholly within Madhya Pradesh; it does not extend into Rajasthan.\n\nTwo transferable ideas. First, Madhya Pradesh holds the largest tiger population and the most tiger reserves of any State, so a new declaration there is usually plausible. Second, a **Ramsar site can sit inside a national park** without changing who administers it — the designation only recognises a wetland of international importance. Sakhya Sagar is man-made, which does not disqualify a Ramsar listing either; several Indian Ramsar sites are reservoirs.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1117,7 +1148,8 @@
     "reasoning": "Statement 1 true — Madhav (Shivpuri, MP) was notified as a tiger reserve in 2025; statement 2 true — Sakhya Sagar, a Ramsar site since 2022, lies within the park; statement 3 false — the park lies wholly in Madhya Pradesh and does not extend into Rajasthan.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 33,
@@ -1139,7 +1171,7 @@
     "GEO-12"
    ],
    "primary_topic_code": "GEO-14",
-   "explanation_md": null,
+   "explanation_md": "The Andamans are **wet from roughly May to December**, so statement 3 has the season exactly reversed.\n\n- **1 — correct.** A humid tropical coastal, that is maritime, climate: consistently high humidity and a very small annual temperature range, because the surrounding sea damps both extremes.\n- **2 — correct.** The islands are rained on twice — by the **south-west monsoon** from about May and again by the retreating **north-east monsoon** from about November — which is why their rainy season is unusually long.\n- **3 — incorrect.** Maximum precipitation falls between about May and December; **January to April is the dry stretch**.\n\nThe durable distinction: the **north-east or retreating monsoon** brings rain to only a few parts of India — the **Coromandel coast, interior Tamil Nadu and the Andaman & Nicobar Islands** — while the rest of the country depends on the south-west monsoon alone. Annual rainfall in the islands is around 3,000 mm.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1152,7 +1184,8 @@
     "reasoning": "Statements 1 and 2 are true — the islands have a humid tropical coastal climate and receive rain from both the south-west and the retreating north-east monsoon; statement 3 is false because maximum precipitation falls roughly May to December, while December–May (especially January–April) is the drier season.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 34,
@@ -1174,7 +1207,7 @@
     "GEO-05"
    ],
    "primary_topic_code": "GEO-12",
-   "explanation_md": null,
+   "explanation_md": "The Peninsular Block is an old, **stable, worn-down** landmass, so deep V-shaped valleys — the mark of rapid vertical downcutting — belong to the young Himalaya instead.\n\n- **1 — correct.** The western coast is the standing exception to peninsular stability: a faulted, **submerged** coast, which is also why it has few deltas, several drowned estuaries and good natural harbours.\n- **2 — correct.** The Peninsula is studded with **residual or relict mountains** left by long denudation — the Aravalli, Nallamala, Javadi, Palkonda, **Veliconda** and **Mahendragiri** hills among them.\n- **3 — incorrect.** Peninsular rivers flow in broad, shallow, largely graded valleys. Where a peninsular valley is deep, as with the **Narmada and Tapi**, the cause is **rift faulting** — a trough, not a V.\n\nThe contrast to carry: **Himalaya — young, unstable, folded, deep gorges, antecedent rivers; Peninsula — a Gondwana fragment, tectonically stable, block mountains, rift valleys and mature graded rivers.**",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1187,7 +1220,8 @@
     "reasoning": "NCERT physiography: the Peninsular Block is stable except for the submerged, faulted western coast (1 true) and is studded with residual/relict ranges including the Veliconda and Mahendragiri hills (2 true); deep V-shaped valleys cut by fast-flowing rivers characterise the young Himalayan block, not the peninsular rivers which are graded with broad shallow valleys (3 false).",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 35,
@@ -1210,7 +1244,7 @@
     "CAI-10"
    ],
    "primary_topic_code": "GEO-20",
-   "explanation_md": null,
+   "explanation_md": "The three statements are complementary — objective, evidence, forward extension — so the only false relationship is the one asserting a contradiction.\n\n- **Statement I** states Sagarmala's core objective: **port-led development** through cost-effective, sustainable coastal infrastructure.\n- **Statement II** offers outcomes: growth in coastal and inland waterway shipping and improved global port rankings.\n- **Statement III** describes **Sagarmala 2.0**, framed around innovation and the Viksit Bharat 2047 horizon.\n- **Relation 1 — correct.** Outcome evidence of the kind in II is exactly what would validate the strategy in I.\n- **Relation 2 — correct.** III carries I's objectives forward into an innovation-led framework: an extension, not a replacement.\n- **Relation 3 — incorrect.** Infrastructure and innovation are not mutually exclusive, and nothing in I excludes modern technology, so no contradiction exists.\n\nFormat lesson for this newer type: the test is **logical consistency, not fresh facts** — find any option claiming a contradiction and check whether one is really there. Sagarmala was launched in **2015**, resting on port modernisation, port connectivity, port-led industrialisation and coastal community development.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -1223,7 +1257,8 @@
     "reasoning": "Relationship 1 holds — II offers outcome evidence validating the port-led growth strategy of I; relationship 2 holds — III projects I's objectives forward into an innovation/Viksit Bharat 2047 framework; relationship 3 fails because I and III are complementary, not contradictory (infrastructure and innovation are not mutually exclusive).",
     "ambiguity_note": "This is the newer 'relationship among statements' format where the answer rests on reading comprehension rather than facts; a candidate could argue III's 'innovation hub' framing is an extension and not merely additive, but no reading makes I contradict III."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 36,
@@ -1244,7 +1279,7 @@
     "ENV-07"
    ],
    "primary_topic_code": "ENV-07",
-   "explanation_md": null,
+   "explanation_md": "The foxtail orchid grows **on** other trees without feeding off them, and its range is far wider than the North-East.\n\n- **1 — correct.** *Rhynchostylis retusa* is an **epiphyte**: it perches on trunks and branches and takes moisture and nutrients from air and rainwater through spongy aerial roots. An epiphyte is not a parasite — it uses the host only for support.\n- **2 — incorrect.** The species ranges across South and South-East Asia — Sri Lanka, Myanmar, Thailand, Indo-China, the Philippines, Indonesia — so it cannot be endemic to North-east India. **Endemic** means found nowhere else on earth.\n- **3 — correct.** It is the State flower of both **Assam** and **Arunachal Pradesh**; in Assam it is the **kopou phul**, worn in the hair during Bihu.\n\nThe transferable trap: UPSC repeatedly tests the word **endemic**. A species that is *characteristic* of a region, or culturally identified with it as a State symbol, is not thereby restricted to it.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1257,7 +1292,8 @@
     "reasoning": "Statement 1 true — Rhynchostylis retusa is an epiphyte; statement 2 false — it is widely distributed across South and South-East Asia (Sri Lanka, Myanmar, Thailand, Philippines, Indonesia), so not endemic to North-east India; statement 3 true — the foxtail orchid (Kopou phul) is the state flower of both Assam and Arunachal Pradesh.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 37,
@@ -1278,7 +1314,7 @@
     "ART-10"
    ],
    "primary_topic_code": "ART-10",
-   "explanation_md": null,
+   "explanation_md": "Moidams are **burial mounds** — the Ahom equivalent of royal tombs — so statement 3 alone stands.\n\n- **1 — incorrect.** They were never fortresses; the Ahoms built separate ramparts and garhs for defence.\n- **2 — incorrect.** They are funerary, not recreational. Ahom ceremonial and pleasure architecture, such as the Rang Ghar and Kareng Ghar at Sivasagar, is an entirely different category.\n- **3 — correct.** A moidam is a vaulted brick or stone chamber sunk under a hemispherical earth mound, holding the body of an Ahom king or noble along with grave goods.\n- **4 — incorrect.** Nothing to do with battle drill or training grounds.\n\nThe durable fact: the **Charaideo Moidams in Assam were inscribed on the UNESCO World Heritage List in 2024**, the first cultural site from the North-East to be listed. **Charaideo** was the first capital of the Tai-Ahom kingdom founded by **Sukaphaa**, and remained the dynasty's sacred necropolis long after the capital itself moved.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -1291,7 +1327,8 @@
     "reasoning": "Moidams at Charaideo, inscribed by UNESCO in 2024, are the tumuli/burial mounds of Ahom royalty and nobility — statement 3 only; they were never fortresses, recreation centres or drill grounds.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 38,
@@ -1313,7 +1350,7 @@
     "ENV-15"
    ],
    "primary_topic_code": "CAI-04",
-   "explanation_md": null,
+   "explanation_md": "FAO's **Four Betters are better production, better nutrition, better environment and better life** — the aspirations of its Strategic Framework 2022–31, which Blue Transformation applies to aquatic food systems.\n\n- **(a)** swaps \"better life\" for \"better ocean\". Plausible-sounding at an ocean conference, but the Four Betters are not sector-specific, and the fourth is always about people.\n- **(c)** replaces \"better production\" with \"better coral reefs\", dropping the production pillar altogether.\n- **(d)** substitutes \"better estuaries\" and \"better mangrove vegetation\" — habitat names, not cross-cutting aspirations.\n\nThe distinction worth holding: the Four Betters are **deliberately generic and people-centred**, mapped onto the SDGs, so any option inserting a habitat or a water body is wrong by construction. **Blue Transformation** is FAO's roadmap for expanding sustainable aquaculture, managing fisheries effectively and upgrading aquatic value chains. The **2025 UN Ocean Conference was held at Nice, France**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -1326,7 +1363,8 @@
     "reasoning": "FAO's Strategic Framework 2022-31, which underpins Blue Transformation, rests on the 'Four Betters': better production, better nutrition, better environment and better life. Options substituting 'better ocean', 'coral reefs' or 'estuaries' are distractors.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 39,
@@ -1347,7 +1385,7 @@
     "GEO-24"
    ],
    "primary_topic_code": "GEO-24",
-   "explanation_md": null,
+   "explanation_md": "Lake Turkana lies in **Kenya's Rift Valley**, not South Sudan, which is the single error in the set.\n\n- **1 — correct.** It is the world's **largest permanent desert lake**, and also the largest alkaline lake, set in hot arid country with very high evaporation.\n- **2 — incorrect.** It sits in northern **Kenya**, its northern tip reaching into **Ethiopia**, along the eastern branch of the **East African Rift** — nowhere near South Sudan, and the Sahara is a different desert altogether.\n- **3 — correct.** The **Lake Turkana National Parks** are a UNESCO World Heritage Site, and the algae-green colour of the water earns the lake its name, the **\"Jade Sea\"**.\n\nTwo hooks worth keeping: the lake is fed chiefly by the **Omo river** descending from the Ethiopian highlands, which is why upstream dams and irrigation are a standing concern for its level and salinity; and **Koobi Fora** on its eastern shore is among the richest hominin fossil sites in the world.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1360,7 +1398,8 @@
     "reasoning": "Statements 1 and 3 are true — Turkana is the world's largest permanent desert (and alkaline) lake, the Lake Turkana National Parks are a UNESCO World Heritage Site, and it is nicknamed the 'Jade Sea'; statement 2 is false since it lies in Kenya's Great Rift Valley (northern tip in Ethiopia), nowhere near South Sudan or the Sahara.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 40,
@@ -1382,7 +1421,7 @@
     "ENV-15"
    ],
    "primary_topic_code": "ENV-13",
-   "explanation_md": null,
+   "explanation_md": "The **Khasi Hills Community REDD+ Project** in Meghalaya was the first project in India validated under the **Plan Vivo** standard.\n\n- **(a) Uttarakhand REDD+** — REDD+ pilots and studies exist there, but not the first Plan Vivo certification.\n- **(b) ICFRE–ICIMOD transboundary project** — a research and capacity-building initiative on REDD+ in the north-eastern Himalaya, not a certified carbon-crediting project.\n- **(d) Sikkim Mamley Kamrang** — a later community REDD+ project; the \"first\" tag is not its.\n\nWhat makes the Khasi Hills case memorable is its **institutional design**: a federation of indigenous Khasi *himas* (chiefdoms) around **Mawphlang** holds the community forests and receives the carbon payments, restoring degraded forest through customary community rules rather than State forest management.\n\nThe durable distinction: **Plan Vivo** is a voluntary carbon standard built for smallholder and community land-use projects, while **REDD+**, formalised in the **Warsaw Framework at COP19 (2013)**, adds conservation, sustainable forest management and enhancement of carbon stocks to plain avoided deforestation.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1395,7 +1434,8 @@
     "reasoning": "The Khasi Hills Community REDD+ Project in Meghalaya (Mawphlang, Ka Bri Synrang Umiam Mawphlang) was India's first community-based REDD+ project validated and certified under the Plan Vivo standard.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 41,
@@ -1416,7 +1456,7 @@
     "SNT-03"
    ],
    "primary_topic_code": "SNT-03",
-   "explanation_md": null,
+   "explanation_md": "Genetic medicine acts on one defective gene at a time and needs a carrier to get the payload inside cells — that is statements 1 and 2, so **(c)**.\n\n- **1 — correct.** Gene therapy either repairs or replaces the faulty gene, or adds a working copy that compensates for it; RNA-based approaches instead silence a harmful gene.\n- **2 — correct.** Delivery is the hard part. Engineered, replication-deficient viruses — **adeno-associated virus**, lentivirus, adenovirus — and **lipid nanoparticles**, the same carrier used for mRNA vaccines, are the two standard vector families.\n- **3 — incorrect.** Nothing rewrites the whole genome. Even CRISPR is guided to a single targeted locus. \"Alter the **entire** DNA sequence\" is the planted exaggeration, and absolute words like *entire*, *all* and *never* are usually where these statements break.\n\nDurable distinction: **somatic** edits affect only the treated patient and are not inherited; **germline** edits pass to offspring, which is why they carry the ethical prohibition.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1429,7 +1469,8 @@
     "reasoning": "Statements 1 and 2 are true: genetic medicines correct or compensate for defective genes, and delivery uses engineered viral vectors (AAV, lentivirus) and lipid nanoparticles. Statement 3 is false — they act on specific target genes, not the entire DNA sequence.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 42,
@@ -1450,7 +1491,7 @@
     "SNT-09"
    ],
    "primary_topic_code": "SNT-09",
-   "explanation_md": null,
+   "explanation_md": "An LLM predicts the next token and is trained by minimising prediction error — statement 1 describes inference, statement 2 describes training, giving **(b)**.\n\n- **1 — correct.** The model outputs a probability distribution over possible next tokens; the textbook description is picking the highest-probability one. (In real use, temperature and top-p sampling may pick otherwise, but this is the intended description.)\n- **2 — correct.** Training is **gradient-based optimisation**: billions of parameters are adjusted repeatedly to minimise a loss function measuring prediction error on the training corpus.\n- **3 — incorrect.** LLMs learn statistical patterns from human-written text and therefore reproduce, and can amplify, the biases in it. Any claim that an AI system produces \"unbiased\" output is almost always the false statement in a UPSC set.\n\nDurable point: bias in an LLM comes from the **training data, not the algorithm**, which is why the remedies are data curation, evaluation and guardrails rather than better mathematics.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1463,7 +1504,8 @@
     "reasoning": "1 is true as the standard description of next-token prediction, and 2 is true (training minimises a loss function via gradient-based optimisation). 3 is false — LLMs inherit and can amplify bias from training data.",
     "ambiguity_note": "Statement 1 is slightly loose: with temperature/top-p sampling an LLM does not always pick the single highest-probability token, but UPSC clearly intends it as the correct textbook description."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 43,
@@ -1485,7 +1527,7 @@
     "SNT-11"
    ],
    "primary_topic_code": "SNT-07",
-   "explanation_md": null,
+   "explanation_md": "Stealth is about returning as little radar energy as possible, and it is frequency-dependent — statements 1 and 2, hence **(c)**.\n\n- **1 — correct.** Stealth platforms combine faceted or blended **shaping** that deflects incident energy away from the emitter with **Radar Absorbing Material**, producing a very small radar cross-section.\n- **2 — correct.** Shaping and RAM are optimised against the centimetric bands (X, Ku) that fire-control radars use. Long-wavelength **VHF/UHF** radars, and bistatic or multistatic setups that catch the deflected energy from a different angle, can still detect stealth aircraft — they simply cannot generate a precise enough track to guide a missile.\n- **3 — incorrect.** Metamaterials are of interest because they can absorb electromagnetic waves or bend them around an object, **reducing** backscatter. Increasing scattering is the opposite of stealth.\n\nDurable point: low RCS is not invisibility. Stealth shrinks detection range and delays lock-on; low-frequency radar is the standard counter.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1498,7 +1540,8 @@
     "reasoning": "1 is true (low RCS plus Radar Absorbing Material) and 2 is true (low-frequency VHF/UHF and multistatic radars can detect stealth platforms). 3 is false — metamaterials are used to absorb or redirect radiation and reduce scattering back to the radar, not to increase scattering.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 44,
@@ -1519,7 +1562,7 @@
     "SNT-13"
    ],
    "primary_topic_code": "SNT-13",
-   "explanation_md": null,
+   "explanation_md": "The locator beacon on a flight recorder is **acoustic, not optical** — that single error kills statement 1 and leaves **(b)**.\n\n- **1 — incorrect.** The underwater locator beacon emits an ultrasonic ping at about **37.5 kHz** once immersed, detected by hydrophones from search vessels. Light would be useless at depth. The recorder's casing is painted bright orange for surface recovery, which is probably the source of the \"red light\" distractor.\n- **2 — correct.** \"Black box\" is loose shorthand for two devices — the **Cockpit Voice Recorder** and the **Flight Data Recorder** — now often combined in a single unit.\n- **3 — correct.** The crash-survivable memory unit is armoured in a **stainless steel or titanium** shell with thermal insulation, so the memory chips survive impact, prolonged fire and deep-sea pressure.\n\nDurable point: two recorders, orange casing, 37.5 kHz pinger. The name describes neither the colour nor the number of boxes.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -1532,7 +1575,8 @@
     "reasoning": "1 is false — the underwater locator beacon emits an ultrasonic acoustic ping (about 37.5 kHz), not red light pulses. 2 is true (CVR plus FDR) and 3 is true (crash-survivable memory units are armoured in stainless steel or titanium).",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 45,
@@ -1554,7 +1598,7 @@
     "SNT-12"
    ],
    "primary_topic_code": "ENV-16",
-   "explanation_md": null,
+   "explanation_md": "Green hydrogen is defined by the **electricity** used to split water, not by capturing carbon afterwards — so statement 1 describes a different colour and the answer is **(b)**.\n\n- **1 — incorrect.** Steam reforming of natural gas combined with **CCS** yields **blue** hydrogen. The same process without capture gives grey hydrogen. Green hydrogen involves no fossil feedstock at all.\n- **2 — correct.** **Electrolysis of water powered by renewable electricity** is the definition.\n- **3 — correct.** The National Green Hydrogen Mission targets abatement of nearly **50 MMT** of annual greenhouse gas emissions by 2030.\n\nDurable point: the colour code follows the energy source — grey (fossil, CO₂ vented), blue (fossil + CCS), green (renewable electrolysis), pink (nuclear electricity). The Mission, approved in January 2023 under MNRE, also targets at least **5 MMT per year** of green hydrogen production capacity by 2030 and roughly 125 GW of associated renewable capacity.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1567,7 +1611,8 @@
     "reasoning": "1 describes blue hydrogen (natural gas reforming plus CCS), not green, so it is false. 2 is the definition of green hydrogen and is true; 3 is true — the National Green Hydrogen Mission targets abatement of nearly 50 MMT of annual GHG emissions by 2030 alongside 5 MMT annual production.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 46,
@@ -1589,7 +1634,7 @@
     "SNT-14"
    ],
    "primary_topic_code": "SNT-05",
-   "explanation_md": null,
+   "explanation_md": "IN-SPACe and the Agnikul flight are both accurately described; Skyroot has nothing to do with GSLV propulsion — giving **(c)**.\n\n- **1 — correct.** **IN-SPACe**, created in 2020 under the Department of Space and headquartered at Ahmedabad, is the single-window autonomous body that authorises and promotes private participation in space activities.\n- **2 — correct.** Agnikul Cosmos flew **Agnibaan SOrTeD** in May 2024 from its own launchpad at Sriharikota, powered by a single-piece **3D-printed semi-cryogenic engine** — the first flight of such an engine.\n- **3 — incorrect.** Skyroot Aerospace builds the **Vikram** launch vehicles; Vikram-S (November 2022, Mission Prarambh) was India's first privately built rocket to fly. GSLV propulsion, including the indigenous cryogenic upper stage, is ISRO's own work.\n\nDurable point: the 2020 reforms created a three-way split — **IN-SPACe** authorises and promotes, **NSIL** commercialises, **ISRO** does research and development.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1602,7 +1647,8 @@
     "reasoning": "1 is true (IN-SPACe, a single-window autonomous body under the Department of Space) and 2 is true (Agnikul's Agnibaan SOrTeD, May 2024, flew the world's first single-piece 3D-printed semi-cryogenic engine). 3 is false — Skyroot builds the Vikram launch vehicles; it has nothing to do with GSLV propulsion.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 47,
@@ -1624,7 +1670,7 @@
     "SNT-07"
    ],
    "primary_topic_code": "SNT-13",
-   "explanation_md": null,
+   "explanation_md": "A swarm is defined by drones communicating with **each other**, and spoofing their navigation signal is a standard soft-kill counter — statements 2 and 3, so **(b)**.\n\n- **1 — incorrect.** Operational swarms use ordinary radio links — ISM 2.4/5 GHz, dedicated military datalinks, mesh networking, satellite relay. **Terahertz** waves are heavily absorbed by the atmosphere and have very short range; THz swarm communication is a research proposal, not deployed practice.\n- **2 — correct.** Inter-drone communication is what makes a swarm a swarm: units share position and target data and reallocate roles if one is lost, instead of each flying an independent pre-programmed path.\n- **3 — correct.** **GPS spoofing** transmits false satellite signals so the drone mis-computes its position and drifts off target or lands.\n\nDurable point: counter-drone measures divide into **soft kill** (jamming, spoofing, cyber takeover) and **hard kill** (guns, lasers, nets, interceptors). DRDO's D4 system combines both.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1637,7 +1683,8 @@
     "reasoning": "2 is true (inter-drone communication is the defining feature of a swarm) and 3 is true (GPS spoofing is a standard counter-UAS soft-kill technique). 1 is false — operational swarms communicate over conventional RF bands (2.4/5 GHz, ISM, mesh links); terahertz is only a research proposal.",
     "ambiguity_note": "Statement 1 is the weak link: terahertz swarm communication does appear in current research literature, so a source-driven key could conceivably treat it as correct, which would make (d) defensible. Worth flagging for review."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 48,
@@ -1659,7 +1706,7 @@
     "SNT-14"
    ],
    "primary_topic_code": "SNT-03",
-   "explanation_md": null,
+   "explanation_md": "GenomeIndia is an independent, domestically funded Indian project, not a limb of the Human Genome Project — so statement 1 falls and the answer is **(b)**.\n\n- **1 — incorrect.** The **Human Genome Project** was an international effort completed in **2003** that produced a single composite reference genome. GenomeIndia was launched separately in **January 2020**.\n- **2 — correct.** It is funded by the **Department of Biotechnology**, executed through a consortium of Indian research institutions.\n- **3 — correct.** Its stated purpose is a reference catalogue of Indian genetic variation, built from roughly **10,000 whole genomes** sampled across a wide spread of population groups, with the data deposited at the Indian Biological Data Centre.\n\nDurable point: the scientific rationale is that a global reference genome under-represents Indian variation, so disease-risk markers derived from it transfer poorly. India's long history of **endogamy** concentrates rare variants within communities, which makes a population-specific catalogue unusually valuable here.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1672,7 +1719,8 @@
     "reasoning": "1 is false — GenomeIndia is an independent Indian initiative launched in 2020, not part of the Human Genome Project (completed 2003). 2 is true (funded by the Department of Biotechnology) and 3 is true (cataloguing genetic variation across Indian populations).",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 49,
@@ -1694,7 +1742,7 @@
     "SNT-14"
    ],
    "primary_topic_code": "SNT-09",
-   "explanation_md": null,
+   "explanation_md": "Both statements reproduce the mission's own published targets, so **(c)**.\n\n- **1 — correct.** The National Quantum Mission aims to develop intermediate-scale quantum computers with **50 to 1000 physical qubits** over eight years, across superconducting, photonic and trapped-ion platforms.\n- **2 — correct.** Implementation runs through **four Thematic Hubs** hosted in academic and national R&D institutions, one each for quantum computing, quantum communication, quantum sensing and metrology, and quantum materials and devices.\n\nDurable point: NQM was approved in **2023** under the Department of Science and Technology, running to 2030–31 with an outlay of roughly ₹6,000 crore. Note the word **physical** qubit — physical qubits are noisy and decohere quickly, and many of them are needed to build one stable *logical* qubit through error correction. That is why 50–1000 physical qubits is a deliberately modest target and not a claim to a fault-tolerant machine.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1707,7 +1755,8 @@
     "reasoning": "Both are true: NQM targets intermediate-scale quantum computers of 50–1000 physical qubits over eight years, and it is implemented through four Thematic Hubs (quantum computing, communication, sensing and metrology, materials and devices) in academic and national R&D institutes.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 50,
@@ -1728,7 +1777,7 @@
     "SNT-14"
    ],
    "primary_topic_code": "SNT-14",
-   "explanation_md": null,
+   "explanation_md": "The Deep Ocean Mission belongs to the **Ministry of Earth Sciences**, and that single misattribution decides the question — **(b)**.\n\n- **1 — incorrect.** Approved in 2021 under the **Ministry of Earth Sciences**, not the Ministry of Ports, Shipping and Waterways. MoES also runs the polar programme, ocean observation and the weather services.\n- **2 — correct.** **Matsya-6000**, built by the National Institute of Ocean Technology, Chennai, is designed to carry **three** crew in a titanium personnel sphere.\n- **3 — correct.** **Samudrayaan** is the crewed-submersible component of the mission, sitting alongside its other pillars — deep-sea mineral exploration, ocean climate change advisory services, marine biodiversity, offshore energy and desalination, and a marine biology research station.\n\nDurable point: the 6,000 m design depth is not arbitrary — it is the depth at which **polymetallic nodules** lie in India's allotted exploration site in the Central Indian Ocean Basin.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -1741,7 +1790,8 @@
     "reasoning": "1 is false — the Deep Ocean Mission is run by the Ministry of Earth Sciences, not Ports, Shipping and Waterways. 2 is true (Matsya-6000 is a three-person crewed submersible) and 3 is true (Samudrayaan is the crewed-submersible component of the mission).",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 51,
@@ -1763,7 +1813,7 @@
     "POL-27"
    ],
    "primary_topic_code": "POL-28",
-   "explanation_md": null,
+   "explanation_md": "Reporting the defect to the vigilance authority and halting the contract is answering for the use of public authority in the public interest — the textbook meaning of **accountability**, so **(c)**.\n\n- **Esprit de corps** is Fayol's principle of team spirit and internal harmony. It points the wrong way here: group loyalty and the \"vested interests\" are exactly what would have kept Mr. X silent.\n- **Equity** means fair, impartial and kindly treatment, usually of subordinates or of claimants. Nothing in the case turns on unequal treatment of persons.\n- **Delegation** is transferring authority downward to a subordinate. Mr. X did the opposite — he took the matter on himself and escalated it upward.\n- **Accountability** — answerability for decisions and outcomes to citizens and to oversight bodies, including bearing the consequences — matches every element of his conduct.\n\nDurable distinction: **responsibility** is the duty assigned to you and can be delegated; **accountability** is having to answer for how it was discharged, and cannot.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1776,7 +1826,8 @@
     "reasoning": "Mr. X answered for the public interest, reported to vigilance and halted a defective contract despite pressure — the classic expression of accountability (answerability for outcomes to citizens and oversight bodies). Esprit de corps (group loyalty) would have pushed the other way; equity and delegation are irrelevant here.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 52,
@@ -1798,7 +1849,7 @@
     "POL-27"
    ],
    "primary_topic_code": "POL-28",
-   "explanation_md": null,
+   "explanation_md": "Statements 1, 3 and 4 are the standard moves of a mediated settlement; statement 2 is the one that would inflame the dispute — **(a)**.\n\n- **1 — contributes.** Acknowledging the sacred-land and cultural claim first builds the minimum trust without which any technical alternative is heard as dismissal. Procedural fairness has to precede substance.\n- **2 — does not contribute.** It prejudges the outcome, dismisses a community as \"a small group\" whose sentiments are outweighed, and skips consultation — precisely the posture that produced the blockades. Majority need does not extinguish a minority's rights.\n- **3 — contributes.** A **multi-stakeholder platform** turns a street confrontation into a negotiation with a table, and lets each side hear the other's real constraint.\n- **4 — contributes.** An independent **ESIA**, shared transparently with both sides, replaces rumour and allegation with a common set of facts.\n\nDurable point: in UPSC conflict cases, consultative, transparent and rights-respecting options are correct; options that invoke urgency to bypass process are the planted distractor.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1811,7 +1862,8 @@
     "reasoning": "Statements 1, 3 and 4 are standard conflict-resolution moves: acknowledge cultural concerns first, build a multi-stakeholder platform, and run a transparent independent ESIA. Statement 2 dismisses the tribal community as a 'small group' and pushes ahead without delay — it would escalate, not resolve.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 53,
@@ -1833,7 +1885,7 @@
     "POL-27"
    ],
    "primary_topic_code": "POL-28",
-   "explanation_md": null,
+   "explanation_md": "The information is **confidential and unproven**, so the right move is to route it to a body empowered to test it rather than to publish it or act on it — **(b)**.\n\n- **1 — wrong.** Disclosing unproven allegations to the public breaches the confidence under which she received them and inflicts reputational and commercial harm on a contractor against whom nothing has been established. It also exposes her and the department to a defamation claim.\n- **2 — wrong.** Striking a shortlisted bidder off on allegations never legally proved is arbitrary, denies natural justice — no notice, no hearing — and would likely not survive a tender challenge.\n- **3 — right.** A **limited disclosure to an oversight or vigilance committee** discloses to the forum that can actually verify, keeps due process intact, and quietly resists Mr. Y's instruction to suppress without turning it into a public confrontation.\n\nDurable point: transparency is a duty to disclose to the **right forum**, not a duty to broadcast. Unverified information calls for escalation and verification — never suppression, never publication.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1846,7 +1898,8 @@
     "reasoning": "The allegations are unproven and the information confidential, so immediate public disclosure (1) risks defamation and misuse, and removing the contractor on unproven allegations (2) violates natural justice; a limited disclosure to an oversight committee (3) preserves transparency and due process while resisting Mr. Y's suppression.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 54,
@@ -1867,7 +1920,7 @@
     "POL-07"
    ],
    "primary_topic_code": "POL-07",
-   "explanation_md": null,
+   "explanation_md": "Article 13(3)(a) expressly lists **custom or usage having in the territory of India the force of law** within the definition of \"law\", so Y is right and X, who refused that inclusion, is not — **(d)**.\n\n- **(a) is wrong** for exactly that reason: the non-inclusion of custom contradicts the article's own text.\n- **(b) is wrong** — Y is quoting the provision correctly.\n- **(c) is the tempting one.** Everything X *positively listed* — ordinances, orders, rules, regulations — does appear in Article 13(3)(a). But X's stated position also included rejecting custom, and that rejection is wrong, so both views cannot be correct.\n- **(d) is right:** only Y's view is fully correct.\n\nDurable point: Article 13(3)(a) — \"law\" includes any Ordinance, order, bye-law, rule, regulation, notification, custom or usage having the force of law. Article **13(4)**, inserted by the 24th Amendment (1971), keeps constitutional amendments under Article 368 outside this definition.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1880,7 +1933,8 @@
     "reasoning": "Article 13(3)(a) defines 'law' to include ordinance, order, bye-law, rule, regulation, notification, custom or usage having in the territory of India the force of law — so Y is right and X's refusal to accept custom is wrong.",
     "ambiguity_note": "Option (c) is arguable, since every item X actually listed is correct; the question hinges on treating X's refusal to accept custom as part of 'X's view', which makes only Y's position fully correct."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 55,
@@ -1902,7 +1956,7 @@
     "POL-03"
    ],
    "primary_topic_code": "POL-02",
-   "explanation_md": null,
+   "explanation_md": "All three \"there is no Article\" claims are false — Part XXII of the Constitution does each of these jobs — so **(b)**, there is no correct statement.\n\n- **1 — incorrect.** **Article 393** supplies the short title: this Constitution may be called the Constitution of India.\n- **2 — incorrect.** **Article 395** repeals the **Indian Independence Act, 1947** and the **Government of India Act, 1935**, along with the enactments amending or supplementing the latter.\n- **3 — incorrect.** **Article 394** provides that a listed set of articles came into force at once on adoption, and that the remaining provisions come into force on **26 January 1950** — the date of commencement is in the text.\n\nDurable point: the concluding Part XXII runs 393 (short title), 394 (commencement), 394A (authoritative Hindi text, added by the 58th Amendment), 395 (repeals). Article 394 is why citizenship (Arts 5–9) and the Election Commission (Art 324) were already live from **26 November 1949**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -1915,7 +1969,8 @@
     "reasoning": "All three statements are false: Article 393 gives the short title 'Constitution of India', Article 395 repeals the Indian Independence Act 1947 and the Government of India Act 1935, and Article 394 names 26 January 1950 as the date of commencement.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 56,
@@ -1937,7 +1992,7 @@
     "ECO-17"
    ],
    "primary_topic_code": "CAI-10",
-   "explanation_md": null,
+   "explanation_md": "The Rights of Persons with Disabilities Act was passed in **2016**, not 2018, and NDFDC sits under Social Justice rather than Corporate Affairs — leaving only statement 2, so **(b)**.\n\n- **1 — incorrect, on the date alone.** Everything the statement says about the Act's content is right — reservation in education and employment, a statutory duty on governments to ensure accessibility and non-discrimination — but Parliament passed it in **December 2016** and it came into force in **April 2017**.\n- **2 — correct.** **Sugamya Bharat Abhiyan (Accessible India Campaign)**, launched in 2015, is built on exactly three verticals: the built environment, the transport system, and the ICT ecosystem.\n- **3 — incorrect.** The **National Divyangjan Finance and Development Corporation** is a not-for-profit company under the Department of Empowerment of Persons with Disabilities, **Ministry of Social Justice and Empowerment**.\n\nDurable point: the 2016 Act expanded recognised disabilities from **7 to 21** and fixed **4%** reservation in government jobs and **5%** in higher education institutions.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -1950,7 +2005,8 @@
     "reasoning": "Statement 1 is false only on the date — the Rights of Persons with Disabilities Act was passed in 2016 (in force 2017), not 2018; statement 2 is true (Sugamya Bharat Abhiyan's three verticals are built environment, transport and ICT); statement 3 is false because NDFDC was set up under the Ministry of Social Justice and Empowerment, not the Ministry of Corporate Affairs.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 57,
@@ -1972,7 +2028,7 @@
     "POL-22"
    ],
    "primary_topic_code": "POL-23",
-   "explanation_md": null,
+   "explanation_md": "Statement 1 puts the north-eastern tribal areas in the wrong Schedule, while 2 and 3 hold — so the two correct statements are 2 and 3, which is **(a)**, \"two correct statements, that include statement 2\".\n\n- **1 — incorrect.** The tribal areas of **Assam, Meghalaya, Tripura and Mizoram** are administered under the **Sixth Schedule** (Article 244(2)), through Autonomous District and Regional Councils. The **Fifth Schedule** governs scheduled areas in the other States.\n- **2 — correct.** **Section 10(26)** of the Income-tax Act, 1961 exempts members of specified Scheduled Tribes from income tax on income accruing in the specified areas.\n- **3 — correct.** **Article 243D** reserves seats in Panchayats for SCs and STs in proportion to their population, and not less than one-third of those reserved seats for **SC/ST women**.\n\nDurable point: Fifth Schedule = scheduled areas, Governor's report, Tribes Advisory Council. Sixth Schedule = those four States, with councils holding real law-making power.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -1985,7 +2041,8 @@
     "reasoning": "Statement 1 is false — tribal areas of Assam, Meghalaya, Tripura and Mizoram fall under the Sixth Schedule, not the Fifth; statement 2 is true (Section 10(26) of the Income Tax Act exempts specified STs on income arising in specified areas); statement 3 is true (Article 243D reserves seats for SC/ST women in Panchayats). Two correct, including statement 2.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 58,
@@ -2006,7 +2063,7 @@
     "POL-18"
    ],
    "primary_topic_code": "POL-18",
-   "explanation_md": null,
+   "explanation_md": "Statements 1 and 2 simply swap the definitions of starred and unstarred questions; only statement 3 survives, so **(c)** — there is only one correct statement.\n\n- **1 — incorrect.** A Member who wants an **oral** answer asks a **starred** question, distinguished on the list by an asterisk, which is where the name comes from.\n- **2 — incorrect.** A **starred** question gets the oral answer; an **unstarred** question is answered in **writing** and the reply is laid on the Table of the House.\n- **3 — correct.** Because an unstarred question has no oral reply, no supplementary question can follow it. Supplementaries are the whole point of a starred question, and the number allowed is at the Speaker's discretion.\n\nDurable point: four kinds — starred (oral, supplementaries), unstarred (written, none), **short notice** (less than ten days' notice, urgent matter, oral), and question to a private member. Question Hour is normally the first hour of a sitting; Zero Hour follows it.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2019,7 +2076,8 @@
     "reasoning": "Statements 1 and 2 are inverted — starred questions get an oral answer (with supplementaries), unstarred get a written answer; statement 3 is true, as no supplementary question is allowed on an unstarred question. Exactly one correct statement.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 59,
@@ -2041,7 +2099,7 @@
     "POL-18"
    ],
    "primary_topic_code": "POL-19",
-   "explanation_md": null,
+   "explanation_md": "Every one of the four statements misstates a fact about the Committee, so **(d)** — there is no correct statement.\n\n- **1 — incorrect.** The Chairperson is appointed by the **Speaker of the Lok Sabha**, from among the Committee's Lok Sabha members.\n- **2 — incorrect.** The numbers are reversed. Of the 30 members, **20 are elected by the Lok Sabha and 10 by the Rajya Sabha**.\n- **3 — incorrect.** **No Minister** may be a member of the Committee, with no exception for the Minister of Social Justice and Empowerment; a member appointed a Minister ceases to belong to it.\n- **4 — incorrect.** Members hold office for **one year**, not two.\n\nDurable point: exclusion of Ministers and a one-year term are common to this family of parliamentary committees, but the sizes differ — 30 here (**20 + 10**) against 22 (15 + 7) for the Public Accounts Committee and the Committee on Public Undertakings, and 30 all from the Lok Sabha for the Estimates Committee.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2054,7 +2112,8 @@
     "reasoning": "All four are false: the Chairperson is appointed by the Speaker of the Lok Sabha; the split is 20 from the Lok Sabha and 10 from the Rajya Sabha (statement 2 reverses it); no Minister at all may be a member, with no exception; and the term is one year, not two.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 60,
@@ -2075,7 +2134,7 @@
     "SNT-07"
    ],
    "primary_topic_code": "SNT-07",
-   "explanation_md": null,
+   "explanation_md": "Mission Sudarshan Chakra is conceived as a single national shield joining defensive and offensive capability on a stated 2035 horizon, so all three statements hold — **(a)**.\n\n- **1 — correct.** It brings **air defence, ballistic missile defence and offensive strike** capability under one layered architecture, pairing deterrence by denial with deterrence by punishment.\n- **2 — correct.** Its stated purpose is a rapid, precise and powerful response built on indigenous systems, reinforcing **strategic autonomy** — India fielding its own shield rather than depending on imported ones.\n- **3 — correct.** The announced goal is a nationwide security shield over the country's installations by **2035**. The phrase \"all public places\" is a loose rendering of the announced cover for civilian and strategic sites; the tested fact is the nationwide scope and the 2035 target.\n\nDurable point: announced from the Red Fort on **15 August 2025**, named after Krishna's discus. Its foundation is the existing integrated air command network plus indigenous systems such as Akash and the DRDO BMD programme.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2088,7 +2147,8 @@
     "reasoning": "Mission Sudarshan Chakra, announced on 15 August 2025, is a layered air/ballistic-missile defence plus offensive-strike programme (1) aimed at rapid, precise responses and strategic autonomy (2), targeted for completion by 2035 as a nationwide shield over civilian and strategic installations (3).",
     "ambiguity_note": "Statement 3's phrase 'all public places' is a loose paraphrase of the announced cover for civilian and strategic installations; if the key treats that as an overstatement, the intended answer would be (b)."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 61,
@@ -2111,7 +2171,7 @@
     "GEO-24"
    ],
    "primary_topic_code": "CAI-01",
-   "explanation_md": null,
+   "explanation_md": "Only the Mechi bridge pairing is stated correctly; the other two reverse or relocate the geography.\n\n- **1 — incorrect.** Maitri Setu over the Feni river runs from **Sabroom in India (Tripura)** to Ramgarh in Bangladesh. The statement swaps the two ends.\n- **2 — incorrect.** The Jhulaghat suspension bridge crosses the **Mahakali (Kali/Sharda)** and links Pithoragarh district in Uttarakhand with Nepal. India has no such bridge with Myanmar; the India–Myanmar land link of note is the Moreh–Tamu crossing.\n- **3 — correct.** The Mechi bridge and its approaches join the Panitanki bypass in West Bengal to Kakarvitta in Nepal, on the Asian Highway corridor towards Kathmandu.\n\nThe durable point: Maitri Setu exists because Sabroom sits close to Chattogram port, giving landlocked Tripura sea access — that trade rationale, not the bridge itself, is what gets asked.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2124,7 +2184,8 @@
     "reasoning": "Statement 1 is reversed — Maitri Setu over the Feni connects Sabroom (India, Tripura) with Ramgarh (Bangladesh), not the other way round; statement 2 is wrong because the Jhulaghat suspension bridge over the Kali/Mahakali links Pithoragarh in India with Nepal, not Myanmar; statement 3 is correct (Mechi bridge links Panitanki Bypass, West Bengal with Kakarvitta, Nepal).",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 62,
@@ -2146,7 +2207,7 @@
     "POL-08"
    ],
    "primary_topic_code": "POL-27",
-   "explanation_md": null,
+   "explanation_md": "Only statement 2 matches the BNSS text; the other two overstate what the section allows and requires.\n\n- **1 — incorrect.** **Section 173(1)** lets information about a **cognizable** offence be recorded irrespective of where the offence was committed — that is Zero FIR. Information about a non-cognizable offence goes into a separate register and cannot be investigated without a magistrate's order, so it can never be a Zero FIR. The inserted \"/non-cognizable\" is the trap.\n- **2 — correct.** Section 173(3) lets the officer-in-charge, with prior permission of an officer **not below the rank of Deputy Superintendent of Police**, conduct a preliminary enquiry (within fourteen days) in the specified class of offences before proceeding.\n- **3 — incorrect.** Furnishing information by electronic communication is an **option**, not an obligation; such information must be signed within three days.\n\nWorth locking in: BNSS s.173 is where Zero FIR and e-FIR became **statutory** for the first time. Under CrPC s.154 they rested only on judicial rulings and executive circulars.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "low",
@@ -2159,7 +2220,8 @@
     "reasoning": "Statement 3 is clearly false — BNSS s.173(1) makes electronic communication optional, not obligatory. Since no option pairs 1 with 2, one of them must fail: statement 1 overreaches by saying 'cognizable/non-cognizable', whereas Zero FIR under s.173(1) covers cognizable offences only, while statement 2 correctly restates s.173(3) (preliminary enquiry with prior permission of an officer not below DSP).",
     "ambiguity_note": "Genuinely disputable. Statement 1 is the textbook description of Zero FIR and is only wrong because of the inserted '/non-cognizable'; statement 2 omits the 3-to-7-year punishment threshold and the fact that a non-jurisdictional station normally just forwards the FIR. If the examiner treated statement 1 as loosely correct, the key would be (c) 1 only. The absence of a '1 and 2' option is the tell that exactly one of them was meant to fail — worth flagging for human review."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 63,
@@ -2181,7 +2243,7 @@
     "POL-27"
    ],
    "primary_topic_code": "POL-25",
-   "explanation_md": null,
+   "explanation_md": "Only the CBI row is right on all three columns, so the count is one.\n\n- **Row 1 — wrong.** The Central Economic Intelligence Bureau does coordinate economic-offence intelligence across agencies, but it sits under the **Department of Revenue, Ministry of Finance** — not the Ministry of Home Affairs.\n- **Row 2 — wrong.** The Serious Fraud Investigation Office does investigate complex corporate frauds, but its parent is the **Ministry of Corporate Affairs**, not Finance.\n- **Row 3 — correct.** Preserving values in public life and ensuring the health of the national economy is the CBI's own stated vision, and it functions under the Department of Personnel and Training in the **Ministry of Personnel, Public Grievances and Pensions**.\n\nThe distinction that generalises: the SFIO is **statutory**, created under section 211 of the Companies Act, 2013, whereas the CBI has no statute of its own — its police powers flow from the **Delhi Special Police Establishment Act, 1946**, which is exactly why state consent under that Act can be withdrawn.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2194,7 +2256,8 @@
     "reasoning": "Row 1 wrong — CEIB is under the Department of Revenue, Ministry of Finance, not MHA. Row 2 wrong — SFIO is under the Ministry of Corporate Affairs, not Finance. Row 3 correct — that is CBI's stated vision and it functions under DoPT (Ministry of Personnel, PG and Pensions). Only one row matches.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 64,
@@ -2253,7 +2316,7 @@
     "CAI-04"
    ],
    "primary_topic_code": "CAI-07",
-   "explanation_md": null,
+   "explanation_md": "Only the seven-Chakra structure of the Declaration survives scrutiny.\n\n- **1 — incorrect.** The Summit's three foundational Sutras were **People, Planet and Progress**. \"Planning\" is the substituted word — a one-word swap of exactly the kind UPSC favours.\n- **2 — incorrect.** Outcome documents and charters of this summit series are **voluntary and non-binding**. Calling the charter a \"binding framework\" is the error, irrespective of whether the Preamble stresses democratising AI resources.\n- **3 — correct.** The New Delhi Declaration on AI Impact was structured around seven Chakras or pillars, covering access for social empowerment, AI for science, and secure and trusted AI among others.\n\nThe durable frame is the series itself and its shifting label: **Bletchley Park 2023 (\"Safety\") → Seoul 2024 → Paris 2025 (\"Action\") → New Delhi 2026 (\"Impact\")**. India deliberately moved the framing from risk to development and Global South access.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -2266,7 +2329,8 @@
     "reasoning": "Statement 1 misstates the three Sutras, which were People, Planet and Progress — not 'Planning'; statement 2 fails on 'binding', since summit declarations and charters of this type are explicitly non-binding; statement 3, the seven Chakras/pillars of the New Delhi Declaration, is the only survivor.",
     "ambiguity_note": "Rests entirely on a February 2026 event, after my reliable cutoff. The answer is derived from the 'Planet vs Planning' substitution and the 'binding' red flag rather than from confirmed knowledge of the Declaration's seven pillars — the pillar names in statement 3 are unverified."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 66,
@@ -2289,7 +2353,7 @@
     "CAI-01"
    ],
    "primary_topic_code": "CAI-05",
-   "explanation_md": null,
+   "explanation_md": "Kaladan and the Trilateral Highway terminate in ASEAN states; the Agartala link does not.\n\n- **1 — correct.** The Kaladan Multi-Modal Transit Transport Project runs from Sittwe port in **Myanmar**, up the Kaladan river to Paletwa, then by road to Zorinpui in Mizoram. Myanmar is an ASEAN member.\n- **2 — correct.** The India–Myanmar–Thailand Trilateral Highway (Moreh to Mae Sot) passes through two ASEAN members, with a proposed eastward extension to Cambodia, Laos and Vietnam.\n- **3 — incorrect.** The Agartala–Akhaura rail line connects Tripura to **Bangladesh**, which is not an ASEAN member. It belongs to the bilateral India–Bangladesh connectivity basket, not India–ASEAN cooperation.\n\nThe grouping test worth carrying: Bangladesh, Nepal, Bhutan and Sri Lanka are BIMSTEC and neighbourhood partners, never ASEAN. **Myanmar is the only country India shares a land border with that is in ASEAN** — so any India–ASEAN land connectivity project must run through it.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2302,7 +2366,8 @@
     "reasoning": "Kaladan (India-Myanmar) and the India-Myanmar-Thailand Trilateral Highway both involve ASEAN members and are flagship India-ASEAN connectivity projects; the Agartala-Akhaura rail link is with Bangladesh, which is not an ASEAN member.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 67,
@@ -2324,7 +2389,7 @@
     "CAI-06"
    ],
    "primary_topic_code": "CAI-01",
-   "explanation_md": null,
+   "explanation_md": "Each project sits in the neighbouring country India funded it in, giving **A-3, B-2, C-4, D-1**.\n\n- **A — Bhutan (3).** The 720 MW Mangdechhu hydroelectric project in Trongsa was built with Indian assistance and commissioned in 2019, part of the hydropower core of the India–Bhutan relationship.\n- **B — Afghanistan (2).** The Stor Palace in Kabul was restored with Indian support as a heritage and diplomatic-infrastructure project.\n- **C — Sri Lanka (4).** The district hospital at Dickoya serves the central hill-country plantation districts and was an Indian grant project.\n- **D — Maldives (1).** The Institute of Security and Law Enforcement Studies is the India-assisted police training institution in the Maldives.\n\nThe pattern worth remembering is the shape of the **Neighbourhood First** grant portfolio: hydropower in Bhutan, heritage and institution-building in Afghanistan, health and housing in Sri Lanka's plantation belt, and security-sector training in the Maldives.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2337,7 +2402,8 @@
     "reasoning": "Mangdechhu HEP is in Bhutan (3), the Stor Palace restoration is in Kabul, Afghanistan (2), the district hospital at Dickoya is in Sri Lanka's hill country (4), and the Institute of Security and Law Enforcement Studies is India-assisted in the Maldives (1) — giving A-3, B-2, C-4, D-1.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 68,
@@ -2359,7 +2425,7 @@
     "ECO-15"
    ],
    "primary_topic_code": "SNT-07",
-   "explanation_md": null,
+   "explanation_md": "The Su-30 MKI and the T-90 are both licence-built on Indian soil; the Akula never was.\n\n- **1 — correct.** The Su-30 MKI is assembled by **HAL at Nashik** under a Russian licence.\n- **2 — correct.** T-90 tanks are licence-produced at the **Heavy Vehicles Factory, Avadi** (now under Armoured Vehicles Nigam Limited), the Indian marks carrying the name *Bhishma*.\n- **3 — incorrect.** The Akula-class nuclear attack submarine was built in Russia and **leased** to India as INS Chakra, with the lease ending in 2021. A lease is not manufacture.\n\nThe distinction that keeps paying: **licence production is not indigenous design.** Su-30 MKI and T-90 are foreign designs made here; Tejas and the Arihant-class are Indian designs. India builds conventional submarines (the Kalvari/Scorpène boats at Mazagon Dock) and SSBNs under the ATV programme, but has only ever **leased** nuclear attack submarines.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2372,7 +2438,8 @@
     "reasoning": "Su-30 MKI is licence-built by HAL at Nashik and T-90 tanks (including the later Bhishma marks) are licence-produced at the Heavy Vehicles Factory, Avadi; the Akula-class submarine was Russian-built and leased to India (INS Chakra), never manufactured here.",
     "ambiguity_note": "The exact designation 'T-90 MK-III' is unusual — Indian production is normally described as T-90S/T-90SK 'Bhishma' with later Mk-II/Mk-III variants at Avadi. If the examiner treated 'MK-III' as an imported-only variant, the key would be (c) 1 only."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 69,
@@ -2394,7 +2461,7 @@
     "CAI-04"
    ],
    "primary_topic_code": "CAI-07",
-   "explanation_md": null,
+   "explanation_md": "Labour-migration consultative platforms are non-binding by design, which is exactly what statement 1 gets wrong.\n\n- **1 — incorrect.** The Colombo Process (2003) is a **Regional Consultative Process** of Asian countries of origin on the management of overseas employment. It works by consensus, but its recommendations bind no one.\n- **2 — correct.** The Abu Dhabi Dialogue (2008) is voluntary and non-binding, and its distinguishing feature is bringing Asian countries of **origin and destination** (the Gulf states) to the same table on contractual labour mobility.\n- **3 — correct.** The Global Forum on Migration and Development grew out of the 2006 UN High-Level Dialogue and a proposal by the then Secretary-General, **Kofi Annan**. It is state-led, informal and non-binding.\n\nThe generalisable test: in the migration architecture, the words *process*, *dialogue* and *forum* all signal voluntary bodies. Even the **Global Compact for Safe, Orderly and Regular Migration (2018)** is expressly non-binding — only treaties bind.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2407,7 +2474,8 @@
     "reasoning": "Statement 1 is false — the Colombo Process is a non-binding regional consultative process, its consensus recommendations are not binding; statement 2 correctly describes the Abu Dhabi Dialogue as a voluntary non-binding process between Asian origin and destination states on contractual labour mobility; statement 3 is correct, the GFMD arose from a proposal by then UN Secretary-General Kofi Annan and is voluntary and non-binding.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 70,
@@ -2429,7 +2497,7 @@
     "CAI-09"
    ],
    "primary_topic_code": "CAI-04",
-   "explanation_md": null,
+   "explanation_md": "Only one organisation on the list has two Nobel Prizes, so the count is **1**.\n\n- **UNHCR** — Nobel Peace Prize **twice, in 1954 and 1981**: the first for its work with post-war European refugees, the second for assistance to refugees worldwide.\n- **World Food Programme** — once, in 2020, for combating hunger and its use of food assistance in conflict zones.\n- **UNICEF** — once, in 1965.\n- **International Labour Organisation** — once, in 1969, its fiftieth year.\n\nThe fact worth locking in for the whole category: the **International Committee of the Red Cross** is the only three-time Peace Prize laureate (1917, 1944, 1963), sharing the 1963 award with the League of Red Cross Societies. UNHCR's two awards are the most any UN body has received — a useful ceiling to remember when a question offers larger counts.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -2442,7 +2510,8 @@
     "reasoning": "Only UNHCR has won the Nobel Peace Prize twice (1954 and 1981); WFP won once (2020), UNICEF once (1965) and the ILO once (1969), so the count is one.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 71,
@@ -2464,7 +2533,7 @@
     "CAI-07"
    ],
    "primary_topic_code": "CAI-04",
-   "explanation_md": null,
+   "explanation_md": "The four missions pair with their periods as **A-3, B-1, C-4, D-2**.\n\n- **A. UNMIL — 3 (2003–2018).** The UN Mission in Liberia was set up after the end of the civil war and Charles Taylor's departure, and closed in 2018.\n- **B. MINURCAT — 1 (2007–2010).** The mission in the Central African Republic and Chad was the shortest of the four, wound up at Chad's own request.\n- **C. MINUSTAH — 4 (2004–2017).** The stabilisation mission in Haiti began after Aristide left in 2004 and ran until 2017.\n- **D. UNMISET — 2 (2002–2005).** The UN Mission of Support in East Timor took over on **Timor-Leste's independence in May 2002**.\n\nTwo cues that generalise: **MIN- names are French** (*Mission des Nations Unies*), UN- names English; and anchor each mission to a political event rather than a date — Timor's independence 2002, Liberia's peace accord 2003, Haiti's crisis 2004.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2477,7 +2546,8 @@
     "reasoning": "UNMIL (Liberia) ran 2003–2018 (A-3); MINURCAT (Central African Republic and Chad) 2007–2010 (B-1); MINUSTAH (Haiti) 2004–2017 (C-4); UNMISET (East Timor support mission) 2002–2005 (D-2).",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 72,
@@ -2499,7 +2569,7 @@
     "GEO-24"
    ],
    "primary_topic_code": "CAI-05",
-   "explanation_md": null,
+   "explanation_md": "BIMSTEC's four institutions sit in Bhutan, India (two) and Sri Lanka, giving **A-4, B-2, C-1, D-3**.\n\n- **A. Cultural Industries Observatory — Thimphu (4).** Hosted by Bhutan, alongside the BIMSTEC Cultural Industries Commission.\n- **B. Energy Centre — Bengaluru (2).** India's host contribution, working on energy cooperation and grid interconnection.\n- **C. Centre for Weather and Climate — NOIDA (1).** The second India-hosted body, supporting weather forecasting and disaster preparedness.\n- **D. Technology Transfer Facility — Colombo (3).** Hosted by Sri Lanka.\n\nThe anchor that prevents mix-ups: the **BIMSTEC Secretariat is in Dhaka**, opened in 2014. Bangladesh hosts the Secretariat and none of these four centres — so an option placing any centre in Dhaka is wrong on that ground alone. Note also that both India-hosted bodies are technical (energy, weather), not cultural.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2512,7 +2582,8 @@
     "reasoning": "BIMSTEC Cultural Industries Observatory is at Thimphu, Bhutan (A-4); Energy Centre at Bengaluru (B-2); Centre for Weather and Climate at NOIDA (C-1); Technology Transfer Facility at Colombo, Sri Lanka (D-3).",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 73,
@@ -2534,7 +2605,7 @@
     "GEO-24"
    ],
    "primary_topic_code": "SNT-07",
-   "explanation_md": null,
+   "explanation_md": "33 Corps is headquartered at Sukna, not Srinagar, so **(d)** is the mismatched pair.\n\n- **(a) 3 Corps : Dimapur — correct.** The Spear Corps covers the Nagaland–Manipur sector.\n- **(b) 4 Corps : Tezpur — correct.** The Gajraj Corps faces the Arunachal Pradesh sector.\n- **(c) 14 Corps : Leh — correct.** The Fire and Fury Corps holds Ladakh, including Siachen and the eastern Ladakh front.\n- **(d) 33 Corps : Srinagar — incorrect.** 33 Corps (Trishakti) is at **Sukna**, near Siliguri, guarding the Siliguri corridor and the Sikkim front. **Srinagar is the headquarters of 15 Corps**, the Chinar Corps.\n\nThe shorthand worth memorising once, because it recurs: under Northern Command, **Srinagar = 15 Corps (Chinar), Nagrota = 16 Corps (White Knight), Leh = 14 Corps (Fire and Fury)**. Eastern Command's Sukna-based 33 Corps is the one most often mis-slotted into Kashmir.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "low",
@@ -2547,7 +2618,8 @@
     "reasoning": "3 Corps is at Dimapur, 4 Corps at Tezpur and 14 Corps at Leh, all correct; 33 Corps (Trishakti) is headquartered at Sukna, West Bengal — Srinagar is the HQ of 15 Corps, so pair (d) is not correctly matched.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 74,
@@ -2569,7 +2641,7 @@
     "CAI-10"
    ],
    "primary_topic_code": "POL-22",
-   "explanation_md": null,
+   "explanation_md": "Only the SDG-capacity objective is stated correctly.\n\n- **1 — incorrect.** The Revamped RGSA was approved in **April 2022** and runs from 1 April 2022 to 31 March 2026, coterminous with the Fifteenth Finance Commission cycle. The statement starts it a year early.\n- **2 — correct.** Developing the governance capabilities of Panchayati Raj Institutions to deliver on the **Sustainable Development Goals** — the localisation of the SDGs through Panchayats — is the scheme's stated central objective.\n- **3 — incorrect.** Funding is shared, not fully central: broadly **60:40 between Centre and States, 90:10 for the North-Eastern and Himalayan States, and 100% central only for Union Territories**.\n\nThe rule that generalises far beyond this scheme: a **Centrally Sponsored Scheme** is cost-shared on that 60:40 / 90:10 / 100%-for-UTs pattern, while a **Central Sector Scheme** is fully Union-funded. RGSA, under the Ministry of Panchayati Raj, is the former.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2582,7 +2654,8 @@
     "reasoning": "Statement 1 is false — the Revamped RGSA runs 1 April 2022 to 31 March 2026, coterminous with the 15th Finance Commission. Statement 3 is false — funding is 60:40 Centre-State for most States, 90:10 for NE/Himalayan States and 100% only for UTs. Statement 2 (SDG-focused capacity building of PRIs) is the scheme's stated objective and is true.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 75,
@@ -2604,7 +2677,7 @@
     "GEO-24"
    ],
    "primary_topic_code": "CAI-02",
-   "explanation_md": null,
+   "explanation_md": "Poland and Germany are the only European Union members in the list.\n\n- **1. Belarus — not a member.** It has never been an EU candidate and is not even in the Council of Europe.\n- **2. Poland — member**, one of the ten states that acceded in the **2004 enlargement**.\n- **3. Germany — member**, and a founding one, from the 1957 Treaty of Rome.\n- **4. Switzerland — not a member.** It works through bilateral agreements and is not in the European Economic Area either, unlike Norway and Iceland.\n\nThe distinction that decides most EU questions: **Schengen is not the EU, and the eurozone is smaller than both.** Switzerland, Norway, Iceland and Liechtenstein are inside Schengen but outside the EU; Ireland is inside the EU but outside Schengen. Test membership of each circle separately rather than assuming they coincide.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -2617,7 +2690,8 @@
     "reasoning": "Poland and Germany are EU members; Belarus and Switzerland are not.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 76,
@@ -2639,7 +2713,7 @@
     "POL-25"
    ],
    "primary_topic_code": "CAI-07",
-   "explanation_md": null,
+   "explanation_md": "Each notice matches its function by colour: **A-4, B-2, C-1, D-3**.\n\n- **A. Silver — 4.** The newest notice, piloted from 2025, is for locating and tracing **criminal assets** with a view to recovery.\n- **B. Blue — 2.** Used to collect additional information about a person's **identity, location or activities** in a criminal investigation.\n- **C. Black — 1.** Seeks information on **unidentified bodies**.\n- **D. Green — 3.** Warns about a person's criminal activities where the person is a **possible threat to public safety**.\n\nLearn the full set once and the matching becomes automatic: **Red** (locate and provisionally arrest pending extradition), **Yellow** (missing persons), **Blue**, **Black**, **Green**, **Orange** (imminent threat from an event, person or object), **Purple** (modus operandi and concealment methods), **Silver** (assets), plus the **INTERPOL–UN Security Council Special Notice** for individuals and entities under UNSC sanctions.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -2652,7 +2726,8 @@
     "reasoning": "Silver Notice (piloted 2025) traces criminal assets (A-4); Blue Notice gathers additional information on a person's identity/location/activities (B-2); Black Notice concerns unidentified bodies (C-1); Green Notice warns of a person posing a possible threat to public safety (D-3).",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 77,
@@ -2674,7 +2749,7 @@
     "CAI-10"
    ],
    "primary_topic_code": "ENV-10",
-   "explanation_md": null,
+   "explanation_md": "The decisive item is statement 2: the Central Zoo Authority is a **regulator**, not a research lead.\n\n- **1 — correct.** The Botanical Survey of India, Kolkata, is the natural lead for an Ecosystem Survey and Analysis vertical; surveying and documenting India's plant resources has been its mandate since **1890**.\n- **2 — incorrect.** The Central Zoo Authority is a statutory body under the **Wild Life (Protection) Act, 1972**, whose job is recognising, regulating and de-recognising zoos. Ecosystem-services research sits with bodies like the Wildlife Institute of India or the ICFRE institutes.\n- **3 — correct.** The Indian Institute of Forest Management, Bhopal, is the Ministry's training and forest-management education institute, which is precisely a Capacity Development Support role.\n\nThe method to reuse when a new platform's structure is unfamiliar: match each vertical to a body's **founding mandate**. BSI (1890) and ZSI (1916), both Kolkata, survey; WII Dehradun researches wildlife; IIFM Bhopal trains; CZA regulates zoos.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -2687,7 +2762,8 @@
     "reasoning": "Judged 1 and 3 plausible (Botanical Survey of India for Ecosystem Survey and Analysis; IIFM Bhopal for Capacity Development Support) and 2 false, since the Central Zoo Authority is a zoo-regulatory body and would not lead an ecosystem-services research vertical (WII/ICFRE would be the natural lead).",
     "ambiguity_note": "NIRANTAR's vertical-to-lead-institute mapping is a recent MoEFCC restructuring detail I cannot verify; statement 1 could equally name Forest Survey of India or ZSI as lead, which would push the answer to (d). Human re-check strongly advised."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 78,
@@ -2708,7 +2784,7 @@
     "CAI-02"
    ],
    "primary_topic_code": "CAI-02",
-   "explanation_md": null,
+   "explanation_md": "**Flag: the substance of this one is unverified — check against the official joint statement before trusting it.**\n\nOn the key, items 2 and 3 were outcomes of the visit and items 1 and 4 were not.\n\n- **1 — not an outcome.** No MoU between the All India Institute of Ayurveda and the University of Hamburg.\n- **2 — an outcome.** Hockey India and the German Hockey Federation, on youth hockey development.\n- **3 — an outcome.** A bilateral dialogue mechanism on the Indo-Pacific.\n- **4 — not an outcome.** No Honorary Consul of Germany opened at Lucknow.\n\nThe part worth actually carrying forward is structural, not the MoU list: India and Germany hold **Inter-Governmental Consultations (IGC) at head-of-government level, a format running since 2011**, and it is the frame that visits like this one hang on. For any state visit, memorise the *mechanisms* — dialogue formats, partnership upgrades, defence and mobility agreements — and let the incidental MoUs go.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -2722,7 +2798,9 @@
     "ambiguity_note": "Pure post-cutoff guess on a negative-framed question; any of the four pairings is defensible without the actual joint statement. This one needs a human check regardless of the key."
    },
    "dropped_by_upsc": false,
-   "review_flag": "Official key says b, independent reasoning said a. Check this one."
+   "review_flag": "Official key says b, independent reasoning said a. Check this one. Explanation pass could not verify the key.",
+   "key_supported": false,
+   "key_doubt": "I cannot verify this from knowledge, and I will not manufacture a justification. The deliverables of a single state visit are pure recall from the MEA joint statement, and I have no reliable recall of the January 2026 India-Germany readout. My own first reading pointed the other way, to (a) 2 and 3, on the reasoning that the two oddly specific items - an AIIA-University of Hamburg Ayurveda MoU and an Honorary Consul at Lucknow - read like genuine readout entries, which would make the hockey MoU and the Indo-Pacific dialogue mechanism the fabricated pair. That was a guess, not knowledge. I am flagging this as UNVERIFIED rather than asserting the key is wrong: the key (b) may well be correct. Check all four items against the official India-Germany joint statement before relying on the explanation, and mark this question disputed if the joint statement does not settle it cleanly."
   },
   {
    "q_no": 79,
@@ -2744,7 +2822,7 @@
     "SNT-14"
    ],
    "primary_topic_code": "SNT-10",
-   "explanation_md": null,
+   "explanation_md": "Both statements describe DHRUV64 consistently with what the DIR-V programme is and what it has produced.\n\n- **1 — correct.** DIR-V is MeitY's **Digital India RISC-V** programme, launched to build an Indian microprocessor ecosystem and enable indigenous chip design; DHRUV64 is its third fabricated chip, following the SHAKTI (IIT Madras) and VEGA (C-DAC) processor lines that the programme was built around.\n- **2 — correct.** It is India's first homegrown **1·0 GHz, 64-bit dual-core** microprocessor. The significance is the combination: clock speed plus 64-bit dual-core capability moves an Indian design out of demonstrator territory and towards general-purpose computing workloads.\n\nThe durable point is why India picked this architecture at all: **RISC-V is an open, royalty-free instruction set architecture.** An ARM or x86 design would require licensing from a foreign vendor and could be withheld; an open ISA lets India own the design layer even while fabrication capacity is still being built.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2757,7 +2835,8 @@
     "reasoning": "Took both statements at face value — DHRUV64 presented as the third chip fabricated under MeitY's DIR-V (Digital India RISC-V) programme and as India's first indigenous 1.0 GHz 64-bit dual-core microprocessor. I cannot independently confirm either claim.",
     "ambiguity_note": "The ordinal in statement 1 ('third chip') is exactly the kind of detail UPSC alters; if DHRUV64 is in fact the second chip under DIR-V the answer becomes (b). Low-value cross-check."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 80,
@@ -2779,7 +2858,7 @@
     "SNT-14"
    ],
    "primary_topic_code": "SNT-07",
-   "explanation_md": null,
+   "explanation_md": "Statements 1 and 2 stand; the foreign-collaboration claim in statement 3 does not.\n\n- **1 — correct.** The standard is **IS 19445 : 2025**, BIS's national standard for testing and assessing bomb-disposal systems.\n- **2 — correct.** This is the whole purpose of a national standard: when the NSG, state police bomb squads, CISF and the armed forces all procure to one specification, equipment and procedures become **interoperable** across agencies, and manufacturers get a single benchmark to certify against.\n- **3 — incorrect.** The technical input came from DRDO's **Terminal Ballistics Research Laboratory (TBRL), Chandigarh**. An Indian Standard is drafted by BIS's own sectional committees with domestic stakeholders — a foreign defence institute co-authoring a national security standard is the planted falsehood.\n\nThe durable fact: BIS is the national standards body under the **Bureau of Indian Standards Act, 2016** (which replaced the 1986 Act), and its standards are **voluntary unless made mandatory** by a Quality Control Order.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2792,7 +2871,8 @@
     "reasoning": "Statements 1 and 2 accepted (IS 19445:2025; a national standard by design improves cross-agency interoperability). Statement 3 rejected — a BIS Indian standard developed with DRDO's TBRL would not be co-developed with a Russian defence research institute.",
     "ambiguity_note": "The exact standard number IS 19445:2025 is not something I can verify; if that number is wrong the answer would shift to (b), though statement 3's Russian-collaboration claim still looks like the planted falsehood."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 81,
@@ -2813,7 +2893,7 @@
     "CAI-09"
    ],
    "primary_topic_code": "CAI-09",
-   "explanation_md": null,
+   "explanation_md": "The 2025 Nobel Prize in Physics went to **John Clarke**, Michel Devoret and John Martinis for macroscopic quantum tunnelling and energy quantisation in an electric circuit — and Clarke, born in Cambridge, England, has spent his career at the **University of California, Berkeley**. He is the only name satisfying both conditions in the stem.\n\n- **Devoret**: also a 2025 Physics laureate working in the United States, but he is **French-born**, so the UK condition fails.\n- **Robson**: shared the 2025 Chemistry Nobel for metal-organic frameworks and is indeed UK-born, but he is at the **University of Melbourne** — not an American university.\n- **Mokyr**: shared the 2025 Economics Nobel and is at Northwestern University in the US, but he was **born in the Netherlands**.\n\nDurable fact: the 2025 Physics prize was for showing that a **superconducting circuit large enough to hold in your hand** behaves quantum-mechanically — tunnelling and discrete energy levels — which is the physical basis of today's superconducting qubits.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2826,7 +2906,8 @@
     "reasoning": "John Clarke, co-winner of the 2025 Nobel Prize in Physics (with Devoret and Martinis) for macroscopic quantum tunnelling in electric circuits, was born in Cambridge, England and is a professor at UC Berkeley. Robson (Chemistry 2025) is UK-born but at Melbourne, Devoret is French-born, and Mokyr (Economics 2025) was born in Leiden.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 82,
@@ -2847,7 +2928,7 @@
     "CAI-09"
    ],
    "primary_topic_code": "CAI-09",
-   "explanation_md": null,
+   "explanation_md": "The four majors are jointly governed and entry is open to ranked players over 14, but the cap on wild cards applies to the **tournament**, not to the player — so statement 3 flips the subject of a real rule.\n\n- **1 correct**: the four Grand Slams operate under a shared **Grand Slam Board**, which issues the common Grand Slam Rule Book — a genuine partnership structure sitting outside the ATP and WTA tours.\n- **2 correct**: entry is open to internationally ranked players who have reached **14**, the age-eligibility floor. Actual main-draw acceptance is then decided by ranking cut-off, qualifying or a wild card — but eligibility to enter is as stated.\n- **3 incorrect**: no rule limits how many wild cards a given player may receive across events. The limit is on the host: a 128-player singles draw is filled by direct acceptances, **16 qualifiers and 8 wild cards**.\n\nDurable habit: when a statement caps something, check *whose* cap it is — per player or per tournament. UPSC reuses this switch constantly.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2861,7 +2942,8 @@
     "ambiguity_note": "Statement 3 is arguably defensible because the ITF Age Eligibility Rule does cap wild cards for under-18 players; however no '1 and 3 only' option exists, which forces 'c'. Worth flagging if the key says otherwise."
    },
    "dropped_by_upsc": false,
-   "review_flag": "Official key says a, independent reasoning said c. Check this one."
+   "review_flag": "Official key says a, independent reasoning said c. Check this one.",
+   "key_supported": true
   },
   {
    "q_no": 83,
@@ -2883,7 +2965,7 @@
     "ECO-15"
    ],
    "primary_topic_code": "SNT-10",
-   "explanation_md": null,
+   "explanation_md": "The **HCL–Foxconn** joint venture's display-driver chip plant approved under the India Semiconductor Mission is at **Jewar, Uttar Pradesh**, not Madhya Pradesh — which makes pair 3 the mismatch the question asks for.\n\n- **CG Power with Renesas and STARS Microelectronics : Gujarat** — correctly matched; the OSAT unit is at **Sanand**.\n- **Tata Semiconductor Assembly and Test (TSAT) : Assam** — correctly matched; the plant is at **Jagiroad**, the first large semiconductor packaging unit in the North-East.\n- **SicSem : Odisha** — correctly matched; this is a **silicon carbide** compound-semiconductor unit, not a silicon logic fab.\n\nDurable distinction worth carrying: almost all ISM-approved units so far are **assembly, testing, marking and packaging (ATMP/OSAT)**, not front-end fabrication. The Tata–PSMC plant at **Dholera, Gujarat** is the flagship exception — an actual wafer fab. Sorting the approvals into \"fab\" versus \"packaging\" is a cleaner way to remember them than memorising company names.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -2896,7 +2978,8 @@
     "reasoning": "The HCL-Foxconn joint venture display-driver chip plant approved under the India Semiconductor Mission is at Jewar, Uttar Pradesh, not Madhya Pradesh. The other three pairs are correct: CG Power/Renesas/STARS at Sanand (Gujarat), TSAT at Jagiroad (Assam), SicSem in Odisha.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 84,
@@ -2918,7 +3001,7 @@
     "GEO-14"
    ],
    "primary_topic_code": "SNT-14",
-   "explanation_md": null,
+   "explanation_md": "The Bharat Forecast System exists to give **finer spatial resolution** — a roughly 6 km grid intended to take forecasts down to **panchayat-cluster** level — but the institution behind it is not IIT Delhi.\n\n- **1 correct**: the stated objective is exactly this. A finer grid means rainfall and thunderstorm warnings can be issued for clusters of panchayats rather than for a whole district, which is what makes the model useful to farmers.\n- **2 incorrect**: BFS was developed by the **Indian Institute of Tropical Meteorology (IITM), Pune**, under the **Ministry of Earth Sciences**, and runs on the Arka high-performance computing system. IIT Delhi has no role.\n\nDurable fact: BFS was launched in **May 2025** and was presented as the highest-resolution operational weather model of its class, replacing a coarser global forecasting grid. The recurring trap in S&T current affairs is exactly this swap — **IITM Pune** (an MoES research institute) confused with an **IIT**. Same three letters, unrelated bodies.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -2931,7 +3014,8 @@
     "reasoning": "Statement 1 is correct — the Bharat Forecast System's 6 km resolution is intended to give forecasts down to panchayat-cluster level. Statement 2 is false: it was developed by IITM Pune under the Ministry of Earth Sciences, not IIT Delhi.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 85,
@@ -2952,7 +3036,7 @@
     "CAI-09"
    ],
    "primary_topic_code": "CAI-09",
-   "explanation_md": null,
+   "explanation_md": "'Boong' is the debut Manipuri-language feature by **Lakshmipriya Devi**, and the BAFTA category it won is so recently created that any Indian winner is necessarily the first.\n\n- **1 correct**: the film won the BAFTA in the **Children's and Family Film** category.\n- **2 correct**: it is directed by **Lakshmipriya Devi**. The film premiered at the Toronto International Film Festival in 2023 and follows a schoolboy in Manipur searching for his missing father.\n- **3 correct, and it follows from 1**: the Children's and Family Film award was introduced at the BAFTA Film Awards only in **2025**, and no Indian film had won it before — so a win makes 'Boong' the first.\n\nExam technique worth more than the fact: this option set is **self-checking**. Statement 3 cannot be true unless statement 1 is true, which kills '3 only' and '2 and 3 only' outright. Once you are certain of statement 2, '1, 2 and 3' is the only internally consistent option left.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -2965,7 +3049,8 @@
     "reasoning": "Statement 2 is certainly true — 'Boong' is directed by Lakshmipriya Devi. If the film won the BAFTA Children's and Family Film award (statement 1), then statement 3 follows, since that category only began in 2025 and had no prior Indian winner; the option structure also rules out any combination where 1 is false but 3 is true.",
     "ambiguity_note": "This turns on a February 2026 BAFTA result I cannot verify. If 'Boong' was nominated but did not win, or won a BAFTA Children's & Young People award rather than the film-award category, the intended answer could differ. Human re-check recommended."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 86,
@@ -2986,7 +3071,7 @@
     "SNT-09"
    ],
    "primary_topic_code": "SNT-09",
-   "explanation_md": null,
+   "explanation_md": "Statements 1, 2 and 4 are the standard defining properties of a blockchain; statement 3 is a **misnamed type**.\n\n- **1 correct**: all permitted participants read the same ledger, and entries are tamper-evident — visibility without the risk of silent alteration.\n- **2 correct**: every full node holds a copy of the **entire** ledger and the network reconciles those copies continuously; this replication, not encryption, is what makes the record hard to destroy.\n- **3 incorrect**: a blend of public and private with selective data access is a **hybrid** blockchain. A **consortium (federated)** blockchain is one where a pre-selected **group of organisations** jointly runs the validating nodes — permissioned and shared, not a public-private mix.\n- **4 correct**: each block stores the hash of the previous block, so altering an accepted record breaks every hash after it and the network rejects the chain.\n\nDurable taxonomy: **public** (permissionless), **private** (one organisation), **consortium** (several organisations share control), **hybrid** (public and private elements, selective access).",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -2999,7 +3084,8 @@
     "reasoning": "Statements 1, 2 and 4 are standard descriptions of blockchain — tamper-evident shared visibility, replicated synchronised copies across nodes, and cryptographic immutability. Statement 3 is the odd one: a blend of public and private allowing selective access describes a hybrid blockchain; a consortium blockchain is one governed jointly by a group of organisations.",
     "ambiguity_note": "Several popular sources loosely describe consortium blockchains as a public-private blend, so statement 3 is not cleanly false; if the setter treated it as true the intended answer could be 'a'. Statement 4's absolute 'impossible' is also a strong claim."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 87,
@@ -3020,7 +3106,7 @@
     "ECO-20"
    ],
    "primary_topic_code": "ECO-20",
-   "explanation_md": null,
+   "explanation_md": "The arrangement described — seller controls the price, holds **no inventory**, forwards the order to a third-party supplier who ships direct to the customer — is the definition of **dropshipping**.\n\n- **Affiliate revenue model**: the site earns a **commission for referrals**, sending traffic to somebody else's checkout. It never sells the product or sets its price.\n- **Transaction fee revenue model**: the platform earns a fee for **enabling** a transaction between two other parties — a marketplace or broker taking a cut per trade, not a seller.\n- **Agency revenue model**: an agent sells on the principal's behalf for a commission, does not take title to the goods, and does **not control pricing**.\n\nDurable test: dropshipping is identified by **two** things together — pricing control retained by the seller *plus* zero inventory. Remove the pricing control and you are describing an agency or affiliate arrangement; remove the direct-ship supplier and you are describing ordinary retail.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -3033,7 +3119,8 @@
     "reasoning": "The described arrangement — seller sets price, holds no inventory, forwards orders to a third-party supplier who ships directly to the customer — is the textbook definition of dropshipping. Affiliate, transaction-fee and agency models involve commissions or intermediation rather than order fulfilment by a supplier.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 88,
@@ -3055,7 +3142,7 @@
     "CAI-08"
    ],
    "primary_topic_code": "ECO-06",
-   "explanation_md": null,
+   "explanation_md": "The RBI's Financial Inclusion Index rests on three sub-indices — **Access, Usage and Quality** — weighted **35%, 45% and 20%** respectively.\n\n- **Access** captures the supply side: branches, ATMs, banking correspondents, accounts opened.\n- **Usage** captures actual use: savings, credit, insurance, remittances, digital payments. It carries the largest weight, because an unused account is not inclusion.\n- **Quality** captures financial literacy, consumer protection and inequality in service delivery.\n\nThe wrong options fail on composition. Credit access/insurance depth/pension coverage is a list of **products**, not dimensions. GDP contribution belongs to no inclusion measure. Affordability and transparency are ideas folded **inside** Quality, not standalone sub-indices.\n\nDurable facts: the FI-Index runs on a **0 to 100** scale (0 = complete exclusion, 100 = full inclusion), was first published in **August 2021**, is released annually for the year ending **March**, and deliberately has **no base year** — so it reports a level, not a change from a reference point.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -3068,7 +3155,8 @@
     "reasoning": "The RBI's Financial Inclusion Index is built from three sub-indices — Access (35%), Usage (45%) and Quality (20%). The other options list plausible-sounding but incorrect components.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 89,
@@ -3089,7 +3177,7 @@
     "ECO-20"
    ],
    "primary_topic_code": "ECO-20",
-   "explanation_md": null,
+   "explanation_md": "ONDC is a set of **open protocols** that lets a buyer using one app discover and transact with a seller listed on a different app, dissolving the walled gardens in which each platform locks in its own buyers and sellers.\n\n- **(a) wrong**: ONDC does not route, control or surveil transactions. It is a **Section 8 non-profit company**, and the network is run by private buyer-side and seller-side participants.\n- **(b) wrong**: existing e-commerce players are meant to **join** the network as network participants, not be replaced by it.\n- **(d) wrong**: ONDC is a commerce protocol and is payment-agnostic; it mandates nothing about UPI.\n\nDurable analogy: ONDC attempts for commerce what **UPI did for payments** — unbundle the app from the network, so the buyer-side app, the seller-side app, the logistics provider and the payment rail can each belong to a different company and still interoperate. It is built on the **Beckn** protocol, and the key word in any ONDC option is **interoperability**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -3102,7 +3190,8 @@
     "reasoning": "ONDC is an open protocol designed to unbundle and decentralise digital commerce so buyers and sellers on different platforms can transact across networks, countering platform-centric dominance. It neither replaces private players nor mandates UPI nor puts transactions under government control.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 90,
@@ -3124,7 +3213,7 @@
     "ECO-02"
    ],
    "primary_topic_code": "ECO-20",
-   "explanation_md": null,
+   "explanation_md": "Statement **(d)** is the false one: the **Digital Rupee is a direct liability of the Reserve Bank of India**, exactly like a currency note, whereas a UPI transfer moves commercial-bank deposit money, where the liability sits with the depositor's bank.\n\n- **(a) correct**: UPI is a payment *rail*; e-rupee is *money* — the digital form of sovereign currency, legal tender like a note.\n- **(b) correct**: UPI debits one bank account and credits another, which requires interbank settlement behind the scenes. A CBDC transfer moves the token from wallet to wallet and is final on transfer, like handing over cash.\n- **(c) correct**: wallet-to-wallet e-rupee movements do not appear in a bank statement, which gives CBDC its cash-like anonymity at small values.\n\nDurable test for any CBDC question: ask **whose liability it is**. Central bank liability = currency and CBDC. Commercial bank liability = deposits moved by UPI, NEFT or cards. CBDC also **earns no interest** — again, like cash.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -3137,7 +3226,8 @@
     "reasoning": "Option (d) is the incorrect statement: the Digital Rupee is a direct liability of the Reserve Bank of India, not of the user's bank, whereas UPI moves bank-account money where the bank holds the liability. Options (a), (b) and (c) reflect the RBI's own stated distinctions between UPI and CBDC.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 91,
@@ -3159,7 +3249,7 @@
     "SNT-09"
    ],
    "primary_topic_code": "ECO-20",
-   "explanation_md": null,
+   "explanation_md": "All three statements describe real-world asset tokenization accurately, so every statement is included.\n\n- **1 correct**: tokenization means representing a claim on a real asset — property, bonds, gold, fund units — as a **digital token on a distributed ledger**. That is the definition, not a benefit claim.\n- **2 correct**: because the ledger runs continuously, tokenized assets can be traded and settled **24×7**, unlike exchanges with fixed trading hours and a settlement cycle. Continuous access plus small ticket sizes is the standard financial-inclusion argument.\n- **3 correct**: **fractional ownership** lets a retail investor hold a slice of asset classes that previously demanded a large minimum — commercial real estate, private credit, infrastructure.\n\nDurable mechanism: the economic value here is not the blockchain itself but **fractionalisation plus continuous settlement of otherwise illiquid assets**. The standing caution is legal rather than technical — a token is only worth the **enforceable claim on the underlying asset** that the law behind it recognises.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -3172,7 +3262,8 @@
     "reasoning": "All three are standard benefit claims about RWA tokenization: (1) converting real assets to blockchain tokens is the definition; (2) blockchain rails give round-the-clock access, a stated financial-inclusion argument; (3) fractionalisation is routinely described as opening high-growth asset classes to retail Indian investors. No statement is factually wrong, so all three.",
     "ambiguity_note": "Statement 3 is aspirational rather than factual — a strict reader could call it unproven, which would make (c) defensible. Worth flagging for human review."
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 92,
@@ -3194,7 +3285,7 @@
     "ENV-15"
    ],
    "primary_topic_code": "ECO-08",
-   "explanation_md": null,
+   "explanation_md": "Under ICMA's bond taxonomy a **Sustainability Bond** is defined as one whose proceeds finance or refinance a **combination** of green and social projects — precisely the stem's wording.\n\n- **Green Bond**: proceeds go only to **environmental** projects — renewables, clean transport, energy efficiency. India's Sovereign Green Bonds are of this type.\n- **Social Bond**: proceeds go only to **social** projects — affordable housing, healthcare, food security, employment generation for a target population.\n- **Sovereign Bond**: defined by **who issues it** (a national government), not by what the money funds. It is a category error in this list — a sovereign bond can itself be green, social or plain.\n\nDurable distinction: green, social and sustainability bonds are all **use-of-proceeds** labels. Contrast the **Sustainability-Linked Bond**, where proceeds are unrestricted and the **coupon steps up** if the issuer misses a pre-agreed sustainability target. Use-of-proceeds versus performance-linked is the axis on which these questions are usually set.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -3207,7 +3298,8 @@
     "reasoning": "By ICMA taxonomy, a Green Bond funds environmental projects, a Social Bond funds social projects, and a Sustainability Bond funds a combination of both — exactly the stem's wording.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 93,
@@ -3229,7 +3321,7 @@
     "ECO-06"
    ],
    "primary_topic_code": "ECO-15",
-   "explanation_md": null,
+   "explanation_md": "M1xchange is an RBI-authorised **TReDS** platform, so invoice and bill discounting is its entire role — statement 2 alone.\n\n- **1 incorrect**: TReDS financing is **collateral-free**. The MSME's invoice on a creditworthy buyer is itself the basis, financiers bid to discount it, and the financing is **without recourse** to the MSME. No security is taken, so \"collateral based loans\" is wrong on both counts — it is neither collateralised nor a loan.\n- **2 correct**: the platform runs the electronic auction where invoices and bills of exchange accepted by the buyer are discounted by banks and NBFC-Factors, paying the seller before the due date.\n- **3 incorrect**: credit rating is done by **SEBI-registered credit rating agencies**. A TReDS platform only operates the exchange; it rates no one.\n\nDurable fact: TReDS was created under RBI guidelines to attack **delayed payments to MSMEs**. The licensed platforms include **RXIL, M1xchange and Invoicemart**, and large corporate buyers above a notified turnover threshold are required to onboard.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -3242,7 +3334,8 @@
     "reasoning": "M1xchange is an RBI-licensed TReDS platform, so only statement 2 (discounting of invoices and bills of exchange) is correct; it does not give collateral-based loans (TReDS financing is collateral-free receivables discounting) and it is not a credit rating agency.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 94,
@@ -3263,7 +3356,7 @@
     "ECO-10"
    ],
    "primary_topic_code": "ECO-10",
-   "explanation_md": null,
+   "explanation_md": "Crowding out is the loanable-funds mechanism: heavy **government borrowing** raises the demand for a limited pool of savings, pushes up **interest rates**, and dearer credit displaces **private investment**.\n\n- **(a) wrong**: that describes **crowding in** — public capital spending on roads or power raising the return on private projects and pulling private investment in. It is the opposite effect, and in practice both can operate at once.\n- **(c) wrong**: higher taxes cut disposable income and post-tax returns. There is no standard channel by which they raise private investment.\n- **(d) wrong**: government spending with no effect on aggregate demand is a claim about a **zero multiplier**, a different and far more extreme proposition than crowding out.\n\nDurable nuance worth carrying into Mains: crowding out bites hardest at **full employment**, when savings are fully absorbed. In a slump with idle capacity and weak private credit demand, extra government borrowing can raise output with little pressure on rates — which is why the fiscal-deficit argument always turns on the state of the cycle.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -3276,7 +3369,8 @@
     "reasoning": "The crowding-out effect is the textbook mechanism whereby government borrowing raises interest rates and displaces private investment; (a) describes crowding in, and (c) and (d) are unrelated.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 95,
@@ -3298,7 +3392,7 @@
     "CAI-10"
    ],
    "primary_topic_code": "GEO-18",
-   "explanation_md": null,
+   "explanation_md": "Statements 1 and 3 hold; statements 2 and 4 are both wrong on a **number**, which is the design of the question.\n\n- **1 correct**: REEs sit in permanent magnets for robotics and EV motors, in the hardware supply chain for AI and data centres, and in space and defence systems.\n- **2 incorrect**: **China dominates REE mining and, more decisively, refining** — but India is not second. India holds sizeable monazite-bearing beach-sand reserves yet produces only a negligible share of world output; the USA, Myanmar and Australia are the significant producers after China.\n- **3 correct**: the Union Cabinet approved the **National Critical Mineral Mission in January 2025**, covering exploration, domestic and overseas asset acquisition, recycling and stockpiling.\n- **4 incorrect**: rare earths number **17** — the **15 lanthanides plus scandium and yttrium** — not 13.\n\nDurable fact: **reserves and production are different questions**. India's real bottleneck is separation and refining capacity, not ore in the ground — which is precisely what the NCMM targets.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -3311,7 +3405,8 @@
     "reasoning": "Statements 1 and 3 true (REEs are central to AI, robotics and space tech; NCMM was launched by the Union Cabinet in January 2025). Statement 2 false — China leads REE mining but is followed by the USA/Myanmar/Australia, not India. Statement 4 false — REEs are 17 elements (15 lanthanides plus scandium and yttrium), not 13.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 96,
@@ -3333,7 +3428,7 @@
     "CAI-07"
    ],
    "primary_topic_code": "ECO-16",
-   "explanation_md": null,
+   "explanation_md": "Both statements hold: hull insurance is the physical-damage cover on the aircraft itself, and the Montreal Convention imposes **strict liability** on the carrier for passenger death up to a first tier, with no proof of fault required.\n\n- **1 correct**: **Aviation Hull insurance** covers the airframe, engines and installed on-board equipment against loss or damage. It is distinct from **aviation liability cover**, which pays passengers, cargo owners and third parties on the ground.\n- **2 correct**: the **Montreal Convention, 1999** replaced the Warsaw regime for most international carriage and is widely ratified. Its **two-tier** scheme makes the airline liable up to a fixed limit (expressed in **Special Drawing Rights** and revised periodically) regardless of fault; above that limit the carrier escapes only by proving it was not negligent. India gave it domestic effect through the **Carriage by Air (Amendment) Act, 2009**.\n\nDurable point: under tier one the family must prove only the **death and the carriage** — never the airline's negligence. That reversal of the burden is the whole reform.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "low",
@@ -3346,7 +3441,8 @@
     "reasoning": "Statement 1 is the standard definition of aviation hull insurance (airframe, engines, on-board equipment). Statement 2 is correct: the Montreal Convention 1999, ratified by India in 2009 and by well over 130 states, imposes first-tier strict liability on carriers for passenger death without proof of fault.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 97,
@@ -3368,7 +3464,7 @@
     "ECO-15"
    ],
    "primary_topic_code": "ECO-07",
-   "explanation_md": null,
+   "explanation_md": "Both statements are correct, and statement 1 tracks SEBI's own working description of crowdfunding almost word for word.\n\n- **1 correct**: crowdfunding is the solicitation of **small sums from a large number of contributors**, typically through a web-based platform or social network, for a specific project or venture. The four usual forms are donation, reward, peer-to-peer lending and equity crowdfunding.\n- **2 correct**: for a small or medium enterprise the appeal is exactly this — capital at a **lower cost** than a bank loan or a public issue, raised without the disclosure, underwriting, listing and intermediary procedures a formal issue demands, with early market validation as a bonus.\n\nDurable caution to store next to the benefits: SEBI issued a **consultation paper on crowdfunding in 2014**, and in **2016** warned that electronic platforms facilitating **equity** crowdfunding in India were unrecognised and in violation of securities law. Donation and reward crowdfunding fall outside securities regulation; the moment a **security** is issued to the crowd, SEBI's regime applies.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -3381,7 +3477,8 @@
     "reasoning": "Statement 1 reproduces SEBI's own definition of crowdfunding almost verbatim. Statement 2 restates SEBI's listed advantage that SMEs can access capital more cheaply and without rigorous procedures. Both correct.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 98,
@@ -3404,7 +3501,7 @@
     "ECO-06"
    ],
    "primary_topic_code": "ECO-07",
-   "explanation_md": null,
+   "explanation_md": "Only rows 2 and 4 get all three columns right; rows 1 and 3 each fail on exactly one column — which is what a three-column table is built to punish.\n\n- **Row 1 incorrect**: the **R.N. Malhotra Committee (1993)** did examine insurance reform, but it was appointed by the **Government of India**, and IRDA was created in **1999 because of** its recommendation. A regulator cannot have formed the committee that gave rise to it.\n- **Row 2 correct**: the **L.C. Gupta Committee** was set up by **SEBI** and gave the roadmap for introducing **derivatives** trading in India.\n- **Row 3 incorrect**: the **Urjit Patel Committee (RBI, 2014)** was on revising and strengthening the **monetary policy framework** — CPI as the nominal anchor, inflation targeting, a Monetary Policy Committee. Nothing to do with housing finance.\n- **Row 4 correct**: the **Y.H. Malegam Committee** was an **RBI** committee on **microfinance**, set up after the 2010 Andhra Pradesh MFI crisis; it produced the NBFC-MFI category.\n\nDurable habit: in three-column tables, check the **sponsoring body** first — that is where the error usually hides.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -3417,7 +3514,8 @@
     "reasoning": "Row 1 wrong — the Malhotra Committee (1993) was set up by the Government of India and led to IRDAI's creation, so it could not be formed under IRDAI. Row 3 wrong — the Urjit Patel Committee (RBI, 2013) revised the monetary policy framework, not housing-sector lending. Rows 2 (L.C. Gupta, SEBI, derivatives) and 4 (Malegam, RBI, microfinance) are fully correct.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 99,
@@ -3439,7 +3537,7 @@
     "ECO-04"
    ],
    "primary_topic_code": "ECO-06",
-   "explanation_md": null,
+   "explanation_md": "Statements 1 and 4 are the textbook NBFC-versus-bank distinctions; statements 2 and 3 are both overstated.\n\n- **1 correct**: NBFCs cannot accept **demand deposits** — deposits repayable on demand. Deposit-taking NBFCs may take only **term deposits**, within RBI limits on tenure and rate.\n- **2 incorrect**: **not all** NBFCs register with the RBI. Companies already regulated elsewhere are exempted — stock broking, merchant banking and venture capital companies under **SEBI**, insurance companies under **IRDAI**, Nidhi companies under the **MCA**, chit fund companies under state law.\n- **3 incorrect**: NBFCs are **not part of the payment and settlement system** and cannot issue cheques drawn on themselves. That is a bank's privilege.\n- **4 correct**: **DICGC** deposit insurance covers bank depositors only; depositors of deposit-taking NBFCs have **no such cover** — the single most examinable NBFC fact.\n\nDurable trio separating an NBFC from a bank: **no demand deposits, no cheque-issuing or payment-system membership, no DICGC insurance.**",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
@@ -3452,7 +3550,8 @@
     "reasoning": "Statements 1 and 4 are correct per RBI's NBFC FAQs (no demand deposits; DICGC cover unavailable). Statement 2 is false because several categories of NBFC are exempt from RBI registration or are regulated by SEBI/IRDAI/state governments. Statement 3 is false — NBFCs are not part of the payment and settlement system and cannot issue cheques drawn on themselves.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   },
   {
    "q_no": 100,
@@ -3474,7 +3573,7 @@
     "ECO-17"
    ],
    "primary_topic_code": "ECO-18",
-   "explanation_md": null,
+   "explanation_md": "Statements 1 and 2 are correct; statement 3 inverts the very indicators that make India's index different from the global one.\n\n- **1 correct**: the MPI uses the **Alkire–Foster** dual cut-off method — an indicator cut-off to identify each deprivation, then a poverty cut-off (one-third of weighted indicators) to identify who is multidimensionally poor. The headline figure is **M0 = H × A**, headcount ratio multiplied by intensity.\n- **2 correct**: NITI Aayog's **National MPI** uses **three dimensions** — health, education and standard of living — and **twelve indicators**.\n- **3 incorrect**: **maternal health** and **bank account** are precisely the two indicators India **added**; the UNDP global MPI has **ten**. Being unique to the national index, they are the opposite of common to both.\n\nDurable fact: National MPI = the global MPI's 10 indicators **+ maternal health + bank account = 12**, across the same 3 dimensions. Knowing which two were added answers this question from either direction.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
@@ -3487,7 +3586,8 @@
     "reasoning": "Statements 1 and 2 are correct (Alkire-Foster methodology; NITI Aayog's National MPI uses 3 dimensions and 12 indicators). Statement 3 is false — Maternal Health and Bank Account are precisely the two extra indicators unique to India's National MPI, absent from the UNDP global MPI's 10 indicators, so they are not common.",
     "ambiguity_note": null
    },
-   "dropped_by_upsc": false
+   "dropped_by_upsc": false,
+   "key_supported": true
   }
  ],
  "independent_pass": {
@@ -3501,5 +3601,9 @@
   "released": "2026-05-27",
   "note": "UPSC provisional key, objections closed 31 May 2026. Final key may differ; re-check before Prelims 2027.",
   "verified": "Key table re-read from the uploaded PDF; Series A column confirmed identical."
+ },
+ "explanations_generated": {
+  "on": "2026-08-30",
+  "note": "Written fresh from subject knowledge, never copied from any published solution (decision D2)."
  }
 }
