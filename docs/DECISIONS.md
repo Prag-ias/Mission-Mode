@@ -149,3 +149,8 @@ Format: `### DN — <decision>` then **Context**, **Decision**, **Consequence** 
 **Context:** README's pipeline is `qpdf → pdftoppm → tesseract`. Neither qpdf nor tesseract is installed, and the one paper carrying an embedded OCR layer (GS1 2023) is visibly corrupted — `tbe`, `QuadrilaterSJ`, mangled Devanagari.
 **Decision:** Render English (odd) pages only with `pdftoppm -r 150 -png`, then transcribe the images directly by reading them, with an independent verification pass over every page.
 **Consequence:** No toolchain installs; italics, bold negatives, Roman-vs-Arabic numbering and tables survive; half the pages are never rendered because Hindi is skipped. `scripts/` gains a renderer, and README's pipeline section needs rewriting before the next paper.
+
+### D29 — Answer keys sourced through Forum IAS, but they are the official documents
+**Context:** upsc.gov.in 403s automated fetch and would not serve the archive keys to the user either; he supplied 2021–2025 keys as images from Forum IAS.
+**Decision:** Use them, but treat provenance as a claim to be tested rather than assumed. Each key is transcribed twice independently and reconciled, then corroborated by a blind answer pass; `answer_source` is set to `official` only where the key carries UPSC's own scoring metadata (series letter, items-dropped count) AND the blind pass agrees at a high rate. Anything weaker stays `forum_ias`, and per D1 every key-vs-reasoning disagreement sets `disputed = true`.
+**Consequence:** Supersedes D26's Vision IAS fallback for these five papers — one named coaching channel, not two. 2021's key is Series A with 99 scored and Q80 dropped, matching our Series A booklet.
