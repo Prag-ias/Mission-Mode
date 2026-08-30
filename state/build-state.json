@@ -15,7 +15,23 @@
     "v4": { "ship_by": "2027-01-31", "budget_hours": 12, "status": "not_started",  "hours_actual": null }
   },
 
-  "open_tasks": [],
+  "open_tasks": [
+    { "id": "ing-1", "task": "GS1 2026 pilot: render English pages, transcribe + independently verify + tag 100 questions", "est_minutes": 60, "status": "in_progress" },
+    { "id": "ing-2", "task": "Answer keys: load official UPSC provisional key (2026), official archive keys (2021-2024), Vision IAS where no official exists", "est_minutes": 40, "blocked_on": "user downloads the two official PDFs — upsc.gov.in blocks automated fetch" },
+    { "id": "ing-3", "task": "Cross-check every answer against my own independent reasoning; disagreements become disputed=true", "est_minutes": 90 },
+    { "id": "ing-4", "task": "Generate explanations upfront in batches of 20 (decision D2)", "est_minutes": 120 },
+    { "id": "ing-5", "task": "Human review artifact for the pilot: 100 questions, answers, provenance, low-confidence tags flagged", "est_minutes": 45 },
+    { "id": "ing-6", "task": "Load pilot via scripts/ingest-questions.ts (refuses unless reviewed_by_human and --confirm)", "est_minutes": 15 },
+    { "id": "ing-7", "task": "Remaining 5 GS1 papers with the validated pipeline", "est_minutes": 300, "blocked_on": "ing-6 (pilot approved)" },
+    { "id": "ing-8", "task": "6 CSAT papers (decision D27)", "est_minutes": 300, "blocked_on": "ing-7" },
+    { "id": "v3-1", "task": "tests/v3.spec.ts from acceptance criteria, before feature code", "est_minutes": 50 },
+    { "id": "v3-2", "task": "/practice: batches of 10-20, filters (subject, topic, year, format, previously-wrong), one question per screen", "est_minutes": 120 },
+    { "id": "v3-3", "task": "Confidence before reveal (sure/unsure/guess) recorded on every attempt; 'correct but guessed' reportable separately", "est_minutes": 45 },
+    { "id": "v3-4", "task": "Mistake log: wrong answer requires one of the six reason codes before the next question; no skipping", "est_minutes": 60 },
+    { "id": "v3-5", "task": "Ladder feedback: reason code 2 (knew_forgot) shortens that topic's next revision interval, reusing D23's rule", "est_minutes": 30 },
+    { "id": "v3-6", "task": "Disputed badge; disputed questions practised but excluded from accuracy stats", "est_minutes": 30 },
+    { "id": "v3-7", "task": "Batch summary screen (never a dead end); verify, 390px, gate close-out", "est_minutes": 75 }
+  ],
   "done_tasks": [
     { "id": "v1-1", "task": "tests/v1.spec.ts written before feature code; synthetic fixtures only", "actual_minutes": 35 },
     { "id": "v1-2", "task": "/syllabus grid + legend + counts + search (?q= ILIKE, snippets)", "actual_minutes": 55 },

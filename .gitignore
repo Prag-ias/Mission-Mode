@@ -34,3 +34,11 @@ yarn-error.log*
 /test-results/
 /playwright-report/
 
+# source papers — 295MB of scans, kept local, never committed.
+# Originals live in "Mission 2027/PYQs"; ingestion reads them and commits
+# only the extracted JSON.
+/PYQs/
+
+# rendered page images, regenerable from the PDFs with pdftoppm
+/.ingest/
+

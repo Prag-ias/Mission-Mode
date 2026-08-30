@@ -134,3 +134,18 @@ Format: `### DN — <decision>` then **Context**, **Decision**, **Consequence** 
 **Context:** Seeding 186 whole-syllabus pass events on a phase's first day would instantly bury the 12-item queue.
 **Decision:** Each pass distributes topics uniformly across its phase's date range, deterministically by topic order; re-seeding follows re-planned phase dates for uncompleted events only.
 **Consequence:** PASS season adds a steady 4–6 items/day, not a 186-item cliff; completed passes are immutable.
+
+### D26 — Vision IAS is the named answer-key fallback
+**Context:** D1 requires exactly one named coaching source where no official UPSC key exists. No keys were found anywhere on disk, and the 2026 official key cannot exist yet (that cycle has not concluded).
+**Decision:** Official UPSC key where published; **Vision IAS** otherwise, stored as `answer_source = 'vision_ias'`. Disagreement between sources sets `disputed = true`.
+**Consequence:** 2026 and probably 2025 rest on Vision IAS plus human review; only answer letters are taken from coaching sources — explanations are always generated fresh per D2, never copied.
+
+### D27 — CSAT is in scope after all (reverses README/CLAUDE.md)
+**Context:** README says "six GS Paper 1 papers only; CSAT ingestion is P2 and probably never happens". The user has all 12 papers and asked for CSAT too.
+**Decision:** Ingest all 12 papers — 6 GS1 + 6 CSAT, ~1,200 questions. The six `CSA-01`…`CSA-06` topics already exist with `pyq_drills = true`, so CSAT tags cleanly with no schema change.
+**Consequence:** Review burden doubles to ~6 hours of the user's time. GS1 is ingested first and completely; CSAT follows only once GS1 is loaded and v3 is usable.
+
+### D28 — Vision transcription, not the tesseract OCR pipeline
+**Context:** README's pipeline is `qpdf → pdftoppm → tesseract`. Neither qpdf nor tesseract is installed, and the one paper carrying an embedded OCR layer (GS1 2023) is visibly corrupted — `tbe`, `QuadrilaterSJ`, mangled Devanagari.
+**Decision:** Render English (odd) pages only with `pdftoppm -r 150 -png`, then transcribe the images directly by reading them, with an independent verification pass over every page.
+**Consequence:** No toolchain installs; italics, bold negatives, Roman-vs-Arabic numbering and tables survive; half the pages are never rendered because Hindi is skipped. `scripts/` gains a renderer, and README's pipeline section needs rewriting before the next paper.
