@@ -9,7 +9,7 @@ export type Stage = (typeof STAGES)[number]
 export const MANUAL_STAGES = ['unread', 'reading', 'read'] as const
 
 export const STAGE_BG: Record<Stage, string> = {
-  unread: 'bg-stone-200', // warm — cool grey looks dirty on the warm bg
+  unread: 'bg-stone-200 dark:bg-stone-600', // warm — cool grey looks dirty on the warm bg
 
   reading: 'bg-amber-400',
   read: 'bg-emerald-300',
@@ -18,6 +18,20 @@ export const STAGE_BG: Record<Stage, string> = {
   R3: 'bg-emerald-600',
   R4: 'bg-emerald-700',
   mains: 'bg-emerald-900',
+}
+
+/** Text colour that stays legible on each stage chip in BOTH themes: the
+ *  light stage backgrounds (amber, pale emerald) keep dark text even in dark
+ *  mode, because the chip itself stays light. */
+export const STAGE_TEXT: Record<Stage, string> = {
+  unread: 'text-ink',
+  reading: 'text-stone-900',
+  read: 'text-stone-900',
+  R1: 'text-stone-900',
+  R2: 'text-white',
+  R3: 'text-white',
+  R4: 'text-white',
+  mains: 'text-white',
 }
 
 export function isStage(v: string): v is Stage {

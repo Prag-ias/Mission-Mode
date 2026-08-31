@@ -4,7 +4,7 @@
  "source_pdf": "PYQs/Prelims/GS PAPER 1/GS PAPER 1 2025.pdf",
  "booklet_series": "A",
  "transcribed_on": "2026-08-30",
- "reviewed_by_human": false,
+ "reviewed_by_human": true,
  "answer_key": {
   "source": "official",
   "series": "A",
@@ -36,12 +36,19 @@
     "ECO-07"
    ],
    "primary_topic_code": "ECO-08",
-   "explanation_md": null,
+   "explanation_md": "Alternative Investment Funds are **privately pooled vehicles** under SEBI's AIF Regulations, 2012 — so the two pooled funds on the list qualify, while bonds and stocks are direct, conventional investments, not funds at all.\n- **I. Bonds** — a traditional debt security held directly; not a pooled fund, not an AIF.\n- **II. Hedge Funds** — AIF, **Category III** (complex strategies, leverage, derivatives).\n- **III. Stocks** — traditional equity; not an AIF.\n- **IV. Venture Capital** — AIF, **Category I** (funds in sectors seen as desirable — start-ups, SME, infrastructure, social ventures).\n\nTwo of four → (b).\n\nRemember: AIF categories — I: VC/SME/social/infrastructure funds; II: private equity and debt funds; III: hedge funds. Mutual funds and schemes covered by other SEBI regulations are expressly excluded.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Count-of-items ('How many of the above'), mapped to pairs — the vocabulary has no separate count-of-items slug.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Under SEBI AIF Regulations, hedge funds (Cat III) and venture capital (Cat I) are AIFs; bonds and stocks are traditional investments."
+   },
+   "key_supported": true
   },
   {
    "q_no": 2,
@@ -64,12 +71,19 @@
     "ECO-02"
    ],
    "primary_topic_code": "ECO-03",
-   "explanation_md": null,
+   "explanation_md": "The RBI earns from deploying its assets — interest and trading gains on government securities, and returns from foreign-exchange operations; the other three items are functions it does not perform or that cost it money.\n- **I. Buying/selling government bonds** — open market operations; interest on the G-sec portfolio is core income. Correct.\n- **II. Buying/selling foreign currency** — exchange gains and returns on forex reserves. Correct.\n- **III. Pension fund management** — not an RBI function; pension funds sit with PFRDA-regulated managers. Incorrect.\n- **IV. Lending to private companies** — RBI lends to banks and governments, never directly to private companies. Incorrect.\n- **V. Printing and distributing notes** — a major **expenditure**, paid to printing presses; currency yields income only indirectly, via the assets backing it. Incorrect.\n\nAnswer (a).\n\nRemember: the RBI's surplus is transferred to the Centre under **Section 47, RBI Act 1934**; the Bimal Jalan committee set the transfer framework.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "RBI earns from G-sec operations and forex transactions; it does not manage pension funds, lend to private companies, and note printing is an expenditure, not income."
+   },
+   "key_supported": true
   },
   {
    "q_no": 3,
@@ -92,12 +106,20 @@
     "ECO-11"
    ],
    "primary_topic_code": "POL-25",
-   "explanation_md": null,
+   "explanation_md": "Only the DRI row survives: the Enforcement Directorate answers to the Finance Ministry's Department of Revenue, not the MHA, and big-data analytics for tax officers is DGARM's mandate, not DG Systems'.\n- **I. ED** — function correct (it enforces the Fugitive Economic Offenders Act, 2018, alongside PMLA and FEMA), but it works under the **Department of Revenue, Ministry of Finance**, not MHA's Internal Security Division. Wrong.\n- **II. DRI** — the anti-smuggling intelligence arm under CBIC, Department of Revenue; enforcing the Customs Act, 1962 is exactly its job. Correct.\n- **III. DG Systems and Data Management** — runs CBIC's IT infrastructure; the big-data analytics role described belongs to the **Directorate General of Analytics and Risk Management (DGARM)**. Wrong.\n\nOne row → (a).\n\nRemember: despite its policing image, the ED is a **Ministry of Finance (Department of Revenue)** body — a favourite UPSC trap.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles POL and ECO: ED/DRI/DG Systems are enforcement bodies (POL-25 lists CBI-type bodies but not ED) sitting under the Department of Revenue (ECO-11).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "ED works under Department of Revenue, Ministry of Finance (not MHA), so row I is wrong; DRI and DG Systems rows are correctly matched."
+   },
+   "key_supported": true,
+   "review_flag": "Official key says a, independent reasoning said b."
   },
   {
    "q_no": 4,
@@ -120,12 +142,19 @@
     "ENV-15"
    ],
    "primary_topic_code": "ECO-07",
-   "explanation_md": null,
+   "explanation_md": "BRSR is a **SEBI** requirement, not an RBI one, and it binds only the top 1,000 listed companies by market capitalisation — which sinks Statement I twice over.\n- **I** — wrong regulator and wrong scope: SEBI mandated BRSR (mandatory from FY 2022-23) for the **top 1,000 listed companies**, not all listed companies; the RBI has no role.\n- **II** — correct: BRSR disclosures are ESG in nature — emissions, energy and water use, workforce welfare, governance — largely **non-financial**.\n\nAnswer (b).\n\nRemember: BRSR replaced the earlier Business Responsibility Report and is built on the **National Guidelines on Responsible Business Conduct (NGRBC)**; securities-market disclosure = SEBI, always.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles ECO and ENV — BRSR is a SEBI listing disclosure (ECO-07) whose content is ESG/sustainability reporting (ENV-15).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "BRSR is mandated by SEBI (not RBI) for the top 1000 listed companies, while its disclosures are indeed largely non-financial ESG matters."
+   },
+   "key_supported": true
   },
   {
    "q_no": 5,
@@ -148,12 +177,19 @@
     "ECO-14"
    ],
    "primary_topic_code": "ECO-11",
-   "explanation_md": null,
+   "explanation_md": "Poultry farming and wool rearing are **not agricultural income** under the Income-tax Act, so they enjoy no exemption — Statement I fails; rural agricultural land, however, genuinely sits outside the definition of a capital asset.\n- **Statement I** — incorrect: Section 10(1) exempts only 'agricultural income' as defined in Section 2(1A) — rent or revenue from land, income from cultivation and farm buildings. Allied activities (poultry, dairy, fisheries, wool rearing) fall outside it and are taxed normally.\n- **Statement II** — correct: **rural agricultural land** is excluded from 'capital asset' under Section 2(14), so its sale attracts no capital gains tax; urban agricultural land, by contrast, is a capital asset.\n\nAnswer (d).\n\nRemember: the exemption tracks **cultivation of land**, not rural livelihood generally — allied-sector income is taxable.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Poultry farming income is not agricultural income and is taxable (I wrong), while rural agricultural land is excluded from capital assets under Sec 2(14) (II correct)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 6,
@@ -176,12 +212,19 @@
     "CAI-04"
    ],
    "primary_topic_code": "GEO-18",
-   "explanation_md": null,
+   "explanation_md": "India joined the **Minerals Security Partnership** in June 2023 and the same year's MMDR amendment centralised auctions for critical minerals — but India identified its 30 critical minerals precisely because it is import-dependent for many of them.\n- **I** — correct: India became a member of the US-led MSP in June 2023.\n- **II** — wrong: India is deficient, not resource-rich, in many of the 30 identified critical minerals — lithium, cobalt and nickel are overwhelmingly imported.\n- **III** — correct: the **MMDR Amendment Act, 2023** empowers the Central Government to exclusively auction mining leases and composite licences for **24 critical minerals** listed in Part D of the First Schedule.\n\nAnswer (c).\n\nRemember: a statement claiming India is 'rich in all' of anything is almost always the planted falsehood — resource questions turn on import dependence.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles GEO and CAI — critical-mineral endowment and the MMDR amendment sit in GEO-18, the Minerals Security Partnership in CAI-04.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "India joined MSP in 2023 and the MMDR 2023 amendment lets the Centre exclusively auction certain critical minerals, but India is import-dependent for many of its 30 critical minerals."
+   },
+   "key_supported": true
   },
   {
    "q_no": 7,
@@ -204,12 +247,19 @@
     "ECO-07"
    ],
    "primary_topic_code": "ECO-08",
-   "explanation_md": null,
+   "explanation_md": "Bondholders are creditors with a contractual claim — they lend, earn fixed interest, and stand ahead of shareholders in repayment — and both of those facts are exactly why their risk is lower than stockholders'.\n- **Statement II** — correct: bondholders are **lenders** to the company; stockholders are **owners** holding the residual claim.\n- **Statement III** — correct: in repayment and liquidation, debt is serviced before equity; shareholders get only what remains.\n- Both II and III independently explain I — a fixed, prioritised claim means lower risk — so option (a), not (b) or (c).\n\nAnswer (a).\n\nRemember the repayment waterfall: secured creditors → unsecured creditors/bondholders → preference shareholders → equity shareholders.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Both II (lender vs owner) and III (repayment priority) are correct and both explain why bondholders face lower risk than stockholders."
+   },
+   "key_supported": true
   },
   {
    "q_no": 8,
@@ -232,12 +282,19 @@
     "ECO-08"
    ],
    "primary_topic_code": "ECO-07",
-   "explanation_md": null,
+   "explanation_md": "India genuinely dominates global equity-options trading and its market capitalisation overtook Hong Kong's in January 2024 — but Statement III erases SEBI, which plainly exists and acts.\n- **I** — correct: NSE is the world's largest derivatives exchange by contracts traded, and India accounts for a very large share of all equity option contracts globally.\n- **II** — correct: in January 2024 India's stock market capitalisation surpassed Hong Kong's, then the fourth largest in the world.\n- **III** — wrong: **SEBI** regulates the securities market, repeatedly warns small investors about F&O risks (its own study found most individual derivatives traders lose money), and proceeds against unregistered investment advisers.\n\nAnswer (a).\n\nRemember: any statement of the form 'there is no regulator for X' in Indian finance is nearly always false — SEBI, RBI, IRDAI or PFRDA covers it.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "India dominates global equity options volumes and briefly overtook Hong Kong's market cap in 2024, but SEBI does regulate and warn on options trading, so III is wrong."
+   },
+   "key_supported": true
   },
   {
    "q_no": 9,
@@ -260,12 +317,19 @@
     "ENV-12"
    ],
    "primary_topic_code": "ENV-15",
-   "explanation_md": null,
+   "explanation_md": "A circular economy keeps materials circulating through reuse, repair and recycling, so it simultaneously cuts virgin-raw-material demand and production waste — and each of those cuts lowers greenhouse-gas emissions.\n- **Statement II** — correct: recycled and reused materials substitute for virgin inputs, reducing extraction and processing.\n- **Statement III** — correct: designing waste out of production is a core circular-economy principle.\n- **Both** mechanisms explain Statement I: less mining, refining and transport means less energy burned; less waste means less landfill methane — so the answer is (a), not (b).\n\nAnswer (a).\n\nRemember the contrast: circular economy versus the linear **'take–make–dispose'** model — reduce, reuse, recycle at every stage of the product life cycle.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Circular economy both reduces raw material inputs and production wastage, and each mechanism contributes to lower greenhouse gas emissions."
+   },
+   "key_supported": true
   },
   {
    "q_no": 10,
@@ -287,12 +351,19 @@
     "ECO-10"
    ],
    "primary_topic_code": "ECO-10",
-   "explanation_md": null,
+   "explanation_md": "The definitional test decides this: a capital receipt must create a liability or reduce an asset, and interest received does neither — it is revenue.\n- **I** — correct: this is the textbook definition of capital receipts in the government budget.\n- **II** — correct: **borrowings** create a liability; **disinvestment** reduces the government's assets (its shareholding) — both are capital receipts.\n- **III** — wrong twice over: interest received on loans the government has given is a **revenue receipt** (non-tax revenue), and receiving interest creates no liability at all.\n\nAnswer (a).\n\nRemember the split on government loans: **recovery of the principal = capital receipt; interest earned on it = revenue receipt**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Capital receipts create liabilities or reduce assets and include borrowings and disinvestment, but interest received on loans is a revenue receipt creating no liability."
+   },
+   "key_supported": true
   },
   {
    "q_no": 11,
@@ -314,12 +385,19 @@
     "HIS-05"
    ],
    "primary_topic_code": "HIS-05",
-   "explanation_md": null,
+   "explanation_md": "Roy embodied exactly this combination: deep respect for Eastern philosophical tradition — he translated the Upanishads and grounded his monotheism in **Vedanta** — joined to a campaign for rationalism, science and the equal dignity of men and women.\n- **I** — correct: a scholar of Sanskrit, Persian and Arabic, he drew on Vedantic and Islamic rationalist traditions; his attack was on corruptions (idolatry, sati, caste rigidity), not on Eastern philosophy itself.\n- **II** — correct: he pressed for Western scientific education, press freedom, women's rights and the abolition of sati (achieved by **Regulation XVII of 1829** under Bentinck).\n\nAnswer (c).\n\nRemember: he founded the Brahmo Sabha in **1828**; the 'father of the Indian Renaissance' fused Eastern spiritual heritage with Western rationalism — UPSC tests both halves.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Per standard accounts (Bipan Chandra), Roy respected Eastern philosophical traditions while urging rationalism, science, human dignity and social equality."
+   },
+   "key_supported": true
   },
   {
    "q_no": 12,
@@ -341,12 +419,19 @@
     "HIS-10"
    ],
    "primary_topic_code": "HIS-10",
-   "explanation_md": null,
+   "explanation_md": "The giveaway is Statement III: the 1920 programme demanded the **surrender** of titles and honorary offices, not their quiet retention — the other three items are straight from the Non-Cooperation programme.\n- **I** — part of it: lawyers boycotted the law courts; foreign cloth was boycotted and burnt.\n- **II** — part of it: strict non-violence was Gandhi's non-negotiable condition — its breach at **Chauri Chaura** (February 1922) led him to withdraw the movement.\n- **III** — not part of it: titles were to be given up, not retained unused in public.\n- **IV** — part of it: panchayats were to settle disputes privately, replacing the boycotted courts.\n\nThree of four → (c).\n\nRemember: Non-Cooperation meant withdrawal of cooperation — surrender titles; boycott courts, schools, councils and foreign cloth — with constructive work (charkha, national schools, panchayats) alongside.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Count-of-items form mapped to pairs; topic fit itself is unambiguous.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Boycott of courts and foreign cloth, strict non-violence, and dispute-settling panchayats were parts; titles were to be surrendered, not retained."
+   },
+   "key_supported": true
   },
   {
    "q_no": 13,
@@ -369,12 +454,19 @@
     "ANM-11"
    ],
    "primary_topic_code": "ANM-10",
-   "explanation_md": null,
+   "explanation_md": "The araghatta was the **pot-wheel**: a large wheel with earthen pots fastened to the outer ends of its spokes, lifting water continuously as it turned — the ancestor of the Persian wheel (rahat), which added gearing and animal power.\n- (a) describes the leather bag hauled over a pulley (charasa/mhote) — a different device.\n- (c) a single earthen pot 'driven by bullocks' corresponds to no known irrigation device.\n- (d) the hand-drawn rope-and-bucket is simple well-lifting — precisely what the araghatta improved upon.\n\nAnswer (b).\n\nRemember the etymology: **ara (spoke) + ghata (pot)** — pots on a wheel; fitted with pin-drum gearing it became the Persian wheel that spread widely in Sultanate-era irrigation.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "low",
    "tagging_note": "Gap: no topic covers ancient/medieval agricultural technology or irrigation devices; parked under early-medieval agrarian economy, with Sultanate economy as the alternative home.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Araghatta (ghati-yantra/Persian wheel) was a large wheel with earthen pots attached to its spokes for lifting water."
+   },
+   "key_supported": true
   },
   {
    "q_no": 14,
@@ -396,12 +488,19 @@
     "ANM-08"
    ],
    "primary_topic_code": "ANM-08",
-   "explanation_md": null,
+   "explanation_md": "All three titles belong to **Mahendravarman I** (c. 600–630 CE), the versatile Pallava who wrote the Sanskrit farce *Mattavilasa Prahasana*; his Mandagapattu inscription styles him **Vichitrachitta** ('curious-minded'), and Gunabhara is another of his birudas.\n- **Simhavishnu** — his father, who consolidated Pallava power up to the Kaveri; no such titles.\n- **Narasimhavarman I 'Mamalla'** — his son, who defeated Pulakeshin II and sacked Vatapi ('Vatapikonda').\n- **Simhavarman** — an earlier Pallava name with no link to these titles.\n\nAnswer (a).\n\nRemember: Mahendravarman I pioneered Pallava **rock-cut cave temples** — the Mandagapattu inscription boasts of a shrine built without brick, timber, metal or mortar — and fought Pulakeshin II of the Chalukyas.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Pallava king Mahendravarman I bore the titles Mattavilasa, Vichitrachitta and Gunabhara."
+   },
+   "key_supported": true
   },
   {
    "q_no": 15,
@@ -423,12 +522,19 @@
     "ANM-08"
    ],
    "primary_topic_code": "ANM-08",
-   "explanation_md": null,
+   "explanation_md": "Fa-hien was in India c. **399–414 CE**, squarely within the reign of **Chandragupta II 'Vikramaditya'** (c. 375–415 CE) — though, tellingly, the pilgrim never names the king in his account.\n- **Samudragupta** (c. 335–375 CE) — his reign ended before the visit.\n- **Kumaragupta I** — ruled after, founder of Nalanda.\n- **Skandagupta** — later still, remembered for repelling the Hunas.\n\nAnswer (b).\n\nRemember the pilgrim–patron pairs: **Fa-hien ↔ Chandragupta II**; **Hiuen Tsang ↔ Harsha**; I-tsing came later via Srivijaya — a perennial Prelims matching set.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Fa-hien visited India during the reign of Chandragupta II (c. 375-415 CE)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 16,
@@ -450,12 +556,19 @@
     "ANM-09"
    ],
    "primary_topic_code": "ANM-09",
-   "explanation_md": null,
+   "explanation_md": "The Srivijaya expedition was **Rajendra I Chola's** — his navy struck the maritime empire commanding the Malacca Straits region (c. 1025 CE), securing Chola trade routes to China and Southeast Asia.\n- **Amoghavarsha** (Rashtrakuta) — 9th-century Deccan ruler, associated with *Kavirajamarga*, not naval expeditions.\n- **Prataparudra** (Kakatiya) — ruler of Warangal who faced Delhi Sultanate invasions.\n- **Vishnuvardhana** (Hoysala) — 12th-century inland Karnataka; no overseas campaign.\n\nAnswer (c).\n\nRemember: Rajendra I mounted India's most famous trans-oceanic campaign, and after his Ganga expedition took the title **'Gangaikonda Chola'**, building Gangaikondacholapuram as his capital.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Rajendra I Chola launched the famous naval expedition against Srivijaya around 1025 CE."
+   },
+   "key_supported": true
   },
   {
    "q_no": 17,
@@ -477,12 +590,19 @@
     "ANM-03"
    ],
    "primary_topic_code": "ANM-03",
-   "explanation_md": null,
+   "explanation_md": "Asmaka on the Godavari and Kosala on the Sarayu are the two correct pairs; Kamboja lay far north-west of the Vipas, and Avanti is nowhere near the Mahanadi.\n- **I. Asmaka–Godavari** — correct: the lone Deccan Mahajanapada, seated on the Godavari.\n- **II. Kamboja–Vipas** — wrong: Kamboja was in the Hindukush–Pamir region of the far north-west (capital Rajapura); the Vipas (modern **Beas**) flows through Punjab.\n- **III. Avanti–Mahanadi** — wrong: Avanti's cities Ujjain and Mahishmati stand in the **Shipra**–Narmada region; the Mahanadi drains Chhattisgarh–Odisha.\n- **IV. Kosala–Sarayu** — correct: Ayodhya and Shravasti lie in the Sarayu basin.\n\nTwo → (b).\n\nRemember: of the sixteen Mahajanapadas, **Asmaka alone lay south of the Vindhyas**; old river names — Vipas = Beas, Vitasta = Jhelum, Sutudri = Sutlej — repay memorising.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Mahajanapada-era territorial regions; the river half is historical geography, but the testable content is ANM-03.",
-   "transcription_note": "Printed as an unruled two-column pair list under the headings 'Territorial region' and 'River flowing in the region', with a colon between each pair; represented here as a table. Content and order verified against the page."
+   "transcription_note": "Printed as an unruled two-column pair list under the headings 'Territorial region' and 'River flowing in the region', with a colon between each pair; represented here as a table. Content and order verified against the page.",
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Asmaka-Godavari and Kosala-Sarayu are correct; Kamboja lay in the far northwest beyond the Vipas, and Avanti was on the Shipra, not the Mahanadi."
+   },
+   "key_supported": true
   },
   {
    "q_no": 18,
@@ -504,12 +624,19 @@
     "ART-08"
    ],
    "primary_topic_code": "ART-08",
-   "explanation_md": null,
+   "explanation_md": "Paluskar opened the first **Gandharva Mahavidyalaya at Lahore in 1901** — the first Hindustani music school run on public support and fees rather than princely patronage, part of his mission to make classical music respectable and widely accessible.\n- **Delhi** — the trap: the well-known Delhi Gandharva Mahavidyalaya was founded decades later by his followers.\n- **Gwalior** — the seat of the gharana he trained in, not the school's home.\n- **Ujjain** — no connection.\n\nAnswer (d).\n\nRemember the two modernisers of Hindustani music: **V.D. Paluskar** (Gandharva Mahavidyalaya, Lahore, 1901) and **V.N. Bhatkhande** (systematised notation and thaats; music college at Lucknow) — UPSC likes to swap them.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Vishnu Digambar Paluskar founded the first Gandharva Mahavidyalaya at Lahore in 1901."
+   },
+   "key_supported": true
   },
   {
    "q_no": 19,
@@ -531,12 +658,19 @@
     "ANM-05"
    ],
    "primary_topic_code": "ANM-05",
-   "explanation_md": null,
+   "explanation_md": "Ashoka's **Third Major Rock Edict** orders the Yuktas, Rajukas and Pradesikas out on tour every five years, and historians place all three in **district-level** administration — the Pradeshika as district head, the Rajuka handling revenue and rural justice, the Yukta a subordinate accounts official.\n- Village level (a) — headed by the gramika, not these officers.\n- Provincial level (c) — run by princely viceroys (kumaras) at Taxila, Ujjayini, Tosali and Suvarnagiri.\n- Central level (d) — the ministers and mahamatras at Pataliputra.\n\nAnswer (b).\n\nRemember: **Pillar Edict IV** gave the Rajukas independent judicial authority over the countryside — the standard marker that these were field officers, not courtiers.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Pradeshika, rajuka and yukta were officers of Mauryan district-level administration per Ashokan edicts."
+   },
+   "key_supported": true
   },
   {
    "q_no": 20,
@@ -558,12 +692,19 @@
     "HIS-10"
    ],
    "primary_topic_code": "HIS-10",
-   "explanation_md": null,
+   "explanation_md": "Both statements are textbook Non-Cooperation: the **Nagpur session (December 1920)** changed the Congress creed to the attainment of Swaraj by peaceful and legitimate means, and the movement was consciously staged, holding back civil disobedience as the next escalation.\n- **I** — correct: at Nagpur the goal became 'Swaraj by all legitimate and peaceful means' — wide enough to hold Gandhians and constitutionalists together.\n- **II** — correct: the programme was phased — surrender of titles and boycotts first; mass civil disobedience with non-payment of taxes was reserved for the next stage if Swaraj did not come within a year and repression continued (the Bardoli plan of early 1922), and Gandhi withdrew it after **Chauri Chaura** (February 1922).\n\nAnswer (c).\n\nRemember: Calcutta special session (September 1920) approved Non-Cooperation; **Nagpur (December 1920) changed the creed** — a standard confusion pair.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The Nagpur session declared Swaraj through peaceful and legitimate means, and the movement was staged with civil disobedience and non-payment of taxes reserved for a later stage."
+   },
+   "key_supported": true
   },
   {
    "q_no": 21,
@@ -586,12 +727,19 @@
     "GEO-24"
    ],
    "primary_topic_code": "CAI-04",
-   "explanation_md": null,
+   "explanation_md": "Four of the six — **Bulgaria, Croatia, Sweden and North Macedonia** — are NATO members.\n- Austria — constitutionally **neutral** since 1955; in the EU but never in NATO. ✗\n- Bulgaria — joined in the **2004** enlargement. ✓\n- Croatia — joined in **2009** (alongside Albania). ✓\n- Serbia — militarily neutral; a partner country, not a member. ✗\n- Sweden — dropped two centuries of non-alignment and joined in **March 2024** as the 32nd member. ✓\n- North Macedonia — joined in **2020** as the 30th member. ✓\n\nWorth keeping: the two newest members are Finland (2023, 31st) and Sweden (2024, 32nd); the EU-but-not-NATO set to remember is Austria, Ireland, Cyprus, Malta.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "NATO is not named in CAI-04's list of groupings; the question is really static membership plus European map knowledge (GEO-24).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Bulgaria, Croatia, North Macedonia and Sweden (joined March 2024) are NATO members; Austria and Serbia are not — four."
+   },
+   "key_supported": true
   },
   {
    "q_no": 22,
@@ -613,12 +761,19 @@
     "GEO-24"
    ],
    "primary_topic_code": "GEO-24",
-   "explanation_md": null,
+   "explanation_md": "The Andes pass through four of the listed six: **Bolivia, Colombia, Ecuador and Venezuela**.\n- Bolivia — the Altiplano lies between two Andean cordilleras. ✓\n- Brazil — entirely **east** of the Andes; its highlands are the old Brazilian Shield, not fold mountains. ✗\n- Colombia — the Andes split into three cordilleras there. ✓\n- Ecuador — Quito itself sits in an Andean basin. ✓\n- Paraguay — flat Chaco lowland; no Andes. ✗\n- Venezuela — the Mérida Cordillera is the Andes' northeastern arm. ✗→✓ member of the list. ✓\n\nWorth keeping: the Andes run through exactly **seven** countries — Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Argentina; Brazil and Paraguay never touch them.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Pure atlas recall for South America; GEO-24 map work is the only genuine home — no world-regional physiography topic exists.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The Andes run through Venezuela, Colombia, Ecuador and Bolivia from the list; Brazil and Paraguay are outside the cordillera — four."
+   },
+   "key_supported": true
   },
   {
    "q_no": 23,
@@ -641,12 +796,19 @@
     "GEO-01"
    ],
    "primary_topic_code": "GEO-24",
-   "explanation_md": null,
+   "explanation_md": "The equator crosses **none** of the three.\n- Lake Tanganyika — lies wholly **south** of the equator (roughly 3°S–9°S); the African great lake the equator does cross is **Lake Victoria**. ✗\n- Tonlé Sap — in Cambodia, around 12–13°N. ✗\n- Patos Lagoon — coastal southern Brazil, around 30–32°S. ✗\n\nWorth keeping: in Africa the equator clips Lake Victoria, while Tanganyika and Malawi lie entirely south of it — the classic trap this question sets.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Lake Tanganyika (~3.5-8.8 S), Tonle Sap (~13 N) and Patos Lagoon (~31 S) all lie off the equator — none."
+   },
+   "key_supported": true
   },
   {
    "q_no": 24,
@@ -668,12 +830,19 @@
     "GEO-17"
    ],
    "primary_topic_code": "GEO-17",
-   "explanation_md": null,
+   "explanation_md": "All three statements are true — India dominates world turmeric.\n- I — India is the **largest producer, consumer and exporter**, with roughly three-quarters of global production. ✓\n- II — more than **30 varieties** are grown, across some 20-plus states. ✓\n- III — **Maharashtra, Telangana, Karnataka and Tamil Nadu** are all major producing states. ✓\n\nWorth keeping: the **National Turmeric Board** was notified in October 2023, headquartered at **Nizamabad, Telangana** — the current-affairs hook this question grew from.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Per PIB on the National Turmeric Board, India is the largest producer/exporter, over 30 varieties are grown, and Maharashtra, Telangana, Karnataka, Tamil Nadu are the major states — all three correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 25,
@@ -695,12 +864,19 @@
     "GEO-03"
    ],
    "primary_topic_code": "GEO-03",
-   "explanation_md": null,
+   "explanation_md": "All three are Wegener's classic continental-drift evidences, lifted nearly verbatim from NCERT physical geography.\n- I — belts of **ancient rocks** on the Brazilian coast match those of western Africa in age and formation. ✓\n- II — Ghana's coastal **gold** deposits have no local source rock; the gold-bearing veins lie in Brazil, dating the deposits to when the continents sat side by side. ✓\n- III — India's **Gondwana system** of sediments has counterparts in six Southern Hemisphere landmasses. ✓\n\nWorth keeping: Wegener's evidence set — jigsaw fit of coastlines, rocks of the same age across oceans, tillite, placer deposits, and fossil distribution (Mesosaurus, Glossopteris).",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "All three are verbatim continental-drift evidences from NCERT Fundamentals of Physical Geography (matching Brazil-West Africa rock belts, Ghana gold from Brazil plateau, Gondwana sediments in six southern landmasses)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 26,
@@ -723,12 +899,19 @@
     "GEO-07"
    ],
    "primary_topic_code": "GEO-06",
-   "explanation_md": null,
+   "explanation_md": "Statement I is the textbook fact; Statement II inverts the reason for it.\n- I — dust concentration is indeed higher over **subtropical and temperate** regions than over equatorial and polar ones. ✓\n- II — those belts have **more dry winds** (deserts, seasonal aridity), not less; it is precisely the dry winds that lift dust into the air. ✗\n\nSo (c): I correct, II incorrect. Worth keeping: NCERT's line — dust is concentrated in the subtropics and temperate lands **because of dry winds**; these particles also serve as hygroscopic condensation nuclei for rainfall.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Dust concentration is higher in subtropical/temperate zones precisely because of MORE dry winds, so Statement I is correct and Statement II is wrong."
+   },
+   "key_supported": true
   },
   {
    "q_no": 27,
@@ -751,12 +934,19 @@
     "GEO-06"
    ],
    "primary_topic_code": "GEO-07",
-   "explanation_md": null,
+   "explanation_md": "Both statements are correct and II is exactly the mechanism behind I.\n- I — in January (northern winter) isotherms bend **equatorward over continents and poleward over oceans**. ✓\n- II — oceans, with high specific heat and constant mixing, stay **warmer than land** in winter. ✓ — warm ocean air pushes isotherms poleward; cold continental interiors drag them equatorward, which is statement I.\n\nAnswer (a). Worth keeping: isotherms always bend **toward the equator over the colder surface** — so the pattern flips in July, when hotter land bends them poleward over continents.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "In January NH isotherms bend equatorward over cold continents and poleward over warmer oceans, and the warmer ocean air is exactly the reason — II explains I."
+   },
+   "key_supported": true
   },
   {
    "q_no": 28,
@@ -779,12 +969,19 @@
     "GEO-05"
    ],
    "primary_topic_code": "GEO-02",
-   "explanation_md": null,
+   "explanation_md": "Only Statement II survives, and it explains I.\n- II — chalk is **porous**, absorbs water, and lets it pass through — the behaviour that makes it a permeable aquifer rock. ✓\n- III — clay is in fact **highly porous** (often more total pore space than chalk); its pores are just so minute and water-gripping that it is impermeable. \"Not at all porous\" is flatly wrong. ✗\n\nOne of II/III correct, and it explains I → (c). Worth keeping: **porosity ≠ permeability** — clay is porous yet impermeable because its pores are tiny and poorly connected; permeability needs interconnected pore spaces.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Tests rock porosity vs permeability and groundwater behaviour; the tree has no hydrogeology/groundwater topic, so rocks-and-minerals (GEO-02) is the nearest home, with karst/limestone (GEO-05) as support.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Chalk is porous and permeable (II correct, explains I) but clay is highly porous though impermeable, so III ('not at all porous') is wrong."
+   },
+   "key_supported": true
   },
   {
    "q_no": 29,
@@ -807,12 +1004,19 @@
     "ENV-12"
    ],
    "primary_topic_code": "GEO-06",
-   "explanation_md": null,
+   "explanation_md": "All three describe the natural greenhouse effect correctly.\n- I — without an atmosphere Earth's mean surface temperature would be about **−18°C**, well below freezing. ✓\n- II — heat absorbed and re-radiated by the atmosphere holds the actual average near **+15°C**. ✓\n- III — greenhouse gases like **CO2** (with water vapour and methane) are strong absorbers of outgoing longwave radiation. ✓\n\nAnswer (c). Worth keeping: the natural greenhouse effect is worth **33°C** of warming (−18°C → +15°C), and the gases trap outgoing terrestrial longwave radiation, not incoming shortwave sunlight.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles GEO and ENV: heat budget/atmospheric absorption is GEO-06, but the CO2-traps-radiation statement is squarely ENV-12 greenhouse science.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "All three are standard greenhouse-effect textbook statements (mean temp without atmosphere ~ -18 C, atmosphere trapping heat, CO2 a strong absorber), though 'everywhere' in I is physically loose."
+   },
+   "key_supported": true
   },
   {
    "q_no": 30,
@@ -835,12 +1039,19 @@
     "ECO-14"
    ],
    "primary_topic_code": "CAI-10",
-   "explanation_md": null,
+   "explanation_md": "Both statements restate the Rashtriya Gokul Mission's own stated objectives.\n- I — most low-producing indigenous bovines are held by **small and marginal farmers and landless labourers**, so upgrading them directly lifts poor rural incomes; this is the scheme's stated rationale. ✓\n- II — RGM was launched in December **2014** for development and conservation of **indigenous cattle and buffalo** breeds in a scientific and holistic manner. ✓\n\nAnswer (c). Worth keeping: RGM sits under the Department of Animal Husbandry & Dairying, targets indigenous breed improvement (Gir, Sahiwal, etc.), and continues under the umbrella Rashtriya Pashudhan Vikas Yojana.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "No animal husbandry / livestock topic exists in the tree; a named scheme puts it in the schemes tracker, with agriculture policy as the fallback.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Both statements are near-verbatim from the DAHD description of Rashtriya Gokul Mission — indigenous bovine development in a scientific holistic manner, benefiting small/marginal farmers who hold most low-producing indigenous animals."
+   },
+   "key_supported": true
   },
   {
    "q_no": 31,
@@ -863,12 +1074,19 @@
     "ENV-11"
    ],
    "primary_topic_code": "ENV-12",
-   "explanation_md": null,
+   "explanation_md": "Both II and III are correct cement chemistry, but only III explains the emissions in I.\n- II — the raw mix is **limestone plus silica-bearing clay** (source of the calcium silicates). ✓ — but mixing clay releases no CO2, so it does not explain I.\n- III — during clinker production, **calcination** turns limestone into lime: CaCO3 → CaO + CO2, releasing CO2 directly from the rock. ✓ — this process emission, plus kiln fuel, is why cement alone exceeds 5% of global emissions.\n\nAnswer (b). Worth keeping: roughly half of cement's CO2 is **process emission** from calcination itself — untouchable by fuel-switching, which is why cement is a \"hard-to-abate\" sector.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "The emissions share is ENV-12, but statements II and III are cement process chemistry (clinker, limestone to lime) which no topic in the vocabulary covers.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Cement contributes ~7-8% of global CO2 and both II and III are true, but only calcination of limestone to lime (III) explains the emissions, not the clay mixing."
+   },
+   "key_supported": true
   },
   {
    "q_no": 32,
@@ -891,12 +1109,19 @@
     "SNT-04"
    ],
    "primary_topic_code": "ENV-13",
-   "explanation_md": null,
+   "explanation_md": "Statement II is false; III is the actual reason India stayed out.\n- II — a COP declaration is **political and non-binding**; signing it creates no mandatory obligation to decarbonize anything. ✗\n- III — India's stated concern was that cutting health-sector emissions (cooling, medical gases) could strain delivery — decarbonisation **may compromise health-system resilience**. ✓ — and that concern explains why India refrained (I).\n\nOne of II/III correct and it explains I → (c). Worth keeping: COP-side declarations and pledges (health, methane) are voluntary; only treaty instruments bind — and even Paris NDCs are nationally determined, not imposed.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles ENV and SNT: a COP28 declaration (ENV-13) whose subject matter is health-sector decarbonisation and health-system resilience (SNT-04).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "The COP28 health declaration is non-binding (II false), while concern that decarbonizing the health sector could compromise its resilience (III) was India's stated reason for not signing."
+   },
+   "key_supported": true
   },
   {
    "q_no": 33,
@@ -920,12 +1145,19 @@
     "SNT-06"
    ],
    "primary_topic_code": "GEO-01",
-   "explanation_md": null,
+   "explanation_md": "Both II and III are true, but only III explains the shift in Earth's rotation and axis.\n- II — solar flares and **coronal mass ejections** do bombard the outer atmosphere with enormous energy (geomagnetic storms). ✓ — but that energy does not move the planet's rotation axis, so it does not explain I.\n- III — melting polar ice sends water mass **toward the equator**; this redistribution of mass measurably shifts the rotation axis and alters the length of day. ✓ — the mechanism behind I.\n\nAnswer (b). Worth keeping: Earth's axis drifts with **mass redistribution** — ice-sheet melt and groundwater pumping have both been shown to move the pole; space weather affects satellites and the ionosphere, not rotation.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Three-way straddle: Earth's rotation/axis is GEO-01, polar ice melt redistributing mass is ENV-12, solar flares and CMEs sit under SNT-06.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Both II and III are factually correct, but only equatorward mass redistribution from polar ice melt (III) explains the shift in Earth's rotation/axis; solar flares do not."
+   },
+   "key_supported": true
   },
   {
    "q_no": 34,
@@ -947,12 +1179,19 @@
     "ENV-13"
    ],
    "primary_topic_code": "ENV-13",
-   "explanation_md": null,
+   "explanation_md": "Both II and III describe real halves of Article 6, so both explain why it dominates climate talks.\n- II — Article 6 sets the principles of **carbon markets**: Art 6.2 allows bilateral trading of mitigation outcomes (ITMOs) and Art 6.4 creates a centralised UN crediting mechanism, successor to the CDM. ✓\n- III — Art **6.8** provides for cooperative **non-market approaches** between countries to meet climate targets. ✓\n\nBoth correct and both explaining I → (a). Worth keeping: Article 6 = 6.2 bilateral ITMO trading, 6.4 UN carbon-credit mechanism, 6.8 non-market cooperation; its rulebook was largely settled at COP26 Glasgow.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Article 6 covers both carbon markets (6.2/6.4) and non-market approaches (6.8), and both aspects are why it dominates climate and sustainable-development discussions."
+   },
+   "key_supported": true
   },
   {
    "q_no": 35,
@@ -975,12 +1214,19 @@
     "ENV-15"
    ],
    "primary_topic_code": "ECO-13",
-   "explanation_md": null,
+   "explanation_md": "The **Asian Development Bank** launched the Nature Solutions Finance Hub for Asia and the Pacific (announced at COP28, 2023) to scale up finance for nature-based solutions in the region.\n- AIIB — the Beijing-headquartered infrastructure bank; not behind this hub. ✗\n- NDB — the BRICS bank in Shanghai; no such initiative. ✗\n- IBRD — the World Bank's lending arm for middle-income countries; not the sponsor. ✗\n\nWorth keeping: ADB — headquartered in **Manila**, established 1966 — has become the default answer for Asia-Pacific green-finance launches; pair this hub with its climate financing facility IF-CAP.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Answering it means knowing which multilateral bank (ECO-13 names ADB, NDB, IBRD); the subject matter is nature/green finance under ENV-15.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The Nature Solutions Finance Hub for Asia and the Pacific was launched by the Asian Development Bank at COP28."
+   },
+   "key_supported": true
   },
   {
    "q_no": 36,
@@ -1003,12 +1249,19 @@
     "ENV-16"
    ],
    "primary_topic_code": "ENV-12",
-   "explanation_md": null,
+   "explanation_md": "All three are recognised uses of **Direct Air Capture**.\n- I — DAC paired with geological storage is a form of **carbon sequestration** (negative emissions). ✓\n- II — captured CO2 is already used in **food processing** (carbonation) and as feedstock for making plastics and chemicals. ✓\n- III — DAC-sourced CO2 combined with **hydrogen** yields synthetic low-carbon fuels, a serious pathway for aviation. ✓\n\nAnswer (c). Worth keeping: DAC pulls CO2 from ambient air at ~420 ppm — far harder and costlier than point-source capture; with storage it is removal, with utilisation it is recycling.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "No dedicated carbon capture / CCUS / Direct Air Capture topic exists; climate change science is the closest, with synthetic low-carbon fuel pulling towards ENV-16.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "DAC-captured CO2 serves sequestration, feedstock for plastics/food processing, and synthesis with hydrogen into low-carbon aviation e-fuels — all three correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 37,
@@ -1031,12 +1284,19 @@
     "ENV-05"
    ],
    "primary_topic_code": "ENV-07",
-   "explanation_md": null,
+   "explanation_md": "The animal is a spider, so Statement I collapses at the word \"crustacean\".\n- I — the Peacock tarantula is an **arachnid** and a carnivore (insects and small prey), not an omnivorous crustacean. ✗\n- II — endemic to a single small patch of **reserve forest in Andhra Pradesh's Eastern Ghats**; its Indian range really is limited to some forest areas. ✓\n- III — it is **arboreal**, living in holes and crevices of tall trees. ✓\n\nAnswer (d). Worth keeping: *Poecilotheria metallica* — India's metallic-blue tarantula — is **Critically Endangered** (IUCN) from habitat loss and pet-trade collection.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": "Verified against p-17 at 2x zoom. 'Gooty tarantula' is printed in roman type in this scan, not italics; transcribed as roman text."
+   "transcription_note": "Verified against p-17 at 2x zoom. 'Gooty tarantula' is printed in roman type in this scan, not italics; transcribed as roman text.",
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The peacock tarantula is an arachnid (not a crustacean), arboreal, and confined to a tiny forest tract in Andhra Pradesh — II and III correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 38,
@@ -1059,12 +1319,19 @@
     "ENV-11"
    ],
    "primary_topic_code": "ENV-12",
-   "explanation_md": null,
+   "explanation_md": "India's per-capita number sinks Statement I; the other two hold.\n- I — India emits roughly **2 t CO2 per capita** (world average near 4.7 t) — nowhere near \"less than 0.5 t\". ✗\n- II — in CO2 from fuel combustion, India ranks **second in Asia-Pacific, after China**. ✓\n- III — **electricity and heat producers** (coal-dominated power) are India's single largest CO2 source. ✓\n\nAnswer (c). Worth keeping: India is the third-largest emitter in absolute terms yet only ~2 t per capita — the equity argument India runs in every climate negotiation.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": "In the paper CO2 uses a subscript 2 and the decimal is printed with a middle dot (0·5); rendered here as plain text. Verified at 2x zoom."
+   "transcription_note": "In the paper CO2 uses a subscript 2 and the decimal is printed with a middle dot (0·5); rendered here as plain text. Verified at 2x zoom.",
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "India's per-capita CO2 is ~1.9-2 t (I false); it ranks second in Asia-Pacific for fuel-combustion CO2 after China, and the power (electricity/heat) sector is the largest source."
+   },
+   "key_supported": true
   },
   {
    "q_no": 39,
@@ -1087,12 +1354,19 @@
     "GEO-17"
    ],
    "primary_topic_code": "SNT-01",
-   "explanation_md": null,
+   "explanation_md": "Three pairs are right; mint and papaya are mislabelled.\n- I. Cassava — a **woody shrub** (tapioca). ✓\n- II. Ginger — a herb whose upright shoot is a **pseudostem** of rolled leaf sheaths, like banana's. ✓\n- III. Malabar spinach (*Basella*) — a **herbaceous climber**. ✓\n- IV. Mint — a **perennial herb**, not an annual shrub. ✗\n- V. Papaya — botanically a giant soft-stemmed, **tree-like herb**; its trunk is not truly woody. ✗\n\nAnswer (b). Worth keeping: papaya and banana are giant herbs, not trees — plant **habit** (herb/shrub/climber) is a different axis from crop use, and UPSC tests the habit.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "low",
    "tagging_note": "Real gap: this is plant morphology (habit — shrub, herb, climber), and no topic covers botany. SNT-01 basic biology is cell/genetics/human systems and does not reach plant habit; GEO-17 only catches these as crops.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Cassava (woody shrub), ginger (herb with pseudostem) and Malabar spinach (herbaceous climber) match; mint is a perennial herb, not an annual shrub, and papaya is a soft-stemmed giant herb, not woody — three."
+   },
+   "key_supported": true
   },
   {
    "q_no": 40,
@@ -1116,12 +1390,19 @@
     "ENV-01"
    ],
    "primary_topic_code": "ENV-02",
-   "explanation_md": null,
+   "explanation_md": "Only the phytoplankton statement stands.\n- I — the oceans, not rainforests, lead oxygen production; the \"Amazon makes 20% of our oxygen\" line is a myth, and forests consume most of what they produce through respiration and decay. ✗\n- II — marine **phytoplankton** and photosynthetic bacteria (e.g. *Prochlorococcus*) produce about **50%** of the world's oxygen. ✓\n- III — inverted: well-aerated surface water holds far **less** oxygen per volume (~8–10 mg/L) than air does — which is exactly why dissolved-oxygen crashes kill fish. ✗\n\nAnswer (b). Worth keeping: the ocean supplies roughly half of Earth's oxygen, and water carries dozens of times less O2 per unit volume than air.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Oxygen production and dissolved oxygen sit between the oxygen cycle (ENV-02) and marine ecosystems (ENV-04); neither is an exact fit.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Oceans (phytoplankton/cyanobacteria) produce about half the world's oxygen — more than rainforests (I false), and water holds far less O2 per volume than air (III false), so II only."
+   },
+   "key_supported": true
   },
   {
    "q_no": 41,
@@ -1144,12 +1425,19 @@
     "ENV-16"
    ],
    "primary_topic_code": "SNT-12",
-   "explanation_md": null,
+   "explanation_md": "An **alternative powertrain** is any propulsion system other than the conventional petrol/diesel internal combustion drivetrain — so all three listed types qualify.\n- I. Full battery electric vehicles — electric motor powered solely by a battery pack; the classic alternative powertrain. **Counts.**\n- II. Hydrogen fuel cell vehicles — a fuel cell stack converts hydrogen to electricity on board; no combustion drivetrain. **Counts.**\n- III. Fuel cell-electric hybrids — pair a fuel cell with a battery/electric motor; still no conventional ICE drivetrain. **Counts.**\nNothing here is a trick: the family also includes plug-in hybrids, strong hybrids and even CNG/flex-fuel variants in broader usage — the defining test is *departure from the pure ICE drivetrain*, not the fuel alone.\nRemember: BEV, HEV, PHEV and FCEV are all \"alternative powertrains\"; the term is about the propulsion architecture, not just zero emissions.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Format stretch: options are counts of listed items, not of pairs or statements. The vocabulary has no generic 'how many of the above' slug, so pairs is used as the count format.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "BEVs, hydrogen fuel cell vehicles and fuel cell-electric hybrids are all alternative (non-ICE) powertrain vehicles."
+   },
+   "key_supported": true
   },
   {
    "q_no": 42,
@@ -1172,12 +1460,19 @@
     "SNT-07"
    ],
    "primary_topic_code": "SNT-13",
-   "explanation_md": null,
+   "explanation_md": "Every statement generalises with \"**all types**\" — and fixed-wing and engine-powered UAVs break each one, so none is correct.\n- I. Vertical landing — **wrong**. Fixed-wing UAVs (e.g. surveillance drones like Heron-class) land on runways or by belly/parachute recovery; only rotary-wing and VTOL designs land vertically.\n- II. Automated hovering — **wrong**. Hovering needs rotor-borne lift; a fixed-wing UAV stalls below its minimum airspeed and cannot hover at all.\n- III. Battery-only power — **wrong**. Many UAVs run on petrol/diesel piston engines, turboprops, hydrogen fuel cells or solar-electric hybrids; batteries dominate only small multirotors.\nUPSC's favourite trap in tech questions is the absolute quantifier: \"all types can\" fails if a single class of UAV cannot. Fixed-wing drones are the standing counterexample to hover/vertical-landing claims.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Fixed-wing UAVs can neither land vertically nor hover, and many UAVs use combustion engines, so no statement holds for all types."
+   },
+   "key_supported": true
   },
   {
    "q_no": 43,
@@ -1199,12 +1494,19 @@
     "SNT-12"
    ],
    "primary_topic_code": "SNT-12",
-   "explanation_md": null,
+   "explanation_md": "Lithium, cobalt and nickel sit in the **cathode**; graphite is the standard **anode** material — so only three of the four make up cathodes.\n- I. Cobalt — **cathode**. Part of NMC (nickel-manganese-cobalt) and NCA chemistries; stabilises the layered oxide structure.\n- II. Graphite — **not cathode**. It is the dominant anode, hosting lithium ions during charging.\n- III. Lithium — **cathode**. The cathode is a lithium metal oxide/phosphate (LiNiMnCoO₂, LiFePO₄); lithium ions shuttle between electrodes.\n- IV. Nickel — **cathode**. High-nickel cathodes raise energy density; the push to cut cobalt raises nickel content.\nDurable split to memorise: **cathode = Li + Ni + Co + Mn (or Fe-P in LFP); anode = graphite (moving toward silicon)**. That one line answers most EV-battery-materials questions, including why cobalt and nickel dominate critical-minerals diplomacy.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Format stretch: counts listed elements, not pairs or statements; pairs used as the count format for want of a 'how many of the above' slug.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Lithium, cobalt and nickel are cathode constituents; graphite is the anode material."
+   },
+   "key_supported": true
   },
   {
    "q_no": 44,
@@ -1226,12 +1528,19 @@
     "ENV-11"
    ],
    "primary_topic_code": "ENV-11",
-   "explanation_md": null,
+   "explanation_md": "All three contain plastic — each is a well-documented, non-obvious source of plastic and microplastic pollution.\n- I. Cigarette butts — **plastic**. Filters are made of **cellulose acetate**, a plastic fibre; butts are among the most littered plastic items on Earth.\n- II. Eyeglass lenses — **plastic**. Modern lenses are overwhelmingly polycarbonate or CR-39 resin, not glass.\n- III. Car tyres — **plastic**. Tyres are largely synthetic rubber (styrene-butadiene and similar polymers); road abrasion of tyres is one of the biggest single sources of environmental microplastics.\nThe question rewards knowing that \"plastic\" means synthetic/semi-synthetic polymers generally — not just packaging. Cellulose acetate filters and synthetic-rubber tyre wear are the two examples worth banking for any microplastics question.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Format stretch: counts listed objects, not pairs or statements; pairs used as the count format.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Cigarette filters (cellulose acetate), eyeglass lenses (polycarbonate/CR-39) and tyres (synthetic rubber polymers) all contain plastic."
+   },
+   "key_supported": true
   },
   {
    "q_no": 45,
@@ -1254,12 +1563,20 @@
     "GEO-18"
    ],
    "primary_topic_code": "SNT-12",
-   "explanation_md": null,
+   "explanation_md": "Coal gasification yields **syngas (CO + H₂)**, which feeds ammonia–urea and methanol–ethanol chains — but nitroglycerine is made by a nitration route that gasification does not serve.\n- I. Ethanol — **yes**. Syngas can be converted to ethanol via catalytic routes (through methanol/DME) or syngas fermentation; coal-to-ethanol plants exist.\n- II. Nitroglycerine — **no**. It is produced by nitrating glycerol with concentrated nitric–sulphuric acid; glycerol comes from fats/oils or propylene, not from syngas.\n- III. Urea — **yes**. Hydrogen from syngas makes ammonia, and ammonia + CO₂ makes urea. India's **Talcher Fertilizers** plant is built precisely on coal-gasification-to-urea.\nSo two of the three.\nRemember the chain: **coal → syngas (CO + H₂) → ammonia/urea, methanol, ethanol, SNG** — with Talcher as the flagship Indian example under the National Coal Gasification Mission.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "low",
    "tagging_note": "Two problems: format counts listed substances rather than pairs/statements, and coal gasification chemistry has no real home — SNT-12 is batteries/EV/hydrogen/solar and ENV-16 is renewables only, so coal-to-chemicals falls through the tree.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Coal-gasification syngas yields ethanol, ammonia-derived urea, and nitric acid used to make nitroglycerine, so all three."
+   },
+   "key_supported": true,
+   "review_flag": "Official key says b, independent reasoning said c."
   },
   {
    "q_no": 46,
@@ -1282,12 +1599,19 @@
     "SNT-11"
    ],
    "primary_topic_code": "SNT-07",
-   "explanation_md": null,
+   "explanation_md": "CL-20, HMX and LLM-105 are all **high-energy explosive compounds** used in military munitions — CL-20 (hexanitrohexaazaisowurtzitane) is among the most powerful non-nuclear explosives known, HMX (octogen) is a standard high explosive in warheads, and LLM-105 is an insensitive high explosive valued for safety in handling.\n- (a) wrong — refrigerant alternatives to HFCs are things like HFOs, ammonia and CO₂, chemically unrelated to nitramine explosives.\n- (c) and (d) wrong — these are **explosives, not fuels**: cruise missiles fly on jet fuel and rockets on propellants (HTPB, kerosene-LOX, hydrazine); explosives detonate in the warhead, they do not provide sustained propulsion.\nThe distinction that generalises: **propellant/fuel burns controllably for thrust; an explosive detonates for blast** — UPSC often hides the answer in that difference. India-link: these energetic materials appear in news around DRDO's advanced warhead formulations.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "CL-20, HMX and LLM-105 are high-energy military explosives, not propellant fuels."
+   },
+   "key_supported": true
   },
   {
    "q_no": 47,
@@ -1310,12 +1634,19 @@
     "SNT-10"
    ],
    "primary_topic_code": "SNT-09",
-   "explanation_md": null,
+   "explanation_md": "Majorana 1 is **Microsoft's** topological quantum computing chip, so the AWS attribution in II is the single planted error.\n- I. **Correct.** Majorana 1 (unveiled February 2025) uses topological qubits based on Majorana particles and is expected to enable scalable, error-resistant quantum computing.\n- II. **Wrong.** It was introduced by **Microsoft**, not Amazon Web Services. (AWS's own 2025 quantum chip was named Ocelot — a likely inspiration for this distractor.)\n- III. **Correct.** Deep learning is a subset of machine learning (neural networks with many layers), which in turn is a subset of AI — the standard nesting.\nHence I and III only.\nBank the attribution table for current-affairs tech: **Majorana 1 → Microsoft; Willow → Google; Ocelot → AWS** — company–chip mismatches are an easy mark for question-setters.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Majorana 1 is Microsoft's quantum chip (not AWS), and deep learning is indeed a subset of machine learning, so I and III."
+   },
+   "key_supported": true
   },
   {
    "q_no": 48,
@@ -1338,12 +1669,19 @@
     "SNT-03"
    ],
    "primary_topic_code": "SNT-02",
-   "explanation_md": null,
+   "explanation_md": "All three statements are textbook-true of monoclonal antibodies (mAbs): lab-made proteins engineered to bind one specific antigen, with proven antiviral uses.\n- I. **Correct.** mAbs are man-made in the sense that they are produced in the laboratory from cloned immune cells (classically hybridoma technology); chemically they are proteins (immunoglobulins).\n- II. **Correct.** Each mAb binds a single specific antigen/epitope; that binding can neutralise a pathogen directly or flag it for immune attack, thereby engaging immunological function.\n- III. **Correct.** mAbs are used against viral infections — the **m102.4** monoclonal antibody has been given for **Nipah** exposure (India sourced it during the Kerala outbreaks), and mAbs were widely used against COVID-19 and Ebola.\nDurable line: monoclonal = one parent cell clone, one antigen target — which is exactly why they work as precision drugs in cancer, autoimmune disease and viral outbreaks.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Monoclonal antibodies are lab-made proteins that bind specific antigens and have been used against Nipah virus."
+   },
+   "key_supported": true
   },
   {
    "q_no": 49,
@@ -1366,12 +1704,19 @@
     "SNT-02"
    ],
    "primary_topic_code": "SNT-01",
-   "explanation_md": null,
+   "explanation_md": "Each statement is an absolute \"**no virus can...**\" claim, and each has famous counterexamples — so none is correct.\n- I. **Wrong.** Oceans are the planet's largest viral reservoir — marine viruses are the most abundant biological entities in seawater and drive nutrient cycling by lysing plankton and bacteria.\n- II. **Wrong.** **Bacteriophages** are viruses that infect bacteria — the basis of phage therapy against antibiotic-resistant infections.\n- III. **Wrong.** Reprogramming host transcription is central to how viruses work: they hijack the host's transcriptional machinery to make viral proteins (HIV integrating into the genome is the extreme case).\nSo the count is zero.\nThe reusable lesson: in biology, a statement beginning \"no organism/virus can\" is almost always false — life's diversity supplies a counterexample, and bacteriophages are the counterexample UPSC reaches for most.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Counting format on statements, not pairs. Pure virology (bacteriophages, marine viruses, host transcription) has no dedicated topic; SNT-01 basic biology is the nearest fit.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Marine viruses abound, bacteriophages infect bacteria, and viruses alter host transcription, so all three statements are false."
+   },
+   "key_supported": true
   },
   {
    "q_no": 50,
@@ -1394,12 +1739,19 @@
     "SNT-11"
    ],
    "primary_topic_code": "ENV-11",
-   "explanation_md": null,
+   "explanation_md": "Both supporting statements are true, and each independently explains why activated carbon is a \"**good and attractive**\" remediation tool — II explains why it works, III explains why it is cheap and attractive.\n- Statement I — **correct**. Activated carbon is a standard adsorbent for treating industrial effluents and contaminated streams.\n- Statement II — **correct, explains I**. Its enormous internal surface area (hundreds to >1000 m²/g from its porous structure) gives it strong adsorption capacity for heavy metals and organic pollutants — the mechanism behind its effectiveness.\n- Statement III — **correct, explains I**. It can be synthesised from high-carbon wastes (coconut shell, rice husk, sawdust), which makes it low-cost and sustainable — the reason it is *attractive*, not merely good.\nSince both are correct and both explain I, (a) fits.\nRemember the mechanism word: **adsorption** (surface binding), not absorption — surface area is the whole game in activated carbon, zeolites and MOF-type materials.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles ENV pollution remediation and SNT new materials (adsorption, surface area).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Both II (adsorptive capacity makes it good) and III (cheap synthesis from waste makes it attractive) are correct and each explains Statement I."
+   },
+   "key_supported": true
   },
   {
    "q_no": 51,
@@ -1422,12 +1774,19 @@
     "POL-07"
    ],
    "primary_topic_code": "POL-17",
-   "explanation_md": null,
+   "explanation_md": "An ordinance under **Article 123** has the same force — and the same limits — as an Act of Parliament: it can do whatever Parliament can by law (amend Acts, operate retrospectively) but cannot do what Parliament cannot (violate Fundamental Rights).\n- I. **Correct.** Since an ordinance is co-extensive with Parliament's legislative power, it can amend any Central Act.\n- II. **Wrong.** An ordinance is \"law\" under **Article 13**, so one abridging a Fundamental Right would be void to that extent — exactly like an unconstitutional statute.\n- III. **Correct.** Like legislation, an ordinance can be given retrospective effect from a back date.\nHence I and III only.\nThe generalising principle (from *A.K. Roy* and *D.C. Wadhwa*): ordinance-making is legislative power exercised by the executive — same reach, same constitutional limitations, plus the extra sunset of ceasing six weeks after Parliament reassembles unless approved.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Ordinance power sits in POL-17 (President/Governor); statement II is an Art 13 point from POL-07.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "An ordinance can amend Central Acts and operate retrospectively, but being 'law' under Art 13 it cannot abridge Fundamental Rights."
+   },
+   "key_supported": true
   },
   {
    "q_no": 52,
@@ -1450,12 +1809,20 @@
     "ENV-06"
    ],
    "primary_topic_code": "POL-05",
-   "explanation_md": null,
+   "explanation_md": "All three descriptions are accurate pieces of North-East static GK.\n- I. Arunachal Pradesh — **correct**. Capital **Itanagar** takes its name from the historic **Ita Fort**, and the state has two National Parks: **Namdapha** and **Mouling**.\n- II. Nagaland — **correct**. Nagaland's creation was effected through the **13th Constitutional Amendment Act, 1962** (which also inserted the special provision Article 371A); it became a state in 1963.\n- III. Tripura — **correct**. The princely state merged with India in 1949 and became a **Part C state**; the States Reorganisation Act, 1956 made it a centrally administered **Union Territory**; full statehood came in **1972** under the North-Eastern Areas (Reorganisation) Act, 1971.\nSo all three pairs match.\nWorth banking: 1972 was the big NE year — Tripura, Manipur and Meghalaya all became full states together; Nagaland (1963) and Arunachal/Mizoram (1987) bracket it.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles subjects: state formation/reorganisation (POL-05) plus a national-parks count (ENV-06) and capital-city static GK that no topic squarely covers.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Arunachal (Itanagar/Ita Fort, Namdapha and Mouling NPs) and Tripura are correct, but Nagaland was created by the State of Nagaland Act 1962, an ordinary law, not a Constitutional Amendment."
+   },
+   "key_supported": true,
+   "review_flag": "Official key says c, independent reasoning said b."
   },
   {
    "q_no": 53,
@@ -1478,12 +1845,19 @@
     "POL-25"
    ],
    "primary_topic_code": "POL-15",
-   "explanation_md": null,
+   "explanation_md": "Only the Inter-State Council flows from the Constitution's own text; the other two were created outside it.\n- I. Inter-State Council — **constitutional**. **Article 263** empowers the President to establish it, and it was actually set up by presidential order in **1990** on the Sarkaria Commission's recommendation.\n- II. National Security Council — **not constitutional**. A purely executive body created in **1998**; it is neither constitutional nor statutory.\n- III. Zonal Councils — **not constitutional**. They are **statutory**, created by the **States Reorganisation Act, 1956** (the North Eastern Council by its own Act of 1971) — a favourite UPSC confusion with the constitutional Inter-State Council.\nSo only one.\nThe three-way classification worth internalising: **constitutional** (in the Constitution's text), **statutory** (by an Act of Parliament), **executive** (by government resolution) — most \"body\" questions are just this sorting exercise.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Only the Inter-State Council (Art 263) is constitutional; NSC is an executive body and Zonal Councils are statutory under the States Reorganisation Act 1956."
+   },
+   "key_supported": true
   },
   {
    "q_no": 54,
@@ -1506,12 +1880,19 @@
     "POL-17"
    ],
    "primary_topic_code": "POL-21",
-   "explanation_md": null,
+   "explanation_md": "The Governor — unlike the President — has **explicitly mentioned discretionary powers**, while reservation of state bills is exclusively the Governor's gateway, so I stands and II falls.\n- I. **Correct.** **Article 163** itself contemplates functions the Governor exercises \"in his discretion,\" and specific provisions confer such discretion — e.g. Article 371A (Nagaland), the Sixth Schedule role for tribal areas, and reserving bills under Article 200. The President's constitution contains no parallel express discretion.\n- II. **Wrong.** Under **Articles 200–201**, a bill reaches the President only when the **Governor reserves it**; the President has no power to reach out and pull a state bill for consideration on his own motion.\nThe durable contrast: President — aid and advice binding (Article 74, post-42nd/44th Amendments), no express discretion; Governor — aid and advice *except* where the Constitution requires discretion, and that discretion is textually acknowledged in Article 163.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Art 163 explicitly mentions the Governor's discretion, but only the Governor (Art 200) can reserve a state bill for the President."
+   },
+   "key_supported": true
   },
   {
    "q_no": 55,
@@ -1535,12 +1916,19 @@
     "POL-09"
    ],
    "primary_topic_code": "POL-11",
-   "explanation_md": null,
+   "explanation_md": "All three provisions are matched to their correct chapter of the Constitution.\n- I. Separation of judiciary from executive in the public services of the State — **correct**: **Article 50**, a Directive Principle of State Policy.\n- II. Valuing and preserving the rich heritage of our composite culture — **correct**: **Article 51A(f)**, a Fundamental Duty (the near-identical DPSP phrase in Article 49 is about monuments, a standard confusion).\n- III. Prohibition of employment of children below 14 in factories — **correct**: **Article 24**, a Fundamental Right under the right against exploitation.\nAll three pairs match.\nThe pattern to remember: several themes recur across FR/DPSP/FD with slightly different wording (children — Articles 24, 39(e)-(f), 45, 51A(k); culture — Articles 29, 49, 51A(f)); the question is always *which chapter this exact phrasing sits in*, and \"composite culture\" is the signature phrase of 51A(f).",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Deliberately spans three chapters: Art 50 (DPSP), Art 51A(f) (Fundamental Duties), Art 24 (Fundamental Rights).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Art 50 is a DPSP, Art 51A(f) a Fundamental Duty, and Art 24 a Fundamental Right, so all three pairs match."
+   },
+   "key_supported": true
   },
   {
    "q_no": 56,
@@ -1562,12 +1950,19 @@
     "POL-23"
    ],
    "primary_topic_code": "POL-23",
-   "explanation_md": null,
+   "explanation_md": "Declaring a Fifth Schedule Scheduled Area changes how the State governs — it does not displace the State government, and the Centre's role is to give **directions**, not take over.\n- I. **Wrong.** The executive power of the State expressly **extends to its Scheduled Areas**. The Governor gains special functions (reports to the President, power to adapt or bar laws) and a **Tribes Advisory Council** advises — but no local body assumes total administration.\n- II. **Wrong.** Para 3 of the Fifth Schedule lets the Union give **directions to the State** regarding administration of Scheduled Areas; nothing allows the Union to take over total administration on the Governor's recommendation.\nHence neither.\nThe clean contrast to carry: **Fifth Schedule** — State administers, Governor reports, Centre directs; **Sixth Schedule** — elected Autonomous District Councils actually exercise legislative and executive powers. Statement I describes something closer to the Sixth Schedule, which is the trap.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "In Fifth Schedule areas the State retains executive power and the Union may only give directions, not assume total administration, so neither statement is correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 57,
@@ -1589,12 +1984,19 @@
     "ECO-15"
    ],
    "primary_topic_code": "ECO-15",
-   "explanation_md": null,
+   "explanation_md": "The three organisations have simply been rotated one ministry off their real parents — every pair is mismatched.\n- I. National Automotive Board — **wrong**. It functions under the **Ministry of Heavy Industries** (it oversees the NATRiP/automotive testing infrastructure), not Commerce and Industry.\n- II. Coir Board — **wrong**. A statutory board under the **Ministry of Micro, Small and Medium Enterprises** (like the KVIC), not Heavy Industries.\n- III. National Centre for Trade Information — **wrong**. Set up by ITPO and NIC, it comes under the **Ministry of Commerce and Industry**, not MSME.\nSo none is correctly matched — each description actually belongs to one of the other rows.\nThe test-taking lesson: when every entry in a matching table looks plausible, check for a **cyclic shuffle** — UPSC's cheapest way to build an \"all wrong\" key from true ministry names.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "low",
    "tagging_note": "Gap in the syllabus tree: no topic covers static GK mapping of boards/bodies to their parent Union ministry. ECO-15 (industry/MSME) is only an approximate home for Coir Board and the National Automotive Board.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "National Automotive Board is under Heavy Industries, Coir Board under MSME, and NCTI under Commerce and Industry, so all three pairs are mismatched."
+   },
+   "key_supported": true
   },
   {
    "q_no": 58,
@@ -1617,12 +2019,19 @@
     "POL-15"
    ],
    "primary_topic_code": "POL-12",
-   "explanation_md": null,
+   "explanation_md": "The proviso to **Article 368(2)** lists the federal provisions needing ratification by half the State legislatures — Seventh Schedule lists and executive power are on it; the Governor's service conditions are not.\n- I. Union List, Seventh Schedule — **needs ratification**. Any change to the Seventh Schedule lists redistributes Union–State legislative power, squarely in the proviso.\n- II. Extent of the executive power of a State — **needs ratification**. Articles 73 and 162 (extent of Union and State executive power) are expressly listed.\n- III. Conditions of the Governor's office — **no ratification**. Governor provisions (Articles 153–162 generally) are amendable by Parliament's **special majority alone**.\nHence I and II only.\nMemorise the proviso's family: election of the President (Arts 54, 55), extent of executive power (73, 162), Union judiciary and High Courts, legislative relations, Seventh Schedule, representation of States in Parliament, and Article 368 itself — everything else needs at most special majority.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Amendments to Seventh Schedule lists and Art 162 (state executive power) need state ratification, but Governor's office conditions do not fall under the Art 368 proviso."
+   },
+   "key_supported": true
   },
   {
    "q_no": 59,
@@ -1644,12 +2053,19 @@
     "POL-21"
    ],
    "primary_topic_code": "POL-21",
-   "explanation_md": null,
+   "explanation_md": "Statements I and II restate **Article 361** (personal immunity of the President and Governors) and III restates **Article 194** (legislative privilege) — all three are correct.\n- I. **Correct.** Article 361(1): the Governor is not answerable to any court for the exercise and performance of the powers and duties of the office (judicial review of the *action* remains possible; the person is immune).\n- II. **Correct.** Article 361(2): no criminal proceedings whatsoever shall be instituted or continued against the President or a Governor **during the term of office**; even arrest is barred (clause 3).\n- III. **Correct.** Article 194(2): no member of a State Legislature is liable to proceedings in any court in respect of anything said or any vote given in the House (Article 105 is the parliamentary twin).\nDurable pairing: **Art 361 — personal immunity of President/Governor (criminal absolute during term; civil needs 2 months' notice); Arts 105/194 — freedom of speech in the House**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Art 361(1) and 361(2) protect the Governor and Art 194(2) protects legislators for speech in the House, so all three are correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 60,
@@ -1672,12 +2088,19 @@
     "GEO-18"
    ],
    "primary_topic_code": "ECO-16",
-   "explanation_md": null,
+   "explanation_md": "PNGRB regulates the **downstream and midstream** petroleum sector; upstream **production** of crude oil and natural gas is expressly outside its mandate — so only two of the four activities fall to it.\n- I. Production of crude oil — **not PNGRB**. Exploration and production are administered through the **Directorate General of Hydrocarbons** under the petroleum ministry.\n- II. Refining, storage and distribution — **PNGRB**. The PNGRB Act, 2006 covers refining, processing, storage, transportation and distribution.\n- III. Marketing and sale of petroleum products — **PNGRB**. Marketing and sale are named functions, including authorising city gas distribution networks.\n- IV. Production of natural gas — **not PNGRB**. Same upstream exclusion as crude oil.\nHence only two.\nThe one-line split to remember: **upstream (E&P) → DGH; downstream/midstream (refining to retail, pipelines, CGD) → PNGRB, under the PNGRB Act, 2006** — the Act's own title section excludes production.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Counting format applied to activities. Tests the PNGRB's statutory mandate; no regulator-specific topic exists, so ECO-16 (energy/infrastructure) carries it.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "PNGRB regulates downstream refining, storage, distribution, marketing and sale, but not upstream production of crude oil or natural gas."
+   },
+   "key_supported": true
   },
   {
    "q_no": 61,
@@ -1699,12 +2122,19 @@
     "ECO-10"
    ],
    "primary_topic_code": "ECO-10",
-   "explanation_md": null,
+   "explanation_md": "All three numbers drop straight out of the three deficit definitions.\n- I — Revenue deficit = revenue expenditure − revenue receipts = 80,000 − 60,000 = **₹20,000 crore**. Correct.\n- II — Fiscal deficit is, by definition, the government's **total borrowing requirement**; the budget shows borrowings of ₹10,000 crore, so fiscal deficit = ₹10,000 crore. Correct.\n- III — Primary deficit = fiscal deficit − interest payments = 10,000 − 6,000 = **₹4,000 crore**. Correct.\nWorth remembering: fiscal deficit = total borrowings; primary deficit = fiscal deficit minus interest payments; revenue deficit looks only at the revenue account. Interest payments are revenue expenditure, but you never subtract them for revenue deficit — only for primary deficit.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Revenue deficit = 80k-60k = 20k; fiscal deficit = borrowings = 10k; primary deficit = 10k-6k = 4k, so all three statements are correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 62,
@@ -1727,12 +2157,19 @@
     "CAI-03"
    ],
    "primary_topic_code": "CAI-06",
-   "explanation_md": null,
+   "explanation_md": "The INSTC is a ~7,200 km multimodal route running Mumbai → Bandar Abbas (**Iran**) → Caspian Sea → Russia, with links onward to Central Asia and northern Europe — so \"India to Central Asia to Europe via Iran\" is the right description.\n- (b) wrong — China is not on the corridor at all.\n- (c) wrong — that describes the India–Myanmar–Thailand / Kaladan style eastward connectivity, not INSTC.\n- (d) wrong — Azerbaijan lies on the corridor's western branch, but a description that routes India to Europe \"through Azerbaijan\" while omitting Iran misses the corridor's spine.\nWorth remembering: founding agreement signed in **2000 at St. Petersburg by India, Iran and Russia**; INSTC is the Suez-bypassing north–south route, cutting time and cost to Russia/Europe roughly in half.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "INSTC (India, Iran, Russia founding members) links India via Iran to Central Asia, Russia and Europe."
+   },
+   "key_supported": true
   },
   {
    "q_no": 63,
@@ -1755,12 +2192,19 @@
     "GEO-23"
    ],
    "primary_topic_code": "ENV-16",
-   "explanation_md": null,
+   "explanation_md": "Statement I inverts the ranking — the **United States is the world's largest ethanol producer** (roughly half of global output), with Brazil a clear second — while Statement II states the feedstocks correctly.\n- I — incorrect: Brazil pioneered fuel ethanol but was overtaken by the US in the mid-2000s; the US now produces substantially more.\n- II — correct: **corn** is the principal US feedstock; **sugarcane** is Brazil's.\nSo Statement I is wrong and Statement II is right — option (d).\nWorth remembering for the India angle: India's E20 ethanol-blending programme leans on sugarcane and increasingly on maize/damaged grain — the same corn-vs-cane split this question tests globally.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Biofuel feedstocks and world ethanol output straddle ENV-16 (biofuels) and GEO-23 (world economic geography); neither owns it cleanly.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "USA is the world's largest ethanol producer (corn-based), so Statement I is false while Statement II (sugarcane in Brazil, corn in USA) is true."
+   },
+   "key_supported": true
   },
   {
    "q_no": 64,
@@ -1783,12 +2227,20 @@
     "GEO-14"
    ],
    "primary_topic_code": "ENV-12",
-   "explanation_md": null,
+   "explanation_md": "A wet-bulb temperature of **35 °C is the theoretical limit of human thermoregulation** — air so hot and humid that sweat cannot evaporate, so the body cannot shed metabolic heat and even a fit person in shade eventually dies.\n- II — correct, and it is the direct implication: perspiration-based cooling fails for humans and other animals.\n- I — accepted as correct: extreme wet-bulb readings are a heat-plus-humidity phenomenon concentrated in coastal, humid **Peninsular India**, and the same World Bank climate assessment projects the region facing intensified cyclones, flooding and droughts as part of the same warming.\nStatement I is the weaker leg — cyclones and floods are consequences of the underlying warming the report describes, not of wet-bulb temperature as such — but the question asks what reflects the report's implications, and UPSC keyed both.\nWorth remembering: wet-bulb temperature = heat **and** humidity combined; 35 °C wet-bulb, not 35 °C air temperature, is the survivability threshold.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Wet-bulb 35 C implies bodies cannot shed heat via perspiration (II); flooding/cyclones/droughts (I) are not implications of wet-bulb temperature."
+   },
+   "key_supported": true,
+   "review_flag": "Official key says c, independent reasoning said b."
   },
   {
    "q_no": 65,
@@ -1810,12 +2262,19 @@
     "ECO-10"
    ],
    "primary_topic_code": "ECO-10",
-   "explanation_md": null,
+   "explanation_md": "Gross primary deficit = gross fiscal deficit − interest payments = 50,000 − 1,500 = **₹48,500 crore**.\n- The ₹10,000 crore of **non-debt creating capital receipts** (disinvestment proceeds, loan recoveries) is a distractor: those receipts are already netted out when the fiscal deficit itself is computed, so you do not subtract them again.\n- (b) 51,500 adds interest instead of subtracting; (c) 58,500 wrongly adds back the capital receipts; (d) fails since (a) is exact.\nWorth remembering: primary deficit strips **interest on past borrowing** out of the fiscal deficit — it shows how much of today's borrowing is for today's spending rather than for servicing yesterday's debt. Only interest payments move you from fiscal to primary deficit; nothing else in the question matters.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Gross primary deficit = fiscal deficit minus interest payments = 50,000 - 1,500 = 48,500 crores; non-debt capital receipts are a distractor."
+   },
+   "key_supported": true
   },
   {
    "q_no": 66,
@@ -1838,12 +2297,19 @@
     "POL-24"
    ],
    "primary_topic_code": "ECO-11",
-   "explanation_md": null,
+   "explanation_md": "The one wrong statement is the devolution share — the 15th Finance Commission recommended **41%**, not 45%, of the divisible pool for States.\n- I — correct: it recommended **₹4,800 crore** (2022–23 to 2025–26) as grants to incentivise States on educational outcomes.\n- II — incorrect: vertical devolution is **41%** (the 14th FC's 42% minus roughly 1% after Jammu & Kashmir became Union Territories).\n- III — correct: **₹45,000 crore** was earmarked as performance-based incentive for States carrying out agricultural reforms.\n- IV — correct: it **reintroduced the tax effort criterion** (2.5% weight) in the horizontal sharing formula to reward efficient tax collection.\nSo I, III and IV — option (c).\nWorth remembering: 15th FC (chair N. K. Singh, award period 2021–26): 41% devolution; horizontal formula includes income distance 45%, population (2011) 15%, area 15%, forest & ecology 10%, demographic performance 12.5%, tax effort 2.5%.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Straddles subjects: Finance Commission recommendations are in ECO-11, the body itself in POL-24.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The 15th FC recommended 41% (not 45%) devolution, so II is wrong, while the 4,800 cr education grant, 45,000 cr agriculture incentive and reintroduced tax-effort criterion are correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 67,
@@ -1865,12 +2331,19 @@
     "ECO-13"
    ],
    "primary_topic_code": "ECO-13",
-   "explanation_md": null,
+   "explanation_md": "The giveaway is \"single-handedly\" — the IBRD never works alone; it is one arm of the **World Bank Group**.\n- I — correct: IBRD provides **loans and guarantees to middle-income countries** (and creditworthy low-income ones), raising funds on capital markets.\n- II — incorrect: poverty reduction in the poorest countries is pursued jointly, above all with **IDA** (IBRD + IDA together constitute the World Bank), alongside IFC, MIGA and ICSID.\n- III — correct: IBRD was created at **Bretton Woods in 1944** precisely to finance post-World War II reconstruction of Europe — its first loan went to France in 1947.\nSo I and III — option (c).\nWorth remembering: \"Reconstruction\" in IBRD's name is the historical clue — Europe first, development lending later; IDA (1960) is the concessional window for the poorest, IBRD the market-rate window for middle-income borrowers.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "IBRD lends to middle-income/creditworthy countries and was created in 1944 to rebuild post-war Europe, but it works as part of the World Bank Group, not single-handedly."
+   },
+   "key_supported": true
   },
   {
    "q_no": 68,
@@ -1893,12 +2366,19 @@
     "ECO-04"
    ],
    "primary_topic_code": "ECO-20",
-   "explanation_md": null,
+   "explanation_md": "Only the settlement-speed contrast survives scrutiny; the other two statements describe restrictions that RBI has since removed or that never existed.\n- I — correct: RTGS settles each transaction **individually and in real time** (gross settlement); NEFT settles in **half-hourly batches** (deferred net settlement), so a short delay is inherent.\n- II — incorrect: **inward transactions are free** in both RTGS and NEFT; charges, where levied at all, apply to outward remittances.\n- III — incorrect: both systems now run **24x7x365** — NEFT since December 2019, RTGS since December 2020 — so neither has restricted operating days.\nSo I only — option (a).\nWorth remembering: RTGS is for large-value transfers (minimum ₹2 lakh, no upper cap); NEFT has no minimum. Both are RBI-operated, unlike IMPS/UPI which ride on NPCI.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "No topic explicitly covers RBI payment systems (RTGS/NEFT); ECO-20 digital payments is the closest, ECO-04 banking structure secondary.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "RTGS settles in real time while NEFT settles in batches (I correct); inward transactions are free in both and both operate 24x7x365, so II and III are wrong."
+   },
+   "key_supported": true
   },
   {
    "q_no": 69,
@@ -1921,12 +2401,19 @@
     "CAI-06"
    ],
    "primary_topic_code": "ECO-20",
-   "explanation_md": null,
+   "explanation_md": "Three of the five — **UAE, France and Singapore** — accept UPI payments at merchants; Germany and Bangladesh do not.\n- I UAE — yes: UPI acceptance is live through tie-ups with networks such as NEOPAY.\n- II France — yes: NPCI International's partnership with **Lyra** brought UPI to French merchants, the Eiffel Tower ticket counter being the showcase first acceptance point.\n- III Germany — no UPI merchant acceptance.\n- IV Singapore — yes: merchant acceptance is live, alongside the separate **UPI–PayNow** linkage for person-to-person remittances.\n- V Bangladesh — no.\nSo \"only three\" — option (b).\nWorth remembering: UPI's international footprint also covers Nepal, Bhutan, Sri Lanka and Mauritius; distinguish merchant acceptance (scan-and-pay abroad) from account-to-account linkages like UPI–PayNow.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Counting format on a country list; UPI internationalisation also touches economic diplomacy (CAI-06).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "UPI merchant payments are accepted in UAE, France and Singapore but not Germany or Bangladesh, giving three of the five listed."
+   },
+   "key_supported": true
   },
   {
    "q_no": 70,
@@ -1949,12 +2436,19 @@
     "CAI-10"
    ],
    "primary_topic_code": "ENV-16",
-   "explanation_md": null,
+   "explanation_md": "All three statements track the scheme's own guidelines — PM Surya Ghar: Muft Bijli Yojana (launched February 2024, outlay about ₹75,000 crore) is a rooftop-solar-plus-free-electricity scheme with a built-in skilling component.\n- I — correct: it targets rooftop solar for **one crore households** in the residential sector, with up to 300 units of free electricity a month.\n- II — correct: the **Ministry of New and Renewable Energy** is the nodal ministry, and grassroots training on installation, operation, maintenance and repair of rooftop systems is part of its capacity-building plan.\n- III — correct: the capacity-building component aims to create over **three lakh skilled personnel** through fresh skilling and up-skilling.\nSo I, II and III — option (d).\nWorth remembering: subsidy is central financial assistance up to 3 kW (highest per-kW support for the first 2 kW), and the scheme pairs household solar with a large solar-technician skilling push under MNRE.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles subjects: solar rooftop mission content sits in ENV-16, but the question tests scheme targets and skilling numbers, which belong to the CAI-10 schemes tracker.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "PM Surya Ghar targets one crore residential rooftop installations, includes MNRE grassroots training, and its capacity-building component aims at over 3 lakh skilled manpower, so all three are correct."
+   },
+   "key_supported": true
   },
   {
    "q_no": 71,
@@ -1977,12 +2471,19 @@
     "HIS-11"
    ],
    "primary_topic_code": "HIS-13",
-   "explanation_md": null,
+   "explanation_md": "Gandhi declared that sedition had become his religion at the climax of the Salt Satyagraha — after **publicly breaking the Salt Law at Dandi** in April 1930, he embraced the 'seditious' label, since Civil Disobedience was open, declared defiance of colonial law and he was inviting arrest.\n- (a) Champaran (1917) was his first satyagraha in India — indigo tenants, not open law-breaking against the state as creed.\n- (c) The Second Round Table Conference (1931) was a phase of negotiation under the Gandhi–Irwin truce, the opposite register.\n- (d) Quit India (1942) is associated with **\"Do or Die\"**, not this line.\nWorth remembering: Dandi March, 12 March – 6 April 1930, Sabarmati to Dandi, launched the Civil Disobedience Movement — pair the quote with the moment of publicly violating the salt law.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Gandhi declared 'sedition has become my religion' in April 1930 during the Salt Satyagraha after breaking the salt law at Dandi."
+   },
+   "key_supported": true
   },
   {
    "q_no": 72,
@@ -2005,12 +2506,19 @@
     "ART-01"
    ],
    "primary_topic_code": "ANM-01",
-   "explanation_md": null,
+   "explanation_md": "The Dancing Girl of Mohenjo-daro is a **bronze** statuette, cast by the **lost-wax (cire perdue)** technique — standing proof that Harappan craftsmen had mastered sophisticated metal casting around the mid-third millennium BCE.\n- (a) Carnelian was a Harappan material, but for **beads** (the long barrel beads exported to Mesopotamia), not this figurine.\n- (b) Clay/terracotta was used for the abundant mother-goddess figurines and toys, not the Dancing Girl.\n- (d) Gold appears in Harappan jewellery, but no such figurine.\nWorth remembering the standard pairing UPSC tests: **Dancing Girl — bronze, Mohenjo-daro**; **Priest-King — steatite, Mohenjo-daro**; both now emblematic of Harappan art, with lost-wax bronze casting as the durable technical fact.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "IVC fact; ART-01 carries Indus art/sculpture, hence both.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The Mohenjo-daro Dancing Girl is a bronze statuette made by the lost-wax technique."
+   },
+   "key_supported": true
   },
   {
    "q_no": 73,
@@ -2032,12 +2540,19 @@
     "HIS-10"
    ],
    "primary_topic_code": "HIS-10",
-   "explanation_md": null,
+   "explanation_md": "**Madan Mohan Malaviya**, assisted by Krishna Kant, led the legal defence of the Chauri Chaura accused — the sessions court had sentenced 172 men to death for the February 1922 burning of the police station, and on appeal in the Allahabad High Court the defence saved the overwhelming majority from the gallows (only 19 death sentences were finally confirmed).\n- (a) C. R. Das's celebrated defence was of **Aurobindo Ghosh in the Alipore Bomb Case** (1908–09), not Chauri Chaura.\n- (c) Kitchlew was the Punjab leader whose arrest fed into Jallianwala Bagh; no Chauri Chaura defence role.\n- (d) Jinnah, though a formidable lawyer, was not involved; by 1922 he had left the Congress over non-cooperation itself.\nWorth remembering: Chauri Chaura (4 February 1922, Gorakhpur district, UP) killed 22 policemen and made Gandhi withdraw Non-Cooperation via the Bardoli resolution of 12 February 1922 — Malaviya's courtroom rescue is the follow-on fact.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Madan Mohan Malaviya (with others) defended the Chauri Chaura accused on appeal, securing many acquittals."
+   },
+   "key_supported": true
   },
   {
    "q_no": 74,
@@ -2060,12 +2575,19 @@
     "HIS-11"
    ],
    "primary_topic_code": "HIS-12",
-   "explanation_md": null,
+   "explanation_md": "It was after the **Poona Pact** (24 September 1932) that Gandhi made Harijan upliftment a formal plank of his political and social programme — his fast in Yerawada jail against the Communal Award's separate electorates for Depressed Classes ended in the Gandhi–Ambedkar settlement (reserved seats within joint electorates), and he emerged to found the **Harijan Sevak Sangh** (1932), start the weekly *Harijan* (1933) and undertake the countrywide Harijan tour of 1933–34.\n- (b) The Gandhi–Irwin Pact (March 1931) dealt with suspending Civil Disobedience and attending the Second RTC — nothing on untouchability.\n- (c) The 1942 arrests came a decade after the Harijan programme had begun.\n- (d) The Government of India Act, 1935 postdates and did not trigger it.\nWorth remembering the chain: Communal Award (August 1932) → Gandhi's fast → Poona Pact (September 1932) → Harijan Sevak Sangh and the Harijan campaign.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "After the Poona Pact of 1932 Gandhi took up Harijan upliftment centrally, founding the Harijan Sevak Sangh and the journal Harijan."
+   },
+   "key_supported": true
   },
   {
    "q_no": 75,
@@ -2088,12 +2610,19 @@
     "GEO-17"
    ],
    "primary_topic_code": "HIS-01",
-   "explanation_md": null,
+   "explanation_md": "All three are **New World fruits carried to India by the Portuguese** in the sixteenth–seventeenth centuries — papaya and guava from Central/South America, pineapple from South America — entering through Goa and spreading along the coasts.\n- I Papaya — Portuguese introduction; correct.\n- II Pineapple — Portuguese introduction (Akbar's court knew it by the late sixteenth century); correct.\n- III Guava — Portuguese introduction from tropical America; correct.\nSo all three — option (c).\nWorth remembering the wider Columbian-exchange list the Portuguese brought to India: **potato, tomato, chilli, maize, cashew, tobacco, papaya, pineapple, guava** — whereas mango, banana and jackfruit are indigenous/ancient. UPSC has now asked this cluster repeatedly; \"did the Portuguese bring it?\" ≈ \"is it a New World crop?\".",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Counting format over list items, not literal pairs. No topic covers Portuguese-era crop introductions; filed under advent of Europeans, with GEO-17 crops as the straddle.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Papaya, pineapple and guava are all New World fruits brought to India by the Portuguese."
+   },
+   "key_supported": true
   },
   {
    "q_no": 76,
@@ -2116,12 +2645,19 @@
     "GEO-24"
    ],
    "primary_topic_code": "GEO-01",
-   "explanation_md": null,
+   "explanation_md": "Counting overseas territories and dependencies — which is what the question turns on — four of the five span **more than four time zones**; Brazil has exactly four, so it misses the cut.\n- I United Kingdom — yes: with its Overseas Territories (Pitcairn to the Chagos Archipelago) it covers about nine zones.\n- II Denmark — yes: metropolitan Denmark plus the Faroes and Greenland's multiple zones push it past four.\n- III New Zealand — yes: the realm adds Chatham Islands (UTC+12:45), Cook Islands, Niue and Tokelau to the mainland zone.\n- IV Australia — yes: three mainland zones plus Lord Howe, Norfolk, Christmas and Cocos Islands.\n- V Brazil — no: **exactly four** zones (UTC−2 to UTC−5), all contiguous territory.\nSo \"only four\" — option (b).\nWorth remembering: \"more than four\" excludes Brazil precisely because four is not more than four — and France, with its overseas territories, holds the world record (twelve zones).",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Counting format over list items rather than pairs; topic itself is clear — GEO-01 names time zones explicitly.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Counting dependencies, UK (~9), Denmark (5 with Greenland/Faroe), New Zealand (5 with Chatham/Cook/Niue/Tokelau) and Australia (8) exceed four zones, while Brazil has exactly four."
+   },
+   "key_supported": true
   },
   {
    "q_no": 77,
@@ -2143,12 +2679,19 @@
     "GEO-01"
    ],
    "primary_topic_code": "GEO-01",
-   "explanation_md": null,
+   "explanation_md": "Anadyr and Nome sit on opposite sides of the **International Date Line**, so the calendar date differs even though they are geographically close — but the direction in Statement II is reversed.\n- I — correct: Anadyr (Russia) keeps UTC+12 while Nome (Alaska) keeps UTC−9, a gap of about 21 hours; when either city is at breakfast time, the other is on a **different calendar day**.\n- II — incorrect: the Asian side of the Date Line is **ahead**. When it is Monday in Anadyr, it is still Sunday in Nome; Nome reaches Monday only after Anadyr has moved into Tuesday — never \"Tuesday in Nome while Monday in Anadyr\".\nSo I only — option (a).\nWorth remembering: west of the Date Line (Asia/Oceania side) is always the later date; crossing it eastwards you repeat a day, westwards you skip one.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Across the date line Anadyr (UTC+12) is about 21 hours ahead of Nome (UTC-9), so simultaneous breakfasts fall on different days (I correct), but when it is Monday in Anadyr it is Sunday in Nome, not Tuesday (II wrong)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 78,
@@ -2171,12 +2714,19 @@
     "HIS-15"
    ],
    "primary_topic_code": "HIS-05",
-   "explanation_md": null,
+   "explanation_md": "The Self-Respect Movement was founded in 1925 in Tamil Nadu by **'Periyar' E. V. Ramaswamy Naicker** — a rationalist, anti-caste, anti-Brahminical movement promoting dignity for non-Brahmins, self-respect marriages without priests, atheism/rationalism and women's rights, after he broke with the Congress.\n- (b) Ambedkar led the Depressed Classes movement — Bahishkrit Hitakarini Sabha (1924), Mahad Satyagraha (1927) — not this.\n- (c) Bhaskarrao Jadhav was a non-Brahmin movement leader in Maharashtra in the Satyashodhak tradition.\n- (d) Dinkarrao Javalkar likewise belonged to the Maharashtra non-Brahmin/Satyashodhak stream.\nWorth remembering the pairing UPSC recycles: **Jyotiba Phule — Satyashodhak Samaj (1873, Maharashtra); Periyar — Self-Respect Movement (1925, Tamil Nadu)**; Periyar later headed the Justice Party and founded Dravidar Kazhagam (1944).",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Gap: no topic covers non-Brahmin/anti-caste movements specifically; Self-Respect Movement parked under socio-religious reform.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The Self-Respect Movement was founded by Periyar E. V. Ramaswamy Naicker in 1925."
+   },
+   "key_supported": true
   },
   {
    "q_no": 79,
@@ -2199,12 +2749,19 @@
     "GEO-24"
    ],
    "primary_topic_code": "GEO-23",
-   "explanation_md": null,
+   "explanation_md": "All three rows pair a country with the mineral it genuinely dominates.\n- I Botswana–Diamond — correct: Botswana is the world's leading diamond producer **by value** (Jwaneng and Orapa mines; the Debswana state–De Beers venture), and diamonds anchor its economy.\n- II Chile–Lithium — correct: Chile holds the world's **largest lithium reserves** in the Atacama salars and is a top producer, forming the \"lithium triangle\" with Argentina and Bolivia.\n- III Indonesia–Nickel — correct: Indonesia is the world's **largest nickel producer**, with vast laterite deposits (Sulawesi), and has leveraged export bans to force domestic processing for EV batteries.\nSo all three — option (c).\nWorth remembering the critical-minerals map: Botswana/Russia — diamonds; Chile/Australia — lithium; Indonesia/Philippines — nickel; DR Congo — cobalt; China — rare-earth processing. These pairings recur across the 2023–2025 papers.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Botswana-diamonds, Chile-lithium and Indonesia-nickel are all correctly matched resource associations."
+   },
+   "key_supported": true
   },
   {
    "q_no": 80,
@@ -2227,12 +2784,19 @@
     "GEO-23"
    ],
    "primary_topic_code": "GEO-24",
-   "explanation_md": null,
+   "explanation_md": "Every row is mismatched — the three regions have simply been rotated among the wrong countries.\n- I Mallorca–Italy — wrong: Mallorca is the largest of the **Balearic Islands, Spain**, in the western Mediterranean.\n- II Normandy–Spain — wrong: Normandy is a region of **northern France** on the English Channel (the D-Day landing coast of 1944).\n- III Sardinia–France — wrong: Sardinia is **Italy's** second-largest Mediterranean island; the French island immediately north of it is Corsica.\nSo none is correctly matched — option (d).\nWorth remembering the trap pair: **Corsica — France; Sardinia — Italy**, sitting adjacent across the Strait of Bonifacio; and Balearics (Mallorca, Menorca, Ibiza) — Spain. UPSC's \"how many rows are correct\" format loves plausible neighbour-swaps like these.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Mallorca is in Spain, Normandy in France and Sardinia in Italy, so none of the rows is correctly matched."
+   },
+   "key_supported": true
   },
   {
    "q_no": 81,
@@ -2254,12 +2818,19 @@
     "SNT-11"
    ],
    "primary_topic_code": "SNT-11",
-   "explanation_md": null,
+   "explanation_md": "Rare earth phosphors are exactly what make display screens glow — their light-emitting property is the *reason* for their use, so Statement II explains Statement I.\n- **Statement I — correct.** Rare earths such as europium, terbium and yttrium are standard ingredients of the **phosphor coatings** in flat TV screens and computer monitors.\n- **Statement II — correct.** Several rare earths absorb energy and re-emit it as visible light (phosphorescent/luminescent behaviour).\n- **Link — yes.** The screen application exists because of the phosphorescent property, so II is the explanation for I.\n\nRemember: **europium = red phosphor, terbium = green** — the classic pairing UPSC reuses for rare-earth applications.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Gap: no chemistry or critical-minerals topic exists; rare earth properties/uses filed under new materials.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Rare earths (europium, terbium, yttrium) are used as phosphors in screens precisely because of their luminescent/phosphorescent properties, so II explains I."
+   },
+   "key_supported": true
   },
   {
    "q_no": 82,
@@ -2283,12 +2854,19 @@
     "GEO-20"
    ],
    "primary_topic_code": "ECO-16",
-   "explanation_md": null,
+   "explanation_md": "The National Rail Plan's target year is 2030, not 2028, and Kavach is fully indigenous — so I and II are the incorrect statements.\n- **I — incorrect.** The NRP (2021) aims at a 'future ready' railway system by **2030** (with freight modal share raised to ~45%), not 2028.\n- **II — incorrect.** **Kavach** is India's indigenously developed Automatic Train Protection system, built by **RDSO** with Indian manufacturers — there is no German collaboration.\n- **III — correct.** Kavach uses **RFID tags fitted on the track** in station and block sections, read by loco units and linked to station units over radio.\n\nRemember: NRP → 2030 horizon; Kavach → indigenous RDSO-developed ATP with trackside RFID tags.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles subjects: NRP is infrastructure policy, Kavach is applied sensor tech, railways sit in GEO-20. No dedicated railways topic.",
-   "transcription_note": "'not' is set in bold italic in the paper."
+   "transcription_note": "'not' is set in bold italic in the paper.",
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "NRP targets 2030 not 2028 (I wrong), Kavach is indigenously developed by RDSO not with Germany (II wrong), while RFID tags on track in station sections are indeed part of Kavach (III correct)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 83,
@@ -2310,12 +2888,20 @@
     "SNT-05"
    ],
    "primary_topic_code": "SNT-05",
-   "explanation_md": null,
+   "explanation_md": "Axiom-4 and Gaganyaan are built around human-spaceflight science in microgravity; SpaDeX is a docking-technology demonstration, so only **two** qualify.\n- **Axiom-4 — yes.** The private ISS mission (with Shubhanshu Shukla) carried dozens of microgravity experiments, including ISRO-sponsored ones.\n- **SpaDeX — no.** ISRO's Space Docking Experiment (launched Dec 2024) demonstrated **in-space docking** of two small satellites — a technology demo. The microgravity payloads on that launch rode on **POEM-4**, the spent PSLV upper stage, not on the SpaDeX mission itself.\n- **Gaganyaan — yes.** ISRO explicitly invites and supports microgravity research as part of the human spaceflight programme.\n\nRemember: SpaDeX = docking; that capability is the prerequisite for Chandrayaan-4 sample return and the Bharatiya Antariksh Station.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Counting format over mission list, not literal pairs; topic is unambiguous.",
-   "transcription_note": "'microgravity' is hyphenated across two lines in the original as 'micro-gravity'; joined here."
+   "transcription_note": "'microgravity' is hyphenated across two lines in the original as 'micro-gravity'; joined here.",
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "Axiom-4 carried ISRO microgravity experiments to the ISS, the SpaDeX launch's POEM-4 module hosted microgravity research payloads, and Gaganyaan supports microgravity research — all three."
+   },
+   "key_supported": true,
+   "review_flag": "Official key says b, independent reasoning said c."
   },
   {
    "q_no": 84,
@@ -2337,12 +2923,19 @@
     "SNT-07"
    ],
    "primary_topic_code": "SNT-07",
-   "explanation_md": null,
+   "explanation_md": "The IL-76 is a heavy transport aircraft, not a supersonic fighter — the other two pairs are right, so only two are correctly matched.\n- **I — correct.** The **Dornier-228** is the Navy's and Coast Guard's workhorse **maritime patrol** aircraft.\n- **II — incorrect.** The Russian **IL-76** is a subsonic strategic **military transport** (also the airframe behind the IAF's Phalcon AWACS and IL-78 tankers) — not a combat aircraft.\n- **III — correct.** The **C-17 Globemaster III** is the IAF's heavy military transport.\n\nRemember: IAF transport fleet = IL-76, C-17, C-130J, An-32; anything described as 'supersonic combat' should be a fighter (Su-30MKI, Rafale, Tejas) — mismatched roles are the standard trap in defence pair questions.",
    "has_table": true,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": "'C-17 Globemaster III' is hyphenated across two lines in the original as 'Globe-master'; joined here."
+   "transcription_note": "'C-17 Globemaster III' is hyphenated across two lines in the original as 'Globe-master'; joined here.",
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Dornier-228 (maritime patrol) and C-17 Globemaster III (military transport) are correct, but IL-76 is a heavy transport aircraft, not a supersonic combat aircraft."
+   },
+   "key_supported": true
   },
   {
    "q_no": 85,
@@ -2365,12 +2958,19 @@
     "GEO-08"
    ],
    "primary_topic_code": "ENV-11",
-   "explanation_md": null,
+   "explanation_md": "Cloud seeding uses **silver iodide** with **potassium iodide**: AgI's hexagonal crystal lattice closely resembles ice, so it acts as an artificial ice nucleus around which cloud droplets grow and fall out as rain.\n- Options (b), (c) and (d) each substitute **silver nitrate**, **potassium nitrate** or **potassium chloride** — none is a standard nucleating agent; silver *nitrate* is the familiar lab reagent examiners use to bait confusion with silver *iodide*.\n- Other genuine seeding agents worth knowing: dry ice (solid CO2) for cooling, and common salt (NaCl) in warm/hygroscopic seeding.\n\nRemember: **silver iodide works because its crystal structure mimics ice** — the mechanism, not just the chemical name, is what repeat questions test.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Cloud seeding straddles ENV air pollution and GEO precipitation; the underlying chemistry has no topic in the tree.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Cloud seeding uses silver iodide and potassium iodide (along with dry ice/sodium chloride) as nucleating agents."
+   },
+   "key_supported": true
   },
   {
    "q_no": 86,
@@ -2393,12 +2993,19 @@
     "POL-20"
    ],
    "primary_topic_code": "POL-17",
-   "explanation_md": null,
+   "explanation_md": "The pardoning power under Article 72 is judicially reviewable only on narrow grounds, and the President cannot exercise it independently of ministerial advice — so only Statement I holds.\n- **I — correct.** In *Epuru Sudhakar* (2006), building on *Maru Ram* and *Kehar Singh*, the Supreme Court held the exercise of pardon is open to **limited judicial review** — mala fides, arbitrariness, non-application of mind, extraneous considerations.\n- **II — incorrect.** *Maru Ram* (1980) and *Kehar Singh* (1988) settled that the President acts on the **aid and advice of the Council of Ministers** here as elsewhere; there is no personal discretion.\n\nRemember: **Article 72** (President — covers death sentences, court martial, Union-law offences) vs **Article 161** (Governor — no court martial, and commuting is possible but pardon of a death sentence stays with the President).",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Pardoning power is subject to limited judicial review (Maru Ram, Epuru Sudhakar), but the President must act on the advice of the Council of Ministers, so II is wrong."
+   },
+   "key_supported": true
   },
   {
    "q_no": 87,
@@ -2421,12 +3028,19 @@
     "POL-26"
    ],
    "primary_topic_code": "POL-18",
-   "explanation_md": null,
+   "explanation_md": "The Constitution keeps the Speaker in office through a dissolution and lays down the removal procedure, but says nothing about resigning from a party — so I and III are correct.\n- **I — correct.** Proviso to **Article 94**: on dissolution of the Lok Sabha, the Speaker continues until immediately before the first meeting of the new House.\n- **II — incorrect.** A Speaker resigning from their party is a **British convention**; the Indian Constitution nowhere requires it (Indian Speakers stay party members).\n- **III — correct.** Article 94(c): removal by a resolution passed by a **majority of all the then members** (effective majority), with **14 days' notice** of intention to move it.\n\nRemember: during a removal motion the Speaker does not preside (the Deputy Speaker does) but may speak and vote in the first instance — Article 96.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Article 94 supports I (Speaker continues until first meeting after dissolution) and III (removal by majority of all then members with 14 days' notice), while resignation from one's party is a British convention with no constitutional provision in India (II wrong)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 88,
@@ -2449,12 +3063,19 @@
     "POL-18"
    ],
    "primary_topic_code": "POL-26",
-   "explanation_md": null,
+   "explanation_md": "Anti-defection cases go to the presiding officer, not the President, and 'political party' appears in the Constitution through the Tenth Schedule — so neither statement is correct.\n- **I — incorrect.** Under **para 6 of the Tenth Schedule**, defection questions for Lok Sabha members are decided by the **Speaker** (subject to judicial review per *Kihoto Hollohan*, 1992). The President decides only the *other* disqualifications under Article 102(1), and there he acts on the **Election Commission's** opinion — never the Council of Ministers'.\n- **II — incorrect.** The **52nd Amendment (1985)** inserted the Tenth Schedule, which uses the term 'political party' throughout, and a Schedule is part of the Constitution.\n\nRemember the split: defection → presiding officer decides; office-of-profit and other Article 102(1) grounds → President on the ECI's binding opinion (Article 103).",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Tenth Schedule disqualification questions are decided by the Speaker/Chairman, not the President on ministerial advice (I wrong), and the Tenth Schedule itself repeatedly mentions 'political party' (II wrong)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 89,
@@ -2477,12 +3098,19 @@
     "POL-15"
    ],
    "primary_topic_code": "GEO-18",
-   "explanation_md": null,
+   "explanation_md": "States — not the Centre — make the rules for minor mineral concessions, so Statement I is wrong, while Statement II correctly describes the Centre's power to notify what counts as a minor mineral.\n- **Statement I — incorrect.** **Section 15 of the MMDR Act, 1957** expressly empowers State Governments to make rules for granting quarry leases and other concessions for minor minerals in their territories.\n- **Statement II — correct.** Under the Act's definition of 'minor minerals' (building stone, gravel, ordinary clay, ordinary sand etc.), the **Central Government may notify** further minerals as minor.\n\nRemember the division of labour: **the Centre decides the list of minor minerals; the States regulate them and collect the royalty** — regulation of major minerals stays with the Centre under the MMDR Act.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles subjects: minor minerals content sits in GEO-18, but the tested point is legislative competence (POL-15). No topic covers the MMDR Act directly.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Under Section 15 of the MMDR Act State Governments do make rules for minor mineral concessions (I wrong), while the Central Government notifies which minerals are minor minerals under Section 3(e) (II correct)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 90,
@@ -2505,12 +3133,19 @@
     "ENV-05"
    ],
    "primary_topic_code": "ENV-13",
-   "explanation_md": null,
+   "explanation_md": "The Nature Restoration Law is a **European Union** regulation — the first continent-wide restoration law, in force since August 2024.\n- **World Bank** — a lender; it finances projects but enacts no laws.\n- **OECD** — a policy forum of mostly advanced economies; it issues guidelines and standards, not binding statutes.\n- **FAO** — a UN specialised agency for food and agriculture with no legislative power.\nOnly the EU, through its Parliament and Council, can 'enact a law' binding on member states — that verb alone eliminates the other three.\n\nRemember: NRL targets — restoration measures covering at least **20% of the EU's land and sea by 2030**, and all ecosystems needing restoration by **2050**.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Gap: no topic covers foreign/EU domestic environmental legislation; filed under climate governance with biodiversity as secondary.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The Nature Restoration Law (2024) is a European Union regulation requiring restoration of degraded ecosystems."
+   },
+   "key_supported": true
   },
   {
    "q_no": 91,
@@ -2532,12 +3167,19 @@
     "POL-22"
    ],
    "primary_topic_code": "POL-22",
-   "explanation_md": null,
+   "explanation_md": "All three statements misstate Part IX: intermediate panchayats are optional for small states, the qualifying age is 21, and the finance commission is the Governor's job — so all three are not correct.\n- **I — incorrect.** **Article 243B(2)**: states with population **not exceeding 20 lakh** need not constitute the intermediate level (e.g. Goa, Sikkim).\n- **II — incorrect.** Under **Article 243F**, a person qualifies for panchayat membership on attaining **21 years** — at every tier; 30 is not a threshold anywhere in Part IX.\n- **III — incorrect.** The **State Finance Commission** that reviews panchayat finances is constituted every five years by the **Governor** under Article 243-I, not by the Chief Minister.\n\nRemember the 73rd Amendment machinery: member at 21, SFC by the Governor every 5 years, elections run by the State Election Commission (Article 243K).",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": "'not' is set in bold italic in the paper."
+   "transcription_note": "'not' is set in bold italic in the paper.",
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Intermediate panchayats need not exist in states under 20 lakh population (Art 243B), the membership age is 21 not 30 (Art 243F), and the State Finance Commission is constituted by the Governor not the Chief Minister (Art 243-I) — all three incorrect."
+   },
+   "key_supported": true
   },
   {
    "q_no": 92,
@@ -2559,12 +3201,19 @@
     "CAI-05"
    ],
    "primary_topic_code": "CAI-05",
-   "explanation_md": null,
+   "explanation_md": "Only the membership count survives: BIMSTEC has seven members, but it was born with the Bangkok Declaration of 1997, Nepal is not a founder, and tourism is not India's portfolio.\n- **I — correct.** Seven members as of Jan 2025: Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Thailand.\n- **II — incorrect.** It came into existence through the **Bangkok Declaration, June 1997** (as BIST-EC) — there is no founding Dhaka Declaration of 1999.\n- **III — incorrect.** The founding four were **Bangladesh, India, Sri Lanka and Thailand**; Myanmar joined later in 1997, **Nepal and Bhutan only in 2004**.\n- **IV — incorrect.** In the reorganised seven-pillar structure **India leads Security**; tourism sits under Nepal's People-to-People Contact pillar.\n\nRemember: BIST-EC 1997 → BIMST-EC (Myanmar) → BIMSTEC 2004 (Nepal, Bhutan); Charter signed at the 2022 Colombo Summit; Secretariat in Dhaka.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "BIMSTEC had seven members (I correct); it began with the Bangkok Declaration 1997 not Dhaka 1999 (II wrong), Nepal was not a founding member (III wrong), and tourism falls under Nepal's people-to-people pillar, not India (IV wrong)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 93,
@@ -2586,12 +3235,19 @@
     "CAI-09"
    ],
    "primary_topic_code": "CAI-09",
-   "explanation_md": null,
+   "explanation_md": "The Gandhi Peace Prize jury is chaired by the **Prime Minister** and includes the **Chief Justice of India** and the **Leader of Opposition in the Lok Sabha** — the President is not on it.\n- **I (President) — no.** The President confers many honours but sits on no selection jury.\n- **II (PM) — yes**, as chairperson of the jury.\n- **III (CJI) — yes.**\n- **IV (LoP, Lok Sabha) — yes** (where no recognised LoP exists, the leader of the single largest opposition party).\nThe Speaker of the Lok Sabha and one eminent person complete the five-member jury.\n\nRemember: Gandhi Peace Prize — annual since 1995, Rs 1 crore, open to institutions and non-Indians (2023: Gita Press, Gorakhpur).",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Four numbered items are entities, not statements, but the select-the-combination structure maps to stmt_1_2_3.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The Gandhi Peace Prize jury comprises the PM (chair), CJI, Leader of Opposition in Lok Sabha, Lok Sabha Speaker and an eminent person — the President is not a member."
+   },
+   "key_supported": true
   },
   {
    "q_no": 94,
@@ -2613,12 +3269,19 @@
     "SNT-05"
    ],
    "primary_topic_code": "SNT-05",
-   "explanation_md": null,
+   "explanation_md": "GAGAN exists precisely to add accuracy and integrity to GPS over Indian airspace, and its benefits extend well beyond aviation — so III is the false statement.\n- **I — correct.** As a satellite-based augmentation system (SBAS), GAGAN's stated purpose is **additional accuracy, integrity and availability** of GPS signals.\n- **II — correct.** Certified for precision approach procedures, it enables more uniform, higher-quality **air traffic management** over Indian airspace.\n- **III — incorrect.** GAGAN also serves railways, road transport, shipping, surveying, agriculture and location-based alerts (e.g. disaster messaging) — not aviation alone.\n\nRemember: GAGAN = **AAI + ISRO** SBAS broadcasting corrections via GEO satellites (GSAT-8/10/15). Keep it distinct from **NavIC**, which is an independent regional navigation constellation, not an augmentation of GPS.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "GAGAN provides additional accuracy/integrity and better air traffic management, but its benefits extend beyond aviation to rail, road, maritime and surveying, so III is wrong."
+   },
+   "key_supported": true
   },
   {
    "q_no": 95,
@@ -2641,12 +3304,19 @@
     "CAI-07"
    ],
    "primary_topic_code": "SNT-09",
-   "explanation_md": null,
+   "explanation_md": "India co-chaired the Paris AI Action Summit with France, continuing the Bletchley–Seoul series, but the US and UK conspicuously refused to sign the final declaration.\n- **I — correct.** The February 2025 summit at the Grand Palais was **co-chaired by France and India** (PM Modi alongside President Macron) and built on Bletchley Park 2023 and Seoul 2024.\n- **II — incorrect.** Around sixty signatories backed the declaration on 'inclusive and sustainable AI', but the **United States and the United Kingdom both declined to sign** — the most reported fact of the summit.\n\nRemember the sequence: **Bletchley Park 2023 → Seoul 2024 → Paris 2025**, with India named to host the next summit.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Straddles subjects: AI content is SNT-09, but the summit/declaration angle is international governance (CAI-07).",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "India co-chaired the Paris AI Action Summit which followed Bletchley 2023 and Seoul 2024 (I correct), but the US and UK notably declined to sign the inclusive and sustainable AI declaration (II wrong)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 96,
@@ -2669,12 +3339,19 @@
     "CAI-07"
    ],
    "primary_topic_code": "CAI-04",
-   "explanation_md": null,
+   "explanation_md": "All four pairs match the UN General Assembly's declared International Years, so all four are correct.\n- **I — correct.** 2026: International Year of the **Woman Farmer**.\n- **II — correct.** 2027: International Year of **Sustainable and Resilient Tourism**.\n- **III — correct.** 2025: International Year of **Peace and Trust** (Turkmenistan-sponsored resolution); 2025 also carries Quantum Science and Technology, Glaciers' Preservation and Cooperatives.\n- **IV — correct.** 2029: International Year of **Asteroid Awareness and Planetary Defence**, timed to the close Earth flyby of asteroid **Apophis on 13 April 2029**.\n\nRemember: several International Years can share one calendar year — so two different 'Year X = 2025' pairs can both be true; check each designation on its own, not by elimination.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "medium",
    "tagging_note": "Gap: no topic covers UN International Year designations; filed under UN/multilateral groupings.",
-   "transcription_note": "Laid out as a two-column pair list without column headers, so kept as a list rather than a markdown table."
+   "transcription_note": "Laid out as a two-column pair list without column headers, so kept as a list rather than a markdown table.",
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The UN designated 2025 Peace and Trust, 2026 Woman Farmer, 2027 Sustainable and Resilient Tourism, and 2029 Asteroid Awareness and Planetary Defence — all four pairs match."
+   },
+   "key_supported": true
   },
   {
    "q_no": 97,
@@ -2696,12 +3373,19 @@
     "CAI-04"
    ],
    "primary_topic_code": "CAI-04",
-   "explanation_md": null,
+   "explanation_md": "Kazan and Indonesia are right; the theme statement fails on a single word — the real theme said 'Multilateralism', while the question prints 'Multiculturalism'.\n- **I — correct.** The **16th BRICS Summit** was held at **Kazan in October 2024** under Russia's chairship.\n- **II — correct.** **Indonesia** became a full BRICS member in **January 2025** (announced by Brazil as incoming chair) — the first Southeast Asian member.\n- **III — incorrect.** The theme was 'Strengthening **Multilateralism** for Just Global Development and Security'; the substituted word makes the statement false.\n\nRemember the expansion timeline: Egypt, Ethiopia, Iran and UAE joined from January 2024 (Saudi Arabia invited but never confirmed); Indonesia followed as a full member in January 2025.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Pure current-affairs on the 16th BRICS Summit; CAI-04 (multilateral groupings) covers BRICS by name.",
-   "transcription_note": "Statement III is printed as 'Multiculturalism' in the paper (verified at 3x zoom), not 'Multilateralism'."
+   "transcription_note": "Statement III is printed as 'Multiculturalism' in the paper (verified at 3x zoom), not 'Multilateralism'.",
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "The 16th BRICS Summit was held in Kazan under Russia's chairship and Indonesia became a full member in January 2025, while the theme used 'Multilateralism' not 'Multiculturalism' as printed, so III is wrong."
+   },
+   "key_supported": true
   },
   {
    "q_no": 98,
@@ -2723,12 +3407,19 @@
     "POL-25"
    ],
    "primary_topic_code": "POL-25",
-   "explanation_md": null,
+   "explanation_md": "Only the age bar survives scrutiny: the Lokpal and Lokayuktas Act, 2013 sets forty-five as the minimum age, while the other three statements misstate the Act.\n- **I — incorrect.** The Lokpal's jurisdiction expressly extends to Indian public servants **serving outside India** as well.\n- **II — incorrect.** The no-MP/MLA limb is true, but the Chairperson need not be the CJI — anyone who **is or has been the CJI or a Supreme Court judge, or an eminent person**, is eligible; the 'only the CJI' clause sinks the statement.\n- **III — correct.** Minimum age **45 years** on the date of assuming office.\n- **IV — incorrect.** The Lokpal **can inquire into a sitting Prime Minister**, excluding matters of international relations, security, public order, atomic energy and space, and only with a full bench and **two-thirds approval**, in camera.\n\nRemember: Lokpal = Chairperson + up to 8 members, half judicial; first Lokpal appointed only in 2019.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": "Four statements (I-IV); no four-statement slug exists, so stmt_1_2_3 per the three-or-more rule. Lokpal is named inside POL-25.",
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Lokpal's jurisdiction covers Indian public servants posted abroad (I wrong), the Chairperson may be a former SC judge or eminent person, not only the CJI (II wrong), the 45-year minimum age is correct (III), and Lokpal can inquire into a sitting PM with safeguards (IV wrong)."
+   },
+   "key_supported": true
   },
   {
    "q_no": 99,
@@ -2750,12 +3441,19 @@
     "CAI-09"
    ],
    "primary_topic_code": "CAI-09",
-   "explanation_md": null,
+   "explanation_md": "Delhi did host the first Kho Kho World Cup, but statements II and III have swapped the two final scores between the men's and women's matches.\n- **I — correct.** The inaugural Kho Kho World Cup was played in January 2025 at the Indira Gandhi Indoor Stadium, **New Delhi**.\n- **II — incorrect.** India's men beat Nepal in the final **54–36**, not 78–40.\n- **III — incorrect.** India's women beat Nepal **78–40**, not 54–36.\nBoth Indian teams became inaugural champions, both against Nepal — the trap is purely the interchanged scores.\n\nRemember: first Kho Kho World Cup — January 2025, New Delhi; India won both titles, Nepal runner-up in both finals — and in sports questions, verify the number attached to each fact, not just the headline result.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": null
+   "transcription_note": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium",
+    "beyond_knowledge": false,
+    "reasoning": "The inaugural Kho Kho World Cup was held in Delhi (I correct), but the scores are swapped — the men won 54-36 and the women 78-40 against Nepal, making II and III incorrect."
+   },
+   "key_supported": true
   },
   {
    "q_no": 100,
@@ -2777,12 +3475,29 @@
     "CAI-09"
    ],
    "primary_topic_code": "CAI-09",
-   "explanation_md": null,
+   "explanation_md": "Gukesh's title came at the World Chess Championship match in Singapore against China's Ding Liren — not at the 45th Chess Olympiad and not against a Russian — so only the Abhimanyu Mishra statement stands.\n- **I — incorrect.** The 45th **Chess Olympiad** (Budapest 2024) is a *team* event with no individual final — India won gold in both the open and women's sections there. Gukesh became the **youngest world champion** at 18 by beating **Ding Liren** in the World Championship match, Singapore, December 2024; Ian Nepomniachtchi was the *2023* challenger against Ding, a different match.\n- **II — correct.** American **Abhimanyu Mishra** became the youngest ever Grandmaster in June 2021, aged **12 years 4 months**, breaking Sergey Karjakin's record.\n\nRemember: Olympiad = biennial team event; World Championship = individual match — the wrong statement was built by fusing the two.",
    "has_table": false,
    "has_figure": false,
    "tagging_confidence": "high",
    "tagging_note": null,
-   "transcription_note": "Last question of the paper; page footer reads LVPK–O–PSO/56A, page 43, [ P.T.O. Pages 45 and 47 are SPACE FOR ROUGH WORK sheets with no questions."
+   "transcription_note": "Last question of the paper; page footer reads LVPK–O–PSO/56A, page 43, [ P.T.O. Pages 45 and 47 are SPACE FOR ROUGH WORK sheets with no questions.",
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false,
+    "reasoning": "Gukesh became youngest world champion by beating Ding Liren (China) at the World Championship in Singapore, not Nepomniachtchi at the Olympiad (I wrong), while Abhimanyu Mishra does hold the youngest-ever Grandmaster record (II correct)."
+   },
+   "key_supported": true
   }
- ]
+ ],
+ "independent_pass": {
+  "done_on": "2026-08-31",
+  "note": "Blind cross-check produced without reading the answer field."
+ },
+ "explanations_generated": {
+  "on": "2026-08-31",
+  "note": "Written fresh from subject knowledge (D2)."
+ },
+ "reviewed_on": "2026-08-31",
+ "review_note": "Loaded under Pragaman’s standing instruction (31 Aug 2026): load with the official key, no per-question approval. Blind agreement 95/100; Q3/Q45/Q52/Q64/Q83 key-vs-blind disagreements accepted in favour of the official key — the explanation pass verified the key on all 100 (zero key doubts). Each disagreement carries a review_flag."
 }

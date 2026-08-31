@@ -148,7 +148,7 @@ export default async function Guide() {
                             className={`h-10 w-full rounded-btn border text-xs font-medium transition ${
                               b.status === s.value
                                 ? s.value === 'owned'
-                                  ? 'border-emerald-600 bg-emerald-50 text-emerald-800'
+                                  ? 'border-emerald-600 bg-emerald-50 text-emerald-800 dark:border-emerald-500 dark:bg-emerald-950 dark:text-emerald-300'
                                   : s.value === 'pdf'
                                     ? 'border-dusk-deep bg-dusk text-ink'
                                     : 'border-accent bg-surface text-accent-deep'

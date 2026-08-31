@@ -90,6 +90,13 @@ test('password gate: wrong rejected, right enters', async ({ page }) => {
 })
 
 test('blocks render, log, persist; MVD flips at 160; streak counts', async ({ page }) => {
+  // The app is in live daily use: real blocks may already be logged today, so
+  // every footer assertion is relative to that baseline, never absolute.
+  const [{ base }] = await sql`
+    select coalesce(sum(actual_minutes), 0)::int as base from plan_blocks
+    where date = ${TZ_TODAY} and status = 'done' and slot not in ('T1', 'T2')`
+  const mvd = (total: number) => (total >= 160 ? 'MVD met' : `MVD ${total}/160`)
+
   await page.goto('/')
   await page.getByPlaceholder('Password').fill(APP_PASSWORD)
   await page.getByRole('button', { name: 'Enter' }).click()
@@ -102,13 +109,13 @@ test('blocks render, log, persist; MVD flips at 160; streak counts', async ({ pa
   await expect(t1.getByRole('heading', { name: 'TEST BLOCK ALPHA' })).toBeVisible()
   await expect(t1).toContainText('05:30')
   await expect(t2.getByRole('heading', { name: 'TEST BLOCK BETA' })).toBeVisible()
-  await expect(footer).toContainText('MVD 0/160')
+  await expect(footer).toContainText(mvd(base))
 
   // Log T1 with the pre-filled planned minutes (90) — below the MVD floor
   await expect(t1.getByRole('spinbutton')).toHaveValue('90')
   await t1.getByRole('button', { name: 'Done' }).click()
   await expect(t1).toContainText('Block T1 — 90 min')
-  await expect(footer).toContainText('MVD 90/160')
+  await expect(footer).toContainText(mvd(base + 90))
 
   // A done block recedes but stays on screen, in place
   await expect(t1.getByRole('button', { name: 'Done' })).toHaveCount(0)
@@ -129,7 +136,7 @@ test('blocks render, log, persist; MVD flips at 160; streak counts', async ({ pa
 
   // daily_logs row is really there
   const [log] = await sql`select total_minutes, mvd_met from daily_logs where date = ${TZ_TODAY}`
-  expect(log.total_minutes).toBe(185)
+  expect(log.total_minutes).toBe(base + 185)
   expect(log.mvd_met).toBe(true)
 
   // fix: correct a mis-entry without leaving the screen
@@ -137,5 +144,5 @@ test('blocks render, log, persist; MVD flips at 160; streak counts', async ({ pa
   await t1.getByRole('spinbutton').fill('100')
   await t1.getByRole('button', { name: 'Done' }).click()
   await expect(t1).toContainText('Block T1 — 100 min')
-  await expect(footer).toContainText('195')
+  await expect(footer).toContainText(`${base + 195} min`)
 })

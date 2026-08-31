@@ -192,3 +192,25 @@ service worker also moved to network-first everywhere so stale chunks can never 
 pinned by the cache again.
 
 **Deferred, unchanged:** offline write queue, 2025 load, CSAT ingestion.
+
+## enrichment — 2026-08-31 (afternoon, user-directed, post-build)
+
+**Shipped:** Three user requests in one pass. (1) **GS1 2025 loaded** — blind
+cross-check 95/100 against the official key, 100 fresh explanations, zero key
+doubts; the bank now holds **593 questions across all six years, every one
+explained**. (2) **Dark mode** — manual toggle in the top-right menu (D38),
+persisted per device, applied before first paint, full dark token set over the
+day-arc palette. (3) **Topic materials** (D39/D40) — every topic page grew a
+"materials & reading" section: 252 curated, HTTP-200-verified reference links
+imported across all 192 topics (sheet-synced, read-only), paste-a-link rows,
+and file upload to a private Supabase bucket behind 1-hour signed URLs — gated
+off until the service key is pasted. `scripts/sync-links.mjs` re-imports the
+Google Sheet on demand; `seed/topic-links.csv` is the one-time sheet import.
+
+**Also:** the v0 spec learned the app is in live use — footer assertions are
+now relative to the day's real logged minutes (it failed honestly when today's
+actual Block A, 90 min, was already in the ledger).
+
+**Suite:** 38/38 (35 prior + 3 enrichment). Build, lint, tsc clean.
+
+**Blocked on user:** SUPABASE_SERVICE_KEY for uploads; the sheet CSV import.
