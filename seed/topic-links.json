@@ -1,0 +1,1265 @@
+{
+ "note": "Curated 31 Aug 2026; every URL verified HTTP 200. Source of truth is the Google Sheet once populated — resync with scripts/sync-links.mjs.",
+ "links": [
+  {
+   "code": "POL-01",
+   "title": "Wikipedia: Government of India Act 1935",
+   "url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1935"
+  },
+  {
+   "code": "POL-01",
+   "title": "Wikipedia: Regulating Act 1773",
+   "url": "https://en.wikipedia.org/wiki/Regulating_Act_1773"
+  },
+  {
+   "code": "POL-02",
+   "title": "Wikipedia: Constituent Assembly of India",
+   "url": "https://en.wikipedia.org/wiki/Constituent_Assembly_of_India"
+  },
+  {
+   "code": "POL-03",
+   "title": "Wikipedia: Constitution of India",
+   "url": "https://en.wikipedia.org/wiki/Constitution_of_India"
+  },
+  {
+   "code": "POL-04",
+   "title": "Wikipedia: Preamble to the Constitution of India",
+   "url": "https://en.wikipedia.org/wiki/Preamble_to_the_Constitution_of_India"
+  },
+  {
+   "code": "POL-05",
+   "title": "Wikipedia: States Reorganisation Act, 1956",
+   "url": "https://en.wikipedia.org/wiki/States_Reorganisation_Act,_1956"
+  },
+  {
+   "code": "POL-06",
+   "title": "Wikipedia: Citizenship (Amendment) Act, 2019",
+   "url": "https://en.wikipedia.org/wiki/Citizenship_(Amendment)_Act,_2019"
+  },
+  {
+   "code": "POL-06",
+   "title": "Wikipedia: Indian nationality law",
+   "url": "https://en.wikipedia.org/wiki/Indian_nationality_law"
+  },
+  {
+   "code": "POL-07",
+   "title": "Wikipedia: Fundamental rights in India",
+   "url": "https://en.wikipedia.org/wiki/Fundamental_rights_in_India"
+  },
+  {
+   "code": "POL-08",
+   "title": "Wikipedia: Article 21 of the Constitution of India",
+   "url": "https://en.wikipedia.org/wiki/Article_21_of_the_Constitution_of_India"
+  },
+  {
+   "code": "POL-09",
+   "title": "Wikipedia: Freedom of religion in India",
+   "url": "https://en.wikipedia.org/wiki/Freedom_of_religion_in_India"
+  },
+  {
+   "code": "POL-10",
+   "title": "Wikipedia: Fundamental rights in India",
+   "url": "https://en.wikipedia.org/wiki/Fundamental_rights_in_India"
+  },
+  {
+   "code": "POL-11",
+   "title": "Wikipedia: Directive Principles",
+   "url": "https://en.wikipedia.org/wiki/Directive_Principles"
+  },
+  {
+   "code": "POL-12",
+   "title": "Wikipedia: Amendment of the Constitution of India",
+   "url": "https://en.wikipedia.org/wiki/Amendment_of_the_Constitution_of_India"
+  },
+  {
+   "code": "POL-12",
+   "title": "Wikipedia: FRs, DPSPs and Fundamental Duties of India",
+   "url": "https://en.wikipedia.org/wiki/Fundamental_Rights,_Directive_Principles_and_Fundamental_Duties_of_India"
+  },
+  {
+   "code": "POL-13",
+   "title": "Wikipedia: Basic structure doctrine",
+   "url": "https://en.wikipedia.org/wiki/Basic_structure_doctrine"
+  },
+  {
+   "code": "POL-14",
+   "title": "Wikipedia: Federalism in India",
+   "url": "https://en.wikipedia.org/wiki/Federalism_in_India"
+  },
+  {
+   "code": "POL-14",
+   "title": "Wikipedia: Parliamentary system",
+   "url": "https://en.wikipedia.org/wiki/Parliamentary_system"
+  },
+  {
+   "code": "POL-15",
+   "title": "Wikipedia: Federalism in India",
+   "url": "https://en.wikipedia.org/wiki/Federalism_in_India"
+  },
+  {
+   "code": "POL-15",
+   "title": "Wikipedia: Inter-State Council",
+   "url": "https://en.wikipedia.org/wiki/Inter-State_Council"
+  },
+  {
+   "code": "POL-16",
+   "title": "Wikipedia: President's rule",
+   "url": "https://en.wikipedia.org/wiki/President%27s_rule"
+  },
+  {
+   "code": "POL-16",
+   "title": "Wikipedia: The Emergency (India)",
+   "url": "https://en.wikipedia.org/wiki/The_Emergency_(India)"
+  },
+  {
+   "code": "POL-17",
+   "title": "Wikipedia: President of India",
+   "url": "https://en.wikipedia.org/wiki/President_of_India"
+  },
+  {
+   "code": "POL-17",
+   "title": "Wikipedia: Prime Minister of India",
+   "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_India"
+  },
+  {
+   "code": "POL-18",
+   "title": "Wikipedia: Parliament of India",
+   "url": "https://en.wikipedia.org/wiki/Parliament_of_India"
+  },
+  {
+   "code": "POL-19",
+   "title": "Wikipedia: Parliamentary committees of India",
+   "url": "https://en.wikipedia.org/wiki/Parliamentary_committees_of_India"
+  },
+  {
+   "code": "POL-20",
+   "title": "Wikipedia: Judicial review in India",
+   "url": "https://en.wikipedia.org/wiki/Judicial_review_in_India"
+  },
+  {
+   "code": "POL-20",
+   "title": "Wikipedia: Supreme Court of India",
+   "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_India"
+  },
+  {
+   "code": "POL-21",
+   "title": "Wikipedia: Governor (India)",
+   "url": "https://en.wikipedia.org/wiki/Governor_(India)"
+  },
+  {
+   "code": "POL-21",
+   "title": "Wikipedia: High courts of India",
+   "url": "https://en.wikipedia.org/wiki/High_courts_of_India"
+  },
+  {
+   "code": "POL-22",
+   "title": "Wikipedia: Municipal governance in India",
+   "url": "https://en.wikipedia.org/wiki/Municipal_governance_in_India"
+  },
+  {
+   "code": "POL-22",
+   "title": "Wikipedia: Panchayati raj in India",
+   "url": "https://en.wikipedia.org/wiki/Panchayati_raj_in_India"
+  },
+  {
+   "code": "POL-23",
+   "title": "Wikipedia: Sixth Schedule to the Constitution of India",
+   "url": "https://en.wikipedia.org/wiki/Sixth_Schedule_to_the_Constitution_of_India"
+  },
+  {
+   "code": "POL-23",
+   "title": "Wikipedia: Union territory",
+   "url": "https://en.wikipedia.org/wiki/Union_territory"
+  },
+  {
+   "code": "POL-24",
+   "title": "Wikipedia: Comptroller and Auditor General of India",
+   "url": "https://en.wikipedia.org/wiki/Comptroller_and_Auditor_General_of_India"
+  },
+  {
+   "code": "POL-24",
+   "title": "Wikipedia: Election Commission of India",
+   "url": "https://en.wikipedia.org/wiki/Election_Commission_of_India"
+  },
+  {
+   "code": "POL-25",
+   "title": "Wikipedia: Lokpal",
+   "url": "https://en.wikipedia.org/wiki/Lokpal"
+  },
+  {
+   "code": "POL-25",
+   "title": "Wikipedia: NITI Aayog",
+   "url": "https://en.wikipedia.org/wiki/NITI_Aayog"
+  },
+  {
+   "code": "POL-26",
+   "title": "Wikipedia: Anti-defection law (India)",
+   "url": "https://en.wikipedia.org/wiki/Anti-defection_law_(India)"
+  },
+  {
+   "code": "POL-26",
+   "title": "Wikipedia: Representation of the People Act, 1951",
+   "url": "https://en.wikipedia.org/wiki/Representation_of_the_People_Act,_1951"
+  },
+  {
+   "code": "POL-27",
+   "title": "Wikipedia: Right to Information Act, 2005",
+   "url": "https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005"
+  },
+  {
+   "code": "POL-28",
+   "title": "Wikipedia: Accountability",
+   "url": "https://en.wikipedia.org/wiki/Accountability"
+  },
+  {
+   "code": "POL-29",
+   "title": "Wikipedia: Bharatiya Nyaya Sanhita",
+   "url": "https://en.wikipedia.org/wiki/Bharatiya_Nyaya_Sanhita"
+  },
+  {
+   "code": "POL-29",
+   "title": "Wikipedia: Central Armed Police Forces",
+   "url": "https://en.wikipedia.org/wiki/Central_Armed_Police_Forces"
+  },
+  {
+   "code": "GEO-01",
+   "title": "Wikipedia: Solar System",
+   "url": "https://en.wikipedia.org/wiki/Solar_System"
+  },
+  {
+   "code": "GEO-02",
+   "title": "Wikipedia: Internal structure of Earth",
+   "url": "https://en.wikipedia.org/wiki/Internal_structure_of_Earth"
+  },
+  {
+   "code": "GEO-02",
+   "title": "Wikipedia: Rock cycle",
+   "url": "https://en.wikipedia.org/wiki/Rock_cycle"
+  },
+  {
+   "code": "GEO-03",
+   "title": "Wikipedia: Plate tectonics",
+   "url": "https://en.wikipedia.org/wiki/Plate_tectonics"
+  },
+  {
+   "code": "GEO-04",
+   "title": "Wikipedia: Weathering",
+   "url": "https://en.wikipedia.org/wiki/Weathering"
+  },
+  {
+   "code": "GEO-05",
+   "title": "Wikipedia: Landform",
+   "url": "https://en.wikipedia.org/wiki/Landform"
+  },
+  {
+   "code": "GEO-06",
+   "title": "Wikipedia: Atmosphere of Earth",
+   "url": "https://en.wikipedia.org/wiki/Atmosphere_of_Earth"
+  },
+  {
+   "code": "GEO-07",
+   "title": "Wikipedia: Atmospheric circulation",
+   "url": "https://en.wikipedia.org/wiki/Atmospheric_circulation"
+  },
+  {
+   "code": "GEO-08",
+   "title": "Wikipedia: Tropical cyclone",
+   "url": "https://en.wikipedia.org/wiki/Tropical_cyclone"
+  },
+  {
+   "code": "GEO-09",
+   "title": "Wikipedia: Koppen climate classification",
+   "url": "https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification"
+  },
+  {
+   "code": "GEO-10",
+   "title": "Wikipedia: Ocean current",
+   "url": "https://en.wikipedia.org/wiki/Ocean_current"
+  },
+  {
+   "code": "GEO-11",
+   "title": "Wikipedia: Biome",
+   "url": "https://en.wikipedia.org/wiki/Biome"
+  },
+  {
+   "code": "GEO-12",
+   "title": "Wikipedia: Geography of India",
+   "url": "https://en.wikipedia.org/wiki/Geography_of_India"
+  },
+  {
+   "code": "GEO-13",
+   "title": "Wikipedia: List of major rivers of India",
+   "url": "https://en.wikipedia.org/wiki/List_of_major_rivers_of_India"
+  },
+  {
+   "code": "GEO-14",
+   "title": "Wikipedia: Climate of India",
+   "url": "https://en.wikipedia.org/wiki/Climate_of_India"
+  },
+  {
+   "code": "GEO-14",
+   "title": "Wikipedia: Monsoon of South Asia",
+   "url": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+  },
+  {
+   "code": "GEO-15",
+   "title": "Wikipedia: Soil",
+   "url": "https://en.wikipedia.org/wiki/Soil"
+  },
+  {
+   "code": "GEO-15",
+   "title": "Wikipedia: Soil retrogression and degradation",
+   "url": "https://en.wikipedia.org/wiki/Soil_retrogression_and_degradation"
+  },
+  {
+   "code": "GEO-16",
+   "title": "Wikipedia: Forestry in India",
+   "url": "https://en.wikipedia.org/wiki/Forestry_in_India"
+  },
+  {
+   "code": "GEO-17",
+   "title": "Wikipedia: Agriculture in India",
+   "url": "https://en.wikipedia.org/wiki/Agriculture_in_India"
+  },
+  {
+   "code": "GEO-18",
+   "title": "Wikipedia: Mining in India",
+   "url": "https://en.wikipedia.org/wiki/Mining_in_India"
+  },
+  {
+   "code": "GEO-19",
+   "title": "Wikipedia: Economy of India",
+   "url": "https://en.wikipedia.org/wiki/Economy_of_India"
+  },
+  {
+   "code": "GEO-20",
+   "title": "Wikipedia: Transport in India",
+   "url": "https://en.wikipedia.org/wiki/Transport_in_India"
+  },
+  {
+   "code": "GEO-21",
+   "title": "Wikipedia: Demographics of India",
+   "url": "https://en.wikipedia.org/wiki/Demographics_of_India"
+  },
+  {
+   "code": "GEO-22",
+   "title": "Wikipedia: Urbanisation in India",
+   "url": "https://en.wikipedia.org/wiki/Urbanisation_in_India"
+  },
+  {
+   "code": "GEO-23",
+   "title": "Wikipedia: Economic geography",
+   "url": "https://en.wikipedia.org/wiki/Economic_geography"
+  },
+  {
+   "code": "GEO-24",
+   "title": "Survey of India: official site",
+   "url": "https://www.surveyofindia.gov.in/"
+  },
+  {
+   "code": "GEO-25",
+   "title": "Wikipedia: Irrigation in India",
+   "url": "https://en.wikipedia.org/wiki/Irrigation_in_India"
+  },
+  {
+   "code": "GEO-25",
+   "title": "Wikipedia: Water scarcity in India",
+   "url": "https://en.wikipedia.org/wiki/Water_scarcity_in_India"
+  },
+  {
+   "code": "HIS-01",
+   "title": "Wikipedia: Company rule in India",
+   "url": "https://en.wikipedia.org/wiki/Company_rule_in_India"
+  },
+  {
+   "code": "HIS-02",
+   "title": "Wikipedia: Economy of India under the British Raj",
+   "url": "https://en.wikipedia.org/wiki/Economy_of_India_under_the_British_Raj"
+  },
+  {
+   "code": "HIS-03",
+   "title": "Wikipedia: Regulating Act of 1773",
+   "url": "https://en.wikipedia.org/wiki/Regulating_Act_of_1773"
+  },
+  {
+   "code": "HIS-04",
+   "title": "Wikipedia: Indian Rebellion of 1857",
+   "url": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857"
+  },
+  {
+   "code": "HIS-05",
+   "title": "Wikipedia: Hindu reform movements",
+   "url": "https://en.wikipedia.org/wiki/Hindu_reform_movements"
+  },
+  {
+   "code": "HIS-06",
+   "title": "Wikipedia: Indian National Congress",
+   "url": "https://en.wikipedia.org/wiki/Indian_National_Congress"
+  },
+  {
+   "code": "HIS-07",
+   "title": "Wikipedia: Swadeshi movement",
+   "url": "https://en.wikipedia.org/wiki/Swadeshi_movement"
+  },
+  {
+   "code": "HIS-08",
+   "title": "Wikipedia: Revolutionary movement for Indian independence",
+   "url": "https://en.wikipedia.org/wiki/Revolutionary_movement_for_Indian_independence"
+  },
+  {
+   "code": "HIS-09",
+   "title": "Wikipedia: Indian Councils Act 1909",
+   "url": "https://en.wikipedia.org/wiki/Indian_Councils_Act_1909"
+  },
+  {
+   "code": "HIS-10",
+   "title": "Wikipedia: Non-cooperation movement (1919-1922)",
+   "url": "https://en.wikipedia.org/wiki/Non-cooperation_movement_(1919%E2%80%931922)"
+  },
+  {
+   "code": "HIS-11",
+   "title": "Wikipedia: Salt March",
+   "url": "https://en.wikipedia.org/wiki/Salt_March"
+  },
+  {
+   "code": "HIS-12",
+   "title": "Wikipedia: Government of India Act 1935",
+   "url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1935"
+  },
+  {
+   "code": "HIS-13",
+   "title": "Wikipedia: Quit India Movement",
+   "url": "https://en.wikipedia.org/wiki/Quit_India_Movement"
+  },
+  {
+   "code": "HIS-14",
+   "title": "Wikipedia: Partition of India",
+   "url": "https://en.wikipedia.org/wiki/Partition_of_India"
+  },
+  {
+   "code": "HIS-15",
+   "title": "Wikipedia: All India Kisan Sabha",
+   "url": "https://en.wikipedia.org/wiki/All_India_Kisan_Sabha"
+  },
+  {
+   "code": "HIS-16",
+   "title": "Wikipedia: List of INC presidents",
+   "url": "https://en.wikipedia.org/wiki/List_of_presidents_of_the_Indian_National_Congress"
+  },
+  {
+   "code": "ANM-01",
+   "title": "Wikipedia: Indus Valley Civilisation",
+   "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
+  },
+  {
+   "code": "ANM-02",
+   "title": "Wikipedia: Vedic period",
+   "url": "https://en.wikipedia.org/wiki/Vedic_period"
+  },
+  {
+   "code": "ANM-03",
+   "title": "Wikipedia: Mahajanapadas",
+   "url": "https://en.wikipedia.org/wiki/Mahajanapadas"
+  },
+  {
+   "code": "ANM-04",
+   "title": "Wikipedia: History of Buddhism in India",
+   "url": "https://en.wikipedia.org/wiki/History_of_Buddhism_in_India"
+  },
+  {
+   "code": "ANM-04",
+   "title": "Wikipedia: Jainism",
+   "url": "https://en.wikipedia.org/wiki/Jainism"
+  },
+  {
+   "code": "ANM-05",
+   "title": "Wikipedia: Ashoka",
+   "url": "https://en.wikipedia.org/wiki/Ashoka"
+  },
+  {
+   "code": "ANM-05",
+   "title": "Wikipedia: Maurya Empire",
+   "url": "https://en.wikipedia.org/wiki/Maurya_Empire"
+  },
+  {
+   "code": "ANM-06",
+   "title": "Wikipedia: Kushan Empire",
+   "url": "https://en.wikipedia.org/wiki/Kushan_Empire"
+  },
+  {
+   "code": "ANM-06",
+   "title": "Wikipedia: Satavahana dynasty",
+   "url": "https://en.wikipedia.org/wiki/Satavahana_dynasty"
+  },
+  {
+   "code": "ANM-07",
+   "title": "Wikipedia: Sangam period",
+   "url": "https://en.wikipedia.org/wiki/Sangam_period"
+  },
+  {
+   "code": "ANM-08",
+   "title": "Wikipedia: Gupta Empire",
+   "url": "https://en.wikipedia.org/wiki/Gupta_Empire"
+  },
+  {
+   "code": "ANM-08",
+   "title": "Wikipedia: Harsha",
+   "url": "https://en.wikipedia.org/wiki/Harsha"
+  },
+  {
+   "code": "ANM-09",
+   "title": "Wikipedia: Chola dynasty",
+   "url": "https://en.wikipedia.org/wiki/Chola_dynasty"
+  },
+  {
+   "code": "ANM-10",
+   "title": "Wikipedia: Ghaznavids",
+   "url": "https://en.wikipedia.org/wiki/Ghaznavids"
+  },
+  {
+   "code": "ANM-10",
+   "title": "Wikipedia: Rajput",
+   "url": "https://en.wikipedia.org/wiki/Rajput"
+  },
+  {
+   "code": "ANM-11",
+   "title": "Wikipedia: Delhi Sultanate",
+   "url": "https://en.wikipedia.org/wiki/Delhi_Sultanate"
+  },
+  {
+   "code": "ANM-12",
+   "title": "Wikipedia: Bahmani Sultanate",
+   "url": "https://en.wikipedia.org/wiki/Bahmani_Sultanate"
+  },
+  {
+   "code": "ANM-12",
+   "title": "Wikipedia: Vijayanagara Empire",
+   "url": "https://en.wikipedia.org/wiki/Vijayanagara_Empire"
+  },
+  {
+   "code": "ANM-13",
+   "title": "Wikipedia: Bhakti movement",
+   "url": "https://en.wikipedia.org/wiki/Bhakti_movement"
+  },
+  {
+   "code": "ANM-13",
+   "title": "Wikipedia: Sufism in India",
+   "url": "https://en.wikipedia.org/wiki/Sufism_in_India"
+  },
+  {
+   "code": "ANM-14",
+   "title": "Wikipedia: Maratha Empire",
+   "url": "https://en.wikipedia.org/wiki/Maratha_Empire"
+  },
+  {
+   "code": "ANM-14",
+   "title": "Wikipedia: Mughal Empire",
+   "url": "https://en.wikipedia.org/wiki/Mughal_Empire"
+  },
+  {
+   "code": "ANM-15",
+   "title": "Wikipedia: Science & tech in the Indian subcontinent",
+   "url": "https://en.wikipedia.org/wiki/History_of_science_and_technology_in_the_Indian_subcontinent"
+  },
+  {
+   "code": "ART-01",
+   "title": "Wikipedia: Stupa",
+   "url": "https://en.wikipedia.org/wiki/Stupa"
+  },
+  {
+   "code": "ART-02",
+   "title": "Wikipedia: Hindu temple architecture",
+   "url": "https://en.wikipedia.org/wiki/Hindu_temple_architecture"
+  },
+  {
+   "code": "ART-03",
+   "title": "Wikipedia: Indian rock-cut architecture",
+   "url": "https://en.wikipedia.org/wiki/Indian_rock-cut_architecture"
+  },
+  {
+   "code": "ART-04",
+   "title": "Wikipedia: Indo-Islamic architecture",
+   "url": "https://en.wikipedia.org/wiki/Indo-Islamic_architecture"
+  },
+  {
+   "code": "ART-05",
+   "title": "Wikipedia: Gandhara art",
+   "url": "https://en.wikipedia.org/wiki/Gandhara_art"
+  },
+  {
+   "code": "ART-06",
+   "title": "Wikipedia: Indian painting",
+   "url": "https://en.wikipedia.org/wiki/Indian_painting"
+  },
+  {
+   "code": "ART-07",
+   "title": "Wikipedia: Indian classical dance",
+   "url": "https://en.wikipedia.org/wiki/Indian_classical_dance"
+  },
+  {
+   "code": "ART-08",
+   "title": "Wikipedia: Music of India",
+   "url": "https://en.wikipedia.org/wiki/Music_of_India"
+  },
+  {
+   "code": "ART-09",
+   "title": "Wikipedia: Theatre of India",
+   "url": "https://en.wikipedia.org/wiki/Theatre_of_India"
+  },
+  {
+   "code": "ART-10",
+   "title": "Wikipedia: Geographical indications in India",
+   "url": "https://en.wikipedia.org/wiki/Geographical_indications_in_India"
+  },
+  {
+   "code": "ART-10",
+   "title": "Wikipedia: World Heritage Sites in India",
+   "url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_India"
+  },
+  {
+   "code": "ECO-01",
+   "title": "Wikipedia: Gross domestic product",
+   "url": "https://en.wikipedia.org/wiki/Gross_domestic_product"
+  },
+  {
+   "code": "ECO-02",
+   "title": "Wikipedia: Money supply",
+   "url": "https://en.wikipedia.org/wiki/Money_supply"
+  },
+  {
+   "code": "ECO-03",
+   "title": "Wikipedia: Monetary Policy Committee (India)",
+   "url": "https://en.wikipedia.org/wiki/Monetary_Policy_Committee_(India)"
+  },
+  {
+   "code": "ECO-04",
+   "title": "Wikipedia: Banking in India",
+   "url": "https://en.wikipedia.org/wiki/Banking_in_India"
+  },
+  {
+   "code": "ECO-05",
+   "title": "Wikipedia: Basel Accords",
+   "url": "https://en.wikipedia.org/wiki/Basel_Accords"
+  },
+  {
+   "code": "ECO-05",
+   "title": "Wikipedia: Insolvency and Bankruptcy Code, 2016",
+   "url": "https://en.wikipedia.org/wiki/Insolvency_and_Bankruptcy_Code,_2016"
+  },
+  {
+   "code": "ECO-06",
+   "title": "Wikipedia: Financial inclusion",
+   "url": "https://en.wikipedia.org/wiki/Financial_inclusion"
+  },
+  {
+   "code": "ECO-06",
+   "title": "Wikipedia: Non-bank financial institution",
+   "url": "https://en.wikipedia.org/wiki/Non-bank_financial_institution"
+  },
+  {
+   "code": "ECO-07",
+   "title": "Wikipedia: Securities and Exchange Board of India",
+   "url": "https://en.wikipedia.org/wiki/Securities_and_Exchange_Board_of_India"
+  },
+  {
+   "code": "ECO-08",
+   "title": "Wikipedia: Government bond",
+   "url": "https://en.wikipedia.org/wiki/Government_bond"
+  },
+  {
+   "code": "ECO-09",
+   "title": "Wikipedia: Inflation",
+   "url": "https://en.wikipedia.org/wiki/Inflation"
+  },
+  {
+   "code": "ECO-10",
+   "title": "Wikipedia: Union budget of India",
+   "url": "https://en.wikipedia.org/wiki/Union_budget_of_India"
+  },
+  {
+   "code": "ECO-11",
+   "title": "Wikipedia: Goods and Services Tax (India)",
+   "url": "https://en.wikipedia.org/wiki/Goods_and_Services_Tax_(India)"
+  },
+  {
+   "code": "ECO-12",
+   "title": "Wikipedia: Balance of payments",
+   "url": "https://en.wikipedia.org/wiki/Balance_of_payments"
+  },
+  {
+   "code": "ECO-13",
+   "title": "Wikipedia: International Monetary Fund",
+   "url": "https://en.wikipedia.org/wiki/International_Monetary_Fund"
+  },
+  {
+   "code": "ECO-13",
+   "title": "Wikipedia: World Trade Organization",
+   "url": "https://en.wikipedia.org/wiki/World_Trade_Organization"
+  },
+  {
+   "code": "ECO-14",
+   "title": "Wikipedia: Minimum support price",
+   "url": "https://en.wikipedia.org/wiki/Minimum_support_price"
+  },
+  {
+   "code": "ECO-15",
+   "title": "Wikipedia: Make in India",
+   "url": "https://en.wikipedia.org/wiki/Make_in_India"
+  },
+  {
+   "code": "ECO-16",
+   "title": "Wikipedia: Public–private partnership",
+   "url": "https://en.wikipedia.org/wiki/Public%E2%80%93private_partnership"
+  },
+  {
+   "code": "ECO-17",
+   "title": "Wikipedia: Poverty in India",
+   "url": "https://en.wikipedia.org/wiki/Poverty_in_India"
+  },
+  {
+   "code": "ECO-18",
+   "title": "Wikipedia: Human Development Index",
+   "url": "https://en.wikipedia.org/wiki/Human_Development_Index"
+  },
+  {
+   "code": "ECO-19",
+   "title": "Wikipedia: Economic Survey of India",
+   "url": "https://en.wikipedia.org/wiki/Economic_Survey_of_India"
+  },
+  {
+   "code": "ECO-19",
+   "title": "Wikipedia: NITI Aayog",
+   "url": "https://en.wikipedia.org/wiki/NITI_Aayog"
+  },
+  {
+   "code": "ECO-20",
+   "title": "Wikipedia: Central bank digital currency",
+   "url": "https://en.wikipedia.org/wiki/Central_bank_digital_currency"
+  },
+  {
+   "code": "ECO-20",
+   "title": "Wikipedia: Unified Payments Interface",
+   "url": "https://en.wikipedia.org/wiki/Unified_Payments_Interface"
+  },
+  {
+   "code": "ENV-01",
+   "title": "Wikipedia: Ecosystem",
+   "url": "https://en.wikipedia.org/wiki/Ecosystem"
+  },
+  {
+   "code": "ENV-02",
+   "title": "Wikipedia: Biogeochemical cycle",
+   "url": "https://en.wikipedia.org/wiki/Biogeochemical_cycle"
+  },
+  {
+   "code": "ENV-02",
+   "title": "Wikipedia: Ecological succession",
+   "url": "https://en.wikipedia.org/wiki/Ecological_succession"
+  },
+  {
+   "code": "ENV-03",
+   "title": "Wikipedia: Terrestrial ecosystem",
+   "url": "https://en.wikipedia.org/wiki/Terrestrial_ecosystem"
+  },
+  {
+   "code": "ENV-04",
+   "title": "Wikipedia: Aquatic ecosystem",
+   "url": "https://en.wikipedia.org/wiki/Aquatic_ecosystem"
+  },
+  {
+   "code": "ENV-04",
+   "title": "Wikipedia: Coral reef",
+   "url": "https://en.wikipedia.org/wiki/Coral_reef"
+  },
+  {
+   "code": "ENV-05",
+   "title": "Wikipedia: Biodiversity hotspot",
+   "url": "https://en.wikipedia.org/wiki/Biodiversity_hotspot"
+  },
+  {
+   "code": "ENV-05",
+   "title": "Wikipedia: IUCN Red List",
+   "url": "https://en.wikipedia.org/wiki/IUCN_Red_List"
+  },
+  {
+   "code": "ENV-06",
+   "title": "Wikipedia: Protected areas of India",
+   "url": "https://en.wikipedia.org/wiki/Protected_areas_of_India"
+  },
+  {
+   "code": "ENV-07",
+   "title": "Wikipedia: Wildlife of India",
+   "url": "https://en.wikipedia.org/wiki/Wildlife_of_India"
+  },
+  {
+   "code": "ENV-08",
+   "title": "Wikipedia: Project Tiger",
+   "url": "https://en.wikipedia.org/wiki/Project_Tiger"
+  },
+  {
+   "code": "ENV-09",
+   "title": "Wikipedia: Wildlife Protection Act, 1972",
+   "url": "https://en.wikipedia.org/wiki/Wildlife_Protection_Act,_1972"
+  },
+  {
+   "code": "ENV-10",
+   "title": "Wikipedia: Central Pollution Control Board",
+   "url": "https://en.wikipedia.org/wiki/Central_Pollution_Control_Board"
+  },
+  {
+   "code": "ENV-10",
+   "title": "Wikipedia: National Green Tribunal",
+   "url": "https://en.wikipedia.org/wiki/National_Green_Tribunal"
+  },
+  {
+   "code": "ENV-11",
+   "title": "Wikipedia: Pollution in India",
+   "url": "https://en.wikipedia.org/wiki/Pollution_in_India"
+  },
+  {
+   "code": "ENV-12",
+   "title": "Wikipedia: Climate change",
+   "url": "https://en.wikipedia.org/wiki/Climate_change"
+  },
+  {
+   "code": "ENV-13",
+   "title": "Wikipedia: Paris Agreement",
+   "url": "https://en.wikipedia.org/wiki/Paris_Agreement"
+  },
+  {
+   "code": "ENV-13",
+   "title": "Wikipedia: UNFCCC",
+   "url": "https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change"
+  },
+  {
+   "code": "ENV-14",
+   "title": "Wikipedia: CITES",
+   "url": "https://en.wikipedia.org/wiki/CITES"
+  },
+  {
+   "code": "ENV-14",
+   "title": "Wikipedia: Convention on Biological Diversity",
+   "url": "https://en.wikipedia.org/wiki/Convention_on_Biological_Diversity"
+  },
+  {
+   "code": "ENV-15",
+   "title": "Wikipedia: Environmental impact assessment",
+   "url": "https://en.wikipedia.org/wiki/Environmental_impact_assessment"
+  },
+  {
+   "code": "ENV-15",
+   "title": "Wikipedia: Sustainable Development Goals",
+   "url": "https://en.wikipedia.org/wiki/Sustainable_Development_Goals"
+  },
+  {
+   "code": "ENV-16",
+   "title": "Wikipedia: Renewable energy in India",
+   "url": "https://en.wikipedia.org/wiki/Renewable_energy_in_India"
+  },
+  {
+   "code": "SNT-01",
+   "title": "Wikipedia: Cell biology",
+   "url": "https://en.wikipedia.org/wiki/Cell_biology"
+  },
+  {
+   "code": "SNT-01",
+   "title": "Wikipedia: Human body",
+   "url": "https://en.wikipedia.org/wiki/Human_body"
+  },
+  {
+   "code": "SNT-02",
+   "title": "Wikipedia: Antimicrobial resistance",
+   "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance"
+  },
+  {
+   "code": "SNT-02",
+   "title": "Wikipedia: Vaccine",
+   "url": "https://en.wikipedia.org/wiki/Vaccine"
+  },
+  {
+   "code": "SNT-03",
+   "title": "Wikipedia: CRISPR gene editing",
+   "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing"
+  },
+  {
+   "code": "SNT-03",
+   "title": "Wikipedia: Genetically modified crops",
+   "url": "https://en.wikipedia.org/wiki/Genetically_modified_crops"
+  },
+  {
+   "code": "SNT-04",
+   "title": "Wikipedia: Ayushman Bharat Yojana",
+   "url": "https://en.wikipedia.org/wiki/Ayushman_Bharat_Yojana"
+  },
+  {
+   "code": "SNT-05",
+   "title": "ISRO: Official website",
+   "url": "https://www.isro.gov.in/"
+  },
+  {
+   "code": "SNT-05",
+   "title": "Wikipedia: IRNSS (NavIC)",
+   "url": "https://en.wikipedia.org/wiki/Indian_Regional_Navigation_Satellite_System"
+  },
+  {
+   "code": "SNT-06",
+   "title": "Wikipedia: Black hole",
+   "url": "https://en.wikipedia.org/wiki/Black_hole"
+  },
+  {
+   "code": "SNT-07",
+   "title": "Wikipedia: DRDO",
+   "url": "https://en.wikipedia.org/wiki/Defence_Research_and_Development_Organisation"
+  },
+  {
+   "code": "SNT-08",
+   "title": "Wikipedia: Nuclear power in India",
+   "url": "https://en.wikipedia.org/wiki/Nuclear_power_in_India"
+  },
+  {
+   "code": "SNT-08",
+   "title": "Wikipedia: Three-stage nuclear programme",
+   "url": "https://en.wikipedia.org/wiki/India%27s_three-stage_nuclear_power_programme"
+  },
+  {
+   "code": "SNT-09",
+   "title": "Wikipedia: Artificial intelligence",
+   "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+  },
+  {
+   "code": "SNT-09",
+   "title": "Wikipedia: Quantum computing",
+   "url": "https://en.wikipedia.org/wiki/Quantum_computing"
+  },
+  {
+   "code": "SNT-10",
+   "title": "Wikipedia: Semiconductor industry in India",
+   "url": "https://en.wikipedia.org/wiki/Semiconductor_industry_in_India"
+  },
+  {
+   "code": "SNT-11",
+   "title": "Wikipedia: Nanotechnology",
+   "url": "https://en.wikipedia.org/wiki/Nanotechnology"
+  },
+  {
+   "code": "SNT-12",
+   "title": "Wikipedia: Electric battery",
+   "url": "https://en.wikipedia.org/wiki/Electric_battery"
+  },
+  {
+   "code": "SNT-12",
+   "title": "Wikipedia: Hydrogen economy",
+   "url": "https://en.wikipedia.org/wiki/Hydrogen_economy"
+  },
+  {
+   "code": "SNT-13",
+   "title": "Wikipedia: Unmanned aerial vehicle",
+   "url": "https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle"
+  },
+  {
+   "code": "SNT-14",
+   "title": "DST: Dept of Science & Technology",
+   "url": "https://dst.gov.in/"
+  },
+  {
+   "code": "SNT-15",
+   "title": "Wikipedia: Biological classification",
+   "url": "https://en.wikipedia.org/wiki/Biological_classification"
+  },
+  {
+   "code": "SNT-16",
+   "title": "Wikipedia: Chief of Defence Staff (India)",
+   "url": "https://en.wikipedia.org/wiki/Chief_of_Defence_Staff_(India)"
+  },
+  {
+   "code": "SNT-16",
+   "title": "Wikipedia: Indian Armed Forces",
+   "url": "https://en.wikipedia.org/wiki/Indian_Armed_Forces"
+  },
+  {
+   "code": "CAI-01",
+   "title": "Wikipedia: Foreign relations of India",
+   "url": "https://en.wikipedia.org/wiki/Foreign_relations_of_India"
+  },
+  {
+   "code": "CAI-02",
+   "title": "Wikipedia: India–Russia relations",
+   "url": "https://en.wikipedia.org/wiki/India%E2%80%93Russia_relations"
+  },
+  {
+   "code": "CAI-02",
+   "title": "Wikipedia: India–United States relations",
+   "url": "https://en.wikipedia.org/wiki/India%E2%80%93United_States_relations"
+  },
+  {
+   "code": "CAI-03",
+   "title": "Wikipedia: Africa–India relations",
+   "url": "https://en.wikipedia.org/wiki/Africa%E2%80%93India_relations"
+  },
+  {
+   "code": "CAI-04",
+   "title": "Wikipedia: BRICS",
+   "url": "https://en.wikipedia.org/wiki/BRICS"
+  },
+  {
+   "code": "CAI-04",
+   "title": "Wikipedia: Quadrilateral Security Dialogue",
+   "url": "https://en.wikipedia.org/wiki/Quadrilateral_Security_Dialogue"
+  },
+  {
+   "code": "CAI-05",
+   "title": "Wikipedia: BIMSTEC",
+   "url": "https://en.wikipedia.org/wiki/BIMSTEC"
+  },
+  {
+   "code": "CAI-05",
+   "title": "Wikipedia: SAARC",
+   "url": "https://en.wikipedia.org/wiki/South_Asian_Association_for_Regional_Cooperation"
+  },
+  {
+   "code": "CAI-06",
+   "title": "Wikipedia: Free trade agreements of India",
+   "url": "https://en.wikipedia.org/wiki/Free_trade_agreements_of_India"
+  },
+  {
+   "code": "CAI-06",
+   "title": "Wikipedia: World Trade Organization",
+   "url": "https://en.wikipedia.org/wiki/World_Trade_Organization"
+  },
+  {
+   "code": "CAI-07",
+   "title": "Wikipedia: International Court of Justice",
+   "url": "https://en.wikipedia.org/wiki/International_Court_of_Justice"
+  },
+  {
+   "code": "CAI-08",
+   "title": "Wikipedia: List of international rankings",
+   "url": "https://en.wikipedia.org/wiki/List_of_international_rankings"
+  },
+  {
+   "code": "CAI-09",
+   "title": "Wikipedia: Bharat Ratna",
+   "url": "https://en.wikipedia.org/wiki/Bharat_Ratna"
+  },
+  {
+   "code": "CAI-10",
+   "title": "Wikipedia: Schemes of the government of India",
+   "url": "https://en.wikipedia.org/wiki/List_of_schemes_of_the_government_of_India"
+  },
+  {
+   "code": "CAI-10",
+   "title": "myScheme: Government schemes portal",
+   "url": "https://www.myscheme.gov.in/"
+  },
+  {
+   "code": "CAI-11",
+   "title": "Wikipedia: IUCN",
+   "url": "https://en.wikipedia.org/wiki/International_Union_for_Conservation_of_Nature"
+  },
+  {
+   "code": "CAI-11",
+   "title": "Wikipedia: UN specialized agencies",
+   "url": "https://en.wikipedia.org/wiki/List_of_United_Nations_organizations"
+  },
+  {
+   "code": "CSA-01",
+   "title": "Wikipedia: Reading comprehension",
+   "url": "https://en.wikipedia.org/wiki/Reading_comprehension"
+  },
+  {
+   "code": "CSA-02",
+   "title": "Wikipedia: Logical reasoning",
+   "url": "https://en.wikipedia.org/wiki/Logical_reasoning"
+  },
+  {
+   "code": "CSA-03",
+   "title": "Wikipedia: Percentage",
+   "url": "https://en.wikipedia.org/wiki/Percentage"
+  },
+  {
+   "code": "CSA-03",
+   "title": "Wikipedia: Ratio",
+   "url": "https://en.wikipedia.org/wiki/Ratio"
+  },
+  {
+   "code": "CSA-04",
+   "title": "Wikipedia: Data and information visualization",
+   "url": "https://en.wikipedia.org/wiki/Data_and_information_visualization"
+  },
+  {
+   "code": "CSA-05",
+   "title": "Wikipedia: Decision-making",
+   "url": "https://en.wikipedia.org/wiki/Decision-making"
+  },
+  {
+   "code": "CSA-06",
+   "title": "Wikipedia: Civil Services Examination (India)",
+   "url": "https://en.wikipedia.org/wiki/Civil_Services_Examination_(India)"
+  },
+  {
+   "code": "SOC-01",
+   "title": "Wikipedia: Sociology",
+   "url": "https://en.wikipedia.org/wiki/Sociology"
+  },
+  {
+   "code": "SOC-02",
+   "title": "Wikipedia: Positivism",
+   "url": "https://en.wikipedia.org/wiki/Positivism"
+  },
+  {
+   "code": "SOC-02",
+   "title": "Wikipedia: Scientific method",
+   "url": "https://en.wikipedia.org/wiki/Scientific_method"
+  },
+  {
+   "code": "SOC-03",
+   "title": "Wikipedia: Positivism",
+   "url": "https://en.wikipedia.org/wiki/Positivism"
+  },
+  {
+   "code": "SOC-04",
+   "title": "Wikipedia: Karl Marx",
+   "url": "https://en.wikipedia.org/wiki/Karl_Marx"
+  },
+  {
+   "code": "SOC-05",
+   "title": "Wikipedia: Emile Durkheim",
+   "url": "https://en.wikipedia.org/wiki/%C3%89mile_Durkheim"
+  },
+  {
+   "code": "SOC-06",
+   "title": "Wikipedia: Max Weber",
+   "url": "https://en.wikipedia.org/wiki/Max_Weber"
+  },
+  {
+   "code": "SOC-07",
+   "title": "Wikipedia: Talcott Parsons",
+   "url": "https://en.wikipedia.org/wiki/Talcott_Parsons"
+  },
+  {
+   "code": "SOC-08",
+   "title": "Wikipedia: Robert K. Merton",
+   "url": "https://en.wikipedia.org/wiki/Robert_K._Merton"
+  },
+  {
+   "code": "SOC-09",
+   "title": "Wikipedia: George Herbert Mead",
+   "url": "https://en.wikipedia.org/wiki/George_Herbert_Mead"
+  },
+  {
+   "code": "SOC-09",
+   "title": "Wikipedia: Symbolic interactionism",
+   "url": "https://en.wikipedia.org/wiki/Symbolic_interactionism"
+  },
+  {
+   "code": "SOC-10",
+   "title": "Wikipedia: Social stratification",
+   "url": "https://en.wikipedia.org/wiki/Social_stratification"
+  },
+  {
+   "code": "SOC-11",
+   "title": "Wikipedia: Informal economy",
+   "url": "https://en.wikipedia.org/wiki/Informal_economy"
+  },
+  {
+   "code": "SOC-12",
+   "title": "Wikipedia: Political sociology",
+   "url": "https://en.wikipedia.org/wiki/Political_sociology"
+  },
+  {
+   "code": "SOC-13",
+   "title": "Wikipedia: Sociology of religion",
+   "url": "https://en.wikipedia.org/wiki/Sociology_of_religion"
+  },
+  {
+   "code": "SOC-14",
+   "title": "Wikipedia: Kinship",
+   "url": "https://en.wikipedia.org/wiki/Kinship"
+  },
+  {
+   "code": "SOC-15",
+   "title": "Wikipedia: Social change",
+   "url": "https://en.wikipedia.org/wiki/Social_change"
+  },
+  {
+   "code": "SOC-16",
+   "title": "Wikipedia: G. S. Ghurye",
+   "url": "https://en.wikipedia.org/wiki/G._S._Ghurye"
+  },
+  {
+   "code": "SOC-16",
+   "title": "Wikipedia: Indology",
+   "url": "https://en.wikipedia.org/wiki/Indology"
+  },
+  {
+   "code": "SOC-17",
+   "title": "Wikipedia: Rural sociology",
+   "url": "https://en.wikipedia.org/wiki/Rural_sociology"
+  },
+  {
+   "code": "SOC-18",
+   "title": "Wikipedia: Caste system in India",
+   "url": "https://en.wikipedia.org/wiki/Caste_system_in_India"
+  },
+  {
+   "code": "SOC-18",
+   "title": "Wikipedia: M. N. Srinivas",
+   "url": "https://en.wikipedia.org/wiki/M._N._Srinivas"
+  },
+  {
+   "code": "SOC-19",
+   "title": "Wikipedia: Social class",
+   "url": "https://en.wikipedia.org/wiki/Social_class"
+  },
+  {
+   "code": "SOC-20",
+   "title": "Wikipedia: Kinship",
+   "url": "https://en.wikipedia.org/wiki/Kinship"
+  },
+  {
+   "code": "SOC-21",
+   "title": "Wikipedia: Religion in India",
+   "url": "https://en.wikipedia.org/wiki/Religion_in_India"
+  },
+  {
+   "code": "SOC-22",
+   "title": "Wikipedia: Sanskritisation",
+   "url": "https://en.wikipedia.org/wiki/Sanskritisation"
+  },
+  {
+   "code": "SOC-23",
+   "title": "Wikipedia: Green Revolution in India",
+   "url": "https://en.wikipedia.org/wiki/Green_Revolution_in_India"
+  },
+  {
+   "code": "SOC-23",
+   "title": "Wikipedia: Land reform in India",
+   "url": "https://en.wikipedia.org/wiki/Land_reform_in_India"
+  },
+  {
+   "code": "SOC-24",
+   "title": "Wikipedia: Urbanisation in India",
+   "url": "https://en.wikipedia.org/wiki/Urbanisation_in_India"
+  },
+  {
+   "code": "SOC-25",
+   "title": "Wikipedia: Secularism in India",
+   "url": "https://en.wikipedia.org/wiki/Secularism_in_India"
+  },
+  {
+   "code": "SOC-26",
+   "title": "Wikipedia: Social movement",
+   "url": "https://en.wikipedia.org/wiki/Social_movement"
+  },
+  {
+   "code": "SOC-27",
+   "title": "Wikipedia: Demographics of India",
+   "url": "https://en.wikipedia.org/wiki/Demographics_of_India"
+  },
+  {
+   "code": "SOC-28",
+   "title": "Wikipedia: Poverty in India",
+   "url": "https://en.wikipedia.org/wiki/Poverty_in_India"
+  }
+ ]
+}

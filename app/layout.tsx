@@ -40,8 +40,21 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" data-mode="work" className={`${bricolage.variable} ${spaceMono.variable} ${satoshi.variable}`}>
+    <html
+      lang="en"
+      data-mode="work"
+      suppressHydrationWarning
+      className={`${bricolage.variable} ${spaceMono.variable} ${satoshi.variable}`}
+    >
       <body className="bg-bg font-body text-ink antialiased">
+        <script
+          // first thing the parser executes inside body — the saved theme lands
+          // before any content paints, so dark mode never flashes light
+          dangerouslySetInnerHTML={{
+            __html:
+              "try{if(localStorage.getItem('sarthi-theme')==='dark'){document.documentElement.dataset.theme='dark'}}catch(e){}",
+          }}
+        />
         <div className="pb-[calc(4.25rem+env(safe-area-inset-bottom))] lg:pb-0 lg:pt-14">{children}</div>
         <BottomNav />
         <GuideMenu />

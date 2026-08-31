@@ -239,7 +239,7 @@ export default function PracticeRunner({
                   onClick={() => setChosen(L)}
                   className={`flex w-full items-start gap-3 rounded-btn border p-3.5 text-left transition sm:p-4 ${
                     isAnswer
-                      ? 'border-emerald-600 bg-emerald-50'
+                      ? 'border-emerald-600 bg-emerald-50 dark:border-emerald-500 dark:bg-emerald-950'
                       : isWrongPick
                         ? 'border-accent bg-bg'
                         : picked
@@ -252,7 +252,7 @@ export default function PracticeRunner({
                     className="flex-1"
                     dangerouslySetInnerHTML={{ __html: md(o).replace(/^<p>|<\/p>$/g, '') }}
                   />
-                  {isAnswer && <span className="mono-label shrink-0 text-emerald-700">correct</span>}
+                  {isAnswer && <span className="mono-label shrink-0 text-emerald-700 dark:text-emerald-400">correct</span>}
                 </button>
               </li>
             )
@@ -293,7 +293,7 @@ export default function PracticeRunner({
             <p
               data-testid="verdict"
               data-correct={String(isCorrect)}
-              className={`font-display text-xl font-bold ${isCorrect ? 'text-emerald-700' : 'text-accent-deep'}`}
+              className={`font-display text-xl font-bold ${isCorrect ? 'text-emerald-700 dark:text-emerald-400' : 'text-accent-deep'}`}
             >
               {isCorrect ? 'Correct' : `Wrong — the answer is ${q.answer}`}
             </p>

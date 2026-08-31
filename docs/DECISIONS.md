@@ -199,3 +199,18 @@ Format: `### DN — <decision>` then **Context**, **Decision**, **Consequence** 
 **Context:** User's final build request: a top-right menu with the campaign plan's daily routine (section 04), day-synced, and the closed book list (section 08) with have/buy/free-PDF tracking that follows him between phone and laptop.
 **Decision:** A `books` table (additive, user-directed — same precedent as `bonus`), seeded from `seed/books.json`; status is user tracking and reseeding never overwrites it. `/guide` renders today's routine by IST weekday with a "now" marker on the live row, and the list grouped by tier with a still-to-buy rupee total. The menu floats top-right; the service worker went network-first everywhere after a cache-first dev-chunk poisoning.
 **Consequence:** The routine and the source list live inside the app he opens at 05:30; the list stays closed — seed edits are the only way to add a book.
+
+### D38 — Dark mode is a manual flip, not an OS follow
+**Context:** User asked for a dark version. Blindly following `prefers-color-scheme` would flip the 05:30 screen dark because the phone is still in night mode — the opposite of a wake-up cue.
+**Decision:** A toggle in the top-right menu sets `data-theme="dark"` on `<html>`, persisted per device in localStorage and applied by an inline script before first paint. The OS setting is ignored. Dark tokens override the palette variables; stage and subject colours stay untouched (D21), with only the handful of hardcoded emerald/stone utilities given `dark:` variants.
+**Consequence:** The app looks exactly how it was left, on every open, on each device independently. Toggling costs two taps and is expected to happen roughly twice a day at most.
+
+### D39 — Topic materials: one table, uploads gated on the storage key
+**Context:** User wants notes/PDFs attached to topics, plus curated reference links. Vercel has no disk; real files need Supabase Storage, which needs the service_role key we don't hold.
+**Decision:** One `topic_materials` table for all three shapes — uploaded file (url = private-bucket object path), user link, sheet-synced reference — discriminated by `kind` + `source`. Files go to a private bucket over plain REST (no SDK) and open through 1-hour signed URLs behind `/api/material/[id]`. Everything upload-shaped is gated on `storageReady()`: until SUPABASE_SERVICE_KEY exists in the env the UI states that plainly instead of half-working. 20 MB cap, PDF and images only.
+**Consequence:** Links and sheet refs work today; uploads switch on by pasting one key into `.env.local` and Vercel, with no code change.
+
+### D40 — The Google Sheet is the editor for reference links, the DB is the truth
+**Context:** User created an empty sheet and wants optional per-topic reading links "like the learning tracker". The app cannot write to Google Sheets without OAuth, and reading a public CSV export needs nothing.
+**Decision:** 252 links across all 192 topics were curated agentically (Wikipedia-first, official portals second), every URL verified HTTP 200, committed as `seed/topic-links.json`, and imported as `source='sheet'` rows. `seed/topic-links.csv` is the file to import into his sheet once; from then on the sheet is edited by hand and `node scripts/sync-links.mjs` replaces all sheet rows from it wholesale. Rows added in the app (`source='user'`) are never touched by a sync, and sheet rows show no delete control in the app.
+**Consequence:** Curation lives where editing is pleasant (the sheet), reading lives where studying happens (the topic page), and neither can corrupt the other.

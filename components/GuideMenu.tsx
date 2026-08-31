@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import { useEffect, useRef, useState } from 'react'
+import ThemeToggle from '@/components/ThemeToggle'
 
 /**
  * The top-right menu: today's routine and the book list, one tap away from
@@ -72,6 +73,7 @@ export default function GuideMenu() {
             </svg>
             Books &amp; materials
           </Link>
+          <ThemeToggle />
         </nav>
       )}
     </div>

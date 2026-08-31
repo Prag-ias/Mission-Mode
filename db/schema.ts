@@ -159,6 +159,21 @@ export const books = pgTable('books', {
   sort: integer('sort').notNull().default(0),
 })
 
+/** Per-topic study material. Three shapes share the table: uploaded files
+ *  (url = Supabase Storage object path), links the user pastes, and curated
+ *  reference links synced from the Google Sheet. Sheet rows (source='sheet')
+ *  are replaced wholesale by scripts/sync-links.mjs; user rows never are. */
+export const topicMaterials = pgTable('topic_materials', {
+  id: serial('id').primaryKey(),
+  topicId: integer('topic_id').references(() => topics.id).notNull(),
+  kind: varchar('kind', { length: 6 }).notNull(),                      // file | link
+  source: varchar('source', { length: 6 }).notNull().default('user'), // user | sheet
+  title: text('title').notNull(),
+  url: text('url').notNull(),
+  sizeBytes: integer('size_bytes'),
+  createdAt: timestamp('created_at', { withTimezone: true }).notNull().defaultNow(),
+})
+
 export const caItems = pgTable('ca_items', {
   id: serial('id').primaryKey(),
   capturedOn: date('captured_on').notNull(),

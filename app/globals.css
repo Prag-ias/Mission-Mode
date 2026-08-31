@@ -27,6 +27,29 @@
   color-scheme: light;
 }
 
+/* Dark mode is a deliberate flip, not an OS follow (user decision): the
+   toggle in the guide menu sets data-theme and it persists per device. */
+:root[data-theme='dark'] {
+  --bg: #131519;
+  --surface: #1b1e24;
+  --ink: #f2f0ea;
+  --muted: #9aa1ad;
+  --line: #2a2e37;
+  --accent: #ff7d71;
+  --accent-deep: #ff9a90;
+
+  --dawn: #2c221c;
+  --day: #2b2618;
+  --dusk: #232032;
+  --night: #1c2230;
+  --dawn-deep: #c97f4e;
+  --day-deep: #b08a2e;
+  --dusk-deep: #8e82bc;
+  --night-deep: #5e708e;
+
+  color-scheme: dark;
+}
+
 @theme inline {
   --color-bg: var(--bg);
   --color-surface: var(--surface);
@@ -54,6 +77,15 @@
   --shadow-hover: 0 4px 8px rgba(22, 24, 29, 0.06), 0 14px 32px rgba(22, 24, 29, 0.11);
 }
 
+/* tailwind dark: variant keyed to the manual attribute, not the OS */
+@custom-variant dark (&:where([data-theme='dark'], [data-theme='dark'] *));
+
+:root[data-theme='dark'] {
+  --shadow-s: 0 1px 2px rgba(0, 0, 0, 0.35), 0 4px 12px rgba(0, 0, 0, 0.35);
+  --shadow-m: 0 2px 4px rgba(0, 0, 0, 0.4), 0 8px 22px rgba(0, 0, 0, 0.45);
+  --shadow-hover: 0 4px 8px rgba(0, 0, 0, 0.45), 0 14px 32px rgba(0, 0, 0, 0.55);
+}
+
 html {
   -webkit-text-size-adjust: 100%;
 }
@@ -64,6 +96,11 @@ body {
     radial-gradient(90rem 26rem at 15% -8rem, rgba(255, 179, 143, 0.16), transparent 60%),
     radial-gradient(70rem 22rem at 90% -10rem, rgba(155, 142, 196, 0.10), transparent 60%);
   background-repeat: no-repeat;
+}
+:root[data-theme='dark'] body {
+  background-image:
+    radial-gradient(90rem 26rem at 15% -8rem, rgba(201, 127, 78, 0.10), transparent 60%),
+    radial-gradient(70rem 22rem at 90% -10rem, rgba(142, 130, 188, 0.08), transparent 60%);
 }
 
 button, a, input, textarea {
