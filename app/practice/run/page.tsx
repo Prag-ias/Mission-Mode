@@ -17,7 +17,7 @@ export default async function Run({
   const sp = await searchParams
   const f = parseFilters(sp)
 
-  const where = [sql`1=1`]
+  const where = [sql`q.paper = ${f.paper}`]
   if (f.subject) where.push(sql`q.subject_id = (select id from subjects where code = ${f.subject})`)
   if (f.year) where.push(sql`q.year = ${f.year}`)
   if (f.format) where.push(sql`q.format = ${f.format}`)

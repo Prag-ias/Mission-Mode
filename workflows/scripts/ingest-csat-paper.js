@@ -6,6 +6,7 @@ export const meta = {
     { title: 'Solve', detail: 'solve blind with worked reasoning, before seeing the key' },
     { title: 'Key', detail: 'read the official answer key' },
     { title: 'Tag', detail: 'assign format and CSAT topic codes' },
+    { title: 'Reconcile', detail: 'rewrite explanations that argue against the official key' },
   ],
 }
 
@@ -217,6 +218,52 @@ const merged = questions.map((q) => {
         : null,
   }
 })
+
+// A question whose explanation argues for a different letter than the one the
+// app will display is worse than no explanation: it teaches the wrong answer.
+// Those get re-explained from the key's side, by a fresh agent.
+phase('Reconcile')
+const conflicts = merged.filter((m) => m.review_flag)
+if (conflicts.length) {
+  // One agent, one question, and NO q_no in the schema: an agent given a single
+  // item numbers it 1, which silently pasted one question's explanation onto
+  // another when the result was keyed on the returned number. The question
+  // number comes from the closure now, never from the model.
+  const RECONCILE_SCHEMA = {
+    type: 'object',
+    required: ['explanation_md', 'key_defensible'],
+    properties: {
+      explanation_md: { type: 'string' },
+      key_defensible: { type: 'boolean' },
+      why: { type: 'string', description: 'if key_defensible is false, what makes the official answer look wrong' },
+    },
+  }
+  const fixed = await parallel(
+    conflicts.map((q) => () =>
+      agent(
+        `A UPSC CSAT ${YEAR} question where an independent solver disagreed with the official answer key. The official key is what the app will show, so the explanation must justify the OFFICIAL answer.\n\n` +
+          `Official answer: ${q.answer}\nSolver's answer: ${q.independent_answer?.answer}\n\n` +
+          `Question:\n${q.stem}\n\nOptions:\n${q.options.map((o, i) => `${'abcd'[i]}) ${o}`).join('\n')}\n\n` +
+          `First work out honestly why UPSC's answer is the intended one — for comprehension this is usually a precise word the candidate skimmed (a compound term split apart, a quantifier like "all" or "universally", a term of art swapped for a near-synonym). Then write explanation_md defending the official answer, naming that exact distinction, and saying plainly why the tempting alternative is wrong.\n` +
+          `Set key_defensible false ONLY if after real effort the official answer still looks indefensible; then say why in "why". Do not force a bad justification.\n` +
+          `Return via StructuredOutput.`,
+        { label: `reconcile:Q${q.q_no}`, phase: 'Reconcile', schema: RECONCILE_SCHEMA, effort: 'high' },
+      ).then((r) => (r ? { q_no: q.q_no, ...r } : null)),
+    ),
+  )
+  const byNo = new Map(fixed.filter(Boolean).map((e) => [e.q_no, e]))
+  for (const m of merged) {
+    const e = byNo.get(m.q_no)
+    if (!e) continue
+    m.explanation_md = e.explanation_md
+    m.key_supported = e.key_defensible !== false
+    if (e.key_defensible === false) {
+      m.disputed = true
+      m.review_flag = `${m.review_flag} Reconciliation could not defend the key: ${e.why ?? ''}`.trim()
+    }
+  }
+  log(`reconciled ${byNo.size} conflicting explanations; ${merged.filter((m) => m.disputed).length} left disputed`)
+}
 
 log(`CSAT ${YEAR}: key agreement ${agree}/${scored} · dropped ${dropped.size} · explanations ${merged.filter((m) => m.explanation_md).length}`)
 return {

@@ -31,7 +31,7 @@ export default async function Practice({
   const sp = await searchParams
   const f = parseFilters(sp)
 
-  const where = [sql`1=1`]
+  const where = [sql`${questions.paper} = ${f.paper}`]
   if (f.subject) where.push(sql`${questions.subjectId} = (select id from subjects where code = ${f.subject})`)
   if (f.year) where.push(sql`${questions.year} = ${f.year}`)
   if (f.format) where.push(sql`${questions.format} = ${f.format}`)
@@ -44,13 +44,25 @@ export default async function Practice({
     db
       .select({ code: subjects.code, name: subjects.name, colour: subjects.colour, n: sql<number>`count(${questions.id})` })
       .from(subjects)
-      .leftJoin(questions, eq(questions.subjectId, subjects.id))
+      .leftJoin(questions, and(eq(questions.subjectId, subjects.id), eq(questions.paper, f.paper)))
       .groupBy(subjects.code, subjects.name, subjects.colour)
       .having(sql`count(${questions.id}) > 0`)
       .orderBy(sql`count(${questions.id}) desc`),
-    db.select({ year: questions.year, n: sql<number>`count(*)` }).from(questions).groupBy(questions.year).orderBy(questions.year),
+    db
+      .select({ year: questions.year, n: sql<number>`count(*)` })
+      .from(questions)
+      .where(eq(questions.paper, f.paper))
+      .groupBy(questions.year)
+      .orderBy(questions.year),
     db.select({ n: sql<number>`count(*)` }).from(attempts),
   ])
+
+  const byPaper = await db
+    .select({ paper: questions.paper, n: sql<number>`count(*)` })
+    .from(questions)
+    .groupBy(questions.paper)
+  const gs1Count = Number(byPaper.find((r) => r.paper === 'GS1')?.n ?? 0)
+  const csatCount = Number(byPaper.find((r) => r.paper === 'CSAT')?.n ?? 0)
 
   const poolSize = Number(pool?.n ?? 0)
   const runHref = `/practice/run?${filterQuery(f).toString()}`
@@ -78,6 +90,26 @@ export default async function Practice({
 
       <div className="grid gap-5 lg:grid-cols-[1fr_260px] lg:gap-8">
         <div className="flex flex-col gap-5">
+          <section>
+            <p className="mono-label mb-2 text-muted">paper</p>
+            <div className="flex flex-wrap gap-2">
+              <Link
+                href={`/practice?${new URLSearchParams({ n: String(f.n), seed: f.seed }).toString()}`}
+                data-testid="paper-gs1"
+                className={chip(f.paper === 'GS1')}
+              >
+                GS1 <span className="font-mono text-xs opacity-60">{gs1Count}</span>
+              </Link>
+              <Link
+                href={`/practice?${new URLSearchParams({ paper: 'CSAT', n: String(f.n), seed: f.seed }).toString()}`}
+                data-testid="paper-csat"
+                className={chip(f.paper === 'CSAT')}
+              >
+                CSAT <span className="font-mono text-xs opacity-60">{csatCount}</span>
+              </Link>
+            </div>
+          </section>
+
           <section>
             <p className="mono-label mb-2 text-muted">subject</p>
             <div className="flex flex-wrap gap-2">

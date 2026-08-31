@@ -1,0 +1,2666 @@
+{
+ "paper": "CSAT",
+ "year": 2026,
+ "booklet_series": "A (answers above are for Series A; the PDF also contains full separate keys for Series B, C and D — one page each)",
+ "source_pdf": "PYQs/Prelims/GS PAPER 2/GS PAPER 2 2026.pdf",
+ "transcribed_on": "2026-08-31",
+ "reviewed_by_human": true,
+ "answer_key": {
+  "source": "official",
+  "note": "Official UPSC answer key supplied by the user."
+ },
+ "independent_pass": {
+  "done_on": "2026-08-31",
+  "note": "Every question solved from scratch before the key was read; the worked solution is the explanation."
+ },
+ "explanations_generated": {
+  "on": "2026-08-31",
+  "note": "Worked solutions written during the solve pass (D2)."
+ },
+ "questions": [
+  {
+   "q_no": 1,
+   "page": 3,
+   "stem": "Directions: Each item in this section contains a question followed by two statements. Answer each item using the following instructions and mark your response on the Answer Sheet accordingly.\n\n(a) Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement\n(b) Select this option if the question can be answered using either statement alone\n(c) Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone\n(d) Select this option if the question cannot be answered even using any of the statements\n\nQuestion :\n\nX receives three coins of different denominations : 1, 2, 5, 10 and 20. If the total amount received by X is m, does X receive a coin of denomination 5?\n\nStatement I :\n\nm is not a prime number.\n\nStatement II :\n\nThe sum of the digits of m is greater than 5.",
+   "options": [
+    "Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement",
+    "Select this option if the question can be answered using either statement alone",
+    "Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone",
+    "Select this option if the question cannot be answered even using any of the statements"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "**List all 10 possible three-coin totals from {1,2,5,10,20}:**\n\n| Coins | m | prime? | digit sum |\n|---|---|---|---|\n| 1,2,5 | 8 | no | 8 |\n| 1,2,10 | 13 | yes | 4 |\n| 1,2,20 | 23 | yes | 5 |\n| 1,5,10 | 16 | no | 7 |\n| 1,5,20 | 26 | no | 8 |\n| 1,10,20 | 31 | yes | 4 |\n| 2,5,10 | 17 | yes | 8 |\n| 2,5,20 | 27 | no | 9 |\n| 2,10,20 | 32 | no | 5 |\n| 5,10,20 | 35 | no | 8 |\n\n**I alone:** non-prime m = 8, 16, 26, 27, 32, 35. Here 8 contains a 5-coin but **32 = 2+10+20 does not** → no decision. Insufficient.\n\n**II alone:** digit sum > 5 picks out m = 8, 16, 26, 17, 27, 35. **Every one of these contains the 5-coin** (32 has digit sum 5, so it is knocked out). Answer is a definite \"yes\". Sufficient.\n\nOne statement works, the other doesn't → **(a)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Items 1-5 share one 'Directions for the following 5 (five) items' block; that block supplies the four options (a)-(d), which are reproduced verbatim as the options and also inside the stem so the item stands alone.",
+   "shares_passage_with": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 2,
+   "page": 3,
+   "stem": "Directions: Each item in this section contains a question followed by two statements. Answer each item using the following instructions and mark your response on the Answer Sheet accordingly.\n\n(a) Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement\n(b) Select this option if the question can be answered using either statement alone\n(c) Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone\n(d) Select this option if the question cannot be answered even using any of the statements\n\nQuestion :\n\nFor two distinct real numbers x and y, which of them is bigger?\n\nStatement I :\n\nx^2 < y < 1\n\nStatement II :\n\ny < √x < 1",
+   "options": [
+    "Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement",
+    "Select this option if the question can be answered using either statement alone",
+    "Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone",
+    "Select this option if the question cannot be answered even using any of the statements"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "**I alone:** x² < y < 1 forces −1 < x < 1 and y > 0.\n- x = 0.5, y = 0.3: 0.25 < 0.3 < 1 ✓ → x bigger.\n- x = 0.1, y = 0.5: 0.01 < 0.5 < 1 ✓ → y bigger. Insufficient.\n\n**II alone:** y < √x < 1 forces 0 ≤ x < 1.\n- x = 0.25 (√x = 0.5), y = 0.4 → y bigger; y = 0.1 → x bigger. Insufficient.\n\n**Both together:** they combine to x² < y < √x with 0 < x < 1. But for 0 < x < 1, **x² < x < √x — so x itself sits inside the allowed band for y**, and y can be put on either side of x:\n- x = 0.25, y = 0.1: 0.0625 < 0.1 ✓ and 0.1 < 0.5 ✓ → x > y.\n- x = 0.25, y = 0.4: 0.0625 < 0.4 ✓ and 0.4 < 0.5 ✓ → y > x.\n\nStill undecided → **(d)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Statement II is a square root over x only: y < √x < 1.",
+   "shares_passage_with": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 3,
+   "page": 3,
+   "stem": "Directions: Each item in this section contains a question followed by two statements. Answer each item using the following instructions and mark your response on the Answer Sheet accordingly.\n\n(a) Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement\n(b) Select this option if the question can be answered using either statement alone\n(c) Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone\n(d) Select this option if the question cannot be answered even using any of the statements\n\nQuestion :\n\nIf x and y are integers, then is x even?\n\nStatement I :\n\nx^2 y^2 is even.\n\nStatement II :\n\n1 + x^2 + y^2 is odd.",
+   "options": [
+    "Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement",
+    "Select this option if the question can be answered using either statement alone",
+    "Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone",
+    "Select this option if the question cannot be answered even using any of the statements"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "**I alone:** x²y² = (xy)² even ⇒ xy even ⇒ **x even OR y even**. (x = 3, y = 2 gives odd x; x = 2, y = 3 gives even x.) Insufficient.\n\n**II alone:** 1 + x² + y² odd ⇒ x² + y² even ⇒ **x and y have the same parity** — both even or both odd. Doesn't fix x. Insufficient.\n\n**Together:** same parity, and at least one is even. \"Both odd\" would make xy odd, contradicting I — so **both must be even**. x is even: definite yes.\n\n→ **(c)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 4,
+   "page": 3,
+   "stem": "Directions: Each item in this section contains a question followed by two statements. Answer each item using the following instructions and mark your response on the Answer Sheet accordingly.\n\n(a) Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement\n(b) Select this option if the question can be answered using either statement alone\n(c) Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone\n(d) Select this option if the question cannot be answered even using any of the statements\n\nQuestion :\n\nX is a collection of certain odd numbers whereas Y is a collection of certain even numbers. T consists of the numbers all of which are either from X or from Y. Is every number of T from Y?\n\nStatement I :\n\nThe sum of any two numbers belonging to T is even.\n\nStatement II :\n\nIf both p and q are picked from T, then (p – 1)q is even.",
+   "options": [
+    "Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement",
+    "Select this option if the question can be answered using either statement alone",
+    "Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone",
+    "Select this option if the question cannot be answered even using any of the statements"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "T's members come from X (odd) or Y (even). Question: are they all even?\n\n**I alone:** a sum of two numbers is even only when they share parity, so **every element of T has the same parity** — all odd or all even. It does not say which. T = {3, 5} satisfies I (sum 8) with no member from Y; T = {2, 4} also satisfies it. Insufficient.\n\n**II alone:** (p−1)q even.\n- All odd: p−1 is even → product even ✓\n- All even: q is even → product even ✓\n- Mixed (p even, q odd): p−1 odd, q odd → **product odd ✗**\n\nSo II gives the identical conclusion: all same parity, direction unknown. Insufficient.\n\n**Together:** both statements say exactly the same thing, so combining adds nothing — {3,5} and {2,4} both still pass. → **(d)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 5,
+   "page": 3,
+   "stem": "Directions: Each item in this section contains a question followed by two statements. Answer each item using the following instructions and mark your response on the Answer Sheet accordingly.\n\n(a) Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement\n(b) Select this option if the question can be answered using either statement alone\n(c) Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone\n(d) Select this option if the question cannot be answered even using any of the statements\n\nQuestion :\n\nIf x, y and z are integers, each greater than 1, then is x a prime number?\n\nStatement I :\n\nxy^2 = 116\n\nStatement II :\n\nxz = 261",
+   "options": [
+    "Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement",
+    "Select this option if the question can be answered using either statement alone",
+    "Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone",
+    "Select this option if the question cannot be answered even using any of the statements"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "**I alone:** xy² = 116 = 2² × 29. With y > 1, y² must be a square factor of 116; the only one is 4, so **y = 2 and x = 116/4 = 29**. 29 is prime → definite \"yes\". Sufficient.\n\n**II alone:** xz = 261 = 3² × 29. With x, z > 1 the options are x = 3, 9, 29 or 87. **x = 3 is prime, x = 9 is not** → no decision. Insufficient.\n\nOne statement alone answers it, the other does not → **(a)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 6,
+   "page": 5,
+   "stem": "Directions: Read the following passage and answer the item that follows. Your answer should be based solely on the passage.\n\nPassage\n\n‘Kalagram’, the cultural village set up at the Maha Kumbh Mela, unfolded as a mosaic of India’s diverse regions, each represented by seven meticulously crafted ‘Sanskriti Angans’—stepping through the grand portal was like entering another world. These thematic zones, inspired by iconic temples like the Dakshineshwar Kali Temple and the Brahma Mandir, were treasure troves of regional artistry. Bengal’s Pattachitra paintings, Assam’s bamboo crafts, Tamil Nadu’s Thanjavur paintings, and Madhya Pradesh’s tribal sculpture—all were showcased in these living galleries where 230 master artisans breathed life into them using age-old techniques, their hands shaping India’s ancient history into creations to behold.\n\nWhich of the following conclusions are valid?\n\n1. Seven Sanskriti Angans, representing different regions of India, had been showcased in Kalagram.\n2. Regional artistry was recognised via the inspiration drawn from iconic temples.\n3. India’s ancient history had been crafted by the contemporary craftsmanship of 230 artisans into creations to behold.\n4. Art forms from all regions of India had been showcased in these living galleries.\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 2 only",
+    "2, 3 and 4",
+    "1, 2 and 4",
+    "1 and 3"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (a) 1 and 2 only**\n\nThe whole question turns on one adjective in statement 3: **\"contemporary\"** — a word the passage explicitly rules out.\n\n**Statement 1 — valid.**\n\"…a mosaic of India's diverse regions, each represented by seven meticulously crafted 'Sanskriti Angans'.\" Seven Angans; they stand for different regions of India; they were set up inside Kalagram. Statement 1 says exactly this and nothing more.\n\n**Statement 2 — valid.**\n\"These thematic zones, **inspired by iconic temples** like the Dakshineshwar Kali Temple and the Brahma Mandir, **were treasure troves of regional artistry**.\" Both halves sit in one sentence about the same object: the temple-inspired zones are the vehicle in which regional artistry was displayed and given recognition. Statement 2 recombines the two halves of that sentence; it introduces no new fact, no new agent, no new quantity. It is a restatement, not an inference beyond the text.\n\n**Statement 3 — invalid, and this is the trap.**\nThe passage says the 230 master artisans breathed life into the art forms \"**using age-old techniques**, their hands shaping India's ancient history into creations to behold.\" Statement 3 relabels that work as \"the **contemporary craftsmanship** of 230 artisans.\" The passage does not merely fail to say \"contemporary\" — it says the opposite about the *method*: the techniques are **age-old**. Swapping \"age-old techniques\" for \"contemporary craftsmanship\" is precisely the near-synonym substitution that flips a valid conclusion into an invalid one. The artisans are present-day people, but the craftsmanship the passage describes is expressly traditional, and \"based solely on the passage\" you cannot re-characterise it. Statement 3 also quietly drops \"master\" from \"master artisans\", but the fatal word is \"contemporary\".\n\n**Statement 4 — invalid on the quantifier.**\nThe passage says \"India's **diverse** regions\" and then lists four exemplars (Bengal, Assam, Tamil Nadu, Madhya Pradesh) after \"like\"/\"such as\"-style enumeration. \"**All** regions of India\" is a universal claim the passage never makes; seven Angans cannot cover all regions, and diverse ≠ all. This is the standard UPSC over-extension.\n\n**Why (d) is wrong.**\nA solver choosing (d) 1 and 3 is reading statement 3 as a paraphrase of \"their hands shaping India's ancient history into creations to behold\" — that clause *is* in the passage — while treating statement 2 as an unwarranted causal leap (\"recognised via\"). But the comparison is asymmetric:\n\n- Statement 2's only sin is compressing a single sentence that already joins temple-inspiration and regional artistry in one breath. Nothing in it contradicts the text.\n- Statement 3 inserts a word the text directly denies. \"Age-old techniques\" and \"contemporary craftsmanship\" are not interchangeable descriptions of the same thing; the passage's entire point about the artisans is the *continuity of old method*, not modern practice.\n\nA conclusion that contradicts an explicit qualifier is worse than a conclusion that merely links two clauses the author himself linked. So 3 falls, 2 stands, and (a) is the intended answer.\n\n**The takeaway:** in \"conclusions are valid\" passages, scan every option for (i) a swapped modifier — *age-old → contemporary* here — and (ii) a hardened quantifier — *diverse → all* in statement 4. Those two moves account for almost every wrong statement in this question type.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The passage begins on printed page 3 (below item 5) and continues at the top of printed page 5, where items 6 and 7 appear. Original heading reads 'Directions for the next 2 (two) items'.",
+   "shares_passage_with": [
+    7
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": "Official key says a, worked solution said d (medium confidence)."
+  },
+  {
+   "q_no": 7,
+   "page": 5,
+   "stem": "Directions: Read the following passage and answer the item that follows. Your answer should be based solely on the passage.\n\nPassage\n\n‘Kalagram’, the cultural village set up at the Maha Kumbh Mela, unfolded as a mosaic of India’s diverse regions, each represented by seven meticulously crafted ‘Sanskriti Angans’—stepping through the grand portal was like entering another world. These thematic zones, inspired by iconic temples like the Dakshineshwar Kali Temple and the Brahma Mandir, were treasure troves of regional artistry. Bengal’s Pattachitra paintings, Assam’s bamboo crafts, Tamil Nadu’s Thanjavur paintings, and Madhya Pradesh’s tribal sculpture—all were showcased in these living galleries where 230 master artisans breathed life into them using age-old techniques, their hands shaping India’s ancient history into creations to behold.\n\nWhich one of the following statements is not correct?",
+   "options": [
+    "Paintings from four States of India have been mentioned.",
+    "Stepping into Kalagram is likened to stepping into another world.",
+    "The Angans have been described as living galleries.",
+    "Kalagram is divided into thematic zones, inspired by well-known temples of India."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Check each against the text.\n\n**(a) — NOT correct.** Four *States* are named, but count the **paintings**: Bengal's Pattachitra and Tamil Nadu's Thanjavur — only **two**. Assam contributes *bamboo crafts* and Madhya Pradesh *tribal sculpture*, neither of which is a painting.\n\n(b) correct — \"stepping through the grand portal was like entering another world.\"\n\n(c) correct — \"showcased in these living galleries.\"\n\n(d) correct — \"These thematic zones, inspired by iconic temples like the Dakshineshwar Kali Temple and the Brahma Mandir.\"\n\n→ **(a)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "In the original, 'not' is printed in bold italics in the question line.",
+   "shares_passage_with": [
+    6
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 8,
+   "page": 5,
+   "stem": "The weight of X, in kg, is denoted by X. The weights of A, B, C, D, P, Q, R and S are measured. Given :\n\nA + B + C + D = 17\nA + C = 6\nP + Q + S + D = 15\nP + Q + R + B = 17\nP = R and Q = S\n\nWhich one of the following statements is correct?",
+   "options": [
+    "B and D together weigh less than the total weight of P and Q.",
+    "P and Q together weigh more than the total weight of A and C.",
+    "P weighs more than Q.",
+    "Q weighs more than P."
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "From A + B + C + D = 17 and A + C = 6: **B + D = 11**.\n\nPut S = Q and R = P into the other two:\n- P + Q + S + D = 15 → P + 2Q + D = 15\n- P + Q + R + B = 17 → 2P + Q + B = 17\n\n**Add them:** 3P + 3Q + (B + D) = 32 → 3(P + Q) + 11 = 32 → **P + Q = 7**.\n\nNow test the options:\n- (a) B + D = 11 is *more* than P + Q = 7 → wrong.\n- (b) P + Q = 7 > A + C = 6 → **correct**.\n- (c)/(d) subtracting gives P − Q = 2 − (B − D); with B, D unknown individually, P vs Q can't be settled → both wrong.\n\n→ **(b)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 9,
+   "page": 5,
+   "stem": "How many words can one form by shuffling the letters of the word QUEUE, if Q is always followed by U? The words thus formed need not necessarily have any meaning.",
+   "options": [
+    "6",
+    "8",
+    "10",
+    "12"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "QUEUE = Q, U, U, E, E (Q×1, U×2, E×2). Total arrangements would be 5!/(2!2!) = 30.\n\n\"Q is always followed by U\" means Q immediately takes a U after it, so **glue QU into one block**. The items to arrange are:\n\n**[QU], U, E, E** → 4 items with E repeating twice\n\n4!/2! = **12**\n\nCross-check by position: put Q at slot i (i = 1–4; slot 5 has no follower). Slot i+1 must be U, and the remaining 3 slots hold U, E, E → 3!/2! = 3 ways. So 4 × 3 = 12. ✓\n\n→ **(d)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 10,
+   "page": 5,
+   "stem": "X, Y and Z jump forward 4′, 6′ and 5′, respectively. At 8 AM, they all land on mark 199′. How many times will they all land on the same mark (need not be at the same moment) between mark 195′ and 1000′, if all of them cross mark 1000′ by 9 AM?",
+   "options": [
+    "11",
+    "12",
+    "13",
+    "14"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Steps are 4′, 6′ and 5′, so all three feet can only coincide again after **LCM(4, 6, 5) = 60**.\n\nStarting from the common mark 199′, they meet on 199 + 60k:\n\n**199, 259, 319, 379, 439, 499, 559, 619, 679, 739, 799, 859, 919, 979**, next is 1039 > 1000.\n\nCount: (979 − 199)/60 + 1 = 780/60 + 1 = 13 + 1 = **14**.\n\nAll 14 lie strictly between 195′ and 1000′ (note the range starts at 195, not 199, precisely so the 8 AM meeting point counts), and since all three cross 1000′ before 9 AM every one of these meetings actually happens.\n\n→ **(d)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 11,
+   "page": 7,
+   "stem": "Directions: Read the following passage and answer the item that follows. Your answer should be based solely on the passage.\n\nPassage\n\nSport is not just about winning medals or getting jobs through a sports quota. Today’s generation is struggling with issues like depression and anxiety. Parents often say that their children are inactive and rarely leave the house. Sport can help tackle these problems. From sport you can learn time management, fitness, teamwork, coordination, and so much more. We need to develop a culture in which sport is seen as a way of life—a path to building a healthier, happier society.\n\nWhich of the following conclusions are valid?\n\n1. Sport is more than just games; it is a way of life.\n2. Sport can help mitigate the problems of seclusion among the young.\n3. Earning laurels in sport can help one secure a job on the basis of an assigned quota.\n4. Standard corporate sector skills cannot be learnt through sport.\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 3 only",
+    "2 and 4 only",
+    "1, 2 and 4",
+    "1, 2 and 3"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Kill 4 first — it is flatly contradicted.** The passage lists \"time management, teamwork, coordination\" as things learnt from sport; those *are* standard corporate skills. So 4 is invalid, which eliminates (b) and (c).\n\n- **1 — valid.** \"a culture in which sport is seen as a way of life\" is the passage's own closing demand.\n- **2 — valid.** \"children are inactive and rarely leave the house. Sport can help tackle these problems.\" Not leaving the house = seclusion.\n- **3 — valid.** The opening \"Sport is **not just** about winning medals or getting jobs through a sports quota\" *concedes* the quota route exists; \"not just\" narrows the claim, it does not deny it.\n\n1 and 2 valid + 4 invalid leaves only **(d) 1, 2 and 3**. (a) drops the safest conclusion of all (2).",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Original heading reads 'Directions for the next 2 (two) items'.",
+   "shares_passage_with": [
+    12
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 12,
+   "page": 7,
+   "stem": "Directions: Read the following passage and answer the item that follows. Your answer should be based solely on the passage.\n\nPassage\n\nSport is not just about winning medals or getting jobs through a sports quota. Today’s generation is struggling with issues like depression and anxiety. Parents often say that their children are inactive and rarely leave the house. Sport can help tackle these problems. From sport you can learn time management, fitness, teamwork, coordination, and so much more. We need to develop a culture in which sport is seen as a way of life—a path to building a healthier, happier society.\n\nWhich of the following statements is/are correct?\n\n1. Parents are not encouraging enough when it comes to children playing sport.\n2. Participation in sporting activities can help develop life skills.\n3. Sport as a way of life can help evolve the very nature of society itself.\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 3",
+    "2 and 3",
+    "2 only",
+    "3 only"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Statement 1 is the trap — the passage reports what parents *say*, not how they *behave*.** Deciding line: \"Parents often say that their children are inactive and rarely leave the house.\" That is a complaint about children, not evidence that parents discourage sport. Nothing in the passage rates parental encouragement. Invalid — kills (a).\n\n- **2 — correct.** \"From sport you can learn time management, fitness, teamwork, coordination\" — textbook life skills.\n- **3 — correct.** \"sport is seen as a way of life—a path to building a healthier, happier society\" — society changing in nature.\n\n2 and 3 both stand → **(b)**. (c) and (d) each drop a statement the passage directly supports.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    11
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 13,
+   "page": 7,
+   "stem": "A toy T jumps forward or backward. In each forward jump, it moves 5′ forward whereas in each backward jump, it moves 2′ backward. If in 31 jumps, T moves exactly 15′ forward, then what is the difference of the number of forward and backward jumps?",
+   "options": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let f = forward jumps (+5 each), b = backward jumps (−2 each).\n\n- f + b = 31\n- 5f − 2b = 15\n\n**Substitute b = 31 − f:** 5f − 2(31 − f) = 15 → 5f − 62 + 2f = 15 → 7f = 77 → **f = 11**, so b = 20.\n\nCheck: 11(5) − 20(2) = 55 − 40 = 15 ✓, and 11 + 20 = 31 ✓.\n\nDifference = 20 − 11 = **9**. → **(d)**\n\n*Speed trick:* if all 31 jumps were backward, net = −62; each swap to forward adds 7. Need 15 − (−62) = 77 → 77/7 = 11 forward.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 14,
+   "page": 9,
+   "stem": "Eight persons P, Q, R, S, T, U, V and W sit around a round table in eight different seats placed with equal distance between any two consecutive seats. Both P and R are adjacent to Q. Both T and R are adjacent to S. Both U and W are adjacent to V. S and W are on opposite chairs. If while going in the clockwise direction around the table from P, one meets R before T, then how many persons shall Q cross while moving in the clockwise direction around the table before meeting W?",
+   "options": [
+    "5",
+    "4",
+    "2",
+    "1"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**Build chains, don't guess seats.**\n- P and R both adjacent to Q → **P–Q–R**\n- T and R both adjacent to S → **R–S–T**, which welds on: **P–Q–R–S–T**\n- U and W both adjacent to V → **U–V–W**\n\n5 + 3 = 8 people, so the circle is P–Q–R–S–T + the U–V–W block, with the block's two ends touching T and P.\n\n**Now use S opposite W.** Number seats 1–8 with P=1, Q=2, R=3, S=4, T=5. Opposite of seat 4 is seat 8, so **W = 8**, forcing V = 7, U = 6.\n\nOrder: **P Q R S T U V W**. Going P→Q→R→S→T meets R before T, so *this* direction is clockwise (the reverse would meet T first).\n\nFrom Q clockwise to W: R, S, T, U, V — **5 persons crossed** before reaching W. → **(a)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 15,
+   "page": 9,
+   "stem": "The top of a table is rectangular and its dimensions are 6′ × 10′. Two rectangular portions of the table top are painted in blue colour; both these portions have dimensions 2·5′ × 8′ and each of them has exactly two sides common with two edges of the table top. If the table is fixed to the ground and the remaining portion of the table top is painted in white, how many different patterns are possible when observed from above?",
+   "options": [
+    "2",
+    "4",
+    "6",
+    "8"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Table = 10′ (length) × 6′ (width). Blue rectangle = 2·5′ × 8′.\n\n**Key step: 8 > 6, so the 8′ side can never lie along a 6′ edge.** The 8′ side must run along a 10′ edge and the 2·5′ side along a 6′ edge. \"Exactly two sides common with two edges\" = it sits in a **corner**.\n\nFour corner placements (x = length 0–10, y = width 0–6):\n- BL [0,8]×[0,2·5] · BR [2,10]×[0,2·5] · TL [0,8]×[3·5,6] · TR [2,10]×[3·5,6]\n\nPick 2 non-overlapping:\n- BL+BR ✗ (share x∈[2,8] at same y-band); TL+TR ✗ (same reason)\n- BL+TL ✓, BL+TR ✓, BR+TL ✓, BR+TR ✓ — the y-bands [0,2·5] and [3·5,6] are disjoint, so any bottom+top pair fits (2·5 + 2·5 = 5 ≤ 6).\n\n**4 patterns.** \"Table is fixed to the ground\" is the hint that you may **not** rotate the table to merge patterns. → **(b)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 16,
+   "page": 9,
+   "stem": "Directions: Read the following passage and answer the item that follows. Your answer should be based solely on the passage.\n\nPassage\n\nHow is deflation done? Most countries use a method called ‘double deflation’, where input and output prices are deflated separately. Consider a manufacturer importing oil for use in production. If oil prices fall, output prices do not and quantities remain the same, real value added should not change. But if the same deflator is used for inputs and outputs, as in India, it would look as if the manufacturer had become more productive.\n\nWhich of the following statements is/are correct?\n\n1. Real value should not change in the instance of static output cost and unchanged quantities against falling oil prices.\n2. Deflators are to be used separately for inputs and outputs, and this is a practice universally adopted by all economies.\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (d) Neither 1 nor 2**\n\nThis is a \"solely on the passage\" item, so each statement has to survive a word-by-word comparison with the text. Both fail on a single precise word.\n\n---\n\n**Statement 2 — fails on the quantifier.**\n\nThe passage says: *\"Most countries use a method called 'double deflation'.\"* Statement 2 says the practice is *\"universally adopted by all economies.\"*\n\n\"Most\" is not \"all\". The passage even supplies the counter-example in its own next line — **India** uses the same deflator for inputs and outputs, which is exactly what double deflation is not. So the passage explicitly names an economy that has *not* adopted it. Statement 2 is contradicted, not merely unsupported. Nobody disputes this one.\n\n---\n\n**Statement 1 — fails on two term swaps. This is where the marks are lost.**\n\nThe passage sentence is:\n\n> *\"If oil prices fall, output prices do not and quantities remain the same, real value added should not change.\"*\n\nStatement 1 renders this as:\n\n> *\"Real value should not change in the instance of static output cost and unchanged quantities against falling oil prices.\"*\n\nTwo changes, either one fatal:\n\n**1. \"output prices\" → \"output cost\".** Price and cost are opposite ends of the same transaction, and in this passage they are the two things being deflated separately. The passage's scenario is: the *input* cost falls (oil is cheaper) while the *output price* holds steady. Statement 1 says the *output cost* is static — but in the passage's own scenario the manufacturer's cost of producing that output has fallen, because oil is an input to it. Statement 1 therefore describes a different situation from the one the passage analyses, and the passage's conclusion cannot be carried over to it.\n\n**2. \"real value added\" → \"real value\".** *Real value added* is a compound term of art from national accounts — output minus intermediate inputs, in volume terms. It is the entire subject of the paragraph: double deflation exists precisely because value added is a *difference* between two separately-priced things. Split the compound and you get \"real value\", a phrase the passage never uses and which does not name that difference. The whole point of the passage — that the gap between input and output deflators is what fakes the productivity gain — lives inside the word \"added\".\n\n---\n\n**Why (a) is tempting and still wrong**\n\nStatement 1 reads like a paraphrase. Skim it and it looks like the passage sentence with the clauses reordered, so the eye supplies \"value added\" where the text says \"value\" and reads \"cost\" as loosely meaning \"price\". That substitution is the trap. In a passage whose one technical point is that inputs and outputs must be priced *separately*, a statement that blurs input cost into output cost has not restated the passage — it has undone it.\n\n**Rule to carry forward:** in comprehension, treat a multi-word economic term (*value added*, *current account*, *real income*, *terms of trade*) as one unbreakable unit. If a statement drops a word from it or swaps *price* for *cost*, it is a different claim, and \"solely on the passage\" means it is wrong.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Original heading reads 'Directions for the next 2 (two) items'. Item 16 is on printed page 9; item 17, which uses the same passage, is on printed page 11.",
+   "shares_passage_with": [
+    17
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": "Official key says d, worked solution said a (high confidence)."
+  },
+  {
+   "q_no": 17,
+   "page": 11,
+   "stem": "Directions: Read the following passage and answer the item that follows. Your answer should be based solely on the passage.\n\nPassage\n\nHow is deflation done? Most countries use a method called ‘double deflation’, where input and output prices are deflated separately. Consider a manufacturer importing oil for use in production. If oil prices fall, output prices do not and quantities remain the same, real value added should not change. But if the same deflator is used for inputs and outputs, as in India, it would look as if the manufacturer had become more productive.\n\nWhich of the following assumptions is/are valid?\n\n1. Deflation strategies can be used to make manufacturers appear to be doing better than they actually are.\n2. When input and output prices are both deflated against a single input price, it is referred to as ‘double deflation’.\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Statement 1 — valid.** \"if the same deflator is used for inputs and outputs, as in India, it would look **as if** the manufacturer had become more productive.\" \"Look as if\" = appearing better than reality. That is exactly assumption 1.\n\n**Statement 2 — it inverts the definition.** The passage defines it as \"'double deflation', where input and output prices are deflated **separately**.\" Deflating both against a *single* input price is the opposite — it is the flawed Indian single-deflator practice, not double deflation. The give-away: \"double\" means two deflators, not one.\n\n1 only → **(a)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The passage for this item is printed on page 9, above item 16.",
+   "shares_passage_with": [
+    16
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 18,
+   "page": 11,
+   "stem": "A pattern formed by two characters a and b is repeated more than once in the following string :\n\n× b × a × a × × a × a × bab\n\nWhat is × × in the 7th and 8th positions from the left in the above string?",
+   "options": [
+    "aa",
+    "ab",
+    "ba",
+    "bb"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "String (15 characters), positions 1–15:\n`× b × a × a × × a × a × b a b`\n\n**15 = 3 × 5, so test period 3, then period 5.**\n\n*Period 3 fails:* the last block (13,14,15) is `bab`, so position 2 would have to be `a` — but position 2 is given as `b`. ✗\n\n*Period 5 works.* Blocks are (1–5), (6–10), (11–15). The last block gives `a _ b a b`, and position 2 of the first block gives the missing 2nd letter = `b`. **Pattern = `abbab`.**\n\nFull string: `abbab | abbab | abbab`\n\nEvery given letter checks out (2=b, 4=a, 6=a, 9=a, 11=a, 13=b, 14=a, 15=b) ✓\n\nPositions 7 and 8 are the 2nd and 3rd letters of the pattern = **b, b** → **(d)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The string uses the multiplication-sign character '×' as a placeholder; verified at 3x zoom as: × b × a × a × × a × a × bab. Options are printed in italics.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 19,
+   "page": 11,
+   "stem": "If 10^m × 1000 × n = 75^25 × 25^32 × 32^75, where n is not divisible by 10, then the value of m is",
+   "options": [
+    "101",
+    "111",
+    "121",
+    "131"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Break the RHS into primes:**\n- 75²⁵ = (3·5²)²⁵ = 3²⁵ · 5⁵⁰\n- 25³² = (5²)³² = 5⁶⁴\n- 32⁷⁵ = (2⁵)⁷⁵ = 2³⁷⁵\n\nRHS = **2³⁷⁵ · 3²⁵ · 5¹¹⁴**\n\nLHS = 10^m · 10³ · n = 10^(m+3) · n = 2^(m+3) · 5^(m+3) · n\n\n**\"n is not divisible by 10\" means you must pull out every possible factor of 10** — i.e. m+3 is the largest power of 10 dividing the RHS, limited by whichever of 2 and 5 runs out first:\n\nm + 3 = min(375, 114) = **114** → **m = 111** → **(b)**\n\n(Leftover n = 2²⁶¹ · 3²⁵, which has no 5s, so no 10s. ✓)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 20,
+   "page": 11,
+   "stem": "The speed of a train T is 100 km per hour and the speed of a person P is 4 km per hour. T crosses P in 15 seconds, if P travels along the direction of motion of T. If P travels along the opposite direction of T, then in how much time does T cross P, in seconds, approximately?",
+   "options": [
+    "13·51",
+    "13·65",
+    "13·85",
+    "14·05"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Step 1 — find the train's length from the same-direction case.**\nRelative speed = 100 − 4 = 96 km/h = 96 × 5/18 m/s.\nLength = 96 × (5/18) × 15 = 7200/18 = **400 m**.\n\n**Step 2 — opposite direction, speeds add.**\nRelative speed = 100 + 4 = 104 km/h = 104 × 5/18 = 260/9 m/s.\n\nTime = 400 ÷ (260/9) = 3600/260 = **13·846 ≈ 13·85 s** → **(c)**\n\n*Shortcut (no length needed):* time ∝ 1/relative speed, so t = 15 × 96/104 = 1440/104 = 13·846.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 21,
+   "page": 13,
+   "stem": "For 1/3 < x < y < 2, which of the following statements is/are always correct?\n\nI. x + 1/x < y + 1/y\n\nII. √(1 + y^2) / y < √(1 + x^2) / x\n\nSelect the answer using the code given below.",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Test each with the shape of the function, not with feeling.**\n\n**I.** f(t) = t + 1/t falls on (0,1) and rises on (1,∞) — the interval (1/3, 2) straddles the turning point t = 1, so f is *not* increasing throughout.\nCounter-example: x = 0.5, y = 0.6 (both legal). f(0.5) = 0.5 + 2 = **2.5**; f(0.6) = 0.6 + 1.667 = **2.267**. So x + 1/x > y + 1/y — **I fails**.\n\n**II.** Rewrite: √(1+t²)/t = √((1+t²)/t²) = **√(1/t² + 1)**. For t > 0 this is strictly decreasing (bigger t → smaller 1/t²). Since x < y, we get √(1+y²)/y < √(1+x²)/x for every allowed pair — **II always holds**.\nSanity check with x = 0.5, y = 0.6: √1.25/0.5 = 2.236, √1.36/0.6 = 1.944. ✓\n\nOnly II → **(b)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Statement II is printed as a fraction with numerator √(1 + y²) over denominator y, less than a fraction with numerator √(1 + x²) over denominator x. Verified at 3x zoom.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 22,
+   "page": 13,
+   "stem": "What is the minimum number of times one needs to measure to get 298 litres of water from a tank, if the measuring cylinders have capacities 1 litre, 6 litres, 25 litres and 100 litres?",
+   "options": [
+    "4",
+    "5",
+    "9",
+    "13"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**Measuring can go both ways: draw water out, and pour measured water back.** So use signed combinations of 1, 6, 25, 100.\n\n298 = **3 × 100 − 1 − 1** → three 100-L draws, then pour back 1 L twice = **5 measurements**.\n\nWhy 4 is impossible: with only 4 signed terms you need at least three 100s (two 100s + two 25s = 250 < 298). Three 100s = 300, so the fourth term must be −2 — no cylinder gives 2. Four 100s = 400 ≠ 298. So 4 cannot work.\n\n(The trap: adding only, the best is 2×100 + 2×25 + 8×6 = 298 → 12 pours, and the naive 13 is worse still. Subtraction beats both.)\n\n**Answer 5 → (b)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 23,
+   "page": 13,
+   "stem": "There are four types of weights, namely 1 kg, 2 kg, 5 kg and 10 kg. What is the maximum number of different ways one can measure 20 kg, if at least eight but not more than eleven weights of 1 kg are to be used while measuring?",
+   "options": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Let a = number of 1 kg, b = 2 kg, c = 5 kg, d = 10 kg, with **a + 2b + 5c + 10d = 20** and **8 ≤ a ≤ 11**. Fix a, solve the rest.\n\n**a = 8** → 2b + 5c + 10d = 12 (c must be even):\n(b,c,d) = (6,0,0), (1,2,0), (1,0,1) → **3**\n\n**a = 9** → remainder 11 (odd, so c must be odd): (3,1,0) → **1**\n\n**a = 10** → remainder 10: (5,0,0), (0,2,0), (0,0,1) → **3**\n\n**a = 11** → remainder 9 (odd → c odd): (2,1,0) → **1**\n\nTotal = 3 + 1 + 3 + 1 = **8 → (b)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 24,
+   "page": 13,
+   "stem": "A cut on a solid object divides the object into two parts where the new surfaces thus produced are plane. On the other hand, one single cut can be used to cut more than one object at a time. In an experiment, the total number of pieces produced by applying n cuts is denoted by x_n. The experiment is performed on a solid cube where pieces remain unmoved after each cut. In this experiment, if after the third cut, the pieces are identical, then which of the following is not a possible value for x_4?",
+   "options": [
+    "16",
+    "12",
+    "8",
+    "5"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**Step 1 — what can 3 cuts give if all pieces are identical?** Three cuts give at least 4 pieces, and only three symmetric layouts work:\n- 3 parallel equally-spaced cuts → **x₃ = 4** slabs\n- 2 parallel (thirds) + 1 perpendicular through the middle → **x₃ = 6**\n- 3 mutually perpendicular cuts through the centre → **x₃ = 8** cubes\n\n**Step 2 — the 4th cut adds exactly the number of pieces its plane passes through.**\n- From 4 slabs: a plane meets at most 4 of them → x₄ ≤ 8 (and 5, 6, 7 are easy)\n- From 6 pieces: at most 6 → x₄ ≤ 12\n- From the 2×2×2 block of 8: **a plane can pierce at most 7 of the 8 sub-cubes** (e.g. x+y+z = 2.5 misses the far corner cube) → x₄ ≤ 15\n\nSo achievable x₄ runs 5 to 15. **5** (4+1), **8** (4+4) and **12** (6+6) are all possible; **16 is not** → **(a)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "x_n and x_4 are printed with subscripts; 'not' is printed in bold italics. The stem runs from the bottom of the left column of printed page 13 into the top of the right column.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 25,
+   "page": 13,
+   "stem": "The class average x in a test increases by 4 when the score of a student is rectified, whose corrected score is 100 instead of 0. Later, the score of another student was found to have been recorded as 81 in place of 56. If there are no other corrections and the final corrected average is y, then y – x is",
+   "options": [
+    "2",
+    "3",
+    "5",
+    "6"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**First correction fixes the class size.** Score goes 0 → 100, a gain of 100 marks, and the average rises by 4:\n100 / n = 4 → **n = 25 students**.\n\n**Second correction:** recorded 81 but the true score is 56 → total falls by 25 → average falls by 25/25 = **1**.\n\nNet change: +4 − 1 = **+3**, so **y − x = 3 → (b)**.\n\n(Note x is the original wrong average and y the fully corrected one, so both corrections count.)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 26,
+   "page": 15,
+   "stem": "Passage (continued from the previous page — only the closing sentence appears on this page):\n\n\"... HMPV causes milder illness with deaths being very rare and with no long-term post-viral symptoms.\"\n\n26. Which of the following conclusions is/are valid?\n1. Though SARS-CoV-2 and HMPV are similar viruses with somewhat different epidemiology, the former became a pandemic because it was novel and people had not been exposed to it in the past.\n2. The two viruses have fundamentally different impacts on human populations and should not therefore be dealt with in a similar manner.\nSelect the answer using the code given below.",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (b) 2 only**\n\n**What the passage actually asserts.** The closing line is a statement about *clinical impact*: HMPV causes milder illness, deaths are very rare, and there are no long-term post-viral symptoms. Set against SARS-CoV-2 — severe illness, mass mortality, long COVID — the passage is drawing a contrast in how the two viruses affect people who get infected.\n\n**Why statement 2 is valid.** It is a near-restatement of that contrast plus the one action it licenses. \"Fundamentally different impacts on human populations\" is exactly what mild vs. severe, rare death vs. mass death, and no sequelae vs. long-term sequelae add up to. The \"should not be dealt with in a similar manner\" clause is not a smuggled-in policy opinion; it is the point the comparison exists to make — the passage is arguing against reacting to HMPV as though it were a second COVID. A conclusion is valid in CSAT terms when it follows from the passage without new information, and this one needs nothing the passage has not already supplied.\n\n**Why statement 1 fails — two precise words.**\n\n1. **\"similar viruses.\"** The passage compares *illnesses*, not *virology*. SARS-CoV-2 is a coronavirus; HMPV is a pneumovirus. Nothing in the passage claims the two organisms are similar — only that both cause respiratory illness. Statement 1 upgrades \"produces comparable symptoms\" into \"similar viruses,\" which is a claim about kinship the passage never makes.\n\n2. **\"because.\"** This is the harder trap. Statement 1 supplies a *causal explanation* for the pandemic — novelty plus absence of prior exposure. Even where a passage mentions that SARS-CoV-2 was novel, mentioning a fact is not the same as asserting it was *the cause* of pandemic status. A conclusion that installs a single causal mechanism the author never argued is an addition, not an inference.\n\nThere is a third, quieter mismatch: statement 1 calls the difference \"somewhat different **epidemiology**.\" Epidemiology is distribution and spread. What the passage describes — severity, mortality, sequelae — is clinical impact/pathogenicity. Statement 1 both mislabels the difference and shrinks it to \"somewhat,\" while the passage frames it as decisive. That downgrade is precisely what statement 2 gets right and statement 1 gets wrong.\n\n**Why (a) is tempting and still wrong.** Statement 1 reads as sensible public-health knowledge, and statement 2 contains a \"should,\" which candidates are trained to distrust. But CSAT asks what follows *from this passage*: statement 1 is true-sounding outside knowledge with an unsupported causal link; statement 2 is the passage's own contrast carried one step forward. Plausibility in the world is not validity from the text.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The passage for items 26-28 begins on an earlier page (p-13) which is not part of this batch. Only its final sentence is printed at the top of p-15 and is reproduced here; the full passage text is missing.",
+   "shares_passage_with": [
+    27,
+    28
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": "Official key says b, worked solution said a (medium confidence)."
+  },
+  {
+   "q_no": 27,
+   "page": 15,
+   "stem": "Passage (continued from the previous page — only the closing sentence appears on this page):\n\n\"... HMPV causes milder illness with deaths being very rare and with no long-term post-viral symptoms.\"\n\n27. Which of the following reflect the intent of the writer in the above passage?\n1. To evolve methodologies for objective analysis of the two viruses\n2. To establish the epidemiological similarities and differences between the two viruses\n3. To offer a better understanding of the remedies of HMPV when analysed in conjunction with SARS-CoV-2\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 2",
+    "2 and 3",
+    "1 and 3",
+    "None of the above"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Judge each stated intent against what the passage actually does — describe and compare.\n\n**1 — no.** \"Evolve methodologies for objective analysis\" means designing a research method. The passage offers no methodology, only findings.\n\n**2 — yes.** Setting out where the two viruses are alike and where their epidemiology and outcomes differ (\"milder illness... deaths very rare... no long-term post-viral symptoms\") is precisely what it does.\n\n**3 — no.** **No remedy, treatment or cure for HMPV is discussed anywhere.**\n\nSo only 2 is the writer's intent — and every listed option pairs 2 with a wrong item (1 or 3) or omits it. Since \"2 only\" is not on offer, the correct code is **(d) None of the above**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The passage for items 26-28 begins on an earlier page (p-13) which is not part of this batch. Only its final sentence is printed at the top of p-15 and is reproduced here; the full passage text is missing.",
+   "shares_passage_with": [
+    26,
+    28
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 28,
+   "page": 15,
+   "stem": "Passage (continued from the previous page — only the closing sentence appears on this page):\n\n\"... HMPV causes milder illness with deaths being very rare and with no long-term post-viral symptoms.\"\n\n28. Which of the following statements reflect the logical and rational inferences that can be drawn from the passage?\n1. HMPV has, historically, had longer documentation of studies when compared with SARS-CoV-2.\n2. The two viruses are different from each other and this results in markedly different outcomes amongst those affected.\n3. Long-term impacts of the two viruses are dissimilar and this is an important differentiator between them.\n4. One of the common factors between the two viruses is seasonal specificity.\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 2 only",
+    "1, 2 and 3",
+    "3 and 4",
+    "1 and 3 only"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Statement 1 — valid.** HMPV has been a described, studied human virus for decades; SARS-CoV-2 dates only from late 2019. A longer record of study for HMPV follows directly.\n\n**Statement 2 — valid.** The closing line states the outcome gap in the affected: \"milder illness with deaths being very rare\" for HMPV, against a pandemic pathogen. Different viruses, markedly different outcomes.\n\n**Statement 3 — valid, and it is the sharpest one.** \"**with no long-term post-viral symptoms**\" is stated for HMPV alone, making long-term sequelae an explicit differentiator.\n\n**Statement 4 — fails.** Seasonality is offered as a point of *difference* in the two viruses' epidemiology, not a shared feature; the passage does not claim SARS-CoV-2 is season-specific.\n\n1, 2 and 3 → **(b)**. (c) is out because 4 is wrong; (a) and (d) drop a statement that the text supports.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The passage for items 26-28 begins on an earlier page (p-13) which is not part of this batch. Only its final sentence is printed at the top of p-15 and is reproduced here; the full passage text is missing.",
+   "shares_passage_with": [
+    26,
+    27
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "low"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 29,
+   "page": 15,
+   "stem": "Three variables x, y and z take values 2, 3, 4 or 5 such that their values are always distinct. If M and N denote the largest possible value and the smallest possible value, respectively, for the expression {(x × y) + z}; then M – N is",
+   "options": [
+    "11",
+    "12",
+    "13",
+    "14"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Values come from {2, 3, 4, 5}, all three **distinct**, and the expression is (x × y) + z.\n\n**Largest M:** put the two biggest into the product — 4 × 5 = 20 — then z must be a *different* value, so the best left is 3.\n**M = 20 + 3 = 23.** (Check the rival: 5 × 3 + 4 = 19, smaller.)\n\n**Smallest N:** smallest product 2 × 3 = 6, then z is the smallest value still unused, 4.\n**N = 6 + 4 = 10.** (Rival: 2 × 4 + 3 = 11, larger.)\n\nM − N = 23 − 10 = **13 → (c)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 30,
+   "page": 15,
+   "stem": "Suppose x, y and z are variables taking positive real numbers as their possible values. It is given that y is directly proportional to x^2 and x is inversely proportional to z. For z = 7/25, the values of x and y are 5 and 50, respectively. If y = 98, what is z equal to?",
+   "options": [
+    "1/7",
+    "1/5",
+    "5/7",
+    "1"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "y ∝ x² → **y = kx²**; x ∝ 1/z → **xz = c**.\n\nFrom x = 5, y = 50: 50 = k(25) → **k = 2**.\nFrom x = 5, z = 7/25: c = 5 × 7/25 = **7/5**.\n\nNow y = 98: 98 = 2x² → x² = 49 → **x = 7** (positive values only).\nThen z = c/x = (7/5)/7 = **1/5**.\n\n**Answer (b).** Quick check: y = 2x² = 2(7²) = 98 ✓ and xz = 7 × 1/5 = 7/5 ✓.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 31,
+   "page": 17,
+   "stem": "Directions : Read the following passage and answer the item that follows. Your answer should be based solely on the passage.\n\nPassage\n\nIndia is starting to deploy AI for critical use cases such as weather forecasting, pest detection and control, and crop yield optimisation. However, penetration is limited to a small subset of tech-savvy farmers. In the US and in Europe, generative AI tools have started offering precision farming at scale, integrating large datasets to provide real-time agronomic insights. For at-scale integration and accessibility of AI tools in India, it would be helpful to develop Indian languages-based AI tools for smallholder farmers, partner with AgTechs to create affordable AI solutions, and disseminate AI-based advisory services through government programmes.\n\n31. Which of the following assumptions is/are valid?\n1. Agricultural productivity has marched ahead in the West because of the economies of scale facilitated by the adoption of AI tools.\n2. Affordable AI tools rendered available in local languages can help AI-based solutions reach more and more small farmers.\n3. Though penetration is as yet low, critical application areas deploying AI tools are already in use in India.\nSelect the answer using the code given below.",
+   "options": [
+    "1, 2 and 3",
+    "2 only",
+    "1 and 3 only",
+    "2 and 3 only"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Test each assumption against the text alone.**\n\n1. **Invalid.** The passage only says that in the US/Europe gen-AI tools *\"have started offering precision farming at scale\"*. It never says Western **productivity marched ahead**, and never attributes it to **economies of scale**. Two claims imported from outside → reject.\n2. **Valid.** The passage prescribes *\"develop Indian languages-based AI tools for smallholder farmers, partner with AgTechs to create affordable AI solutions\"* — affordability + local language = reach for small farmers.\n3. **Valid.** *\"India is starting to deploy AI for critical use cases... However, penetration is limited to a small subset of tech-savvy farmers.\"* That is exactly \"low penetration, but critical applications already in use\".\n\nSo **2 and 3 only → (d)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    32
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 32,
+   "page": 17,
+   "stem": "Directions : Read the following passage and answer the item that follows. Your answer should be based solely on the passage.\n\nPassage\n\nIndia is starting to deploy AI for critical use cases such as weather forecasting, pest detection and control, and crop yield optimisation. However, penetration is limited to a small subset of tech-savvy farmers. In the US and in Europe, generative AI tools have started offering precision farming at scale, integrating large datasets to provide real-time agronomic insights. For at-scale integration and accessibility of AI tools in India, it would be helpful to develop Indian languages-based AI tools for smallholder farmers, partner with AgTechs to create affordable AI solutions, and disseminate AI-based advisory services through government programmes.\n\n32. Which of the following statements is/are not correct?\n1. Tech-savvy farmers will drive the AgTech companies of the future.\n2. The development of advisory services by the government programmes for the use of AI tools in agriculture would be helpful.\n3. In the US and Europe, AI tools have replaced traditional agricultural practices.\n4. The integration of large datasets for use in real-time agronomic analysis is already a reality.\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 3 only",
+    "1, 3 and 4",
+    "2 and 4",
+    "3 only"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Question asks which are NOT correct — flip your usual habit.**\n\n- **2 is correct** (so exclude it): *\"disseminate AI-based advisory services through government programmes\"* is one of the passage's own recommendations.\n- **4 is correct** (so exclude it): gen-AI tools are *\"integrating large datasets to provide real-time agronomic insights\"* — present tense, already a reality.\n- **1 is NOT correct:** tech-savvy farmers are mentioned only as the current small user base. Nothing about them *driving AgTech companies of the future*.\n- **3 is NOT correct:** the passage says AI is *offering* precision farming in the US/Europe — never that it **replaced** traditional practices.\n\n**1 and 3 only → (a)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "In the printed paper the word 'not' in the question line is italicised for emphasis.",
+   "shares_passage_with": [
+    31
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 33,
+   "page": 17,
+   "stem": "P, Q, R, S and T are ranked 1 to 5 (not necessarily in that order). The rank of P is 4, the rank of Q is not 5, the rank of R is 1, the rank of S is not 2, the rank of T is not 3. Then which of the following is/are correct?\nI. If the rank of S is 3, then that of T is 2.\nII. If the rank of Q is 3, then that of T is 5.\nSelect the answer using the code given below.",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Fix the knowns: **R = 1, P = 4**. So Q, S, T take **{2, 3, 5}**.\n\nConstraints: Q ≠ 5, S ≠ 2, T ≠ 3.\n- Q ∈ {2, 3}, S ∈ {3, 5}, T ∈ {2, 5}\n\n**Case Q = 2:** S, T take 3 and 5. T ≠ 3 ⇒ **S = 3, T = 5**.\n**Case Q = 3:** S, T take 2 and 5. S ≠ 2 ⇒ **S = 5, T = 2**.\n\nOnly two arrangements exist:\n- (R1, Q2, S3, P4, T5)\n- (R1, T2, Q3, P4, S5)\n\n**I:** S = 3 occurs in arrangement 1, where **T = 5, not 2** → wrong.\n**II:** Q = 3 occurs in arrangement 2, where **T = 2, not 5** → wrong.\n\n**Neither I nor II → (d)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 34,
+   "page": 19,
+   "stem": "Two identical straight rods are painted in five distinct colours so that each of them gets divided into five equal parts along the length. In one of them, the portions are marked P1, P2, P3, P4 and P5 (not necessarily in that order) whereas in the other, they are marked Q1, Q2, Q3, Q4 and Q5 (not necessarily in that order). When the rods are kept parallel to each other side by side, P1 and Q3 match, P4 matches Q1 or Q2, and Q4 matches P3 or P5. If Q3 and Q5 are adjacent, which of the following is/are possible?\nI. Q3 is marked at the middle portion of the straight rod.\nII. P2 is marked at one of the extreme portions of the straight rod.\nSelect the answer using the code given below.",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Side by side, position *i* of one rod faces position *i* of the other, so \"match\" = **same position slot (1–5)**.\n\nConstraints: pos(P1) = pos(Q3); pos(P4) = pos(Q1) or pos(Q2); pos(Q4) = pos(P3) or pos(P5); |pos(Q3) − pos(Q5)| = 1.\n\n**I — Q3 in the middle? Build one:**\n\n| Pos | 1 | 2 | 3 | 4 | 5 |\n|---|---|---|---|---|---|\n| Rod A | P3 | P4 | **P1** | P2 | P5 |\n| Rod B | Q4 | Q1 | **Q3** | Q5 | Q2 |\n\nP1–Q3 at 3 ✓, P4–Q1 at 2 ✓, Q4–P3 at 1 ✓, Q3(3)–Q5(4) adjacent ✓. **I is possible.**\n\n**II — P2 at an extreme? Build one:**\n\n| Pos | 1 | 2 | 3 | 4 | 5 |\n|---|---|---|---|---|---|\n| Rod A | **P2** | P1 | P3 | P4 | P5 |\n| Rod B | Q5 | Q3 | Q4 | Q1 | Q2 |\n\nP1–Q3 at 2 ✓, P4–Q1 at 4 ✓, Q4–P3 at 3 ✓, Q3(2)–Q5(1) adjacent ✓. **II is possible.**\n\n**Both I and II → (c)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 35,
+   "page": 19,
+   "stem": "Seven persons A, B, C, D, E, F and G travel by three cars X, Y, Z. A and another two of them travel by X. Only E travels with G. C travels by Z, but B does not travel by Y. Besides, A and B do not travel by the same car. Then which of the following are correct?\nI. No one travels alone.\nII. Only D travels with F.\nIII. Only C travels with B.\nSelect the answer using the code given below.",
+   "options": [
+    "I and II only",
+    "I and III only",
+    "II and III only",
+    "All the three"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Chain the clues — do not draw a grid, just count seats.\n\n1. *\"A and another two travel by X\"* ⇒ **X has exactly 3: A + 2.**\n2. *\"Only E travels with G\"* ⇒ that car holds **exactly {E, G}**. It can't be X (X has A). C is in Z, so it can't be Z. ⇒ **Y = {E, G}.**\n3. Remaining seats: 7 − 3 − 2 = 2 in Z. C is one of them.\n4. B ∉ Y (given) and B ∉ X (A and B differ) ⇒ **B ∈ Z ⇒ Z = {B, C}.**\n5. Leftovers D and F fill X ⇒ **X = {A, D, F}.**\n\nFinal: **X = A, D, F | Y = E, G | Z = B, C**\n\n- **I. True** — 3/2/2, nobody alone.\n- **II. False** — F rides with **both** D *and* A, so it is not \"only D\".\n- **III. True** — B's car is exactly {B, C}.\n\n**I and III only → (b)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 36,
+   "page": 19,
+   "stem": "There are four statements X, Y, Z and W. Their relations are as follows :\nIf X is incorrect, then so is Z; if Y is incorrect, then W is correct; if W is correct, then X is incorrect.\nWhich of the following is/are correct?\nI. If X is correct, then so is Y.\nII. If Z is correct, then it is not necessary that Y is correct.\nSelect the answer using the code given below.",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Write the rules and their **contrapositives** — that is the whole question.\n\n| Given | Contrapositive |\n|---|---|\n| ¬X → ¬Z | **Z → X** |\n| ¬Y → W | **¬W → Y** |\n| W → ¬X | **X → ¬W** |\n\n**I.** Assume X correct. Rule 3 contrapositive: **X → ¬W**. Rule 2 contrapositive: **¬W → Y**. So X → Y. **I is correct.**\n\n**II.** Assume Z correct. Rule 1 contrapositive: **Z → X**, and by I, **X → Y**. So Z correct *forces* Y correct — it is not merely \"not necessary\". **II is wrong.**\n\n**I only → (a)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 37,
+   "page": 19,
+   "stem": "X and Y are two runners who run for the same duration of time on the same circular track. They started running at the same time in the same direction with uniform speeds. When X completed 7 rounds, Y did exactly 5. After completing 5 rounds, Y changed his direction and started running in the opposite direction with speed which is double of his earlier speed. On the other hand, X continued to run with the same speed. They stopped running when X completed exactly 21 rounds. How many times did X and Y meet after they had started and before they finally stopped?",
+   "options": [
+    "35",
+    "34",
+    "31",
+    "29"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Set X's speed = **7 laps/unit**, Y's = **5 laps/unit** (ratio from \"X 7 rounds, Y 5 rounds\").\n\n**Phase 1 (X: 0→7 laps, 1 time unit), same direction.**\nRelative speed = 7 − 5 = 2 ⇒ X gains **2 whole laps** ⇒ **2 meetings** (at gains of 1 and 2 laps). The 2nd is exactly when both are back at the start — the turnaround instant.\n\n**Phase 2 (X: 7→21 laps = 14 laps, so 2 time units).**\nY reverses at **double speed = 10 laps/unit**. Opposite directions ⇒ relative speed = 7 + 10 = **17 laps/unit**.\nRelative laps covered = 17 × 2 = **34 ⇒ 34 meetings.**\n\n**Total = 2 + 34 = 36**, but the 34th falls exactly at the stopping instant (X at start after 21 laps; Y at 5 − 20 = −15 laps = start). The question says *before they finally stopped*, so **drop that one**.\n\n**36 − 1 = 35 → (a)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 38,
+   "page": 21,
+   "stem": "In an objective type question paper, 5 marks are awarded for a correct answer and 2 marks are deducted for a wrong answer. A student attempted all the questions and got a score of 69. Had he been awarded 4 marks for a correct answer and 1 mark deducted for a wrong answer, he would have scored 84. How many questions were there in the question paper?",
+   "options": [
+    "99",
+    "81",
+    "84",
+    "79"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let **c** = correct, **w** = wrong (all questions attempted, so total = c + w).\n\n- 5c − 2w = 69\n- 4c − 1w = 84 ⇒ **w = 4c − 84**\n\nSubstitute into the first:\n5c − 2(4c − 84) = 69\n5c − 8c + 168 = 69\n**−3c = −99 ⇒ c = 33**\n\nThen w = 4(33) − 84 = 132 − 84 = **48**.\n\nCheck: 5(33) − 2(48) = 165 − 96 = **69** ✓ and 4(33) − 48 = 132 − 48 = **84** ✓\n\nTotal questions = 33 + 48 = **81 → (b)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 39,
+   "page": 21,
+   "stem": "Directions : Read the following passage and answer the item that follows. Your answer should be based solely on the passage.\n\nPassage\n\nThe Juvenile Justice (Care and Protection of Children) Act, or the JJ Act, 2015 allows for the possibility for trying adolescents above 16 as adults if they are accused of committing a heinous offence. A heinous offence is one with a minimum punishment of seven years. Offences such as culpable homicide and causing death by negligence, which are common in drunken driving cases, are not heinous offences because they do not have a prescribed minimum punishment. The JJ Act, amended in 2021, now categorises an offence that has no minimum sentence, but has a maximum sentence of seven years or more as a serious offence which nonetheless, in the opinion of activists, does not merit the transfer of a case to the adult criminal justice system.\n\n39. Which of the following conclusions is/are valid?\n1. Only a serious offence as categorised by the revised JJ Act, justifies the transfer of a case to the adult judicial system.\n2. The JJ Act, 2021, categorises an offence as a serious offence based on the maximum sentence it carries, rather than on the minimum sentence.\nSelect the answer using the code given below.",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**1. Invalid.** Transfer to the adult system is tied to a **heinous** offence: *\"allows for the possibility for trying adolescents above 16 as adults if they are accused of committing a heinous offence.\"* A *serious* offence, says the passage, in activists' view **does not** merit transfer. Conclusion 1 inverts this.\n\n**2. Valid.** *\"...categorises an offence that has no minimum sentence, but has a maximum sentence of seven years or more as a serious offence\"* — the classification hinges on the **maximum**, precisely because there is no minimum.\n\n**2 only → (b)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    40
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 40,
+   "page": 21,
+   "stem": "Directions : Read the following passage and answer the item that follows. Your answer should be based solely on the passage.\n\nPassage\n\nThe Juvenile Justice (Care and Protection of Children) Act, or the JJ Act, 2015 allows for the possibility for trying adolescents above 16 as adults if they are accused of committing a heinous offence. A heinous offence is one with a minimum punishment of seven years. Offences such as culpable homicide and causing death by negligence, which are common in drunken driving cases, are not heinous offences because they do not have a prescribed minimum punishment. The JJ Act, amended in 2021, now categorises an offence that has no minimum sentence, but has a maximum sentence of seven years or more as a serious offence which nonetheless, in the opinion of activists, does not merit the transfer of a case to the adult criminal justice system.\n\n40. Which of the following statements is/are correct?\n1. If an offence has no minimum prescribed punishment, it cannot be considered heinous as per the JJ Act, 2015.\n2. As per the JJ Act, 2021, an offence for which there is a provision for a maximum sentence of seven years or more, but no minimum sentence, is to be considered a serious offence.\nSelect the answer using the code given below.",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Both statements are near-restatements of the passage.\n\n**1. Correct.** *\"A heinous offence is one with a minimum punishment of seven years\"* — and the passage applies the logic itself: culpable homicide and death by negligence *\"are not heinous offences **because they do not have a prescribed minimum punishment**.\"* No minimum ⇒ cannot be heinous.\n\n**2. Correct.** The 2021 amendment *\"now categorises an offence that has no minimum sentence, but has a maximum sentence of seven years or more as a serious offence.\"* Word for word.\n\n**Both 1 and 2 → (c)**\n\n*Contrast with Q39: there the trap was who gets transferred (heinous, not serious); here nothing about transfer is claimed, so both stand.*",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    39
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 41,
+   "page": 23,
+   "stem": "An explosion takes place at a certain distance from an army camp. As soon as the sensor in the camp receives the sound of the explosion, a drone starts flying towards the spot of explosion. The drone clicks a picture from the spot and the camp receives it at the same time. Immediately another drone starts flying to the spot and it also sends a picture as soon as it reaches the spot. The two pictures were received at 5:02 PM and 5:05 PM, respectively. If the speed of the drones is 30 m/s, at what time did the explosion take place? Assume that the speed of sound is 300 m/s.",
+   "options": [
+    "4:59:00 PM",
+    "4:59:02 PM",
+    "4:58:42 PM",
+    "4:56:32 PM"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let the distance be **D**, explosion at time t₀.\n\n- Sound reaches camp: D/300\n- Drone-1 then flies out: D/30 (picture arrives instantly on reaching)\n- Drone-2 starts the moment picture-1 lands, flies the same D/30\n\n**So the 3-minute gap between the two pictures is exactly one drone flight:** D/30 = 180 s → **D = 5400 m**.\n\nSound leg: 5400/300 = **18 s**. Drone leg: 5400/30 = **180 s**.\n\nPicture-1 at 5:02:00 = t₀ + 18 + 180 = t₀ + 198 s.\n\nt₀ = 5:02:00 − 3 min 18 s = **4:58:42 PM**.\n\nTrap: (a) 4:59:00 forgets the 18 s sound lag; (d) subtracts the drone leg twice.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 42,
+   "page": 23,
+   "stem": "The digit in the unit place of the number 6^129 × 7^307 is",
+   "options": [
+    "2",
+    "4",
+    "8",
+    "6"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Only unit digits matter.\n\n- **6 raised to any positive power ends in 6** (6, 36, 216…), so 6¹²⁹ → **6**.\n- 7 cycles in 4: 7, 9, 3, 1. **307 ÷ 4 leaves remainder 3** → third in cycle → **3**.\n\nUnit digit = 6 × 3 = 18 → **8**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 43,
+   "page": 23,
+   "stem": "A person saves 10% of his salary every month. If his salary increases by 12% and the expenditure increases by 10%, then what will be the change in his saving per month?",
+   "options": [
+    "20% increase",
+    "30% increase",
+    "03% decrease",
+    "02% decrease"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Take salary = 100.\n\n- Saving = 10, so **expenditure = 90**.\n- New salary = 112. New expenditure = 90 × 1.10 = **99**.\n- **New saving = 112 − 99 = 13**.\n\nChange = (13 − 10)/10 = 3/10 = **30% increase**.\n\nNote the base: the rise is 3 on a saving of 10, not on the salary — that is why it is a big 30%, not 3%.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 44,
+   "page": 23,
+   "stem": "P has a son and a daughter. S is the mother of T. S is R's spouse. Q and R are children of P. Then how is Q related to S?",
+   "options": [
+    "Q is a sister of S",
+    "Q is a daughter of S",
+    "Q is the mother of S",
+    "Q is a sister of the husband of S"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "- **S is the mother of T → S is female.**\n- S is R's spouse → R is male, so **R is P's son**.\n- Q and R are P's two children, and P has one son and one daughter → **Q is P's daughter**.\n\nSo Q is R's sister, and R is S's husband → **Q is the sister of S's husband** (i.e. S's sister-in-law).\n\n(a) fails — Q and S are unrelated by blood; (b) fails — Q is P's child, not S's; (c) is absurd generationally.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 45,
+   "page": 23,
+   "stem": "How many three-digit numbers can be expressed as an integral power of 2?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "List the powers of 2 around three digits:\n\n- 2⁶ = 64 (two digits)\n- **2⁷ = 128** ✓\n- **2⁸ = 256** ✓\n- **2⁹ = 512** ✓\n- 2¹⁰ = 1024 (four digits)\n\nOnly **three** powers of 2 lie between 100 and 999.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 46,
+   "page": 25,
+   "stem": "Directions : Read the following passage and answer the item that follows. Your answer should be based solely on the passage.\n\nPassage\n\nThe key source of the battle for clean skies and clear lungs is the fuel we burn—from household Chulhas to the thermal power plants. In most cases, it is biomass or coal. The Supreme Court banned the use of pet coke—the dirtiest of such fuels. The Delhi Government banned the use of coal, which was later extended to the entire National Capital Region. It was also agreed that the thermal power plants would clean up or shut down. Action on this has been patchy to say the least. The lesson from the transition to CNG is that people need alternatives for a ban to be effective. When diesel buses were stopped, CNG supply had to be assured. It also had to be feasible in terms of cost. The Supreme Court agreed that fiscal measures were needed to keep clean fuel cheaper than dirty fuel. Now even as coal is banned, the price of natural gas makes industry uncompetitive.\n\n46. Which of the following inferences is/are correct?\n1. The source of the energy we consume is the key to the battle for cleaner air.\n2. Bans are effective where the will is strong and the people are convinced that such bans are for the greater good of society.\n3. There is judicial approval for a policy that intervenes fiscally to facilitate benevolent pricing for cleaner fuel.\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 2",
+    "2 and 3",
+    "1 and 3",
+    "1 only"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**1 — correct.** Deciding line: \"The key source of the battle for clean skies and clear lungs is the fuel we burn.\" Fuel burnt = source of energy consumed.\n\n**2 — wrong.** The passage names a different condition: \"people need alternatives for a ban to be effective,\" backed by the CNG example (supply assured, cost feasible). Nothing about \"will\" or public conviction of the \"greater good\" — that is imported.\n\n**3 — correct.** \"The Supreme Court agreed that fiscal measures were needed to keep clean fuel cheaper than dirty fuel\" = judicial approval of fiscal intervention for cheaper clean fuel.\n\n**So 1 and 3.**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The passage begins at the foot of page 23 and continues at the top of page 25; both halves are reproduced here in full.",
+   "shares_passage_with": [
+    47
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 47,
+   "page": 25,
+   "stem": "Directions : Read the following passage and answer the item that follows. Your answer should be based solely on the passage.\n\nPassage\n\nThe key source of the battle for clean skies and clear lungs is the fuel we burn—from household Chulhas to the thermal power plants. In most cases, it is biomass or coal. The Supreme Court banned the use of pet coke—the dirtiest of such fuels. The Delhi Government banned the use of coal, which was later extended to the entire National Capital Region. It was also agreed that the thermal power plants would clean up or shut down. Action on this has been patchy to say the least. The lesson from the transition to CNG is that people need alternatives for a ban to be effective. When diesel buses were stopped, CNG supply had to be assured. It also had to be feasible in terms of cost. The Supreme Court agreed that fiscal measures were needed to keep clean fuel cheaper than dirty fuel. Now even as coal is banned, the price of natural gas makes industry uncompetitive.\n\n47. Which of the following statements is/are correct?\n1. Thermal power stations in Delhi were required to summarily shut down.\n2. CNG supplies had to be assured once diesel vehicles were prohibited from plying.\n3. The Supreme Court banned the use of coal across the National Capital Region.\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 2",
+    "3 only",
+    "2 only",
+    "2 and 3"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**1 — wrong.** Passage: thermal plants would \"**clean up or shut down**\" — an option, not a summary shutdown; and action was \"patchy\".\n\n**2 — correct.** \"When diesel buses were stopped, CNG supply had to be assured.\"\n\n**3 — wrong.** Read who did what: the **Supreme Court banned pet coke**; the **Delhi Government banned coal**, and that was later extended to the NCR. The Court did not ban coal across the NCR.\n\n**So 2 only.**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The passage begins at the foot of page 23 and continues at the top of page 25; both halves are reproduced here in full.",
+   "shares_passage_with": [
+    46
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 48,
+   "page": 25,
+   "stem": "Consider the following statements :\nEvery red is blue. Every blue is green. Every green is yellow.\nWhich of the following statements denoted by P, Q and R are correct?\nP. Every blue is yellow.\nQ. Every red is green.\nR. Every red is yellow.\nSelect the answer using the code given below.",
+   "options": [
+    "P and Q only",
+    "Q and R only",
+    "P and R only",
+    "P, Q and R"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Chain: **red ⊂ blue ⊂ green ⊂ yellow**. Subset inclusion is transitive, so every link and every skip holds.\n\n- **P.** blue ⊂ green ⊂ yellow → every blue is yellow ✓\n- **Q.** red ⊂ blue ⊂ green → every red is green ✓\n- **R.** red ⊂ … ⊂ yellow → every red is yellow ✓\n\nAll three follow. (Only the *reverse* claims — \"every yellow is red\" — would fail.)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 49,
+   "page": 25,
+   "stem": "How many times does 5 appear in all two-digit positive integers?",
+   "options": [
+    "18",
+    "19",
+    "20",
+    "21"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Count the digit 5 across 10–99, **position by position**.\n\n- **Tens place:** 50, 51 … 59 → **10** fives.\n- **Units place:** 15, 25, 35, 45, 55, 65, 75, 85, 95 → **9** fives (no 05, since 05 is not a two-digit number).\n\nTotal = 10 + 9 = **19**. 55 rightly contributes twice — the question counts appearances of the digit, not numbers.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 50,
+   "page": 25,
+   "stem": "X travels 6 km on a bicycle with average speeds of 5 km per hour, 10 km per hour and 4 km per hour during the first 1 km, the next 2 km and the remaining 3 km, respectively. Y travels the same distances with average speeds of 4 km per hour, 10 km per hour and 5 km per hour, respectively. How many minutes early will Y complete the journey if both X and Y start at the same time?",
+   "options": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Work in minutes: time = (distance ÷ speed) × 60.\n\n**X:** 1/5 → 12 min · 2/10 → 12 min · 3/4 → 45 min = **69 min**\n\n**Y:** 1/4 → 15 min · 2/10 → 12 min · 3/5 → 36 min = **63 min**\n\n**Difference = 6 minutes.** The middle leg is identical, so only the swap matters: Y loses 3 min on the first km but saves 9 min over the last 3 km.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 51,
+   "page": 27,
+   "stem": "Seven cubes are identical in shape. Out of these, the weight of each of the six cubes is equal and the weight of the remaining cube is less than the weight of any other cube. A balance is used to identify the lightest cube. What is the minimum number of attempts required to distinguish the odd cube with certainty?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "1"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**Split 7 as 3 + 3 + 1.**\n\n- **Weighing 1:** 3 cubes vs 3 cubes.\n  - If they balance → the light cube is the one set aside (found, but the worst case still needs checking).\n  - If one pan rises → the light cube is among those 3.\n- **Weighing 2:** from the light group of 3, weigh 1 vs 1. If they balance, the third is the odd one; otherwise the risen pan holds it.\n\nWorst case = **2 weighings**. It cannot be 1, because a single weighing of 3 vs 3 that tips still leaves 3 candidates. (Check: each weighing has 3 outcomes, so 2 weighings distinguish up to 3² = 9 ≥ 7 items.)\n\n**Answer: 2**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 52,
+   "page": 27,
+   "stem": "Directions for the next 2 (two) items :\n\nRead the following passage and answer the items that follow. Your answers should be based solely on the passage.\n\nPassage\n\nPrevious waves of customer-service technology, including email and those pesky voice menus, stoked concerns of job losses, only for them to fail to materialise. AI could yet prove different. And if it does, its effects may be salutary. Human agents could be freed up to spend more time on creative and rewarding tasks, like using feedback to make products and services better—and thereby spend less time listening to irate customers!\n\nWhich one among the following statements most appropriately reflects the point of view of the given passage?",
+   "options": [
+    "If AI were to take over customer service, there would be no work left for human subjects to do.",
+    "Irritating voice menus and email could not achieve human redundancy to the extent that AI might.",
+    "The value of human intervention in the workplace affected by AI might be enhanced through redirection towards more fulfilling tasks.",
+    "Unlike previous waves in customer-service technology, AI has raised the alarm of worker replacement."
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Deciding line: **\"Human agents could be freed up to spend more time on creative and rewarding tasks... using feedback to make products and services better.\"**\n\nThat is exactly (c): human work is not erased but **redirected to more fulfilling tasks**, and its value rises.\n\n- (a) fails — the passage says agents get *other* work, not no work.\n- (b) fails — it stops at redundancy; the passage's stated point is that the effects \"may be salutary\".\n- (d) fails — it reverses the first line: previous waves *also* \"stoked concerns of job losses\". AI is not the first alarm, only possibly the first real one.\n\n**Answer: (c)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    53
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 53,
+   "page": 27,
+   "stem": "Directions for the next 2 (two) items :\n\nRead the following passage and answer the items that follow. Your answers should be based solely on the passage.\n\nPassage\n\nPrevious waves of customer-service technology, including email and those pesky voice menus, stoked concerns of job losses, only for them to fail to materialise. AI could yet prove different. And if it does, its effects may be salutary. Human agents could be freed up to spend more time on creative and rewarding tasks, like using feedback to make products and services better—and thereby spend less time listening to irate customers!\n\nWhich of the following conclusions, made on the basis of the given passage, is/are correct?\n\n1. The advent of new customer-service technology had invariably sparked fears about job losses.\n2. Often it is found that instead of job losses, alternative channels for employee engagement are discovered while certain tasks are replaced by technology.\n3. The advent of technology inevitably leads to stressful outcomes.\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 3",
+    "2 only",
+    "3 only",
+    "1 and 2"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**1 — correct.** \"Previous waves of customer-service technology, including email and those pesky voice menus, **stoked concerns of job losses**\" — and AI now does the same. Every wave named raised the fear.\n\n**2 — correct.** The fears \"fail[ed] to materialise\"; instead agents are \"freed up\" for creative work while machines take the routine calls — i.e. **tasks replaced, engagement redirected**, not jobs lost.\n\n**3 — wrong.** Directly contradicted: \"its effects **may be salutary**.\" \"Inevitably stressful\" is the opposite of the passage's line.\n\nSince 3 is out, only (b) and (d) survive; 1 is a restatement of the opening sentence, so both 1 and 2 stand.\n\n**Answer: 1 and 2 (d)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    52
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 54,
+   "page": 29,
+   "stem": "Directions for the next 2 (two) items :\n\nRead the following passage and answer the items that follow. Your answers should be based solely on the passage.\n\nPassage\n\nCattle from the nearby villages came to the common ground to graze, and there was still a cool freshness in the air. Hori took several deep breaths and thought of sitting down for a while, since he'd be dying of heat in the scorching 'loo' wind the rest of the day. A number of farmers were eager to lease this bit of land and had offered a good price, but Rai Sahib—God bless him—had plainly told them it was reserved for grazing and would not be relinquished for any price. If he'd been one of those selfish Zamindars, he'd have said the cattle could go to hell, that there was no reason for him to miss the chance to make a little money. But the Rai Sahib still held to the old values, feeling that any landlord who didn't look after his tenants was less than human.\n\nWhich of the following conclusions is/are correct?\n\n1. All landlords essentially have some goodness trapped within them.\n2. The common grazing grounds of a village are intended for use by the cattle of that village.\n3. Landlords who believe in tradition tend to be more concerned about their tenants.\n4. Winds later in the day tend to be cooler post the hot winds of the morning.\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 3",
+    "2 and 4",
+    "3 only",
+    "2 only"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**3 — correct.** Deciding line: \"the Rai Sahib **still held to the old values**, feeling that any landlord who didn't look after his tenants was less than human.\" Tradition → concern for tenants.\n\n**1 — wrong.** The passage sets Rai Sahib *against* \"selfish Zamindars\" who'd say \"the cattle could go to hell\". So goodness is not in *all* landlords.\n\n**2 — wrong.** The text says cattle \"from the **nearby villages**\" graze there — it is not restricted to one village's own cattle, so the statement's framing is not what the passage shows.\n\n**4 — wrong.** Reversed: the *morning* has \"a cool freshness\", and the scorching loo comes \"the rest of the day\".\n\n**Answer: 3 only (c)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    55
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 55,
+   "page": 29,
+   "stem": "Directions for the next 2 (two) items :\n\nRead the following passage and answer the items that follow. Your answers should be based solely on the passage.\n\nPassage\n\nCattle from the nearby villages came to the common ground to graze, and there was still a cool freshness in the air. Hori took several deep breaths and thought of sitting down for a while, since he'd be dying of heat in the scorching 'loo' wind the rest of the day. A number of farmers were eager to lease this bit of land and had offered a good price, but Rai Sahib—God bless him—had plainly told them it was reserved for grazing and would not be relinquished for any price. If he'd been one of those selfish Zamindars, he'd have said the cattle could go to hell, that there was no reason for him to miss the chance to make a little money. But the Rai Sahib still held to the old values, feeling that any landlord who didn't look after his tenants was less than human.\n\nWhich of the following statements are not correct?\n\n1. The landholdings of Rai Sahib were currently not being used for farming.\n2. Temperamentally, Rai Sahib was as greedy as other landlords.\n3. It cannot be ascertained that Rai Sahib could have made some money by leasing out the grazing land.\n4. It may be asserted that Rai Sahib valued his tenants and wanted to protect their livelihood.\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 2 only",
+    "1 and 3 only",
+    "3 and 4",
+    "1, 2 and 3"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Question asks which are **NOT** correct.\n\n**1 — not correct.** Only *this bit of land* is reserved for grazing. He is a zamindar with tenant farmers, so his holdings as a whole are certainly farmed.\n\n**2 — not correct.** \"Rai Sahib—God bless him—had plainly told them it was **reserved for grazing and would not be relinquished for any price**.\" He is contrasted with greedy zamindars, not equated with them.\n\n**3 — not correct.** It *can* be ascertained: farmers \"had **offered a good price**\", and the text names \"the chance to make a little money\" he passed up.\n\n**4 — correct** (so it cannot be in the answer): looking after tenants is precisely his stated creed.\n\nOnly one option contains 2 and 3 together and excludes 4.\n\n**Answer: 1, 2 and 3 (d)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "In the printed paper the word 'not' in the question line is italicised for emphasis.",
+   "shares_passage_with": [
+    54
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 56,
+   "page": 29,
+   "stem": "A person facing the East travels 4 km straight and then turns right and travels 3 km, then further turns left and travels 2 km and finally turns left and travels 3 km. The minimum distance between the final point and the initial point, and the direction in which the person is facing at the final point are, respectively",
+   "options": [
+    "12 km, East",
+    "6 km, East",
+    "8 km, North",
+    "6 km, North"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Track coordinates from (0, 0), East = +x, North = +y.\n\n1. Faces **East**, 4 km → (4, 0)\n2. Turns **right** → now faces **South**, 3 km → (4, −3)\n3. Turns **left** → faces **East**, 2 km → (6, −3)\n4. Turns **left** → faces **North**, 3 km → (6, 0)\n\n**Final point (6, 0), same latitude as start.** The two southward/northward legs (3 km each) cancel, so distance = 4 + 2 = **6 km**, and he ends facing **North**.\n\n**Answer: 6 km, North (d)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 57,
+   "page": 31,
+   "stem": "In a sequence of numbers, each number other than the first two is the sum of the two immediately preceding numbers from it. If the first two numbers in the sequence are 4 and 7, then the sixth number is",
+   "options": [
+    "29",
+    "37",
+    "43",
+    "47"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Fibonacci-type rule: each term = sum of the previous two.\n\n| Term | Value |\n|---|---|\n| 1st | 4 |\n| 2nd | 7 |\n| 3rd | 4 + 7 = 11 |\n| 4th | 7 + 11 = 18 |\n| 5th | 11 + 18 = 29 |\n| **6th** | **18 + 29 = 47** |\n\nTrap: 29 is the *fifth* term, not the sixth.\n\n**Answer: 47 (d)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 58,
+   "page": 31,
+   "stem": "The ratio of male to female workers in two companies A and B is 13 : 10 and 7 : 5, respectively. If both the companies have the same number of female workers, then what is the ratio of the total number of workers in A to those in B?",
+   "options": [
+    "24 : 23",
+    "23 : 24",
+    "18 : 17",
+    "27 : 18"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Make the **female parts equal** — that is the whole trick.\n\n- A → 13 : 10\n- B → 7 : 5 = **14 : 10** (multiply by 2)\n\nNow both have 10 parts of females, so one part means the same in each. Let females = 10 in both.\n\n- Total A = 13 + 10 = **23**\n- Total B = 14 + 10 = **24**\n\n**Answer: 23 : 24 (b)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 59,
+   "page": 31,
+   "stem": "If the product of the HCF and LCM of two distinct numbers is the cube of one of the numbers, then which of the following statements is/are correct?\n\nI. The difference of the numbers is an even number.\nII. One of the numbers is a perfect square.\n\nSelect the answer using the code given below.",
+   "options": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Key identity: HCF × LCM = product of the two numbers.**\n\nSo a·b = a³ (or b³). Take a·b = a³ ⇒ **b = a²**. The pair is always (n, n²) with n ≥ 2 (n = 1 would make them equal, not distinct).\n\n**I.** Difference = n² − n = n(n − 1) = product of two **consecutive** integers → one of them is even → the difference is always even. ✔\n\n**II.** One number is n², a **perfect square** by construction. ✔\n\nCheck with n = 3: numbers 3 and 9. HCF 3, LCM 9, product 27 = 3³ ✔; difference 6 (even) ✔; 9 is a square ✔.\n\n**Answer: Both I and II (c)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 60,
+   "page": 31,
+   "stem": "If x and y are two digits and the number 4x5y790 is divisible by 11, then what is the remainder, if x + y is divided by 11?",
+   "options": [
+    "1",
+    "3",
+    "5",
+    "7"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Divisibility by 11: **alternating sum of digits must be a multiple of 11.**\n\nNumber: 4, x, 5, y, 7, 9, 0\n\nAlternating sum from the left:\n4 − x + 5 − y + 7 − 9 + 0 = **7 − (x + y)**\n\nSo 7 − (x + y) ≡ 0 (mod 11) ⇒ **x + y ≡ 7 (mod 11)**.\n\nSince x, y are digits, x + y ≤ 18, giving x + y = 7 or 18.\n\n- 7 ÷ 11 → remainder **7**\n- 18 ÷ 11 → remainder **7**\n\nEither way the remainder is the same — the question is self-consistent.\n\n**Answer: 7 (d)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 61,
+   "page": 33,
+   "stem": "Directions for the next 2 (two) items :\n\nRead the following passage and answer the items that follow. Your answers should be based solely on the passage.\n\nPassage\n\nWas it the sun-dappled ambience, the strawberries and cream, the frustration of Flavio Cobolli's unforced errors against Serbian Novak Djokovic on Centre Court or simply the crushing weight of being a 64-year-old man in the third act of a very public life? Whatever the reason, Hugh Grant, the actor, deserves empathy. There he was, in the Royal Box at Wimbledon, flanked by Britain's well-dressed and well-rested spectators, watching the men's singles quarterfinals, when the actor did something quietly radical : head at a tilt, eyes closed, utterly unbothered, he took a nap. So praise be to Grant for serving up an unexpected ace. In that small, delicious moment, he didn't merely catch forty winks, he made an elegant case for surrender. Not to laziness, but to limits. To the body's quiet wisdom over society's relentless performance metrics. Wimbledon had its tennis. The perpetually sleep-deprived discovered a leading man, not of action, but of rest.\n\nWhich of the following statements is/are correct?\n\n1. Radical action can also be attributed to mild surrender where one acts against societal expectations.\n2. Submitting to one's limitations, given the effect of age and other factors, ought not to be conflated with laziness.\n3. 'Leading man' usually refers to one who plays the lead role in a movie; in this instance the implication is that Hugh Grant is performing the role of not an action hero, but that of a resting one!\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1, 2 and 3",
+    "3 only"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "All three restate the passage.\n\n- **(1)** The nap is called \"something quietly radical\" and is simultaneously \"an elegant case for surrender\" — radical because it defies \"society's relentless performance metrics.\" ✓\n- **(2)** Deciding line: **\"he made an elegant case for surrender. Not to laziness, but to limits.\"** That is exactly \"submitting to limitations ≠ laziness.\" ✓\n- **(3)** \"The perpetually sleep-deprived discovered a leading man, **not of action, but of rest**\" — a film term turned into a hero of resting. ✓\n\nSince 1, 2 and 3 all hold, options (a), (b), (d) each drop a correct statement.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    62
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 62,
+   "page": 33,
+   "stem": "Directions for the next 2 (two) items :\n\nRead the following passage and answer the items that follow. Your answers should be based solely on the passage.\n\nPassage\n\nWas it the sun-dappled ambience, the strawberries and cream, the frustration of Flavio Cobolli's unforced errors against Serbian Novak Djokovic on Centre Court or simply the crushing weight of being a 64-year-old man in the third act of a very public life? Whatever the reason, Hugh Grant, the actor, deserves empathy. There he was, in the Royal Box at Wimbledon, flanked by Britain's well-dressed and well-rested spectators, watching the men's singles quarterfinals, when the actor did something quietly radical : head at a tilt, eyes closed, utterly unbothered, he took a nap. So praise be to Grant for serving up an unexpected ace. In that small, delicious moment, he didn't merely catch forty winks, he made an elegant case for surrender. Not to laziness, but to limits. To the body's quiet wisdom over society's relentless performance metrics. Wimbledon had its tennis. The perpetually sleep-deprived discovered a leading man, not of action, but of rest.\n\nWhich of the following statements is/are correct?\n\n1. Hugh Grant was watching, from the Royal Box, the men's semifinal match on Centre Court between Flavio Cobolli and Novak Djokovic.\n2. The phrase 'unexpected ace' in the context uses a term from the game of tennis to highlight Hugh Grant's somewhat uncharacteristic act of catching 'forty winks'; an act that is viewed with opprobrium.\n3. Grant subjects the demands of society to the wisdom of his body.\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 2",
+    "3 only",
+    "2 and 3",
+    "2 only"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Only 3 survives.\n\n- **(1)** Wrong on fact: the passage says he was watching the **men's singles quarterfinals**, not the semifinal.\n- **(2)** The tennis-term part is fine, but the tail \"an act that is viewed with opprobrium\" contradicts the passage — **\"So praise be to Grant for serving up an unexpected ace.\"** The writer applauds it, not condemns it.\n- **(3)** Deciding line: **\"To the body's quiet wisdom over society's relentless performance metrics\"** — body's wisdom placed *above* society's demands. ✓\n\nSo 3 only.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    61
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 63,
+   "page": 35,
+   "stem": "Directions for the next 2 (two) items :\n\nRead the following passage and answer the items that follow. Your answers should be based solely on the passage.\n\nPassage\n\nThe process by which countries close their labour-productivity gap with the technology leader is based on convergence theory. The convergence model divides economic eras into three phases : the breakaway, the catch-up, and the fine-tuning phase. It also divides economic entities into two categories : the technology leaders and the technology followers. The process begins with the development of a new technology, such as scavenging three million years ago (MYA), hunting—one MYA, farming—12 thousand years ago, and industrial technology—a little more than 200 years ago. During the breakaway phase, the per capita income of the technology leaders (e.g., Western Europe and North America in the industrial era) rises, but is unchanged for the technology followers. In the catch-up phase, the followers adopt the new technology and close their per capita income gap with the technology leaders. In the fine-tuning phase, where participants try to extract the remaining benefits from an increasingly exhausted technology, leaders and followers have similar per capita incomes.\n\nWhich of the following conclusions are correct?\n\n1. In the breakaway phase, economic progress is slow for the technology followers.\n2. In the catch-up phase, leaders stagnate and followers, therefore, close the gap between them and the leaders.\n3. In the fine-tuning phase, technology is exhausted, as it were, and both leaders and followers attempt to extract leftover benefits, leading to more or less similar per capita income levels.\n4. Industrial technology followed scavenging, which preceded hunting, which itself was followed by farming.\n\nSelect the answer using the code given below.",
+   "options": [
+    "3 and 4 only",
+    "1, 2, 3 and 4",
+    "1 and 2 only",
+    "2, 3 and 4 only"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "- **(1)** Passage: in the breakaway phase followers' per capita income is **\"unchanged\"** — that is *no* progress, not \"slow\" progress. ✗\n- **(2)** Nothing says leaders stagnate. Followers close the gap because **they adopt the new technology**, not because leaders stall. ✗\n- **(3)** Straight from the text: fine-tuning = \"extract the remaining benefits from an increasingly exhausted technology,\" and \"leaders and followers have similar per capita incomes.\" ✓\n- **(4)** Order given: scavenging (3 MYA) → hunting (1 MYA) → farming (12 kya) → industrial (200 yrs). So industrial followed scavenging ✓, scavenging preceded hunting ✓, hunting followed by farming ✓.\n\n**3 and 4 only.** (Cross-check: statement 2 is clearly false, and every other option contains it.)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    64
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 64,
+   "page": 35,
+   "stem": "Directions for the next 2 (two) items :\n\nRead the following passage and answer the items that follow. Your answers should be based solely on the passage.\n\nPassage\n\nThe process by which countries close their labour-productivity gap with the technology leader is based on convergence theory. The convergence model divides economic eras into three phases : the breakaway, the catch-up, and the fine-tuning phase. It also divides economic entities into two categories : the technology leaders and the technology followers. The process begins with the development of a new technology, such as scavenging three million years ago (MYA), hunting—one MYA, farming—12 thousand years ago, and industrial technology—a little more than 200 years ago. During the breakaway phase, the per capita income of the technology leaders (e.g., Western Europe and North America in the industrial era) rises, but is unchanged for the technology followers. In the catch-up phase, the followers adopt the new technology and close their per capita income gap with the technology leaders. In the fine-tuning phase, where participants try to extract the remaining benefits from an increasingly exhausted technology, leaders and followers have similar per capita incomes.\n\nWhich of the following statements is/are correct?\n\n1. The convergence model divides nations into three phases of economic progress.\n2. At the heart of the convergence theory is the closing of the gap between labour and productivity.\n3. Technology leaders typically have arrived earlier at different economic eras.\n4. The time period covered by the convergence theory presented herein encompasses, as mentioned, 4012200 years.\n\nSelect the answer using the code given below.",
+   "options": [
+    "2 and 4",
+    "2 and 3",
+    "3 only",
+    "1, 3 and 4"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Official answer: (b) 2 and 3**\n\nStatements 1 and 4 are both false, which kills options (a) and (d) outright. That leaves only (b) and (c), so the entire question turns on statement 2.\n\n---\n\n### Statement 1 — wrong (this is the compound the paper splits)\n\nThe passage says two separate things in two consecutive sentences:\n\n- \"The convergence model divides **economic eras** into **three phases**\" — breakaway, catch-up, fine-tuning.\n- \"It also divides **economic entities** into **two categories**\" — leaders and followers.\n\nStatement 1 welds the wrong halves together: *nations* into *three phases*. Nations are divided into **two** categories; it is **eras** that get three phases. A phase is a stage of an era, not a class of country. Any option containing 1 — that is, (d) — is out.\n\n### Statement 4 — wrong\n\n3,000,000 + 1,000,000 + 12,000 + 200 = 4,012,200, so the arithmetic is real, but the claim is not. Two independent failures:\n\n1. Those four numbers are **points on one timeline, not four separate durations**. Scavenging began 3 MYA and hunting began 1 MYA — the hunting era is *inside* the 3-million-year window, not appended to it. The time period the passage actually covers is 3 million years, from scavenging to now. Adding nested dates double-counts almost everything.\n2. The passage says industrial technology arrived \"a little more than **200** years ago.\" \"A little more than\" is not a number. No exact total can be \"as mentioned\" when one of the four inputs is explicitly approximate.\n\nSo (a) is out too.\n\n### Statement 3 — correct\n\nNever stated in those words, but it is what the model asserts. In the breakaway phase the leaders' per capita income \"rises, but is unchanged for the technology followers\"; only in the catch-up phase do \"the followers adopt the new technology.\" Leader first, follower after — and the passage applies this to each of the four eras it names. \"Typically\" carries whatever looseness remains.\n\n### Statement 2 — correct, and this is where the disagreement lives\n\nThe passage's very first sentence *defines* the subject: \"The process by which countries close their **labour-productivity gap** with the technology leader **is based on convergence theory**.\" The theory exists to explain that gap-closing. Statement 2's claim is about **centrality** — that gap-closing is \"at the heart of\" the theory — and the opening sentence grants exactly that.\n\nThe tempting objection, and why it does not carry:\n\n> \"labour-productivity gap\" is a single compound term — output per worker — and statement 2 reads it as a gap *between* two things, labour and productivity. Different meaning. Reject it, answer (c).\n\nThe compound-splitting instinct is right in general; it is precisely what sinks statement 1. But here it is being applied to a phrase, not to a fact. Ask the question UPSC actually asks: **does the statement assert something the passage does not?** Statement 1 does — it says three where the passage says two. Statement 4 does — it invents a total the passage never supports. Statement 2 does not. It names the same gap, the same theory, and the same relationship between them; \"the gap between labour and productivity\" is clumsy rewording of \"the labour-productivity gap,\" not a rival proposition. Nothing in the passage is contradicted, and no new claim is smuggled in.\n\nThere is also a consistency problem with (c). Statement 3 is an **inference** — the passage nowhere says leaders \"arrive earlier at different economic eras\"; you have to assemble that from the breakaway and catch-up descriptions. Statement 2 is a near-literal restatement of sentence one. Accepting the inference while rejecting the restatement applies a stricter standard to the closer paraphrase. Whatever tolerance lets 3 through must let 2 through.\n\n### Takeaway\n\nThe two traps in this set are quantitative and structural, not stylistic: *three phases* belongs to eras and *two categories* to entities (kills 1), and dated eras are nested points, not addable spans (kills 4). Do not spend the strictness budget on the hyphen in statement 2 — reserve it for statements that change a number or swap a subject.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    63
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": "Official key says b, worked solution said c (high confidence)."
+  },
+  {
+   "q_no": 65,
+   "page": 37,
+   "stem": "An alloy P contains 20% copper and 80% zinc by weight. Another alloy Q contains 60% copper and 40% zinc by weight. A third alloy R is to be prepared from P and Q so that it contains equal amount of copper and zinc. In what ratio, amounts of P and Q be mixed in order to get R?",
+   "options": [
+    "1 : 3",
+    "3 : 1",
+    "2 : 3",
+    "3 : 2"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Work with copper only. P = 20% Cu, Q = 60% Cu, target R = **50% Cu** (equal copper and zinc).\n\n**Alligation:** P : Q = (60 − 50) : (50 − 20) = 10 : 30 = **1 : 3**.\n\nCheck with 1 kg P + 3 kg Q = 4 kg: copper = 0.2 + 1.8 = 2.0 kg; zinc = 0.8 + 1.2 = 2.0 kg. Equal ✓\n\n(3 : 1 is the trap — it gives 50% only if you mix up which alloy is copper-rich.)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 66,
+   "page": 37,
+   "stem": "A is a 2-digit number with different digits. B is also a 2-digit number and is obtained by reversing the digits of A. If A – B is a multiple of 27, where A > B, how many such different A's are possible?",
+   "options": [
+    "6",
+    "9",
+    "12",
+    "18"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let A = 10a + b, B = 10b + a, so **A − B = 9(a − b)**.\n\n9(a − b) is a multiple of 27 ⟹ **(a − b) must be a multiple of 3**, and A > B ⟹ a > b. So a − b = 3, 6 or 9.\n\n- a − b = 3: 30, 41, 52, 63, 74, 85, 96 → 7\n- a − b = 6: 60, 71, 82, 93 → 4\n- a − b = 9: 90 → 1\n\nThat's 12, **but B must also be a 2-digit number**, so b ≠ 0 — drop 30, 60, 90 (reversals 03, 06, 09 are not 2-digit).\n\n6 + 3 + 0 = **9**. (12 is the trap for ignoring the \"B is a 2-digit number\" condition.)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 67,
+   "page": 37,
+   "stem": "If ZERO is encoded as ADSN, then how do you encode STOP?",
+   "options": [
+    "SPOT",
+    "TSPO",
+    "TSOP",
+    "POST"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Compare position by position:\n\n| | Z | E | R | O |\n|---|---|---|---|---|\n| | 26 | 5 | 18 | 15 |\n| | A(1) | D(4) | S(19) | N(14) |\n| shift | **+1** | **−1** | **+1** | **−1** |\n\n**Pattern: +1, −1, +1, −1** (Z + 1 wraps to A).\n\nApply to S T O P:\n- S + 1 = **T**\n- T − 1 = **S**\n- O + 1 = **P**\n- P − 1 = **O**\n\n= **TSPO**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 68,
+   "page": 37,
+   "stem": "There are three types of rectangular tiles : 3′ × 3′, 3′ × 7′ and 3′ × 11′. An area of rectangular shape of dimensions 3′ × 100′ is to be covered using these tiles without breaking them. If x and y are the maximum and minimum numbers of tiles of various sizes, respectively, that can be used to cover the area exactly, then x – y is",
+   "options": [
+    "20",
+    "12",
+    "10",
+    "7"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Every tile is 3′ wide and the strip is 3′ wide, so it is a **1-D problem: make length 100 from pieces 3, 7, 11**.\n\nLet a, b, c be the counts, so 3a + 7b + 11c = 100 and N = a + b + c. Substituting a = (100 − 7b − 11c)/3:\n\n**N = (100 − 4b − 8c)/3**, so 100 − 3N = 4(b + 2c) ⟹ **100 − 3N must be a positive multiple of 4**.\n\n- **Maximum x:** make b, c smallest. b = 1, c = 0 → 3a = 93, a = 31. N = 31 + 1 = **32** (31 threes + one 7). Cannot be 33, since 100 isn't divisible by 3.\n- **Minimum y:** N = 10 → 100 − 30 = 70, not divisible by 4 ✗. N = 11 → 67 ✗. N = 12 → 64 = 4(b + 2c) ⟹ b + 2c = 16: take c = 8, b = 0, a = 4 → 8×11 + 4×3 = 88 + 12 = 100 ✓. So y = **12**.\n\nx − y = 32 − 12 = **20**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 69,
+   "page": 37,
+   "stem": "A train has to complete a journey of 800 km. If it meets a minor accident, its speed becomes half of the existing speed. If there is a mechanical defect, the speed becomes one-fourth of the existing speed. On its way, the train meets with a minor accident after 200 km; and 400 km thereafter, it develops a mechanical defect. Had the train developed the mechanical defect after 200 km and met the minor accident 400 km thereafter, it would have taken 4 more hours to reach its destination. What was the original speed of the train in km per hour?",
+   "options": [
+    "200",
+    "190",
+    "150",
+    "100"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let original speed = v. Each mishap acts on the **existing** speed.\n\n**Actual trip:** 200 km at v → accident (v/2) → 400 km at v/2 → defect (¼ of v/2 = **v/8**) → last 200 km.\n\nT₁ = 200/v + 400/(v/2) + 200/(v/8) = (200 + 800 + 1600)/v = **2600/v**\n\n**Hypothetical trip:** 200 km at v → defect (v/4) → 400 km at v/4 → accident (half of v/4 = **v/8**) → last 200 km.\n\nT₂ = 200/v + 400/(v/4) + 200/(v/8) = (200 + 1600 + 1600)/v = **3400/v**\n\nT₂ − T₁ = 800/v = 4 ⟹ **v = 200 km/h**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 70,
+   "page": 37,
+   "stem": "In a recruitment process, the selection of candidates is based on their performance in three components. The weightages of the components 1, 2 and 3 are 0·2, 0·3 and 0·5, respectively. Use the data given below and find the cutoff score if exactly three candidates are to be selected :\n\n| Candidate | Score in component 1 | Score in component 2 | Score in component 3 |\n|---|---|---|---|\n| 1 | 5 | 4 | 6 |\n| 2 | 4 | 6 | 5 |\n| 3 | 3 | 2 | 8 |\n| 4 | 9 | 4 | 3 |\n| 5 | 8 | 8 | 2 |",
+   "options": [
+    "5·1",
+    "5·2",
+    "5·3",
+    "5·4"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "Weighted score = 0.2×C1 + 0.3×C2 + 0.5×C3.\n\n| Cand | Working | Score |\n|---|---|---|\n| 1 | 1.0 + 1.2 + 3.0 | **5.2** |\n| 2 | 0.8 + 1.8 + 2.5 | **5.1** |\n| 3 | 0.6 + 0.6 + 4.0 | **5.2** |\n| 4 | 1.8 + 1.2 + 1.5 | 4.5 |\n| 5 | 1.6 + 2.4 + 1.0 | 5.0 |\n\nRanked: 5.2, 5.2, 5.1, 5.0, 4.5.\n\nA cutoff of 5.2 selects only two (1 and 3); a cutoff of 5.0 selects four. **Cutoff 5.1 selects exactly three** — candidates 1, 3 and 2.\n\nAnswer: **5.1**.",
+   "has_table": true,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 71,
+   "page": 39,
+   "stem": "Consider the following three statements, namely S1, S2 and S3 :\n\nS1. Protecting the environment is an existential exigency for humans, given the impact of environmental degradation on climate change.\n\nS2. Scientific consensus has not been achieved with regard to the extent of the contribution of human intervention to climate change.\n\nS3. Environmental activism includes climate alarmism and other extremist points of view that often become the focus of climate change deniers.\n\nWhich of the following relationships based on the statements given above is/are correct?\n\n1. S3 is a counterpoint to S1\n\n2. S3 is unconnected to S1 and S2\n\n3. S2 could be the reason for S3\n\nSelect the answer using the code given below.",
+   "options": [
+    "2 and 3 only",
+    "1, 2 and 3",
+    "1 and 2 only",
+    "3 only"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "relationship",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**Kill statement 2 first — that decides the question.** S3 talks about *environmental activism* and *climate change deniers*; both S1 (environment/climate) and S2 (consensus on climate change) sit in the same debate. So S3 is plainly **connected** — statement 2 is wrong. Only one option omits 2, so the answer is **3 only**.\n\nCheck the other two anyway:\n- **1 (wrong):** a counterpoint must oppose S1's claim that protection is an existential need. S3 never denies that; it criticises the *excesses* of activism. Attacking the messenger is not a rebuttal of the thesis.\n- **3 (correct):** if consensus on the *extent* of human contribution is missing (S2), that gap is exactly what lets deniers seize on alarmist claims (S3). S2 works as a plausible cause of S3.\n\n(a) (b) (c) all include the false statement 2.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 72,
+   "page": 39,
+   "stem": "Match List–I with List–II and select the answer using the code given below the Lists :\n\n| List–I (Relationship category) | List–II (Communication type) |\n|---|---|\n| A. Between cricket captain and team members | 1. Informal and firm |\n| B. Between judge and lawyers in court | 2. Informal and open-ended |\n| C. Between Vice Chancellor and Deputy Registrar | 3. Formal and open-ended |\n| D. Between peers and coworkers | 4. Formal and firm |\n\nCode :",
+   "options": [
+    "A  B  C  D\n1  3  4  2",
+    "A  B  C  D\n1  4  3  2",
+    "A  B  C  D\n2  4  3  1",
+    "A  B  C  D\n2  3  4  1"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "match_list",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-05"
+   ],
+   "primary_topic_code": "CSA-05",
+   "explanation_md": "**Fix the two extremes first: the courtroom and the coffee table.**\n\n- **B. Judge–lawyers:** court procedure is rigid and rulings are non-negotiable → **formal and firm (4)**.\n- **D. Peers/coworkers:** no hierarchy, conversation flows both ways → **informal and open-ended (2)**.\n- **A. Captain–team:** dressing-room bond is casual, but the field instruction (\"you bowl the 19th over\") is not up for debate → **informal and firm (1)**.\n- **C. VC–Deputy Registrar:** office hierarchy, so formal; but administrative business is consultative and continuing → **formal and open-ended (3)**.\n\nA-1, B-4, C-3, D-2.\n\nWhy the rest fail: (a) makes judge–lawyer *open-ended*; (c) and (d) make a captain's on-field instruction *open-ended* and peers' talk *firm*.",
+   "has_table": true,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 73,
+   "page": 41,
+   "stem": "Match List–I with List–II and select the answer using the code given below the Lists :\n\n| List–I (Tool of communication) | List–II (Purpose) |\n|---|---|\n| A. Memorandum | 1. To record decisions |\n| B. Flyer | 2. To inform confidentially |\n| C. Bcc | 3. To intimate a directive |\n| D. Minutes | 4. To disseminate non-targeted information |\n\nCode :",
+   "options": [
+    "A  B  C  D\n1  4  2  3",
+    "A  B  C  D\n1  2  4  3",
+    "A  B  C  D\n3  4  2  1",
+    "A  B  C  D\n3  2  4  1"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "match_list",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-05"
+   ],
+   "primary_topic_code": "CSA-05",
+   "explanation_md": "**Anchor on the two you cannot misread: Minutes and Bcc.**\n\n- **D. Minutes** are the written record of what a meeting decided → **1 (record decisions)**. That alone kills (a) and (b), which give Minutes \"intimate a directive\".\n- **C. Bcc** hides the recipient from others — the definition of informing **confidentially** → **2**.\n- **B. Flyer** is handed out to whoever passes by — no named addressee → **4 (disseminate non-targeted information)**.\n- **A. Memorandum** is the internal note conveying an official instruction → **3 (intimate a directive)**.\n\nA-3, B-4, C-2, D-1. Option (d) survives the Minutes test but swaps Flyer and Bcc — a flyer is the least confidential thing in an office.",
+   "has_table": true,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 74,
+   "page": 41,
+   "stem": "Which among the following actions would constitute the most appropriate directive(s) in resolving interpersonal conflict in an office with culturally diverse personnel?\n1. Direct personnel to practise activities that are the cultural markers of diverse groups\n2. Allow conflicts to resolve naturally over time to set an appropriate precedent of leadership\n3. Encourage personnel to seek each other's perspectives\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 3",
+    "2 only",
+    "3 only",
+    "2 and 3"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "case_study",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-05"
+   ],
+   "primary_topic_code": "CSA-05",
+   "explanation_md": "**Only 3 is a resolution measure; the other two are a mistake and an abdication.**\n\n- **1 — wrong.** *Directing* staff to perform other groups' cultural practices is compelled participation. It is tokenistic, can offend belief, and manufactures fresh grievance in the very office you are trying to calm. Awareness is fine; a directive to *practise* is not.\n- **2 — wrong.** \"Let it sort itself out\" is not leadership, and the precedent it sets is that management will not act. Unattended interpersonal conflict hardens into factions.\n- **3 — correct.** Getting people to seek each other's perspective attacks the actual cause — misreading of intent across cultures — and it is low-cost, voluntary and proportionate.\n\nSo **3 only**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 75,
+   "page": 41,
+   "stem": "Match List–I with List–II and select the answer using the code given below the Lists :\n\n| List–I (Barrier to communication) | List–II (Example) |\n|---|---|\n| A. Semantic | 1. Lack of feedback |\n| B. Cognitive | 2. Misunderstanding the meaning of a word |\n| C. Organisational | 3. Fear of social stigma |\n| D. Affective | 4. Information overload |\n\nCode :",
+   "options": [
+    "A  B  C  D\n3  1  4  2",
+    "A  B  C  D\n3  4  1  2",
+    "A  B  C  D\n2  1  4  3",
+    "A  B  C  D\n2  4  1  3"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "match_list",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-05"
+   ],
+   "primary_topic_code": "CSA-05",
+   "explanation_md": "**Semantics = meaning of words. Start there.**\n\n- **A. Semantic → 2:** *semantics* is literally the study of meaning, so misunderstanding a word's meaning is the textbook case. This alone eliminates (a) and (b).\n- **B. Cognitive → 4:** information overload swamps the brain's processing capacity — a limit on thinking, not on feeling or on channels.\n- **C. Organisational → 1:** lack of feedback is a defect in the organisation's communication channels (no upward loop built into the structure).\n- **D. Affective → 3:** *affect* = emotion; fear of social stigma is the emotion that stops a person from speaking.\n\nA-2, B-4, C-1, D-3. Option (c) is the trap — it swaps the two, calling overload \"organisational\" and stigma \"cognitive\"; stigma is felt, not computed.",
+   "has_table": true,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 76,
+   "page": 41,
+   "stem": "You are required to design a 'questionnaire' to be filled on-location by visitors, based on the following objective while writing a report :\n\n\"To determine the feasibility of setting up a family-oriented vacation resort in the vicinity of a lake destination in the mountains\"\n\nWhich of the following heads would you include in the questionnaire to make it most appropriate for your purpose?\n1. Size of family\n2. Budget\n3. Number of earners in the family\n4. Food allergies and dietary restrictions\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 3",
+    "1, 2 and 4",
+    "1 and 2 only",
+    "2 and 3"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "case_study",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-05"
+   ],
+   "primary_topic_code": "CSA-05",
+   "explanation_md": "**Test each head against the stated objective: *feasibility* of a *family* resort.**\n\n- **1. Size of family — include.** Fixes room mix and occupancy: how many 4-bed vs 6-bed units to build. Directly feasibility.\n- **2. Budget — include.** What a visitor will pay per night against your build and running cost *is* the feasibility calculation. Without it there is no viability estimate.\n- **3. Number of earners — exclude.** Intrusive income probing that adds nothing once you have asked the budget; willingness to pay is what you need, not household finance.\n- **4. Food allergies — exclude.** That is an *operational* detail collected from a guest who has already booked. It does not tell you whether the resort should exist.\n\nSo **1 and 2 only**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 77,
+   "page": 43,
+   "stem": "With reference to 'circular letters', which of the following statements is/are correct?\n\n1. Circular letters are usually addressed to a group of people.\n\n2. Non-standard and customized content is typical of circular letters.\n\n3. Circular letters are used to intimate appraisals and increments of employees within organisations.\n\n4. Circular letters are less cost-effective than personalised and specific recipient-directed letters.\n\nSelect the answer using the code given below.",
+   "options": [
+    "1 and 2",
+    "2 and 4",
+    "1, 3 and 4",
+    "1 only"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-05"
+   ],
+   "primary_topic_code": "CSA-05",
+   "explanation_md": "**A circular circulates — one standard text, many readers. Every wrong option breaks that.**\n\n- **1 — correct.** By definition a circular goes to a group (all staff, all dealers), not one named person.\n- **2 — wrong.** Content is **standardised**, identical for everyone. Customised content is the opposite of a circular.\n- **3 — wrong.** Appraisals and increments are individual and confidential; they go by personal letter. Putting a salary hike in a circular is a governance blunder.\n- **4 — wrong.** Reversed. One text sent to hundreds is *more* cost-effective than drafting individual letters — that is the whole reason circulars exist.\n\nOnly statement 1 stands → **1 only**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 78,
+   "page": 43,
+   "stem": "Three partners A, B and C entered into a business. A invested one-third of the capital for one-third duration. B invested one-fourth of the capital for one-fourth duration. C invested the remaining capital for the whole duration. Out of a profit of ₹ 17,000, how much profit will C get?",
+   "options": [
+    "₹ 12,000",
+    "₹ 10,000",
+    "₹ 12,500",
+    "₹ 10,750"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Profit splits on **capital × time**.\n\n**Step 1 — C's capital:** 1 − 1/3 − 1/4 = 12/12 − 4/12 − 3/12 = **5/12**.\n\n**Step 2 — products (take total time = 1):**\n- A = (1/3) × (1/3) = 1/9\n- B = (1/4) × (1/4) = 1/16\n- C = (5/12) × 1 = 5/12\n\n**Step 3 — common denominator 144:**\n- A = 16/144, B = 9/144, C = 60/144 → ratio **16 : 9 : 60**, total **85** parts.\n\n**Step 4 — C's share:** 17,000 × 60/85. Since 17,000 ÷ 85 = 200, C gets 200 × 60 = **₹12,000**.\n\n(Sanity: A = ₹3,200, B = ₹1,800, C = ₹12,000 → sums to ₹17,000.)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 79,
+   "page": 43,
+   "stem": "There are two chemicals which do not react with each other. A container contains 10 litres of the chemical A. One litre of this chemical is removed from it and one litre of the chemical B is poured. Then one litre of the mixture is removed from the container and one litre of B is poured. If this process of replacing one litre of the mixture by one litre of B is performed once more, then what is the volume of B that is present in the container approximately (in percentage)?",
+   "options": [
+    "25",
+    "27",
+    "29",
+    "31"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Standard replacement formula: after *n* replacements of 1 L from a 10 L vessel,\n**A remaining = 10 × (9/10)ⁿ.**\n\nCount the replacements: one (remove 1 L A, add B), two (remove 1 L mixture, add B), \"once more\" → **n = 3**.\n\n**A left = 10 × (0.9)³ = 10 × 0.729 = 7.29 L.**\n\nSince volume stays 10 L, **B = 10 − 7.29 = 2.71 L → 27.1% ≈ 27**.\n\nQuick check on why it is not 30: each removal takes out some B you already added, so the loss is less than 1 L of A per step.\n\nAnswer: **27**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 80,
+   "page": 43,
+   "stem": "A shopkeeper employs a delivery boy and gives him a motorcycle for home delivery. For every delivery, the boy is given ₹ 5. At the end of the day, he also gets ₹ 2 for every kilometre of the distance covered in the day. The boy wants to earn more than ₹ 500 a day, but does not want to travel more than 100 km. Which of the following numbers of deliveries would definitely meet his target?",
+   "options": [
+    "80",
+    "85",
+    "90",
+    "The question cannot be answered due to insufficient data"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Earnings = **5 × (deliveries) + 2 × (km)**, with km ≤ 100.\n\n**The word that decides this is \"definitely\".** The target must be met for *every* distance allowed, and the problem never links deliveries to kilometres — there is no minimum km per delivery.\n\n- Take **90 deliveries**: 90 × 5 = ₹450. He needs > ₹50 from distance, i.e. **more than 25 km**. Nothing in the question guarantees 90 deliveries cover 25 km — they could all be in one building.\n- **85** → ₹425, needs > 37.5 km. **80** → ₹400, needs > 50 km. Same gap.\n- For the ₹500 to be certain from deliveries alone you would need 5n > 500, i.e. **n > 100** — not on offer.\n\nSo no listed number *definitely* meets the target; the missing link between deliveries and distance is **insufficient data**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  }
+ ],
+ "reviewed_on": "2026-08-31",
+ "review_note": "Loaded under Pragaman's standing instruction (31 Aug 2026): official key, no per-question approval. Every question solved from scratch before the key was read; 76/80 matched. The four that did not (Q6/Q16/Q26/Q64) had their explanations rewritten to defend the official answer, and all four were judged defensible on review. Series A key. Each stem is self-contained: shared passages and direction blocks are reproduced per question (D42)."
+}

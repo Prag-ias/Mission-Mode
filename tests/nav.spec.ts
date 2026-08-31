@@ -78,3 +78,21 @@ test('the batch summary offers both Practice and Today', async ({ page }) => {
   await expect(page.getByTestId('summary-practice')).toBeVisible()
   await expect(page.getByTestId('summary-today')).toBeVisible()
 })
+
+test('practice defaults to GS1; CSAT is a deliberate switch', async ({ page }) => {
+  await login(page)
+  await page.goto('/practice')
+
+  // GS1 is the default pool — CSAT is qualifying only and must be asked for
+  await expect(page.getByTestId('paper-gs1')).toBeVisible()
+  const csat = page.getByTestId('paper-csat')
+  await expect(csat).toBeVisible()
+
+  const gs1Href = await page.getByTestId('paper-gs1').getAttribute('href')
+  expect(gs1Href).not.toContain('paper=CSAT')
+
+  await csat.click()
+  await page.waitForURL(/paper=CSAT/, { timeout: 30_000 })
+  // the year chips follow the paper, so they must not still show GS1-only years
+  await expect(page.getByTestId('paper-csat')).toBeVisible()
+})

@@ -224,3 +224,8 @@ Format: `### DN — <decision>` then **Context**, **Decision**, **Consequence** 
 **Context:** CSAT comprehension passages serve 2–5 questions each, and data sets serve several DI questions. The practice runner shows exactly one question at a time with no notion of a shared preamble.
 **Decision:** During ingestion the full passage or data set is reproduced inside the stem of **every** question that depends on it; `shares_passage_with` records the sibling question numbers for reference. No shared-passage table, no runner changes.
 **Consequence:** Every CSAT question drills standalone and in any shuffled order, at the cost of duplicated passage text in the database — which is cheap and never edited.
+
+### D43 — Practice defaults to GS1; CSAT must be asked for
+**Context:** Loading six CSAT papers adds ~480 questions to a bank of 593. With no paper filter, an unfiltered practice batch would have become roughly half CSAT — a qualifying paper diluting practice for the paper that actually carries the marks.
+**Decision:** `Filters.paper` is always set and defaults to `'GS1'`; `?paper=CSAT` is the only way into the CSAT pool. The paper chips sit above subject on /practice, and the subject/year counts on that screen are scoped to the chosen paper. Switching paper clears subject and year, which belong to the other pool.
+**Consequence:** The default batch stays GS1, and CSAT practice is a deliberate act — which matches how the exam weights them. The URL stays the batch's identity, so a CSAT batch is still a shareable, repeatable link.

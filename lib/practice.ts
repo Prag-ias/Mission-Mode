@@ -7,6 +7,9 @@
  * the same URL always yields the same questions in the same order.
  */
 export type Filters = {
+  /** CSAT is only qualifying; GS1 is where marks are won, so it is the default
+   *  pool and CSAT has to be asked for. Always set — never undefined. */
+  paper: 'GS1' | 'CSAT'
   subject?: string
   topic?: string
   year?: number
@@ -26,6 +29,7 @@ export function parseFilters(sp: Record<string, string | string[] | undefined>):
   const n = Number(one('n'))
   const year = Number(one('year'))
   return {
+    paper: one('paper') === 'CSAT' ? 'CSAT' : 'GS1',
     subject: one('subject') || undefined,
     topic: one('topic') || undefined,
     year: Number.isInteger(year) && year > 2000 ? year : undefined,
@@ -39,6 +43,7 @@ export function parseFilters(sp: Record<string, string | string[] | undefined>):
 
 export function filterQuery(f: Filters): URLSearchParams {
   const p = new URLSearchParams()
+  if (f.paper === 'CSAT') p.set('paper', 'CSAT')
   if (f.subject) p.set('subject', f.subject)
   if (f.topic) p.set('topic', f.topic)
   if (f.year) p.set('year', String(f.year))
