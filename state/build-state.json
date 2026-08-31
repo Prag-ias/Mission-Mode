@@ -2,9 +2,9 @@
   "project": "sarthi",
   "exam_date": "2027-05-23",
   "feature_freeze": "2027-02-01",
-  "current_version": "v4",
-  "gate_approved": false,
-  "gate_note": "v4 gate open since 2026-08-31 01:20 IST \u2014 shipped hours before Day 1's Block A. Awaiting checks: mock entry <4 min with a real scorecard, audit on the Sunday laptop, install + offline open on the phone, day-arc tints at 05:30. After approval the build order is complete; only bug fixes and stated deferred items remain until the 1 Feb freeze.",
+  "current_version": "complete",
+  "gate_approved": true,
+  "gate_note": "Build order complete as of 31 Aug 2026. v0-v4 + guide + enrichment all shipped and in daily use. Phase is now OPERATE: bug fixes, the deferred items in \"deferred\", and nothing else until the 1 Feb 2027 freeze. HANDOFF.md was rewritten for this phase; prompts/restart.md is the paste-in prompt for a fresh session.",
   "versions": {
     "v0": {
       "ship_by": "2026-08-30",
@@ -248,5 +248,19 @@
   "replan": {
     "last_run": null,
     "note": "Run generate-plan.mjs --from <next Monday> when more than 7 days of blocks are skipped or rescheduled."
+  },
+  "suite": {
+    "tests": 36,
+    "command": "npx playwright test",
+    "note": "runs against the live database; fixtures are TEST-* and self-cleaning"
+  },
+  "content": {
+    "questions": 593,
+    "questions_explained": 593,
+    "topics": 192,
+    "bonus_topics": 6,
+    "reference_links": 252,
+    "plan_blocks": 912,
+    "books": 21
   }
 }
