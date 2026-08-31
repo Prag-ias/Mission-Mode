@@ -101,7 +101,7 @@ export default async function Topic({ params }: { params: Promise<{ code: string
                 disabled={s === topic.stage}
                 className={`h-12 w-full rounded-btn border font-mono text-xs tracking-widest ${
                   s === topic.stage
-                    ? 'border-ink bg-ink text-white'
+                    ? 'border-ink bg-ink text-bg'
                     : 'border-line bg-surface text-ink active:bg-bg'
                 }`}
               >
