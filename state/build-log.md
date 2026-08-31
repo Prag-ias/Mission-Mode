@@ -211,6 +211,12 @@ Google Sheet on demand; `seed/topic-links.csv` is the one-time sheet import.
 now relative to the day's real logged minutes (it failed honestly when today's
 actual Block A, 90 min, was already in the ledger).
 
-**Suite:** 38/38 (35 prior + 3 enrichment). Build, lint, tsc clean.
+**Suite:** 35/35 (32 prior + 3 enrichment). Build, lint, tsc clean.
 
-**Blocked on user:** SUPABASE_SERVICE_KEY for uploads; the sheet CSV import.
+**The sheet round-trip, closed the same day:** he imported the CSV, which
+replaced the tab and gave it a **new gid** — the hardcoded `gid=0` in
+sync-links.mjs then 400'd. Dropped the gid so the script always reads the
+first tab; re-importing can never break it again. Synced live from his sheet:
+252 links, 192 topics.
+
+**Blocked on user:** SUPABASE_SERVICE_KEY for uploads. Nothing else.

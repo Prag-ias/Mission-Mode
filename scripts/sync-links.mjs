@@ -15,7 +15,9 @@ config({ path: '.env.local' })
 const postgres = (await import('postgres')).default
 
 const SHEET_ID = '1js5o_VC_XzccYnCka9vR3egspPQ7UEAdgk9END_Pgco'
-const SHEET_CSV = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=0`
+// No gid: always the first tab. Importing a CSV over a sheet replaces the tab
+// and gives it a new gid, so pinning one breaks on the next re-import.
+const SHEET_CSV = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv`
 
 function parseCsv(text) {
   const rows = []

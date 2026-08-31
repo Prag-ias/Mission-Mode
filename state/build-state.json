@@ -49,12 +49,6 @@
       "task": "Paste SUPABASE_SERVICE_KEY into .env.local and Vercel env to switch on topic file uploads",
       "est_minutes": 5,
       "blocked_on": "user"
-    },
-    {
-      "id": "enr-2",
-      "task": "Import seed/topic-links.csv into the Google Sheet (File -> Import), then edit there; resync with node scripts/sync-links.mjs",
-      "est_minutes": 5,
-      "blocked_on": "user"
     }
   ],
   "done_tasks": [
