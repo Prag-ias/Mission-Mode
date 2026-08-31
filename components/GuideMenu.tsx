@@ -1,6 +1,7 @@
 'use client'
 
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 import { useEffect, useRef, useState } from 'react'
 import ThemeToggle from '@/components/ThemeToggle'
 
@@ -10,6 +11,7 @@ import ThemeToggle from '@/components/ThemeToggle'
  * top bar on a laptop.
  */
 export default function GuideMenu() {
+  const pathname = usePathname() ?? '/'
   const [open, setOpen] = useState(false)
   const ref = useRef<HTMLDivElement>(null)
 
@@ -28,6 +30,10 @@ export default function GuideMenu() {
       window.removeEventListener('keydown', onKey)
     }
   }, [open])
+
+  // Practice mode is deliberately chrome-free — the bottom nav is hidden here
+  // too, and the floating button used to sit on top of the progress counter.
+  if (pathname.startsWith('/practice/run')) return null
 
   return (
     <div ref={ref} className="fixed right-3 top-3 z-40 lg:right-6 lg:top-2">
