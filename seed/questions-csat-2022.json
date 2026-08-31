@@ -1,0 +1,2645 @@
+{
+ "paper": "CSAT",
+ "year": 2022,
+ "booklet_series": "A",
+ "source_pdf": "PYQs/Prelims/GS PAPER 2/GS PAPER 2 2022.pdf",
+ "transcribed_on": "2026-08-31",
+ "reviewed_by_human": true,
+ "answer_key": {
+  "source": "official",
+  "note": "Official UPSC answer key supplied by the user."
+ },
+ "independent_pass": {
+  "done_on": "2026-08-31",
+  "note": "Every question solved from scratch before the key was read; the worked solution is the explanation."
+ },
+ "explanations_generated": {
+  "on": "2026-08-31",
+  "note": "Worked solutions written during the solve pass (D2)."
+ },
+ "questions": [
+  {
+   "q_no": 1,
+   "page": 3,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nThe main threat to maintaining progress in human development comes from the increasingly evident unsustainability of production and consumption patterns. Current production models rely heavily on fossil fuels. We now know that this is unsustainable because the resources are finite. The close link between economic growth and greenhouse gas emissions needs to be severed for human development to become truly sustainable. Some developed countries have begun to alleviate the worst effects by expanding recycling and investing in public transport and infrastructure. But most developing countries are hampered by the high costs and low availability of clean energy sources. Developed countries need to support developing countries' transition to sustainable human development.\n\nUnsustainability in production pattern is due to which of the following?\n1. Heavy dependence on fossil fuels\n2. Limited availability of resources\n3. Expansion of recycling\nSelect the correct answer using the code given below.",
+   "options": [
+    "1 and 2 only",
+    "2 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Match each item to a line in the passage.**\n\n1. Fossil fuels — \"Current production models rely heavily on fossil fuels\", and this is called unsustainable. ✓\n2. Limited resources — \"this is unsustainable **because the resources are finite**\". Finite = limited availability. ✓\n3. Recycling — appears only as a *remedy*: developed countries \"alleviate the worst effects by expanding recycling\". A cure, not a cause. ✗\n\nSo 1 and 2 only → **(a)**.\n\nWhy the others fail: (b) drops fossil fuels, which the passage names first; (c) and (d) both smuggle in recycling, which the passage places on the solution side.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    2
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 2,
+   "page": 3,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nThe main threat to maintaining progress in human development comes from the increasingly evident unsustainability of production and consumption patterns. Current production models rely heavily on fossil fuels. We now know that this is unsustainable because the resources are finite. The close link between economic growth and greenhouse gas emissions needs to be severed for human development to become truly sustainable. Some developed countries have begun to alleviate the worst effects by expanding recycling and investing in public transport and infrastructure. But most developing countries are hampered by the high costs and low availability of clean energy sources. Developed countries need to support developing countries' transition to sustainable human development.\n\nConsider the following statements :\nDeveloped countries can support developing countries' transition to sustainable human development by\n1. making clean energy sources available at low cost\n2. providing loans for improving their public transport at nominal interest rates\n3. encouraging them to change their production and consumption patterns\nWhich of the statements given above is/are correct?",
+   "options": [
+    "1 only",
+    "1 and 2 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (b) 1 and 2 only**\n\nThe question turns on one verb in the last line of the passage: developed countries need to **support** developing countries' transition — not *urge*, *advise*, or *encourage* it. Everything the passage says about developing countries locates their obstacle in **means**, never in willingness. Statement 3 offers willingness-help for a means-problem, and that is why it fails.\n\n**The passage's chain, in order.**\n1. Problem: production and consumption patterns are unsustainable; current production models \"rely heavily on fossil fuels.\"\n2. What has worked: \"Some developed countries have begun to alleviate the worst effects by expanding recycling and **investing in public transport and infrastructure**.\"\n3. Why developing countries cannot copy it: they \"are hampered by the **high costs and low availability of clean energy sources**.\"\n4. Prescription: \"Developed countries need to **support** developing countries' transition.\"\n\nSo \"support\" is defined by the sentence immediately before it. The barrier named is cost and availability. Anything that removes cost or supplies availability is support; anything that does not, is not.\n\n**Statement 1 — valid.**\n\"Making clean energy sources available at low cost\" is the barrier in step 3 read backwards, word for word. High cost → low cost; low availability → available. This is the least inferential statement in the set.\n\n**Statement 2 — valid, and this is the one the solver dropped.**\nStatement 2 combines two things the passage supplies and adds nothing outside them. Public transport is not a new idea imported by the statement — the passage names \"investing in public transport and infrastructure\" as one of exactly two measures that have actually alleviated the worst effects. And \"at **nominal interest rates**\" is not a new mechanism either; it is the same cost-relief that statement 1 applies to energy, applied to the other named measure. The passage says the developing countries' problem is that these things cost too much. Concessional finance for a measure the passage itself endorses is the textbook form of \"support ... transition.\"\n\nThe objection to 2 is understandable: the passage describes developed countries investing in public transport *at home*, and it never uses the word \"loan\". But the prescription in the last sentence is deliberately unspecified — it says support, without naming instruments. A statement that names an instrument is correct so long as the instrument (a) attacks the barrier the passage names and (b) funds a measure the passage names. Statement 2 does both. Demanding that the passage contain the literal word \"loan\" would make the final sentence unactionable and would invalidate statement 1 as well, since the passage never says \"making available\" either.\n\n**Statement 3 — invalid. Two independent reasons.**\n\n*First, \"encouraging\" is not \"supporting\".* The whole point of step 3 is that developing countries are **hampered** — held back by external cost, not held back by a wrong attitude. The passage never suggests they are unwilling, unaware, or in need of persuasion. Encouragement leaves the high costs and low availability exactly where they were. It is a solution to a problem the passage does not diagnose.\n\n*Second, the passage never blames developing countries' production and consumption patterns.* It says \"**current** production models rely heavily on fossil fuels\" — a general statement about the model the world runs on, and the model whose worst effects *developed* countries are described as beginning to alleviate. The passage assigns developed countries a supporting role, not a supervisory one. \"Encouraging them to change their production and consumption patterns\" reverses that: it turns the supporter into an instructor and shifts the burden back onto the party the passage has just identified as constrained.\n\n**Why (a) is wrong.** Choosing \"1 only\" applies a stricter test to statement 2 than to statement 1 — accepting an instrument-free restatement of the barrier while rejecting an instrument that targets the same barrier for the same named measure. Both statements draw only on words already in the passage: high cost, clean energy, public transport, support. Statement 3 is the only one that introduces a mechanism (persuasion) and a premise (that developing countries' patterns are the thing needing change) which the passage does not contain.\n\n**The one word to carry forward:** *hampered*. When a comprehension passage says a party is hampered by cost, \"give them money / cut their cost\" is support and \"tell them to do better\" is not.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    1
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": "Official key says b, worked solution said a (medium confidence)."
+  },
+  {
+   "q_no": 3,
+   "page": 5,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nUnless the forces and tendencies which are responsible for destroying the country's environment are checked in the near future and afforestation of denuded areas is taken up on a massive scale, the harshness of the climatic conditions and soil erosion by wind and water will increase to such an extent that agriculture, which is the mainstay of our people, will gradually become impossible. The desert countries of the world and our own desert areas in Rajasthan are a grim reminder of the consequences of large-scale deforestation. Pockets of desert-like landscape are now appearing in other parts of the country including the Sutlej-Ganga Plains and the Deccan Plateau. Where only a few decades back there used to be lush green forests with perennial streams and springs, there is only brown earth, bare of vegetation, without any water in the streams and springs except in the rainy season.\n\nAccording to the passage given above, deforestation and denudation will ultimately lead to which of the following?\n1. Depletion of soil resource\n2. Shortage of land for the common man\n3. Lack of water for cultivation\nSelect the correct answer using the code given below.",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Trace the chain the passage draws.**\n\n1. Soil — \"**soil erosion** by wind and water will increase\", leaving \"brown earth, bare of vegetation\". Depletion of soil resource. ✓\n2. Shortage of land for the common man — never mentioned. Land becomes *barren*, which is not the same as *scarce*. ✗\n3. Water — \"without any water in the streams and springs except in the rainy season\", and \"agriculture... will gradually become impossible\". Lack of water for cultivation. ✓\n\n1 and 3 only → **(c)**. (a), (b), (d) all carry statement 2, which is an inference about population/land pressure the passage never makes.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 4,
+   "page": 5,
+   "stem": "What is the value of X in the sequence 20, 10, 10, 15, 30, 75, X ?",
+   "options": [
+    "105",
+    "120",
+    "150",
+    "225"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**Look at the multipliers, not the differences.**\n\n20 → 10 → 10 → 15 → 30 → 75 → X\n\n- 20 × **0.5** = 10\n- 10 × **1.0** = 10\n- 10 × **1.5** = 15\n- 15 × **2.0** = 30\n- 30 × **2.5** = 75\n- 75 × **3.0** = **225**\n\nThe multiplier rises by 0.5 each step. X = **225 → (d)**.\n\nDifferences (−10, 0, +5, +15, +45) look messy and tempt you toward 105 or 150; the ratio pattern is the clean one.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 5,
+   "page": 5,
+   "stem": "An Identity Card has the number ABCDEFG, not necessarily in that order, where each letter represents a distinct digit (1, 2, 4, 5, 7, 8, 9 only). The number is divisible by 9. After deleting the first digit from the right, the resulting number is divisible by 6. After deleting two digits from the right of original number, the resulting number is divisible by 5. After deleting three digits from the right of original number, the resulting number is divisible by 4. After deleting four digits from the right of original number, the resulting number is divisible by 3. After deleting five digits from the right of original number, the resulting number is divisible by 2. Which of the following is a possible value for the sum of the middle three digits of the number?",
+   "options": [
+    "8",
+    "9",
+    "11",
+    "12"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Seven distinct digits from {1,2,4,5,7,8,9}, all used. Sum = 36, so **divisibility by 9 is automatic**.\n\nWork left to right:\n- **d5 = 5** (only 0 or 5 can end a multiple of 5; 0 isn't available).\n- First six divisible by 6 ⇒ their sum 36 − d7 must be a multiple of 3 ⇒ **d7 = 9** (the only multiple of 3 in the set).\n- Positions 2, 4, 6 must be even ⇒ they are 2, 4, 8 in some order; so **d1, d3 ∈ {1, 7}**.\n- First three divisible by 3: d1 + d3 = 8, so 8 + d2 ≡ 0 (mod 3) ⇒ **d2 = 4**.\n- First four divisible by 4 ⇒ last two digits \"d3 d4\" divisible by 4. With d3 ∈ {1,7}, d4 ∈ {2,8}: 12 ✓, 72 ✓, 18 ✗, 78 ✗ ⇒ **d4 = 2**, d6 = 8.\n\nNumbers: **1472589** and **7412589**.\nMiddle three digits (positions 3–5): 7+2+5 = 14, or **1+2+5 = 8**.\n\nOnly 8 is listed → **(a)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 6,
+   "page": 5,
+   "stem": "Two friends X and Y start running and they run together for 50 m in the same direction and reach a point. X turns right and runs 60 m, while Y turns left and runs 40 m. Then X turns left and runs 50 m and stops, while Y turns right and runs 50 m and then stops. How far are the two friends from each other now?",
+   "options": [
+    "100 m",
+    "90 m",
+    "60 m",
+    "50 m"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Put the shared start at the origin, both running north.\n\n- Together 50 m north → both at **(0, 50)**.\n- **X**: right = east, 60 m → (60, 50); then left = north, 50 m → **(60, 100)**.\n- **Y**: left = west, 40 m → (−40, 50); then right = north, 50 m → **(−40, 100)**.\n\nBoth end at the **same height y = 100**, so the final 50 m legs cancel and only the sideways legs matter.\n\nDistance = 60 + 40 = **100 m → (a)**.\n\nTrap: 60 − 40 = 20 or forgetting they both went north (which would need Pythagoras). They don't — the vertical gap is zero.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 7,
+   "page": 7,
+   "stem": "Which date of June 2099 among the following is Sunday?",
+   "options": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**Odd-days method.** Take complete years up to 2098, then days into 2099.\n\n- 2000 years → 0 odd days (400-year cycle).\n- 2001–2098 = 98 years, with leap years 2004…2096 = **24**. Odd days = 98 + 24 = 122; 122 ÷ 7 leaves **3**.\n- 2099 is **not** a leap year. Days to 1 June = 31 + 28 + 31 + 30 + 31 + 1 = **152**; 152 ÷ 7 leaves **5**.\n\nTotal = 3 + 5 = 8 → **1 odd day = Monday**. So **1 June 2099 is a Monday**.\n\nThen 2 Tue, 3 Wed, 4 Thu, 5 Fri, 6 Sat, **7 Sunday** → **(d)**.\n\nWatch the century rule: 2100 is not a leap year, but it lies outside the count anyway.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 8,
+   "page": 7,
+   "stem": "A bill for ₹1,840 is paid in the denominations of ₹50, ₹20 and ₹10 notes. 50 notes in all are used. Consider the following statements :\n1. 25 notes of ₹50 are used and the remaining are in the denominations of ₹20 and ₹10.\n2. 35 notes of ₹20 are used and the remaining are in the denominations of ₹50 and ₹10.\n3. 20 notes of ₹10 are used and the remaining are in the denominations of ₹50 and ₹20.\nWhich of the above statements are not correct?",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let a, b, c be the counts of ₹50, ₹20, ₹10 notes.\n\n50a + 20b + 10c = 1840 ⇒ **5a + 2b + c = 184**\na + b + c = 50\n\nSubtract: **4a + b = 134**, and c = 50 − a − b = **3a − 84**.\n\nTest each statement:\n1. a = 25 ⇒ b = 134 − 100 = 34 ⇒ c = 50 − 25 − 34 = **−9**. Impossible. ✗\n2. b = 35 ⇒ 4a = 99 ⇒ a = 24.75, **not a whole number**. ✗\n3. c = 20 ⇒ 3a − 84 = 20 ⇒ a = 34.67, **not a whole number**. ✗\n\nAll three are wrong → **(d)**.\n\n(Valid solutions need a between 28 and 33, e.g. 30 fifties, 14 twenties, 6 tens.)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 9,
+   "page": 7,
+   "stem": "Which number amongst 2^40, 3^21, 4^18 and 8^12 is the smallest?",
+   "options": [
+    "2^40",
+    "3^21",
+    "4^18",
+    "8^12"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Convert everything to base 2 first.**\n\n- 4^18 = (2²)^18 = **2³⁶**\n- 8^12 = (2³)^12 = **2³⁶**\n- 2^40 = **2⁴⁰**\n\nSo three of them are 2³⁶, 2³⁶, 2⁴⁰ — and two are equal, so neither (c) nor (d) can be uniquely smallest.\n\nNow 3^21 against 2³⁶. Take cube roots of a common comparison: 3^21 = (3³)^7 = **27^7**, and 2^36 ≈ compare via 3^21 = (3^3)^7 = 27^7 while 2^36 = (2^5)^7 × 2 = 32^7 × 2. Since **27^7 < 32^7**, 3^21 < 2^36.\n\nSmallest is **3^21 → (b)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Superscripts in the original are rendered here with the caret notation: 2^40 = 2 to the power 40, etc.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 10,
+   "page": 7,
+   "stem": "The digits 1 to 9 are arranged in three rows in such a way that each row contains three digits, and the number formed in the second row is twice the number formed in the first row; and the number formed in the third row is thrice the number formed in the first row. Repetition of digits is not allowed. If only three of the four digits 2, 3, 7 and 9 are allowed to use in the first row, how many such combinations are possible to be arranged in the three rows?",
+   "options": [
+    "4",
+    "3",
+    "2",
+    "1"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "First row N must satisfy: N, 2N, 3N together use 1–9 exactly once. N is 3-digit and 3N ≤ 987, so **123 ≤ N ≤ 329**. The complete list is only four:\n\n- 192 / 384 / 576\n- 219 / 438 / 657\n- **273 / 546 / 819**\n- **327 / 654 / 981**\n\nNow apply the condition: the first row must be made of three of the digits **{2, 3, 7, 9}**.\n\n- 192 → uses 1 ✗\n- 219 → uses 1 ✗\n- 273 → 2, 7, 3 ✓\n- 327 → 3, 2, 7 ✓\n\n**2 arrangements** → **(c)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 11,
+   "page": 9,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\n\"In simple matters like shoe-making, we think only a specially trained person will serve our purpose, but in politics, we presume that everyone who knows how to get votes knows how to administer a State. When we are ill, we call for a trained physician, whose degree is a guarantee of specific preparation and technical competence—we do not ask for the handsomest physician, or the most eloquent one : well then, when the whole State is ill should we not look for the service and guidance of the wisest and the best?\"\n\nWhich one of the following statements best reflects the message of the author of the passage?",
+   "options": [
+    "We assume that in a democracy, any politician is qualified to administer a State.",
+    "Politicians should be selected from those trained in administration.",
+    "We need to devise a method of barring incompetence from public office.",
+    "As voters select their administrators, the eligibility of politicians to administer a State cannot be questioned."
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "The passage runs one analogy twice: shoe-making needs *a specially trained person*; illness needs a doctor whose degree is **\"a guarantee of specific preparation and technical competence\"** — not the handsomest or most eloquent one. The sting is in the contrast: in politics \"we presume that everyone who knows how to get votes knows how to administer a State.\"\n\n**Deciding line:** *\"when the whole State is ill should we not look for the service and guidance of the wisest and the best?\"* — i.e. competence must be the test for public office, exactly as it is for every other trade.\n\n- **(a)** is the *problem* the author is attacking, not his message.\n- **(b)** is narrower than the text: he asks for \"the wisest and the best\", not for a pool of administration-trained candidates; the physician analogy is illustrative, not a recruitment rule.\n- **(d)** is the opposite of the passage — vote-getting is precisely what he says does *not* prove fitness to administer.\n\n**(c)** keeps competence as the criterion for office, which is the whole thrust of the passage.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 12,
+   "page": 9,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nThe poverty line is quite unsatisfactory when it comes to grasping the extent of poverty in India. It is not only because of its extremely narrow definition of 'who is poor' and the debatable methodology used to count the poor, but also because of a more fundamental assumption underlying it. It exclusively relies on the notion of poverty as insufficient income or insufficient purchasing power. One can better categorize it by calling it income poverty. If poverty is ultimately about deprivations affecting human well-being, then income poverty is only one aspect of it. Poverty of a life, in our view, lies not merely in the impoverished state in which the person actually lives, but also in the lack of real opportunity given by social constraints as well as personal circumstances—to choose other types of living. Even the relevance of low incomes, meagre possessions, and other aspects of what are standardly seen as economic poverty relate ultimately to their role in curtailing capabilities, i.e., their role in severely restricting the choices people have to lead variable and valued lives.\n\nWhy is the methodology adopted in India to count the 'poor' debatable?",
+   "options": [
+    "There is some confusion regarding what should constitute the 'poverty line'.",
+    "There are wide diversities in the condition of the rural and urban poor.",
+    "There is no uniform global standard for measuring income poverty.",
+    "It is based on the proposition of poverty as meagre income or buying capacity."
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Official answer: (d)**\n\n### What the passage actually says\n\nThe second sentence is a three-part list: the poverty line is unsatisfactory *\"not only because of its extremely narrow definition of 'who is poor' **and** the debatable methodology used to count the poor, **but also** because of a more fundamental assumption underlying it.\"* The very next sentence tells us what that underlying assumption is: *\"It **exclusively relies** on the notion of poverty as insufficient income or insufficient purchasing power.\"*\n\nRead the structure carefully. The passage *names* the narrow definition and the debatable methodology, but it never explains either on its own terms. The only explanatory content it offers is the assumption that **underlies** them — and \"underlying it\" is exactly the phrase that makes that assumption the root cause of the narrow definition and the debatable counting method alike. So the sole reason the passage supplies for *why* the counting is debatable is the income/purchasing-power assumption built into it.\n\nOption (d) — *\"It is based on the proposition of poverty as meagre income or buying capacity\"* — is a direct restatement of that sentence: \"meagre income\" = \"insufficient income\", \"buying capacity\" = \"purchasing power\". It is the only option that reproduces something the passage asserts.\n\n### Why (a) is the trap, and why it fails\n\n(a) says *\"There is **some confusion** regarding what should constitute the 'poverty line'.\"* The passage says the definition is **narrow**, not **confused**. That single-word swap is the whole question.\n\n- **Narrow** means the definition is settled and singular — too settled, in fact: it recognises one deprivation (income) and nothing else. That is precisely the author's complaint.\n- **Confusion** would mean the definition is *unsettled* — competing views, no agreement on where to draw the line. The passage nowhere reports any dispute, uncertainty, or rival definitions. Since the answer must be \"based on the passage only\", (a) is knowledge imported from outside the text (the real-world Tendulkar/Rangarajan line debates). True in the world, absent from the passage.\n\nThere is a second, structural reason (a) fails. Within the sentence's own list, \"narrow definition of 'who is poor'\" and \"debatable methodology used to count the poor\" are two **separate conjoined items**. The question asks specifically about the *methodology*. Option (a) reaches for the *first* item to answer a question about the *second* — while the passage answers the second only through the \"more fundamental assumption\".\n\n### The other two\n\n- **(b)** Rural versus urban poor: the passage never mentions rural or urban at all. Outside knowledge.\n- **(c)** No uniform global standard: the passage makes no international comparison and never raises a global benchmark. Outside knowledge.\n\n### The takeaway\n\nWhen a passage says *\"not only because of A and B, but also because of a more fundamental assumption **underlying it**\"*, the phrase \"underlying it\" is load-bearing — the fundamental assumption is being offered as what explains A and B, so it is the correct answer to \"why is B the case?\" And always check the option's adjective against the passage's adjective: a definition described as **narrow** has not been described as **confused**, **contested**, or **unclear**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    13,
+    14
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": "Official key says d, worked solution said a (medium confidence)."
+  },
+  {
+   "q_no": 13,
+   "page": 11,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nThe poverty line is quite unsatisfactory when it comes to grasping the extent of poverty in India. It is not only because of its extremely narrow definition of 'who is poor' and the debatable methodology used to count the poor, but also because of a more fundamental assumption underlying it. It exclusively relies on the notion of poverty as insufficient income or insufficient purchasing power. One can better categorize it by calling it income poverty. If poverty is ultimately about deprivations affecting human well-being, then income poverty is only one aspect of it. Poverty of a life, in our view, lies not merely in the impoverished state in which the person actually lives, but also in the lack of real opportunity given by social constraints as well as personal circumstances—to choose other types of living. Even the relevance of low incomes, meagre possessions, and other aspects of what are standardly seen as economic poverty relate ultimately to their role in curtailing capabilities, i.e., their role in severely restricting the choices people have to lead variable and valued lives.\n\nWhy is income poverty only one measure of counting the 'poor' ?",
+   "options": [
+    "It talks of only one kind of deprivation ignoring all others.",
+    "Other deprivations in a human life have nothing to do with lack of purchasing power.",
+    "Income poverty is not a permanent condition, it changes from time to time.",
+    "Income poverty restricts human choices only at a point of time."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding line:** *\"If poverty is ultimately about deprivations affecting human well-being, then income poverty is only one aspect of it.\"*\n\n**Key step: poverty = deprivations (plural); income shortage is one deprivation among many, so counting only income counts only one kind.** That is exactly (a).\n\n- **(b)** contradicts the passage — the last sentence says low incomes and meagre possessions *do* matter, through \"their role in curtailing capabilities\". They are linked, not unrelated.\n- **(c)** \"not a permanent condition, changes from time to time\" — nothing in the passage about change over time.\n- **(d)** \"only at a point of time\" — same fabricated time dimension; the passage's limitation is one of *scope*, not of duration.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    12,
+    14
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 14,
+   "page": 11,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nThe poverty line is quite unsatisfactory when it comes to grasping the extent of poverty in India. It is not only because of its extremely narrow definition of 'who is poor' and the debatable methodology used to count the poor, but also because of a more fundamental assumption underlying it. It exclusively relies on the notion of poverty as insufficient income or insufficient purchasing power. One can better categorize it by calling it income poverty. If poverty is ultimately about deprivations affecting human well-being, then income poverty is only one aspect of it. Poverty of a life, in our view, lies not merely in the impoverished state in which the person actually lives, but also in the lack of real opportunity given by social constraints as well as personal circumstances—to choose other types of living. Even the relevance of low incomes, meagre possessions, and other aspects of what are standardly seen as economic poverty relate ultimately to their role in curtailing capabilities, i.e., their role in severely restricting the choices people have to lead variable and valued lives.\n\nWhat does the author mean by 'poverty of a life'?",
+   "options": [
+    "All deprivations in a human life which stem not only from lack of income but lack of real opportunities",
+    "Impoverished state of poor people in rural and urban areas",
+    "Missed opportunities in diverse personal circumstances",
+    "Material as well as non-material deprivations in a human life which restrict human choices permanently"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding line:** *\"Poverty of a life... lies not merely in the impoverished state in which the person actually lives, but also in the lack of real opportunity... to choose other types of living.\"*\n\n**Key step: it is a \"not merely X but also Y\" definition — the actual material deprivation *plus* the missing real opportunities. Only an option carrying both halves can be right.**\n\n- **(b)** gives only the first half (the impoverished state) and adds a rural/urban split that isn't there.\n- **(c)** gives only the second half, and drops the social constraints.\n- **(d)** has both halves but adds **\"permanently\"** — the passage never says the restriction on choice is permanent. One unsupported word is enough to reject it in CSAT.\n\n**(a)** carries both halves with no additions: deprivations stemming from lack of income *and* from lack of real opportunities.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    12,
+    13
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 15,
+   "page": 11,
+   "stem": "X and Y run a 3 km race along a circular course of length 300 m. Their speeds are in the ratio 3 : 2. If they start together in the same direction, how many times would the first one pass the other (the start-off is not counted as passing)?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Track the **relative** distance, not the individual ones.\n\nSpeeds 3 : 2, so when X (faster) finishes the 3 km race, Y has covered\n\n- X: 3000 m\n- Y: 3000 × (2/3) = 2000 m\n\n**Key step: lead gained by X = 3000 − 2000 = 1000 m; one pass happens every full lap of lead, i.e. every 300 m.**\n\n1000 ÷ 300 = 3.33 → 3 complete laps of lead gained.\n\nSo X passes Y **3 times** (the 0.33 leftover is a partial lap, not a pass; the start is not counted). Answer: **3**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 16,
+   "page": 11,
+   "stem": "If the order of the letters in the English alphabet is reversed and each letter represents the letter whose position it occupies, then which one of the following represents 'LUCKNOW'?",
+   "options": [
+    "OGXPMLD",
+    "OGXQMLE",
+    "OFXPMLE",
+    "OFXPMLD"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Reversed alphabet means position *n* maps to position **27 − n** (A↔Z, B↔Y, C↔X...).\n\n| Letter | Pos | 27 − n | New |\n|---|---|---|---|\n| L | 12 | 15 | **O** |\n| U | 21 | 6 | **F** |\n| C | 3 | 24 | **X** |\n| K | 11 | 16 | **P** |\n| N | 14 | 13 | **M** |\n| O | 15 | 12 | **L** |\n| W | 23 | 4 | **D** |\n\n**Key step: U is the 21st letter → 27 − 21 = 6 → F, not G.** That single letter separates the options: LUCKNOW → **OFXPMLD**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 17,
+   "page": 13,
+   "stem": "In a tournament of Chess having 150 entrants, a player is eliminated whenever he loses a match. It is given that no match results in a tie/draw. How many matches are played in the entire tournament?",
+   "options": [
+    "151",
+    "150",
+    "149",
+    "148"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Don't build the bracket — count eliminations.\n\n**Key step: every match has exactly one loser (no draws), so every match removes exactly one player. To go from 150 players down to 1 champion, 149 players must be eliminated — hence 149 matches.**\n\nThis works for any number of entrants and any bracket shape (byes included): matches = entrants − 1 = 150 − 1 = **149**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 18,
+   "page": 13,
+   "stem": "How many 3-digit natural numbers (without repetition of digits) are there such that each digit is odd and the number is divisible by 5 ?",
+   "options": [
+    "8",
+    "12",
+    "16",
+    "24"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Odd digits available: **1, 3, 5, 7, 9**.\n\n**Key step: divisible by 5 ⇒ units digit is 0 or 5, but 0 is even, so the units digit is forced to 5.** That fixes one digit and removes 5 from the pool.\n\nRemaining pool for the first two places: {1, 3, 7, 9}, no repetition.\n\n- Hundreds place: 4 choices\n- Tens place: 3 choices\n\n4 × 3 = **12** numbers (e.g. 135, 195, 715, 935...).",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 19,
+   "page": 13,
+   "stem": "Consider the Question and two Statements given below :\n\nQuestion : Is x an integer?\n\nStatement–1 : x / 3 is not an integer.\n\nStatement–2 : 3x is an integer.\n\nWhich one of the following is correct in respect of the Question and the Statements?",
+   "options": [
+    "Statement–1 alone is sufficient to answer the Question",
+    "Statement–2 alone is sufficient to answer the Question",
+    "Both Statement–1 and Statement–2 are sufficient to answer the Question",
+    "Both Statement–1 and Statement–2 are not sufficient to answer the Question"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "Test each statement with one integer and one non-integer.\n\n**Statement 1** (x/3 not an integer): x = 1 → 1/3 not an integer, x *is* an integer. x = 0.5 → 0.5/3 not an integer, x is *not* an integer. Both allowed ⇒ insufficient.\n\n**Statement 2** (3x an integer): x = 1 → 3 is an integer, x *is* an integer. x = 1/3 → 3x = 1, x is *not* an integer. Insufficient.\n\n**Key step: the same pair x = 1 and x = 1/3 satisfies *both* statements at once — 1/3 ÷ 3 = 1/9 (not an integer ✓) and 3 × 1/3 = 1 (an integer ✓).** So even combined, x may or may not be an integer.\n\nAnswer: **both statements together are not sufficient**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 20,
+   "page": 13,
+   "stem": "The increase in the price of a certain item was 25%. Then the price was decreased by 20% and then again increased by 10%. What is the resultant increase in the price?",
+   "options": [
+    "5%",
+    "10%",
+    "12·5%",
+    "15%"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Take the price as 100 and apply the multipliers in order.\n\n100 × 1.25 = 125\n125 × 0.80 = 100\n100 × 1.10 = **110**\n\n**Key step: 1.25 × 0.80 = 1.00 exactly — the +25% and −20% cancel, leaving only the final +10%.**\n\nResultant increase = 110 − 100 = **10%**. (Note it is *not* 25 − 20 + 10 = 15%; percentage changes multiply, they don't add.)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 21,
+   "page": 15,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage\n\nIn some places in the world, the productivity of staples such as rice and wheat has reached a plateau. Neither new strains nor fancy agrochemicals are raising the yields. Nor is there much unfarmed land left that is suitable to be brought under the plough. If global temperature continues to rise, some places will become unsuitable for farming. Application of technology can help overcome these problems. Agricultural technology is changing fast. Much of this change is brought about by affluent farmers in the West/Americas. Techniques developed in the West are being adapted in some places to make tropical crops more productive. Technology is of little use if it is not adapted. In the developing world, that applies as much to existing farming techniques as it does to the latest advances in genetic modification. Extending to the smallholders and subsistence farmers of Africa and Asia the best of today's agricultural practices, in such simple matters as how much fertilizers to apply and when, would lead to a greatly increased availability of food for humanity. So would things like better roads and storage facilities, to allow for the carriage of surpluses to markets and reduce wastage.\n\n21. Based on the above passage, the following assumptions have been made :\n1. Development of agricultural technology is confined to developed countries.\n2. Agricultural technology is not adapted in developing countries.\n\nWhich of the above assumptions is/are valid?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Both assumptions overstate what the passage says.**\n\n- **Assumption 1 (confined to developed countries):** the passage says *\"Much of this change is brought about by affluent farmers in the West/Americas.\"* **\"Much\" is not \"all\"** — it leaves room for technology developed elsewhere. \"Confined to\" is an absolute the passage never supports.\n- **Assumption 2 (not adapted in developing countries):** directly contradicted — *\"Techniques developed in the West **are being adapted in some places** to make tropical crops more productive.\"* Adaptation is already happening; the passage's worry is that it must go further, not that it is absent.\n\nSo neither is valid → **(d)**.\n\n*Trap to avoid:* the passage's tone (\"technology is of little use if it is not adapted\") tempts you into 2. But a warning about incomplete adaptation is not a claim of zero adaptation.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    22,
+    23
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 22,
+   "page": 15,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage\n\nIn some places in the world, the productivity of staples such as rice and wheat has reached a plateau. Neither new strains nor fancy agrochemicals are raising the yields. Nor is there much unfarmed land left that is suitable to be brought under the plough. If global temperature continues to rise, some places will become unsuitable for farming. Application of technology can help overcome these problems. Agricultural technology is changing fast. Much of this change is brought about by affluent farmers in the West/Americas. Techniques developed in the West are being adapted in some places to make tropical crops more productive. Technology is of little use if it is not adapted. In the developing world, that applies as much to existing farming techniques as it does to the latest advances in genetic modification. Extending to the smallholders and subsistence farmers of Africa and Asia the best of today's agricultural practices, in such simple matters as how much fertilizers to apply and when, would lead to a greatly increased availability of food for humanity. So would things like better roads and storage facilities, to allow for the carriage of surpluses to markets and reduce wastage.\n\n22. Based on the above passage, the following assumptions have been made :\n1. Poor countries need to bring about change in their existing farming techniques.\n2. Developed countries have better infrastructure and they waste less food.\n\nWhich of the above assumptions is/are valid?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Only assumption 1 survives.**\n\n- **Assumption 1 (poor countries need to change existing farming techniques):** supported twice. *\"In the developing world, that applies as much to **existing farming techniques** as it does to the latest advances in genetic modification\"*, and extending best practices to *\"smallholders and subsistence farmers of Africa and Asia\"* in *\"such simple matters as how much fertilizers to apply and when\"* would raise food availability. **The change demanded is in existing practice, not just new tech.** Valid.\n- **Assumption 2 (developed countries have better infrastructure and waste less):** the passage recommends *\"better roads and storage facilities… to reduce wastage\"* for the developing world, but makes **no comparison at all** with developed countries' infrastructure or their wastage. A recommendation for one side is not a claim about the other. Invalid.\n\n→ **(a) 1 only**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    21,
+    23
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 23,
+   "page": 15,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage\n\nIn some places in the world, the productivity of staples such as rice and wheat has reached a plateau. Neither new strains nor fancy agrochemicals are raising the yields. Nor is there much unfarmed land left that is suitable to be brought under the plough. If global temperature continues to rise, some places will become unsuitable for farming. Application of technology can help overcome these problems. Agricultural technology is changing fast. Much of this change is brought about by affluent farmers in the West/Americas. Techniques developed in the West are being adapted in some places to make tropical crops more productive. Technology is of little use if it is not adapted. In the developing world, that applies as much to existing farming techniques as it does to the latest advances in genetic modification. Extending to the smallholders and subsistence farmers of Africa and Asia the best of today's agricultural practices, in such simple matters as how much fertilizers to apply and when, would lead to a greatly increased availability of food for humanity. So would things like better roads and storage facilities, to allow for the carriage of surpluses to markets and reduce wastage.\n\n23. Based on the above passage, the following assumptions have been made :\n1. Growing enough food for future generations will be a challenge.\n2. Corporate farming is a viable option for food security in poor countries.\n\nWhich of the above assumptions is/are valid?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Only assumption 1 survives.**\n\n- **Assumption 1 (feeding future generations will be a challenge):** the whole opening builds it — yields *\"reached a plateau\"*, *\"Nor is there much unfarmed land left\"*, and *\"If global temperature continues to rise, some places will become unsuitable for farming.\"* **Ceiling on yield + no new land + shrinking farmable area = a future food challenge.** Valid.\n- **Assumption 2 (corporate farming is viable for poor countries):** **\"corporate farming\" appears nowhere.** The passage's remedy runs the other way — helping *smallholders and subsistence farmers*, plus roads and storage. Invalid.\n\n→ **(a) 1 only**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    21,
+    22
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 24,
+   "page": 17,
+   "stem": "The letters A, B, C, D and E are arranged in such a way that there are exactly two letters between A and E. How many such arrangements are possible?",
+   "options": [
+    "12",
+    "18",
+    "24",
+    "36"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "\"Exactly two letters between A and E\" means their positions differ by **3**.\n\nIn 5 slots (1–5), position pairs with a gap of 3: **(1,4) and (2,5)** — only 2 pairs.\n\n- Choose the pair: **2** ways\n- A and E can swap within the pair: **× 2** = 4\n- B, C, D fill the remaining 3 slots: **× 3! = 6**\n\n**2 × 2 × 6 = 24**\n\n→ **(c) 24**\n\n*Check one:* A_ _E_ → A at 1, E at 4, B/C/D in slots 2,3,5 — exactly C and D style pair sits between them. Correct.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 25,
+   "page": 17,
+   "stem": "Consider the Question and two Statements given below :\n\nQuestion : Is Z brother of X?\n\nStatement–1 : X is a brother of Y and Y is a brother of Z.\n\nStatement–2 : X, Y and Z are siblings.\n\nWhich one of the following is correct in respect of the Question and the Statements?",
+   "options": [
+    "Statement–1 alone is sufficient to answer the Question",
+    "Statement–2 alone is sufficient to answer the Question",
+    "Both Statement–1 and Statement–2 are sufficient to answer the Question",
+    "Both Statement–1 and Statement–2 are not sufficient to answer the Question"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "The question asks whether **Z is a brother** of X — that needs **Z's gender**.\n\n- **Statement 1:** \"X is a brother of Y\" fixes **X** as male. \"Y is a brother of Z\" fixes **Y** as male. **Neither phrase tells us anything about Z's gender** — Z can be a sister. Not sufficient.\n- **Statement 2:** \"X, Y and Z are siblings\" gives only the relationship, no gender at all. Not sufficient.\n- **Together:** still nothing pins Z as male. Z could be X's sister.\n\n**The key trap:** in \"P is a brother of Q\", the word *brother* describes **P**, never Q.\n\n→ **(d) Both statements are not sufficient**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 26,
+   "page": 17,
+   "stem": "On one side of a 1·01 km long road, 101 plants are planted at equal distance from each other. What is the total distance between 5 consecutive plants?",
+   "options": [
+    "40 m",
+    "40·4 m",
+    "50 m",
+    "50·5 m"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Road = 1·01 km = **1010 m**, with **101 plants** on one side.\n\n**101 plants ⇒ 100 gaps** (not 101).\n\nGap = 1010 ÷ 100 = **10·1 m**\n\n5 consecutive plants enclose **4 gaps**:\n\n4 × 10·1 = **40·4 m**\n\n→ **(b) 40·4 m**\n\n*Both traps in one question:* 1010/101 = 10 gives the wrong gap, and 5 × 10·1 = 50·5 counts 5 gaps instead of 4.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 27,
+   "page": 17,
+   "stem": "A, B and C are three places such that there are three different roads from A to B, four different roads from B to C and three different roads from A to C. In how many different ways can one travel from A to C using these roads?",
+   "options": [
+    "10",
+    "13",
+    "15",
+    "36"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Two mutually exclusive routes from A to C — **add** them:\n\n- **Direct A → C:** 3 roads\n- **Via B (A → B → C):** 3 × 4 = **12** ways (multiply, since the choices are sequential)\n\n**3 + 12 = 15**\n\n→ **(c) 15**\n\n*Rule of thumb:* **\"and\" (A to B **and** B to C) multiplies; \"or\" (direct **or** via B) adds.**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 28,
+   "page": 17,
+   "stem": "A has some coins. He gives half of the coins and 2 more to B. B gives half of the coins and 2 more to C. C gives half of the coins and 2 more to D. The number of coins D has now, is the smallest two-digit number. How many coins does A have in the beginning?",
+   "options": [
+    "76",
+    "68",
+    "60",
+    "52"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "D ends with the smallest two-digit number = **10**. Work **backwards**, undoing \"half + 2\":\n\n- D got 10 from C ⇒ C's amount c satisfies c/2 + 2 = 10 ⇒ c/2 = 8 ⇒ **c = 16**\n- C had 16 from B ⇒ b/2 + 2 = 16 ⇒ b/2 = 14 ⇒ **b = 28**\n- B had 28 from A ⇒ a/2 + 2 = 28 ⇒ a/2 = 26 ⇒ **a = 52**\n\n**Forward check:** A = 52 → gives 26 + 2 = 28, keeps 24. B = 28 → gives 14 + 2 = 16, keeps 12. C = 16 → gives 8 + 2 = **10** to D. ✓\n\n→ **(d) 52**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 29,
+   "page": 17,
+   "stem": "In the series AABABCABCDABCDE..., which letter appears at the 100th place?",
+   "options": [
+    "G",
+    "H",
+    "I",
+    "J"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "The series is blocks of growing length: A | AB | ABC | ABCD | ABCDE | …, so the **n-th block has n letters** and the letters are just A, B, C… in order.\n\nCumulative length after n blocks = **n(n+1)/2**.\n\n- After 13 blocks: 13 × 14 / 2 = **91 letters**\n- After 14 blocks: 14 × 15 / 2 = 105 — so position 100 lies inside the **14th block**\n\nPosition within that block = 100 − 91 = **9th letter**\n\n9th letter = A, B, C, D, E, F, G, H, **I**\n\n→ **(c) I**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 30,
+   "page": 17,
+   "stem": "Three persons A, B and C are standing in a queue not necessarily in the same order. There are 4 persons between A and B, and 7 persons between B and C. If there are 11 persons ahead of C and 13 behind A, what could be the minimum number of persons in the queue?",
+   "options": [
+    "22",
+    "28",
+    "32",
+    "38"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Number positions from the front.\n\n- 11 ahead of C ⇒ **C = 12**\n- 13 behind A ⇒ **A = N − 13**, so N = A + 13 → **make A as small as possible**\n- 4 between A and B ⇒ |A − B| = **5**; 7 between B and C ⇒ |B − C| = **8**\n\nFrom C = 12: **B = 4 or 20**.\n\n| B | A = B ± 5 | N = A + 13 |\n|---|---|---|\n| 4 | **9** (−1 invalid) | **22** |\n| 20 | 15 | 28 |\n| 20 | 25 | 38 |\n\n**Smallest is N = 22.**\n\n**Verify (A = 9, B = 4, C = 12, N = 22):** between B(4) and A(9) → positions 5–8 = 4 persons ✓; between B(4) and C(12) → positions 5–11 = 7 persons ✓; ahead of C → positions 1–11 = 11 ✓; behind A(9) → positions 10–22 = 13 ✓\n\n→ **(a) 22**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 31,
+   "page": 19,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage–1\n\nNatural selection cannot anticipate future environments on the earth. Therefore, the set of existing organisms can never be fully prepared for environmental catastrophes that await life. An outcome of this is the extinction of those species which cannot overcome environmental adversity. This failure to survive, in modern terms, can be attributed to the genomes which are unable to withstand geological vagaries or biological mishaps (infections, diseases and so on). In biological evolution on the earth, extinction of species has been a major feature. The earth may presently have up to ten million species, yet more than 90% of species that have ever lived on the earth are now extinct. Once again, the creationist doctrines fail to satisfactorily address why a divine creator will firstly bother to create millions of species and then allow them to perish. The Darwinian explanation for extinct life is once again simple, elegant and at once convincing—organisms go extinct as a function of environmental or biological assaults for which their inheritance deems them ill-equipped. Therefore, the so-called Darwinian theory of evolution is not a theory at all. Evolution happens—this is a fact. The mechanism of evolution (Darwin proposed natural selection) is amply supported by scientific data. Indeed, to date no single zoological, botanical, geological, paleontological, genetic or physical evidence has refuted either of the central two main Darwinian ideas. If religion is not taken into consideration, Darwinian laws are acceptable just like the laws proposed by Copernicus, Galileo, Newton and Einstein—sets of natural laws that explain natural phenomena in the universe.\n\n31. According to the passage, natural selection cannot anticipate future environments on the earth as\n1. species not fully prepared to face the environmental changes that await them will face extinction\n2. all the existing species would get extinct as their genomes will not withstand biological mishaps\n3. inability of the genome to withstand environmental changes would result in extinction\n4. extinction of species is a common feature\n\nSelect the correct answer using the code given below.",
+   "options": [
+    "1, 2 and 3",
+    "2, 3 and 4",
+    "1, 3 and 4",
+    "1, 2 and 4"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Test each statement against the text.\n\n- **(1) ✓** — \"An outcome of this is the **extinction of those species which cannot overcome environmental adversity**.\"\n- (2) ✗ — the passage never says *all* existing species will go extinct; it says >90% of species that **have ever lived** are extinct. \"All\" is the trap word.\n- **(3) ✓** — \"This failure to survive... can be attributed to the **genomes which are unable to withstand geological vagaries or biological mishaps**.\"\n- **(4) ✓** — \"extinction of species has been a **major feature**\" of evolution.\n\nSo 1, 3 and 4 → **option (c)**. Every option containing 2 dies on the word *all*.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Passage–1 begins on page 19 left column and continues into the top of the right column of page 19.",
+   "shares_passage_with": [
+    32,
+    33
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 32,
+   "page": 19,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage–1\n\nNatural selection cannot anticipate future environments on the earth. Therefore, the set of existing organisms can never be fully prepared for environmental catastrophes that await life. An outcome of this is the extinction of those species which cannot overcome environmental adversity. This failure to survive, in modern terms, can be attributed to the genomes which are unable to withstand geological vagaries or biological mishaps (infections, diseases and so on). In biological evolution on the earth, extinction of species has been a major feature. The earth may presently have up to ten million species, yet more than 90% of species that have ever lived on the earth are now extinct. Once again, the creationist doctrines fail to satisfactorily address why a divine creator will firstly bother to create millions of species and then allow them to perish. The Darwinian explanation for extinct life is once again simple, elegant and at once convincing—organisms go extinct as a function of environmental or biological assaults for which their inheritance deems them ill-equipped. Therefore, the so-called Darwinian theory of evolution is not a theory at all. Evolution happens—this is a fact. The mechanism of evolution (Darwin proposed natural selection) is amply supported by scientific data. Indeed, to date no single zoological, botanical, geological, paleontological, genetic or physical evidence has refuted either of the central two main Darwinian ideas. If religion is not taken into consideration, Darwinian laws are acceptable just like the laws proposed by Copernicus, Galileo, Newton and Einstein—sets of natural laws that explain natural phenomena in the universe.\n\n32. The passage suggests that Darwinian theory of evolution is not a theory at all because",
+   "options": [
+    "it does not satisfy the creationist doctrine",
+    "extinction is a function of environment and biological assaults",
+    "there are no evidences to refute it",
+    "existence of organisms is attributed to a creator"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (b) — extinction is a function of environment and biological assaults**\n\n### Find the word \"therefore\" is attached to\n\nThe question asks *because* — so it is asking for the premise the passage's own conclusion is drawn from. Read the two sentences as they sit:\n\n> \"...organisms go extinct as a **function of environmental or biological assaults** for which their inheritance deems them ill-equipped. **Therefore**, the so-called Darwinian theory of evolution is not a theory at all.\"\n\n\"Therefore\" is a conclusion marker. Whatever it draws on must sit **before** it, and what sits before it is option (b), almost word for word (\"as a function of environmental or biological assaults\"). The passage has just shown Darwin's account doing real explanatory work on a real, observed phenomenon — 90%+ of all species that ever lived are gone — and it concludes from that success that this is not conjecture but description of fact.\n\n### The passage states its own test for \"law\"\n\nThe last line gives the criterion explicitly:\n\n> \"...just like the laws proposed by Copernicus, Galileo, Newton and Einstein — **sets of natural laws that explain natural phenomena** in the universe.\"\n\nThe qualification for law-hood is *explaining a natural phenomenon*. Extinction is the natural phenomenon; \"a function of environmental or biological assaults\" is the explanation. Option (b) is that explanation. It is the only option that satisfies the standard the passage itself sets.\n\n### Why (c) is the trap\n\nOption (c) — \"there are no evidences to refute it\" — is tempting because the non-refutation sentence is nearby and sounds decisive. Three precise things kill it:\n\n1. **Position.** That sentence comes *after* the conclusion, and it opens with \"**Indeed**\" — a word that adds corroboration to a point already made. It is not what \"Therefore\" reaches back to. The reason precedes; the reinforcement follows.\n2. **The quantifier and the time-stamp.** The passage says \"**to date** no single ... evidence **has refuted**\" — a report on the record so far. Option (c) flattens this into \"there **are no** evidences to refute it,\" a permanent, absolute claim the passage never makes.\n3. **What was not refuted.** The unrefuted thing is \"**either of the central two main Darwinian ideas**\" — a compound term naming two specific propositions (that evolution happens, and that natural selection is its mechanism). Option (c) swaps that for a bare \"it,\" the whole theory. Different object.\n\nThere is also a logical point the passage is careful about: absence of refutation would never upgrade a theory into a fact — that is an argument from ignorance, and it would leave Darwin's account a *very well-tested theory*, which is exactly what the passage denies. The passage grounds fact-status positively: the explanation works, and it is \"amply supported by scientific data.\"\n\n### The other two\n\n- **(a) it does not satisfy the creationist doctrine** — inverted. The passage says creationism fails to explain extinction; failing to satisfy creationism is not offered as a reason for anything.\n- **(d) existence of organisms is attributed to a creator** — the passage argues against this. It cannot be the reason for a conclusion the passage draws.\n\n### Takeaway\n\nWhen a comprehension question asks \"because,\" locate the connective — *therefore, hence, thus, so* — and take the clause immediately upstream of it. Sentences introduced by *indeed, in fact, moreover* are support added after the fact, not the ground the conclusion stands on.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    31,
+    33
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": "Official key says b, worked solution said c (medium confidence)."
+  },
+  {
+   "q_no": 33,
+   "page": 21,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage–1\n\nNatural selection cannot anticipate future environments on the earth. Therefore, the set of existing organisms can never be fully prepared for environmental catastrophes that await life. An outcome of this is the extinction of those species which cannot overcome environmental adversity. This failure to survive, in modern terms, can be attributed to the genomes which are unable to withstand geological vagaries or biological mishaps (infections, diseases and so on). In biological evolution on the earth, extinction of species has been a major feature. The earth may presently have up to ten million species, yet more than 90% of species that have ever lived on the earth are now extinct. Once again, the creationist doctrines fail to satisfactorily address why a divine creator will firstly bother to create millions of species and then allow them to perish. The Darwinian explanation for extinct life is once again simple, elegant and at once convincing—organisms go extinct as a function of environmental or biological assaults for which their inheritance deems them ill-equipped. Therefore, the so-called Darwinian theory of evolution is not a theory at all. Evolution happens—this is a fact. The mechanism of evolution (Darwin proposed natural selection) is amply supported by scientific data. Indeed, to date no single zoological, botanical, geological, paleontological, genetic or physical evidence has refuted either of the central two main Darwinian ideas. If religion is not taken into consideration, Darwinian laws are acceptable just like the laws proposed by Copernicus, Galileo, Newton and Einstein—sets of natural laws that explain natural phenomena in the universe.\n\n33. With reference to the passage, the following assumptions have been made :\n1. Only species that have the ability to overcome environmental catastrophes will survive and perpetuate.\n2. More than 90% of the species on the earth are in the danger of getting extinct due to drastic changes in the environment.\n3. Darwin's theory explains all the natural phenomena.\n\nWhich of the above assumptions is/are valid?",
+   "options": [
+    "1 only",
+    "1 and 2 only",
+    "3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "- **(1) valid** — follows directly from \"extinction of those species which **cannot** overcome environmental adversity\": survival is conditional on coping.\n- (2) invalid — the passage says >90% of species that **have ever lived are now extinct** (past), not that 90% of *present* species are in danger (future). **Tense swap = wrong.**\n- (3) invalid — Darwinian laws are called one set among \"laws that explain natural phenomena\"; nowhere does it claim they explain **all** natural phenomena.\n\nOnly 1 → **(a)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Item 33 is printed on page 21; the Passage–1 it refers to is printed on page 19 and has been reproduced here in full.",
+   "shares_passage_with": [
+    31,
+    32
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 34,
+   "page": 21,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage–2\n\nWith steady economic growth, higher literacy and increasing skill levels, the number of Indian middle-class families has gone up exponentially. Direct results of the affluence have been changes in dietary patterns and energy consumption levels. People have moved to a higher protein-based diet like milk products, fish and meat, all of which need significantly more water to produce than cereal-based diets. Increasing use of electronic and electric machines/gadgets and motor vehicles needs more and more energy and generation of energy needs water.\n\n34. Which one of the following statements best reflects the crux of the passage?",
+   "options": [
+    "People should be persuaded to continue with the mainly Indian traditional cereal-based diets.",
+    "India needs to focus on developing agricultural productivity and capacity for more energy generation in the coming years.",
+    "Modern technological developments result in the change of cultural and social behaviour of the people.",
+    "Water management practices in India need to change dramatically in the coming years."
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Trace the chain: affluence → protein diet (**\"need significantly more water to produce\"**) and more gadgets/vehicles → more energy → **\"generation of energy needs water.\"** Both arms of the passage end at the same place: **rising water demand**. So the crux is that India's water management must change → **(d)**.\n\n- (a) — a prescription about diet the passage never makes.\n- (b) — agriculture/energy capacity is not the point; water is the bottleneck named.\n- (c) — a generic sociology statement; ignores the water thread entirely.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Item 34 belongs to the same set of 4 items (31-34) based on two passages; it draws on Passage–2, which is printed on page 21 below item 33 and is reproduced in full in this stem. No other item in this batch uses Passage–2.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 35,
+   "page": 21,
+   "stem": "How many seconds in total are there in x weeks, x days, x hours, x minutes and x seconds?",
+   "options": [
+    "11580x",
+    "11581x",
+    "694860x",
+    "694861x"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Convert each unit to seconds and add the coefficients:\n\n- x weeks = x × 7 × 24 × 3600 = **604800x**\n- x days = x × 86400 = **86400x**\n- x hours = x × 3600 = **3600x**\n- x minutes = **60x**\n- x seconds = **x**\n\nSum: 604800 + 86400 = 691200; +3600 = 694800; +60 = 694860; **+1 = 694861**.\n\nTotal = **694861x** → **(d)**. (Option c is the trap: it forgets the lone x seconds.)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 36,
+   "page": 21,
+   "stem": "P, Q, R, S, T and U are six members of a family. R is the spouse of Q. U is the mother of T and S is the daughter of U. P's daughter is T and R's son is P. There are two couples in the family. Which one of the following is correct?",
+   "options": [
+    "Q is the grandfather of T",
+    "Q is the grandmother of T",
+    "R is the mother of P",
+    "T is the granddaughter of Q"
+   ],
+   "answer": null,
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Build the tree:\n\n- R is Q's spouse → **couple 1 = R–Q**.\n- R's son is P → P is child of R and Q.\n- P's daughter is T; U is T's mother → **U is P's spouse = couple 2**.\n- S is U's daughter → S is P's other daughter.\n\nSo: **Q (with R) → P (with U) → T and S**. T is one generation below P, two below Q, and is female (\"P's daughter\").\n\n**T is Q's granddaughter → (d).** (a) and (b) both need Q's gender, which is never fixed — R could be father or mother, so (c) is undetermined too.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": true,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 37,
+   "page": 23,
+   "stem": "Consider the Question and two Statements given below in respect of three cities P, Q and R in a State :\n\nQuestion : How far is city P from city Q?\n\nStatement–1 : City Q is 18 km from city R.\n\nStatement–2 : City P is 43 km from city R.\n\nWhich one of the following is correct in respect of the Question and the Statements?",
+   "options": [
+    "Statement–1 alone is sufficient to answer the Question",
+    "Statement–2 alone is sufficient to answer the Question",
+    "Both Statement–1 and Statement–2 are sufficient to answer the Question",
+    "Both Statement–1 and Statement–2 are not sufficient to answer the Question"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "Each statement alone gives only one leg of a triangle — useless by itself.\n\nTogether: QR = 18, PR = 43, but **the three cities need not be collinear**. By the triangle inequality PQ can be anything in\n\n- minimum 43 − 18 = **25 km** (P, Q, R in a line, Q between)\n- maximum 43 + 18 = **61 km** (R between P and Q)\n\nA range, not a value. Even the collinear case gives two answers (25 or 61). So both statements together are **not sufficient** → **(d)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 38,
+   "page": 23,
+   "stem": "Two Statements followed by four Conclusions are given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts. Read all the Conclusions and then decide which of the given Conclusions logically follows/follow from the Statements, disregarding the commonly known facts :\n\nStatement–1 : All pens are books.\nStatement–2 : No chair is a pen.\nConclusion–I : All chairs are books.\nConclusion–II : Some chairs are pens.\nConclusion–III : All books are chairs.\nConclusion–IV : No chair is a book.\n\nWhich one of the following is correct?",
+   "options": [
+    "Only Conclusion–I",
+    "Only Conclusion–II",
+    "Both Conclusion–III and Conclusion–IV",
+    "None of the Conclusions follows"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "conclusion_count",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "All pens ⊂ books; chairs and pens are disjoint. Draw books as a big circle with pens inside; chairs must avoid pens but may sit **partly inside books** or fully outside.\n\n- I. All chairs are books — **not forced**; chairs can lie wholly outside books.\n- II. Some chairs are pens — **contradicts** \"No chair is a pen.\"\n- III. All books are chairs — pens are books and no pen is a chair, so this is impossible.\n- IV. No chair is a book — **not forced**; a chair can be a book that isn't a pen.\n\nI and IV are complementary possibilities, so **neither follows**; nothing follows → **(d)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 39,
+   "page": 23,
+   "stem": "Three Statements followed by three Conclusions are given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts. Read all the Conclusions and then decide which of the given Conclusions logically follows/follow from the Statements, disregarding the commonly known facts :\n\nStatement–1 : Some doctors are teachers.\nStatement–2 : All teachers are engineers.\nStatement–3 : All engineers are scientists.\nConclusion–I : Some scientists are doctors.\nConclusion–II : All engineers are doctors.\nConclusion–III : Some engineers are doctors.\n\nWhich one of the following is correct?",
+   "options": [
+    "Only Conclusion–I",
+    "Only Conclusion–II",
+    "Both Conclusion–I and Conclusion–III",
+    "Both Conclusion–I and Conclusion–II"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "conclusion_count",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Chain the universals onto the particular:\n\nSome doctors are teachers → **those individuals are teachers**, and all teachers are engineers → **some engineers are doctors** ⇒ **Conclusion III follows**.\n\nAll engineers are scientists → those same individuals are scientists ⇒ **some scientists are doctors** ⇒ **Conclusion I follows**.\n\nConclusion II (\"All engineers are doctors\") fails: nothing forces engineers outside that overlap to be doctors — a universal can never come out of a particular premise.\n\nI and III → **(c)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 40,
+   "page": 23,
+   "stem": "Eight students A, B, C, D, E, F, G and H sit around a circular table, equidistant from each other, facing the centre of the table, not necessarily in the same order. B and D sit neither adjacent to C nor opposite to C. A sits in between E and D, and F sits in between B and H. Which one of the following is definitely correct?",
+   "options": [
+    "B sits in between A and G",
+    "C sits opposite to G",
+    "E sits opposite to F",
+    "None of the above"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Fix **C at seat 1** (seats 1–8 clockwise). B and D are barred from seats 2, 8 (adjacent) and 5 (opposite). Blocks: **E-A-D** and **B-F-H** (A and F are in the middle), plus loose C and G.\n\nPlacing the two 3-blocks and G in seats 2–8 gives exactly **three distinct seatings** (each plus its mirror):\n\n1. C-E-A-D-H-F-B-G → opposites C–H, E–F, A–B, D–G\n2. C-E-A-D-G-B-F-H → opposites C–G, E–B, A–F, D–H\n3. C-H-F-B-E-A-D-G → opposites C–E, H–A, F–D, B–G\n\nNow test: (a) B between A and G — in case 1 B's neighbours are F and G; fails. (b) C opposite G — true only in case 2. (c) E opposite F — true only in case 1.\n\n**No option holds in every arrangement → (d).**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 41,
+   "page": 25,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage–1\n\nFor two or three generations past, ever-increasing numbers of individuals have been living as workers merely, not as human beings. An excessive amount of labour is rule today in every circle of society, with the result that man's spiritual element cannot thrive. He finds it very difficult to spend his little leisure in serious activities. He does not want to think; or he cannot even if he wants to. He seeks not self-improvement, but entertainment which would enable him to be mentally idle and to forget his usual activities. Therefore, the so-called culture of our age is dependant more on cinema than on theatre, more on newspapers, magazines and crime stories than on serious literature.\n\n41. The passage is based on the idea that",
+   "options": [
+    "man should not work hard",
+    "the great evil of our age is overstrain",
+    "man cannot think well",
+    "man cannot care for his spiritual welfare"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "The passage is a chain of effects, and the **first link is overwork**: \"An excessive amount of labour is rule today in every circle of society, **with the result that** man's spiritual element cannot thrive.\" Everything after — no serious leisure, no thinking, cinema over theatre — is presented as a *consequence* of that overstrain. So the idea the passage rests on is (b).\n\n- (a) The passage never prescribes anything; it diagnoses, it doesn't say man *should* not work hard.\n- (c) \"Cannot think well\" is one symptom, not the base idea.\n- (d) Same trap: the spiritual decay is stated as the *result* (\"with the result that\"), so it is the effect, not the underlying idea.\n\n**Rule of thumb:** when one option is the stated cause and another is the stated result, \"the passage is based on\" wants the cause.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    42
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 42,
+   "page": 25,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage–1\n\nFor two or three generations past, ever-increasing numbers of individuals have been living as workers merely, not as human beings. An excessive amount of labour is rule today in every circle of society, with the result that man's spiritual element cannot thrive. He finds it very difficult to spend his little leisure in serious activities. He does not want to think; or he cannot even if he wants to. He seeks not self-improvement, but entertainment which would enable him to be mentally idle and to forget his usual activities. Therefore, the so-called culture of our age is dependant more on cinema than on theatre, more on newspapers, magazines and crime stories than on serious literature.\n\n42. Man does not seek self-improvement because he",
+   "options": [
+    "is not intellectually capable",
+    "has no time to do so",
+    "is distracted by materialism",
+    "loves amusement and is mentally idle"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Direct lift: \"He seeks **not self-improvement, but entertainment which would enable him to be mentally idle** and to forget his usual activities.\" That is exactly (d) — he loves amusement and is mentally idle.\n\n- (a) Wrong: the passage says \"He does not want to think; **or** he cannot even if he wants to\" — inability is only an alternative, not the reason for choosing amusement, and it is fatigue, not lack of intellect.\n- (b) He *has* leisure — \"his little leisure\" — he just spends it badly. Time is not the stated reason.\n- (c) \"Materialism\" never appears in the passage.\n\n**Key step:** pick the clause that answers *why he seeks entertainment*, not the one that describes his workload.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    41
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 43,
+   "page": 25,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage–2\n\nThe demographic dividend, which has begun in India and is expected to last another few decades, is a great window of opportunity. The demographic dividend is basically a swelling in the working age population, which conversely means that the relative ratio of very young and very old will, for a while, be on the decline. From the experience of Ireland and China, we know that this can be a source of energy and an engine of economic growth. The demographic dividend tends to raise a nation's savings rate since in any nation, it is the working age population that is the main saver. And since the savings rate is an important driver of growth, this should help elevate our growth rate. However, the benefits of demographic dividend depend on the quality of the working age population. And this implies bringing back the importance of education, acquisition of skills and human capital.\n\n43. Which of the following would invariably happen in a country, when the demographic dividend has begun to operate?\n1. The number of illiterate people will decrease.\n2. The ratio of very old and very young will decrease for a while.\n3. Population growth rate will quickly stabilize.\n\nSelect the correct answer using the code given below.",
+   "options": [
+    "1 and 2 only",
+    "2 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Test each against the text, and note the word **\"invariably\"** — only what the passage guarantees counts.\n\n1. Illiterates decrease — **No.** The passage says benefits *depend on* quality of the workforce and that education must be brought back; that is a requirement, not an automatic outcome. Nothing says literacy rises on its own.\n2. Ratio of very old and very young declines for a while — **Yes.** \"a swelling in the working age population, which conversely means that the relative ratio of very young and very old will, **for a while**, be on the decline.\" This is definitional.\n3. Population growth rate quickly stabilizes — **No.** Never mentioned; \"quickly\" is invented.\n\nOnly 2 → **(b)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "This is one of a set of 4 items (41-44) based on two passages; item 44, which may also draw on Passage–2, falls on page 27 and is outside this batch.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 44,
+   "page": 27,
+   "stem": "With reference to the passage, which of the following inferences can be drawn?\n\n1. Demographic dividend is an essential condition for a country to rapidly increase its economic growth rate.\n2. Promotion of higher education is an essential condition for a country for its rapid economic growth.\n\nSelect the correct answer using the code given below.",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Both statements swap the passage's **\"opportunity\" for \"essential condition\"** — that is the trap.\n\n1. The passage calls the dividend \"a great window of **opportunity**\" and something that \"**should help** elevate our growth rate.\" An opportunity that helps is not a *necessary* condition; countries can grow without it. Not inferable.\n2. The passage says quality matters and \"this implies bringing back the importance of **education, acquisition of skills and human capital**.\" That is education/skills broadly, not **higher** education, and it is framed as what makes the *dividend* pay off — not as an essential condition for rapid growth in general. Not inferable.\n\nNeither → **(d)**.\n\n**Key step:** in inference items, \"essential/only/must\" is almost always stronger than the passage's \"helps/opportunity/implies\".",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The question refers to a comprehension passage ('With reference to the passage') that appears on an earlier page not included in this batch (pages before p-27). The passage text could not be reproduced here. The stem is therefore NOT self-contained and must be completed with the passage from the preceding page.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 45,
+   "page": 27,
+   "stem": "Five friends P, Q, X, Y and Z purchased some notebooks. The relevant information is given below :\n\n1. Z purchased 8 notebooks more than X did.\n2. P and Q together purchased 21 notebooks.\n3. Q purchased 5 notebooks less than P did.\n4. X and Y together purchased 28 notebooks.\n5. P purchased 5 notebooks more than X did.\n\nIf each notebook is priced ₹ 40, then what is the total cost of all the notebooks?",
+   "options": [
+    "₹ 2,600",
+    "₹ 2,400",
+    "₹ 2,360",
+    "₹ 2,320"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Start where two equations close on their own — P and Q.\n\n- P + Q = 21 and Q = P − 5 → P + (P − 5) = 21 → **2P = 26 → P = 13**, so Q = 8.\n- P = X + 5 → X = 13 − 5 = **8**.\n- X + Y = 28 → Y = 28 − 8 = **20**.\n- Z = X + 8 = 8 + 8 = **16**.\n\nTotal notebooks = 13 + 8 + 8 + 20 + 16 = **65**.\n\nCost = 65 × 40 = **₹ 2,600** → (a).\n\n*Check:* P−Q = 5 ✓, X+Y = 28 ✓, Z−X = 8 ✓.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 46,
+   "page": 27,
+   "stem": "A man started from home at 14:30 hours and drove to village, arriving there when the village clock indicated 15:15 hours. After staying for 25 minutes, he drove back by a different route of length 1·25 times the first route at a rate twice as fast reaching home at 16:00 hours. As compared to the clock at home, the village clock is",
+   "options": [
+    "10 minutes slow",
+    "5 minutes slow",
+    "10 minutes fast",
+    "5 minutes fast"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Home clock is the only reliable clock: **14:30 → 16:00 = 90 min total**, of which 25 min is the halt, so **driving time = 65 min**.\n\nReturn leg: distance 1.25d at speed 2v →\nt₂ = 1.25d / 2v = **0.625 t₁**.\n\nSo t₁ + 0.625 t₁ = 65 → **1.625 t₁ = 65 → t₁ = 40 min**, t₂ = 25 min.\n\nHe therefore reached the village at 14:30 + 40 = **15:10 by home time**, but the village clock showed **15:15**.\n\nVillage clock is **5 minutes fast** → (d).\n\n*Check:* leaves village 15:10 + 25 = 15:35, drives 25 min, home at 16:00 ✓.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 47,
+   "page": 27,
+   "stem": "A person X wants to distribute some pens among six children A, B, C, D, E and F. Suppose A gets twice the number of pens received by B, three times that of C, four times that of D, five times that of E and six times that of F. What is the minimum number of pens X should buy so that the number of pens each one gets is an even number?",
+   "options": [
+    "147",
+    "150",
+    "294",
+    "300"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let A = N. Then B = N/2, C = N/3, D = N/4, E = N/5, F = N/6.\n\nEvery share must be an **even integer**, so write each as 2k:\n- N/2 even → N divisible by 4\n- N/3 even → N divisible by 6\n- N/4 even → N divisible by **8**\n- N/5 even → N divisible by **10**\n- N/6 even → N divisible by **12**\n\n**N = LCM(4, 6, 8, 10, 12) = 120** (and 120 itself is even ✓).\n\nShares: A = 120, B = 60, C = 40, D = 30, E = 24, F = 20 — all even.\n\nTotal = 120 + 60 + 40 + 30 + 24 + 20 = **294** → (c).\n\n*Trap:* LCM(1…6) = 60 gives E = 12, D = 15 — **15 is odd**, so 60 fails; you must double it.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 48,
+   "page": 29,
+   "stem": "Six persons A, B, C, D, E and F are sitting equidistant from each other around a circular table (facing the centre of the table).\n\nConsider the Question and two Statements given below :\n\nQuestion : Who is sitting on the immediate left of A?\n\nStatement–1 : B is sitting opposite to C and D is sitting opposite to E.\n\nStatement–2 : F is sitting on the immediate left of B.\n\nWhich one of the following is correct in respect of the Question and the Statements?",
+   "options": [
+    "Statement–1 alone is sufficient to answer the Question",
+    "Statement–2 alone is sufficient to answer the Question",
+    "Both Statement–1 and Statement–2 are sufficient to answer the Question",
+    "Both Statement–1 and Statement–2 are not sufficient to answer the Question"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "Six seats, three opposite pairs.\n\n**St-1 alone:** B–C opposite and D–E opposite forces A–F opposite (the leftover pair). But nothing fixes who sits beside A. Insufficient.\n\n**St-2 alone:** F immediately left of B says nothing about A's neighbours. Insufficient.\n\n**Together:** put A at seat 1, so F at seat 4. F must be adjacent to B, which fixes B (seat 3, say), so C sits opposite at seat 6. That leaves **D and E for seats 2 and 5, and they are opposite each other either way** — both arrangements are legal.\n\nA's neighbour seat is therefore **D or E — undecidable**.\n\nBoth statements together are still insufficient → **(d)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 49,
+   "page": 29,
+   "stem": "Consider the Question and two Statements given below :\n\nQuestion : What is the age of Manisha?\n\nStatement–1 : Manisha is 24 years younger than her mother.\n\nStatement–2 : 5 years later, the ages of Manisha and her mother will be in the ratio 3 : 5.\n\nWhich one of the following is correct in respect of the Question and the Statements?",
+   "options": [
+    "Statement–1 alone is sufficient to answer the Question",
+    "Statement–2 alone is sufficient to answer the Question",
+    "Both Statement–1 and Statement–2 are sufficient to answer the Question",
+    "Both Statement–1 and Statement–2 are not sufficient to answer the Question"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "**St-1 alone:** M = Mother − 24. One equation, two unknowns. Insufficient.\n\n**St-2 alone:** (M+5)/(Mo+5) = 3/5. Again one equation, two unknowns. Insufficient.\n\n**Together:** Mo = M + 24, so\n(M + 5)/(M + 29) = 3/5\n→ 5M + 25 = 3M + 87\n→ **2M = 62 → M = 31**.\n\nMother = 55. Check in 5 years: 36 : 60 = 3 : 5 ✓.\n\nA unique age comes out, so both statements together are sufficient → **(c)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 50,
+   "page": 29,
+   "stem": "Six lectures A, B, C, D, E and F, each of one hour duration, are scheduled between 8:00 a.m. and 2:00 p.m.\n\nConsider the Question and two Statements given below :\n\nQuestion : Which lecture is in the third period?\n\nStatement–1 : Lecture F is preceded by A and followed by C.\n\nStatement–2 : There is no lecture after lecture B.\n\nWhich one of the following is correct in respect of the Question and the Statements?",
+   "options": [
+    "Statement–1 alone is sufficient to answer the Question",
+    "Statement–2 alone is sufficient to answer the Question",
+    "Both Statement–1 and Statement–2 are sufficient to answer the Question",
+    "Both Statement–1 and Statement–2 are not sufficient to answer the Question"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "8:00 a.m. to 2:00 p.m. = 6 hours for 6 one-hour lectures, so the **six periods are back-to-back with no free slot**.\n\n**St-1 alone:** the block A → F → C can sit at periods 1-3, 2-4, 3-5 or 4-6, making the third period C, F, A or one of D/E/B. Insufficient.\n\n**St-2 alone:** \"no lecture after B\" fixes only B in period 6. Insufficient.\n\n**Together:** B is period 6, so the A-F-C block occupies 1-3, 2-4 or 3-5 → the third period is **C, F or A** respectively. Still three possibilities.\n\nBoth statements together are insufficient → **(d)**.\n\n*(Reading \"preceded/followed\" as non-adjacent only widens the options — the answer does not change.)*",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 51,
+   "page": 31,
+   "stem": "Directions for the following 3 (three) items :\n\nRead the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.\n\nPassage—1\n\nIn an economic organization, allowing mankind to benefit by the productivity of machines should lead to a very good life of leisure, and much leisure is apt to be tedious except to those who have intelligent activities and interests. If a leisured population is to be happy, it must be an educated population, and must be educated with a view to enjoyment as well as to the direct usefulness of technical knowledge.\n\nPassage—2\n\nIf presents bring less thrill now that we are grown up, perhaps it is because we have too much already; or perhaps it is because we have lost the fullness of the joy of giving, and with it the fullness of the joy of receiving. Children's fears are poignant, their miseries are acute, but they do not look too forward nor too far backward. Their joys are clear and complete, because they have not yet learnt always to add 'but' to every proposition. Perhaps we are too cautious, too anxious, too sceptical. Perhaps some of our cares would shrink if we thought less about them and entered with more single-minded enjoyment into the happiness that come our way.\n\n51. Which of the following statements best reflects the underlying tone of the passage?",
+   "options": [
+    "Only an educated population can best make use of the benefits of economic progress.",
+    "All economic development should be aimed at the creation of leisure.",
+    "An increase in the educated population of a country leads to an increase in the happiness of its people.",
+    "Use of machines should be encouraged in order to create a large leisured population."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding line: \"If a leisured population is to be happy, it must be an educated population.\"**\n\nThe passage's chain is: machines → leisure → leisure is *tedious* without \"intelligent activities and interests\" → so education is what converts the gain into a good life. That is exactly (a): only an educated population can best use the benefits of economic progress.\n\n- (b) The passage never says economic development *should aim at* leisure — leisure is a by-product it discusses, not a goal it prescribes.\n- (c) Reverses the condition. Education is stated as *necessary* for a leisured population to be happy, not as something that by itself raises a country's happiness.\n- (d) The author is not urging more machines or a bigger leisured class; the whole warning is that leisure without education is tedious.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The Directions block covers 3 items (51-53) and refers to two passages. Both passages are reproduced in full inside the stem so it is self-contained. On the printed page, Passage-1 immediately precedes Q51 and Passage-2 immediately precedes Q52; Q51 pertains to Passage-1.",
+   "shares_passage_with": [
+    52,
+    53
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 52,
+   "page": 31,
+   "stem": "Directions for the following 3 (three) items :\n\nRead the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.\n\nPassage—1\n\nIn an economic organization, allowing mankind to benefit by the productivity of machines should lead to a very good life of leisure, and much leisure is apt to be tedious except to those who have intelligent activities and interests. If a leisured population is to be happy, it must be an educated population, and must be educated with a view to enjoyment as well as to the direct usefulness of technical knowledge.\n\nPassage—2\n\nIf presents bring less thrill now that we are grown up, perhaps it is because we have too much already; or perhaps it is because we have lost the fullness of the joy of giving, and with it the fullness of the joy of receiving. Children's fears are poignant, their miseries are acute, but they do not look too forward nor too far backward. Their joys are clear and complete, because they have not yet learnt always to add 'but' to every proposition. Perhaps we are too cautious, too anxious, too sceptical. Perhaps some of our cares would shrink if we thought less about them and entered with more single-minded enjoyment into the happiness that come our way.\n\n52. With reference to the passage, which one of the following statements is correct?",
+   "options": [
+    "It is not possible for adults to feel thrilled by presents.",
+    "There can be more than one reason why adults feel less thrilled by presents.",
+    "The author does not know why adults feel less thrilled by presents.",
+    "Adults have less capacity to feel the joy of loving or being loved."
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding line: \"perhaps it is because we have too much already; **or** perhaps it is because we have lost the fullness of the joy of giving.\"**\n\nThe word **\"or\"** joining two \"perhaps\" clauses gives two possible reasons — so more than one reason can explain it. (b).\n\n- (a) \"Not possible\" is far too absolute; the author says presents bring *less* thrill, and suggests the loss is reversible (\"if we thought less about them\").\n- (c) He does offer reasons — \"perhaps\" is tentative, not ignorance.\n- (d) The passage speaks of joy of *giving and receiving*, not of loving or being loved. Word-swap trap.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Both passages are reproduced so the stem is self-contained. On the printed page Q52 immediately follows Passage-2 and pertains to it.",
+   "shares_passage_with": [
+    51,
+    53
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 53,
+   "page": 33,
+   "stem": "Directions for the following 3 (three) items :\n\nRead the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.\n\nPassage—1\n\nIn an economic organization, allowing mankind to benefit by the productivity of machines should lead to a very good life of leisure, and much leisure is apt to be tedious except to those who have intelligent activities and interests. If a leisured population is to be happy, it must be an educated population, and must be educated with a view to enjoyment as well as to the direct usefulness of technical knowledge.\n\nPassage—2\n\nIf presents bring less thrill now that we are grown up, perhaps it is because we have too much already; or perhaps it is because we have lost the fullness of the joy of giving, and with it the fullness of the joy of receiving. Children's fears are poignant, their miseries are acute, but they do not look too forward nor too far backward. Their joys are clear and complete, because they have not yet learnt always to add 'but' to every proposition. Perhaps we are too cautious, too anxious, too sceptical. Perhaps some of our cares would shrink if we thought less about them and entered with more single-minded enjoyment into the happiness that come our way.\n\n53. The author of the passage is against",
+   "options": [
+    "worrying too much about the past and future",
+    "being in the habit of thinking about presents",
+    "not being thrilled by new things",
+    "giving and receiving joy only partially"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding line: \"Children's ... joys are clear and complete ... they do not look too forward nor too far backward.\"**\n\nChildren are the good example; what adults do *differently* is what the author objects to — looking too far forward and backward, being \"too cautious, too anxious, too sceptical,\" brooding on cares. That is (a).\n\n- (b) \"Thinking about presents\" is not criticised at all; presents are only the opening illustration.\n- (c) The author explains *why* the thrill fades, he doesn't condemn people for not feeling thrilled.\n- (d) Partial joy is the **symptom** the author diagnoses, not the habit he is against; the cause he attacks is excessive forward/backward worry.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Q53 is the third item under the Directions block printed on p-31; both passages are reproduced so the stem is self-contained. Q53 pertains to Passage-2.",
+   "shares_passage_with": [
+    51,
+    52
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 54,
+   "page": 33,
+   "stem": "Let A, B and C represent distinct non-zero digits. Suppose x is the sum of all possible 3-digit numbers formed by A, B and C without repetition.\n\nConsider the following statements :\n\n1. The 4-digit least value of x is 1332.\n2. The 3-digit greatest value of x is 888.\n\nWhich of the above statements is/are correct?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "With 3 distinct digits, 6 numbers are formed and **each digit sits in each place exactly twice**:\n\n**x = 222 × (A + B + C)**\n\nDigits are distinct and non-zero, so the smallest possible sum is 1+2+3 = **6**, and the largest is 7+8+9 = 24.\nSo x ranges over 222×6 = 1332 up to 222×24 = 5328.\n\n1. Least value overall = 1332, which is already 4-digit → **statement 1 correct**.\n2. A 3-digit x needs 222S ≤ 999 → S ≤ 4, impossible (minimum S = 6). 888 = 222×4 would need A+B+C = 4 — unreachable with distinct non-zero digits → **statement 2 wrong**.\n\nAnswer: 1 only.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 55,
+   "page": 33,
+   "stem": "There is a numeric lock which has a 3-digit PIN. The PIN contains digits 1 to 7. There is no repetition of digits. The digits in the PIN from left to right are in decreasing order. Any two digits in the PIN differ by at least 2. How many maximum attempts does one need to find out the PIN with certainty?",
+   "options": [
+    "6",
+    "8",
+    "10",
+    "12"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Need a > b > c from {1…7} with **a − b ≥ 2 and b − c ≥ 2**. Count by smallest digit c:\n\n- c = 1 → b ≥ 3: b=3 → a = 5,6,7 (3); b=4 → a = 6,7 (2); b=5 → a = 7 (1) → **6**\n- c = 2 → b ≥ 4: b=4 → a = 6,7 (2); b=5 → a = 7 (1) → **3**\n- c = 3 → b = 5, a = 7 → **1**\n- c = 4 → needs a ≥ 8 → 0\n\nTotal = 6 + 3 + 1 = **10** possible PINs, so 10 attempts guarantee it.\n\n(Shortcut: set b = c+2+i, a = b+2+j; then c−1+i+j ≤ 2 → C(5,3) = 10.)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 56,
+   "page": 33,
+   "stem": "There are eight equidistant points on a circle. How many right-angled triangles can be drawn using these points as vertices and taking the diameter as one side of the triangle?",
+   "options": [
+    "24",
+    "16",
+    "12",
+    "8"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Angle in a semicircle is 90°, so **any triangle with a diameter as one side is right-angled**.\n\n- 8 equidistant points → diametrically opposite pairs = 8/2 = **4 diameters**.\n- For each diameter, the third vertex can be any of the remaining **6** points.\n\n4 × 6 = **24** right-angled triangles.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 57,
+   "page": 35,
+   "stem": "24 men and 12 women can do a piece of work in 30 days. In how many days can 12 men and 24 women do the same piece of work?",
+   "options": [
+    "30 days",
+    "More than 30 days",
+    "Less than 30 days or more than 30 days",
+    "Data is inadequate to draw any conclusion"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let one man's daily work = m, one woman's = w. Given (24m + 12w) × 30 = W.\nNew group: 12m + 24w. Compare:\n\n**(12m + 24w) − (24m + 12w) = 12(w − m)**\n\n- If w < m → new group slower → more than 30 days\n- If w > m → fewer than 30 days\n- If w = m → exactly 30 days\n\nAll three are possible; the question gives no man:woman efficiency ratio. Option (c) is wrong precisely because it **rules out exactly 30 days**, which can happen. So the data is inadequate — (d).",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 58,
+   "page": 35,
+   "stem": "What is the remainder when\n\n91 × 92 × 93 × 94 × 95 × 96 × 97 × 98 × 99\n\nis divided by 1261?",
+   "options": [
+    "3",
+    "2",
+    "1",
+    "0"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Factorise the divisor: 1261 = 13 × 97** (13 × 97 = 1261).\n\nNow look inside the product 91 × 92 × … × 99:\n- **91 = 13 × 7** → the product is divisible by 13\n- **97** is itself a term → the product is divisible by 97\n\n13 and 97 are distinct primes, so the product is divisible by 13 × 97 = 1261.\n\nRemainder = **0**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 59,
+   "page": 35,
+   "stem": "Consider the following statements in respect of a rectangular sheet of length 20 cm and breadth 8 cm :\n\n1. It is possible to cut the sheet exactly into 4 square sheets.\n2. It is possible to cut the sheet into 10 triangular sheets of equal area.\n\nWhich of the above statements is/are correct?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Sheet 20 × 8, area 160.\n\n**1. Four squares (they need not be equal):** cut two 8 × 8 squares along the length (uses 16 cm), leaving a 4 × 8 strip → cut into two 4 × 4 squares. 8 + 8 + 4 = 20 ✓, areas 64+64+16+16 = 160 ✓. **Possible.**\n\n**2. Ten equal-area triangles:** slice the 20 cm side into five 4 × 8 rectangles, then cut each along a diagonal → 10 triangles, each of area ½ × 4 × 8 = **16 cm²** (and 10 × 16 = 160 ✓). **Possible.**\n\nBoth statements are correct.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 60,
+   "page": 35,
+   "stem": "When 70% of a number x is added to another number y, the sum becomes 165% of the value of y. When 60% of the number x is added to another number z, then the sum becomes 165% of the value of z. Which one of the following is correct?",
+   "options": [
+    "z < x < y",
+    "x < y < z",
+    "y < x < z",
+    "z < y < x"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Turn each sentence into an equation and **express y and z in terms of x**.\n\n0.70x + y = 1.65y → 0.70x = 0.65y → **y = (70/65)x = (14/13)x → y > x**\n\n0.60x + z = 1.65z → 0.60x = 0.65z → **z = (60/65)x = (12/13)x → z < x**\n\nSo z = 12k, x = 13k, y = 14k (taking x = 13k):\n\n**z < x < y**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 61,
+   "page": 37,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nThe majority of people who fail to accumulate money sufficient for their needs, are generally, easily influenced by the opinions of others. They permit the newspapers and the gossiping neighbours to do their thinking for them. Opinions are the cheapest commodities on the earth. Everyone has a flock of opinions ready to be wished upon by anyone who will accept them. If you are influenced by opinions when you reach decisions, you will not succeed in any undertaking.\n\nWhich one of the following is implied by the passage?",
+   "options": [
+    "Most of the people do not accumulate money for their needs.",
+    "Most of the people never fail to accumulate money for their needs.",
+    "There are people who fail to accumulate money for their needs.",
+    "There is no need to accumulate money."
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "The opening line is **\"The majority of people who fail to accumulate money sufficient for their needs...\"**\n\nTo speak of *the majority of* a group, that group must exist. So the passage necessarily implies **some people do fail to accumulate money** — option (c).\n\n- **(a)** claims most people *overall* fail. The passage says \"majority **of those who fail**\", not that failers are a majority of everyone. Different set.\n- **(b)** is the opposite claim and is nowhere supported.\n- **(d)** contradicts \"money sufficient for their needs\", which treats accumulation as needed.\n\n**Trap:** \"majority of X who Y\" ≠ \"majority of X\".",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Original heading on page reads: 'Directions for the following 3 (three) items : Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.' The three items are Q61, Q62 (Passage-1) and Q63 (Passage-2). Passage-1 reproduced in full inside the stem.",
+   "shares_passage_with": [
+    62
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 62,
+   "page": 37,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nThe majority of people who fail to accumulate money sufficient for their needs, are generally, easily influenced by the opinions of others. They permit the newspapers and the gossiping neighbours to do their thinking for them. Opinions are the cheapest commodities on the earth. Everyone has a flock of opinions ready to be wished upon by anyone who will accept them. If you are influenced by opinions when you reach decisions, you will not succeed in any undertaking.\n\nWhat is the main idea of the passage?",
+   "options": [
+    "People should not be influenced by the opinions of others.",
+    "People should accumulate as much money as they can.",
+    "People should neither give nor accept the opinions.",
+    "People will succeed in any undertaking if they do not accept any opinion at all."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Deciding line: **\"If you are influenced by opinions when you reach decisions, you will not succeed in any undertaking.\"** The whole passage is a warning against letting newspapers and neighbours think for you.\n\nSo the main idea is: **do not let others' opinions influence you** — (a).\n\n- **(b)** money is only the illustration, not the point.\n- **(c)** the passage never asks you to stop *giving* opinions.\n- **(d)** reverses the conditional. \"Influenced ⇒ will not succeed\" does **not** give \"not influenced ⇒ will succeed\". Converse error, and \"any undertaking\" makes it absurdly strong.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Passage-1 reproduced in full inside the stem.",
+   "shares_passage_with": [
+    61
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 63,
+   "page": 37,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\n\"The social order is a sacred right which is the basis of all other rights. Nevertheless, this right does not come from nature, and must therefore be founded on conventions.\"\n\nWith reference to the above passage, which of the following statements is/are correct?\n\n1. Conventions are the sources of rights of man.\n2. Rights of man can be exercised only when there is a social order.\n\nSelect the correct answer using the code given below.",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Two clauses, take each:\n\n1. \"this right... must therefore be **founded on conventions**\" — and social order is \"the basis of all other rights\". So the base of all rights itself rests on convention ⇒ **conventions are the ultimate source of the rights of man**. Statement 1 follows.\n2. \"The social order is... **the basis of all other rights**\" — if every other right stands on social order, no right can be exercised without it. Statement 2 follows.\n\n**Both correct → (c).** Note the passage denies only that the right comes *from nature*; it never denies conventions as source — that is exactly what it asserts.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Passage-2 serves only this item.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 64,
+   "page": 37,
+   "stem": "Two candidates X and Y contested an election. 80% of voters cast their vote and there were no invalid votes. There was no NOTA (None of the above) option. X got 56% of the votes cast and won by 1440 votes. What is the total number of voters in the voters list?",
+   "options": [
+    "15000",
+    "12000",
+    "9600",
+    "5000"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Only two candidates, no invalid votes, no NOTA ⇒ shares sum to 100%.\n\n- X = 56%, so Y = 44%\n- Margin = 56 − 44 = **12% of votes cast = 1440**\n- Votes cast = 1440 ÷ 0.12 = **12,000**\n\nVotes cast are 80% of the voters list:\n\n- Total voters = 12,000 ÷ 0.80 = **15,000**\n\n**(a) 15000.** Trap: stopping at 12,000, which is only the turnout.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 65,
+   "page": 39,
+   "stem": "What is the smallest number greater than 1000 that when divided by any one of the numbers 6, 9, 12, 15, 18 leaves a remainder of 3?",
+   "options": [
+    "1063",
+    "1073",
+    "1083",
+    "1183"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Remainder 3 with every divisor ⇒ N − 3 is a common multiple of 6, 9, 12, 15, 18.\n\n**LCM = 2²·3²·5 = 180.**\n\nSo N = 180k + 3:\n- k=5 → 903 (not > 1000)\n- k=6 → **1083** ✓\n\n**(c) 1083.** Quick check: 1083 = 180·6 + 3, and 1083 ÷ 15 = 72 r 3. (1063 and 1073 aren't ≡3 mod 180; 1183 is bigger than needed.)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 66,
+   "page": 39,
+   "stem": "Let p be a two-digit number and q be the number consisting of same digits written in reverse order. If p × q = 2430, then what is the difference between p and q?",
+   "options": [
+    "45",
+    "27",
+    "18",
+    "9"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "p = 10a+b, q = 10b+a, pq = 2430.\n\nFactorise: **2430 = 2 × 3⁵ × 5**. Need two two-digit factors that are digit-reversals.\n\nPairs: 30×81, 27×90, 45×54, 54×45… only **45 × 54 = 2430** is a reversal pair (90's reverse \"09\" isn't two-digit).\n\nDifference = 54 − 45 = **9** → (d).\n\n*Shortcut:* p − q = 9(a − b), so the answer must be a multiple of 9; here 4 and 5 differ by 1 ⇒ 9.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 67,
+   "page": 39,
+   "stem": "Consider the following statements in respect of two natural numbers p and q such that p is a prime number and q is a composite number :\n\n1. p × q can be an odd number.\n2. q/p can be a prime number.\n3. p + q can be a prime number.\n\nWhich of the above statements are correct?",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "One counterexample each — p prime, q composite:\n\n1. **p×q odd:** p = 3, q = 9 → 27, odd ✓\n2. **q/p prime:** p = 3, q = 9 → 9/3 = 3, prime ✓\n3. **p+q prime:** p = 2, q = 9 → 11, prime ✓\n\nAll three are possible (the statements only say \"can be\"), so **(d) 1, 2 and 3**.\n\n**Key habit:** \"can be\" needs just one working example — don't test whether it's always true.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 68,
+   "page": 39,
+   "stem": "Consider the following statements :\n\n1. Between 3:16 p.m. and 3:17 p.m., both hour hand and minute hand coincide.\n2. Between 4:58 p.m. and 4:59 p.m., both minute hand and second hand coincide.\n\nWhich of the above statements is/are correct?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Statement 1** — take 3:00 as t = 0 min. Minute hand 6t°, hour hand 90 + 0.5t°.\n6t = 90 + 0.5t ⇒ 5.5t = 90 ⇒ **t = 16 4/11 min ≈ 16 min 22 s**. That is between 3:16 and 3:17 ✓\n\n**Statement 2** — from 4:58:00, let s seconds pass. Second hand 6s°, minute hand 6(58 + s/60) = 348 + 0.1s°.\n6s = 348 + 0.1s ⇒ 5.9s = 348 ⇒ **s ≈ 59.0 s**, i.e. about 4:58:59 — inside that minute ✓\n\n**Both correct → (c).**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 69,
+   "page": 39,
+   "stem": "There are two containers X and Y. X contains 100 ml of milk and Y contains 100 ml of water. 20 ml of milk from X is transferred to Y. After mixing well, 20 ml of the mixture in Y is transferred back to X. If m denotes the proportion of milk in X and n denotes the proportion of water in Y, then which one of the following is correct?",
+   "options": [
+    "m = n",
+    "m > n",
+    "m < n",
+    "Cannot be determined due to insufficient data"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Step 1:** 20 ml milk X→Y. X: 80 milk. Y: 100 water + 20 milk = 120 ml, so milk fraction 1/6, water 5/6.\n\n**Step 2:** 20 ml of that mixture back to X = 20/6 = 10/3 ml milk + 100/6 = 50/3 ml water.\n\n- X (100 ml): milk = 80 + 10/3 = 250/3 ⇒ **m = 250/300 = 5/6**\n- Y (100 ml): water = 100 − 50/3 = 250/3 ⇒ **n = 250/300 = 5/6**\n\n**m = n → (a).**\n\n*General rule:* equal starting volumes, equal final volumes ⇒ the milk in Y always equals the water in X, so the two impurity (and hence purity) fractions match. True for any transfer size.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 70,
+   "page": 39,
+   "stem": "A pie chart gives the expenditure on five different items A, B, C, D and E in a household. If B, C, D and E correspond to 90°, 50°, 45° and 75° respectively, then what is the percentage of expenditure on item A?",
+   "options": [
+    "112/9",
+    "125/6",
+    "155/9",
+    "250/9"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "Angles must total 360°.\n\nB + C + D + E = 90 + 50 + 45 + 75 = **260°**\nSo A = 360 − 260 = **100°**\n\nPercentage = (100/360) × 100 = 10000/360 = **250/9 %** ≈ 27.8%\n\n**(d) 250/9.**\n\n*Shortcut:* 1° = 5/18 %, so 100° = 500/18 = 250/9.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "No pie chart image is printed with the item; all required data is given in the text. Options are printed as vertical fractions (112 over 9, 125 over 6, 155 over 9, 250 over 9) in a two-column layout: (a) top-left, (b) top-right, (c) bottom-left, (d) bottom-right.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 71,
+   "page": 41,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nTo encourage research is one of the functions of a university. Contemporary universities have encouraged research, not only in those cases where research is necessary, but on all sorts of entirely unprofitable subjects as well. Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization. But where research is not original, but consists in the mere rearrangement of existing materials, where its object is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile.\n\nThe author's assumption about scientific research is that",
+   "options": [
+    "it is never very valuable",
+    "it is sometimes very valuable",
+    "it is never without some value",
+    "it is always very valuable"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Deciding line: **\"Scientific research is probably never completely valueless.\"**\n\nThat is a floor, not a ceiling — it says value never drops to zero, it does not say the value is large.\n\n- (a) \"never very valuable\" — the passage says the opposite is possible (a talented investigator may build a fruitful generalisation on it).\n- (b) \"sometimes very valuable\" — *sometimes* is weaker than the author's *never* valueless; he claims value in **every** case.\n- (d) \"always very valuable\" — overshoots; he concedes research can look \"silly and insignificant\".\n\n**Match the quantifier to the sentence: never valueless = never without some value.**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Original heading on page reads: 'Directions for the following 3 (three) items : Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.' The three items are Q71, Q72 (Passage-1) and Q73 (Passage-2). Passage-1 reproduced in full inside the stem.",
+   "shares_passage_with": [
+    72
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 72,
+   "page": 41,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nTo encourage research is one of the functions of a university. Contemporary universities have encouraged research, not only in those cases where research is necessary, but on all sorts of entirely unprofitable subjects as well. Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization. But where research is not original, but consists in the mere rearrangement of existing materials, where its object is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile.\n\nAccording to the author",
+   "options": [
+    "not many research results can be of value to an intelligent investigator",
+    "a research result is always valuable to an intelligent investigator",
+    "any research result can be of value to an intelligent investigator",
+    "a research result must always be of some value to an intelligent investigator"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Deciding line: **\"there is always a chance that the results may be of value to the investigator of talent.\"**\n\nTwo words control the answer: *always* (so it applies to every result) and *chance/may* (so it is possibility, not certainty).\n\n- (a) \"not many\" — contradicts *always*.\n- (b) \"always valuable\" and (d) \"must always be of some value\" — both convert a **chance** into a guarantee; the author never says the talented investigator will actually find value in each one.\n- (c) \"**any** research result **can** be of value\" — keeps both the universal scope and the modal *can*. Correct.\n\n**Universal scope + mere possibility = \"any … can\".**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Passage-1 reproduced in full inside the stem.",
+   "shares_passage_with": [
+    71
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 73,
+   "page": 41,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nHow best can the problems of floods and droughts be addressed so that the losses are minimal and the system becomes resilient? In this context, one important point that needs to be noted is that India gets 'too much' water (about 75% of annual precipitation) during 120 days (June to September) and 'too little' for the remaining 245 days. This skewed water availability has to be managed and regulated for its consumption throughout the year.\n\nWhich one of the following best reflects the practical, rational and lasting solution?",
+   "options": [
+    "Constructing huge concrete storage tanks and canals across the country",
+    "Changing the cropping patterns and farming practices",
+    "Interlinking of rivers across the country",
+    "Buffer stocking of water through dams and recharging aquifers"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "The passage names the exact problem: 75% of rain falls in 120 days, too little across the other 245. So the solution must **shift water in time** — store the monsoon surplus and release/draw it through the dry months.\n\n- (d) Buffer stocking through dams **plus recharging aquifers** does precisely that, at both surface and sub-surface level, and is decentralised, ecologically sounder and lasting. ✔\n- (a) Huge concrete tanks and canals nationwide — same idea but ruinously costly, evaporation-prone, and not \"practical\".\n- (b) Changing cropping patterns cuts *demand*; it does not manage the 120-day surplus or prevent floods.\n- (c) Interlinking rivers shifts water in **space**, not time — and when all basins flood together in the same monsoon there is no surplus to transfer.\n\n**The problem is temporal skew, so the answer must be storage — surface (dams) and underground (aquifers).**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Passage-2 serves only this item.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 74,
+   "page": 43,
+   "stem": "If\n\n15 × 14 × 13 × ⋯ × 3 × 2 × 1 = 3^m × n\n\nwhere m and n are positive integers, then what is the maximum value of m?",
+   "options": [
+    "7",
+    "6",
+    "5",
+    "4"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "The product is 15!. Maximum m = exponent of 3 in 15!, by **Legendre's formula**:\n\n$$\\left\\lfloor \\tfrac{15}{3}\\right\\rfloor + \\left\\lfloor \\tfrac{15}{9}\\right\\rfloor + \\left\\lfloor \\tfrac{15}{27}\\right\\rfloor = 5 + 1 + 0 = \\mathbf{6}$$\n\nCheck by hand — multiples of 3 up to 15: 3, 6, 12, 15 give one 3 each (4 threes); **9 gives two** (9 = 3²). Total 4 + 2 = 6.\n\nCommon trap: counting only the five multiples of 3 and answering 5. **9 must be counted twice.**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 75,
+   "page": 43,
+   "stem": "What is the value of X in the sequence 2, 12, 36, 80, 150, X?",
+   "options": [
+    "248",
+    "252",
+    "258",
+    "262"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Look for a formula in n rather than differences.\n\n| n | 1 | 2 | 3 | 4 | 5 | 6 |\n|---|---|---|---|---|---|---|\n| term | 2 | 12 | 36 | 80 | 150 | X |\n\nEach term is **n²(n+1)**: 1·2 = 2, 4·3 = 12, 9·4 = 36, 16·5 = 80, 25·6 = 150.\n\nSo X = 6²·7 = 36 × 7 = **252**.\n\n(Equivalently n³ + n²: 216 + 36 = 252.) Cross-check with differences: 10, 24, 44, 70, **102** → 150 + 102 = 252, since the second differences 14, 20, 26 rise by 6.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 76,
+   "page": 43,
+   "stem": "One non-zero digit, one vowel and one consonant from English alphabet (in capital) are to be used in forming passwords, such that each password has to start with a vowel and end with a consonant. How many such passwords can be generated?",
+   "options": [
+    "105",
+    "525",
+    "945",
+    "1050"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "The password uses exactly three characters: one non-zero digit, one vowel, one consonant.\n\n**The arrangement is forced:** it must start with the vowel and end with the consonant, so the digit can only sit in the middle — vowel, digit, consonant. No positional choices left.\n\nNow just count each slot:\n- Vowels (A, E, I, O, U) = 5\n- Non-zero digits (1–9) = 9\n- Consonants = 26 − 5 = 21\n\n5 × 9 × 21 = **945**.\n\nTrap: multiplying by an extra arrangement factor. **Fixing both ends fixes all three positions.**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 77,
+   "page": 43,
+   "stem": "There are 9 cups placed on a table arranged in equal number of rows and columns out of which 6 cups contain coffee and 3 cups contain tea. In how many ways can they be arranged so that each row should contain at least one cup of coffee?",
+   "options": [
+    "18",
+    "27",
+    "54",
+    "81"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "\"Equal number of rows and columns\" with 9 cups → a **3 × 3 grid**. An arrangement is just a choice of which 3 cells hold tea (the other 6 hold coffee).\n\nTotal arrangements = C(9, 3) = **84**.\n\nA row fails the condition only if it has **no** coffee, i.e. all 3 of its cells are tea. Since there are only 3 tea cups, at most one row can be all-tea, and there are exactly **3** such arrangements (one per row) — no double counting.\n\nValid = 84 − 3 = **81**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 78,
+   "page": 43,
+   "stem": "The sum of three consecutive integers is equal to their product. How many such possibilities are there?",
+   "options": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "No such possibility is there"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Take the integers as n−1, n, n+1 (integers, so negatives and 0 are allowed).\n\nSum = 3n. Product = n(n² − 1).\n\n$$n(n^2-1) = 3n \\;\\Rightarrow\\; n(n^2-4) = 0 \\;\\Rightarrow\\; n = 0,\\; 2,\\; -2$$\n\nVerify all three:\n- n = 0 → **−1, 0, 1**: sum 0, product 0 ✔\n- n = 2 → **1, 2, 3**: sum 6, product 6 ✔\n- n = −2 → **−3, −2, −1**: sum −6, product −6 ✔\n\n**Three possibilities.** The trap is stopping at 1, 2, 3 and forgetting that \"integers\" includes zero and negatives.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 79,
+   "page": 43,
+   "stem": "What is the number of numbers of the form 0·XY, where X and Y are distinct non-zero digits?",
+   "options": [
+    "72",
+    "81",
+    "90",
+    "100"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "0·XY is a two-decimal-place number, so X and Y are simply two digit slots.\n\n- X: non-zero → 9 choices (1–9)\n- Y: non-zero **and distinct from X** → 8 choices\n\n9 × 8 = **72**.\n\nTraps: 81 comes from allowing X = Y (ignoring \"distinct\"); 90 and 100 come from letting a digit be 0.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The decimal point in '0·XY' is printed as a raised/centre dot, the Indian typographic convention for a decimal point (i.e. 0.XY).",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 80,
+   "page": 43,
+   "stem": "The average weight of A, B, C is 40 kg, the average weight of B, D, E is 42 kg and the weight of F is equal to that of B. What is the average weight of A, B, C, D, E and F?",
+   "options": [
+    "40·5 kg",
+    "40·8 kg",
+    "41 kg",
+    "Cannot be determined as data is inadequate"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Convert averages to totals:\n- A + B + C = 3 × 40 = **120**\n- B + D + E = 3 × 42 = **126**\n\nWe need A + B + C + D + E + F. Write it as (A + B + C) + (D + E) + F.\n\nFrom the second total, D + E = 126 − B. And F = B, so:\n\n$$120 + (126 - B) + B = 246$$\n\n**The unknown B cancels** — that is the whole trick, and why \"cannot be determined\" is wrong.\n\nAverage = 246 ÷ 6 = **41 kg**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Options (a) and (b) use the centre-dot decimal convention: 40.5 kg and 40.8 kg.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  }
+ ],
+ "reviewed_on": "2026-08-31",
+ "review_note": "Loaded under Pragaman's standing instruction (31 Aug 2026): official key, no per-question approval. Solved blind before the key was read; 77/80 matched. Q2/Q12/Q32 explanations were rewritten to defend the official answer and all were judged defensible. Series A. Stems self-contained per D42."
+}

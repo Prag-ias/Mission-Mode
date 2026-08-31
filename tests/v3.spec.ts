@@ -88,7 +88,8 @@ test('every attempt records confidence, and a wrong one records its reason', asy
 test('the format filter isolates the three formats 2026 introduced', async ({ page }) => {
   await login(page)
   for (const fmt of ['relationship', 'conclusion_count', 'case_study']) {
-    const [{ n }] = await sql`select count(*)::int n from questions where format = ${fmt}`
+    // /practice defaults to the GS1 pool (D43), so the expected count must too
+    const [{ n }] = await sql`select count(*)::int n from questions where format = ${fmt} and paper = 'GS1'`
     expect(n).toBeGreaterThan(0)
     await page.goto(`/practice?format=${fmt}&n=1`)
     await expect(page.getByTestId('pool-size')).toContainText(String(n))
@@ -96,7 +97,7 @@ test('the format filter isolates the three formats 2026 introduced', async ({ pa
 })
 
 test('disputed questions are practised but carry a badge', async ({ page }) => {
-  const [d] = await sql`select year, q_no from questions where disputed = true limit 1`
+  const [d] = await sql`select year, q_no from questions where disputed = true and paper = 'GS1' limit 1`
   expect(d).toBeTruthy()
   await login(page)
   await page.goto(`/practice?disputed=1&n=1`)

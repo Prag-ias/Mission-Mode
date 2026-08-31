@@ -1,0 +1,2633 @@
+{
+ "paper": "CSAT",
+ "year": 2024,
+ "booklet_series": "A",
+ "source_pdf": "PYQs/Prelims/GS PAPER 2/GS PAPER 2 2024.pdf",
+ "transcribed_on": "2026-08-31",
+ "reviewed_by_human": true,
+ "answer_key": {
+  "source": "official",
+  "note": "Official UPSC answer key supplied by the user."
+ },
+ "independent_pass": {
+  "done_on": "2026-08-31",
+  "note": "Every question solved from scratch before the key was read; the worked solution is the explanation."
+ },
+ "explanations_generated": {
+  "on": "2026-08-31",
+  "note": "Worked solutions written during the solve pass (D2)."
+ },
+ "questions": [
+  {
+   "q_no": 1,
+   "page": 3,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nAccording to the Food and Agriculture Organization, one-third of food produced for human consumption is lost or wasted globally. Food is lost or wasted throughout the supply chain, from initial agricultural production to final household consumption. The increasing wastage also results in land degradation by about 45%, mainly due to deforestation, unsustainable agricultural practices, and excessive groundwater extraction. The energy spent over wasted food results in about 3·5 billion tonnes of carbon dioxide production every year. Decay also leads to harmful emissions of other gases in the atmosphere. Addressing the loss and wastage of food in all forms is critical to complete the cycle of food sufficiency and food sustainability.\n\nWhich of the following statements best reflect the most logical and rational inferences that can be made from the passage?\n\n1. The current methods of food distribution are solely responsible for the loss and wastage of food.\n2. Land productivity is adversely affected by the prevailing trend of food loss and wastage.\n3. Reduction in the loss and wastage of food results in lesser carbon footprint.\n4. Post-harvest technologies to prevent or reduce the loss and wastage of food are not available.\n\nSelect the correct answer using the code given below.",
+   "options": [
+    "1, 2 and 3",
+    "2 and 3 only",
+    "1, 3 and 4",
+    "1, 2 and 4"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Test each statement against the text only.**\n\n- **(1) rejected — \"solely\".** The passage says food is lost \"throughout the supply chain, from initial agricultural production to final household consumption.\" Distribution is one link, never the only cause. Any statement carrying *solely / only / entirely* is almost always the trap.\n- **(2) valid.** Wastage \"results in land degradation by about 45%\" — degraded land is less productive land. A fair one-step inference.\n- **(3) valid.** \"The energy spent over wasted food results in about 3·5 billion tonnes of carbon dioxide\" — cut the waste, cut that CO₂. Direct contrapositive.\n- **(4) rejected.** The passage says nothing about whether post-harvest technology exists. Absence of mention ≠ statement of absence.\n\nOnly 2 and 3 survive → **(b)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    2
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 2,
+   "page": 3,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nAccording to the Food and Agriculture Organization, one-third of food produced for human consumption is lost or wasted globally. Food is lost or wasted throughout the supply chain, from initial agricultural production to final household consumption. The increasing wastage also results in land degradation by about 45%, mainly due to deforestation, unsustainable agricultural practices, and excessive groundwater extraction. The energy spent over wasted food results in about 3·5 billion tonnes of carbon dioxide production every year. Decay also leads to harmful emissions of other gases in the atmosphere. Addressing the loss and wastage of food in all forms is critical to complete the cycle of food sufficiency and food sustainability.\n\nBased on the above passage, the following assumptions have been made :\n\n1. The food distribution mechanism needs to be reimagined and made effective to reduce the loss and wastage of food.\n2. Ensuring the reduction of wastage and loss of food is a social and moral responsibility of all citizens.\n\nWhich of the assumptions given above is/are valid?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (c) Both 1 and 2**\n\n### The word that decides it: \"final household consumption\"\n\nThe passage does not say food is lost \"in the supply chain\" and stop at industry. It draws the chain end to end: *\"from initial agricultural production to final household consumption.\"* And it closes by demanding that the problem be addressed *\"in all forms.\"*\n\nThose two phrases are what carry Statement 2. Read them and both assumptions follow.\n\n### Statement 1 — valid\n\n*\"Food is lost or wasted throughout the supply chain.\"* Distribution — moving food from producer to consumer — is a segment of that chain, and the passage's own logic (loss happens across the chain, and addressing it \"in all forms\" is critical) presumes that each loss-bearing segment must be fixed. Reimagining distribution is taken for granted by the argument, not added to it. Almost nobody disputes this one.\n\n### Statement 2 — valid, and here is why it isn't an outside value judgment\n\nThe instinctive rejection runs: *\"social and moral responsibility of all citizens\" is moralising; the passage is factual; and \"all\" is an over-generalisation.* That heuristic is usually right on CSAT. It misfires here, for two reasons.\n\n**1. The passage itself terminates the chain at the household.** If loss ran only from farm to retailer, responsibility would sit with governments, farmers, and firms — and Statement 2's \"all citizens\" would indeed be an unsupported jump. But the passage explicitly names *final household consumption* as a site of waste. Every citizen is a household consumer. So once the passage demands that wastage be addressed *\"in all forms\"* — every form, including the household form — it has already assumed that ordinary citizens, not just policy actors, must act. That is exactly what Statement 2 states. \"All citizens\" is not the candidate's over-generalisation; it is the passage's own scope word (\"throughout\", \"in all forms\", \"globally\") read back.\n\n**2. \"Social and moral\" tracks the harms the passage actually lists.** The costs named are not private losses to the waster. They are land degradation, deforestation, groundwater depletion, 3·5 billion tonnes of CO₂, and harmful gas emissions — damage to a shared commons, which is what makes a duty *social* rather than merely prudent. The *moral* dimension comes from the first sentence: the wasted third is food *produced for human consumption*, and the closing goal is *food sufficiency*. Food that was grown to feed people and instead rots, in a world short of sufficiency, is a normative claim the passage makes on its own. The closing sentence — \"critical to\" — is itself prescriptive, not neutral reportage.\n\n### Why (a) is the trap\n\n(a) is chosen by candidates applying the right rule to the wrong sentence. The rule — *reject assumptions that smuggle in universal quantifiers (\"all\", \"every\", \"universally\") or moral framing the passage never adopts* — is sound and wins a lot of marks elsewhere. But it requires that the passage be narrower than the statement. Check the direction here: the passage is the more sweeping of the two. It says *globally*, *throughout*, *in all forms*, and it runs the chain all the way to the household table. Statement 2 does not out-reach the passage; it restates the passage's reach.\n\nThe other half of the trap is skipping the compound phrase. \"Final household consumption\" gets skimmed as generic supply-chain boilerplate. It is the specific hinge: delete those three words and Statement 2 dies, keep them and it stands.\n\n### The takeaway rule\n\nOn assumption items, do not reject a statement for \"all\" or for moral language on reflex. Test it: **does the passage's own scope cover the statement's scope?** If the passage has already said *globally, throughout, in all forms, down to the household*, then a statement about all citizens is inside its boundary, not outside it. Reject universals only when the passage is narrower than the claim.\n\nBoth assumptions are underlying premises of the passage's argument. **(c)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    1
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": "Official key says c, worked solution said a (medium confidence)."
+  },
+  {
+   "q_no": 3,
+   "page": 5,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nAs inflation rises, even governments previously committed to budget discipline are spending freely to help households. Higher interest rates announced by central banks are supposed to help produce modest fiscal austerity, because to maintain stable debts while paying more to borrow, governments must cut spending or raise taxes. Without the fiscal backup, monetary policy eventually loses traction. Higher interest rates become inflationary, not disinflationary, because they simply lead governments to borrow more to pay rising debt-service costs. The risk of monetary unmooring is greater when public debt rises, because interest rates become more important to budget deficits.\n\nWhich of the following statements best reflects/reflect the most logical and rational inference/inferences that can be made from the passage?\n\n1. Central banks cannot bring down inflation without budgetary backing.\n2. The effects of monetary policy depend on the fiscal policies pursued by the government.\n\nSelect the correct answer using the code given below.",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Both are restatements of explicit lines.**\n\n- **(1)** — \"**Without the fiscal backup, monetary policy eventually loses traction.**\" Reinforced by: higher rates then \"become inflationary, not disinflationary.\" So central banks alone cannot bring inflation down. Valid.\n- **(2)** — the whole passage is about rate hikes working *only if* governments cut spending or raise taxes; and the risk grows \"when public debt rises.\" That is exactly \"monetary policy's effect depends on fiscal policy.\" Valid.\n\nNeither statement adds an outside cause or an extreme quantifier, so both stand → **(c)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    4
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 4,
+   "page": 5,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nAs inflation rises, even governments previously committed to budget discipline are spending freely to help households. Higher interest rates announced by central banks are supposed to help produce modest fiscal austerity, because to maintain stable debts while paying more to borrow, governments must cut spending or raise taxes. Without the fiscal backup, monetary policy eventually loses traction. Higher interest rates become inflationary, not disinflationary, because they simply lead governments to borrow more to pay rising debt-service costs. The risk of monetary unmooring is greater when public debt rises, because interest rates become more important to budget deficits.\n\nBased on the above passage, the following assumptions have been made :\n\n1. Fiscal policies of governments are solely responsible for higher prices.\n2. Higher prices do not affect the long-term government bonds.\n\nWhich of the assumptions given above is/are valid?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Both assumptions overreach.**\n\n- **(1) invalid — \"solely\".** The passage opens with \"**As inflation rises**, even governments previously committed to budget discipline are spending freely\" — inflation is treated as the cause prompting the spending, not the other way round. Fiscal policy is never named as the *sole* driver of prices.\n- **(2) invalid.** Government bonds appear only as \"debt-service costs.\" Whether higher prices affect long-term bonds is simply never discussed — and in fact the passage implies rates and borrowing do interact.\n\nNothing survives → **(d) Neither 1 nor 2**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    3
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 5,
+   "page": 5,
+   "stem": "What is the least possible number of cuts required to cut a cube into 64 identical pieces?",
+   "options": [
+    "8",
+    "9",
+    "12",
+    "16"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "64 identical pieces from a cube means a **4 × 4 × 4 grid** (64 = 4³) — identical pieces force equal splits on all three axes.\n\nTo divide one edge into **4 equal parts you need 3 planar cuts** (cuts at ¼, ½, ¾).\n\n**3 cuts × 3 perpendicular directions = 9 cuts.**\n\n(Rearranging stacks between cuts could in principle do better, but that isn't offered; the smallest listed value is 9.)\n\n→ **(b) 9**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 6,
+   "page": 5,
+   "stem": "In the expression 5 * 4 * 3 * 2 * 1, * is chosen from +, −, × each at most two times. What is the smallest non-negative value of the expression?",
+   "options": [
+    "3",
+    "2",
+    "1",
+    "0"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Four operator slots: 5 _ 4 _ 3 _ 2 _ 1, filling from {+, −, ×}, each usable at most twice. Normal BODMAS applies.\n\nTry to hit **0**:\n\n**5 − 4 − 3 + 2 × 1**\n\n- 2 × 1 = 2\n- 5 − 4 = 1\n- 1 − 3 = −2\n- −2 + 2 = **0**\n\nOperator count: − twice, + once, × once — all within the \"at most two times\" limit. ✔\n\n0 is the smallest non-negative value possible, so → **(d) 0**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 7,
+   "page": 7,
+   "stem": "A certain number of men can complete a piece of work in 6k days, where k is a natural number. By what percent should the number of men be increased so that the work can be completed in 5k days?",
+   "options": [
+    "10%",
+    "(50/3)%",
+    "20%",
+    "25%"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Men × days = constant (same work).\n\nLet the original strength be M. Then\n\n**M × 6k = M′ × 5k ⟹ M′ = 6M/5 = 1·2M**\n\nIncrease = 1·2M − M = 0·2M → **20%**.\n\nNote k cancels completely — it is there only to distract. (Days fall by 1/6, so men must rise by 1/5 = 20%; the days-fraction and men-fraction are *not* the same number.)\n\n→ **(c) 20%**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 8,
+   "page": 7,
+   "stem": "X, Y and Z can complete a piece of work individually in 6 hours, 8 hours and 8 hours respectively. However, only one person at a time can work in each hour and nobody can work for two consecutive hours. All are engaged to finish the work. What is the minimum amount of time that they will take to finish the work?",
+   "options": [
+    "6 hours 15 minutes",
+    "6 hours 30 minutes",
+    "6 hours 45 minutes",
+    "7 hours"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Rates per hour: **X = 1/6, Y = Z = 1/8.** One worker per hour, no one twice in a row → put X in every alternate hour (the fastest man works as often as the rule allows), with Y and Z filling the gaps.\n\nSchedule X, Y, X, Z, X, Y:\n\n- Each 2-hour pair = 1/6 + 1/8 = **7/24**\n- After 6 hours: 3 × 7/24 = 21/24 = **7/8 done**, 1/8 left.\n\nHour 7 may be X again (hour 6 was Y). Time X needs for 1/8:\n\n**(1/8) ÷ (1/6) = 6/8 = 3/4 hour = 45 min**\n\nTotal = **6 hours 45 minutes**. (6½ h is impossible: max work by then is 3½ X-hours + 3 Y/Z-hours = 7/12 + 3/8 = 23/24 < 1.)\n\n→ **(c)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 9,
+   "page": 7,
+   "stem": "How many consecutive zeros are there at the end of the integer obtained in the product 1² × 2⁴ × 3⁶ × 4⁸ × ⋯ × 25⁵⁰?",
+   "options": [
+    "50",
+    "55",
+    "100",
+    "200"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "General term is **n^(2n)** for n = 1…25. Trailing zeros = min(exponent of 2, exponent of 5); 5 is the scarce one.\n\n**Count the 5s** — only multiples of 5 contribute:\n\n| term | 5s |\n|---|---|\n| 5²·⁵ = 5¹⁰ | 10 |\n| 10²⁰ = (2·5)²⁰ | 20 |\n| 15³⁰ | 30 |\n| 20⁴⁰ | 40 |\n| **25⁵⁰ = (5²)⁵⁰ = 5¹⁰⁰** | **100** |\n\nTotal = 10+20+30+40+100 = **200**.\n\nThe 2s far exceed this (16³² alone gives 2¹²⁸; total 608), so 5 is limiting.\n\n→ **(d) 200**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 10,
+   "page": 7,
+   "stem": "On January 1st, 2023, a person saved ₹1. On January 2nd, 2023, he saved ₹2 more than that on the previous day. On January 3rd, 2023, he saved ₹2 more than that on the previous day and so on. At the end of which date was his total savings a perfect square as well a perfect cube?",
+   "options": [
+    "7th January, 2023",
+    "8th January, 2023",
+    "9th January, 2023",
+    "Not possible"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Savings form an AP: 1, 3, 5, 7, … (a = 1, d = 2).\n\nSum of first n terms = n/2 × [2 + (n−1)2] = **n²** — the total is *always* a perfect square, so the real condition is that **n² must also be a perfect cube**, i.e. n² is a perfect 6th power, i.e. **n itself must be a cube**.\n\n- n = 7 → 49 ✗ (not a cube)\n- **n = 8 → 64 = 8² = 4³ ✓**\n- n = 9 → 81 ✗\n\n→ **(b) 8th January, 2023**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 11,
+   "page": 9,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nToday, if we consider cities such as New York, London and Paris as some of the most iconic cities in the world, it is because plans carrying a heavy systems approach were imposed on their precincts. The backbone of the systems theory is the process of translating social, spatial and cultural desirables into mathematical models using computing, statistics, optimization and an algorithmic way of formulating and solving problems. The early universities of the West which began to train professionals in planning, spawned some of the most ingenious planners, who were experts in these domains. This was because these very subjects were absorbed into the planning curriculum that had its roots in the social sciences, geography and architecture. Planning in India, and its education differ from the West.\n\nWhich one of the following statements best reflects the most logical and rational inference that can be made from the above passage?",
+   "options": [
+    "Curriculum for urban planning courses should have diverse and interdisciplinary approach.",
+    "In India, city administration is under bureaucracy which lacks formal training in urban planning and management.",
+    "In India, the management of urban areas is a local affair with a chronic problem of insufficient funds.",
+    "With high density of population and widespread poverty in our urban areas, planned development in them is very difficult."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "The passage explains *why* Western planners were \"ingenious\": **\"these very subjects were absorbed into the planning curriculum that had its roots in the social sciences, geography and architecture\"** — i.e. maths, computing, statistics, optimization sitting alongside social science and design. It then closes with \"Planning in India, and its education differ from the West.\"\n\nSo the only inference the text supports is about **curriculum breadth**: planning education should be diverse and interdisciplinary.\n\n- **(b)** Bureaucracy running city administration — never mentioned.\n- **(c)** Local bodies, insufficient funds — outside information.\n- **(d)** Density and poverty — outside information.\n\nRule for these: an inference must be built **only** from words on the page. Anything you know about Indian cities from GS is a trap here.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    12
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 12,
+   "page": 9,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nToday, if we consider cities such as New York, London and Paris as some of the most iconic cities in the world, it is because plans carrying a heavy systems approach were imposed on their precincts. The backbone of the systems theory is the process of translating social, spatial and cultural desirables into mathematical models using computing, statistics, optimization and an algorithmic way of formulating and solving problems. The early universities of the West which began to train professionals in planning, spawned some of the most ingenious planners, who were experts in these domains. This was because these very subjects were absorbed into the planning curriculum that had its roots in the social sciences, geography and architecture. Planning in India, and its education differ from the West.\n\nBased on the above passage, the following assumptions have been made :\n\n1. India needs a new generation of urban professionals with knowledge relevant to modern urban practice.\n2. Indian universities at present have no capacity or potential to impart training in systems approach.\n\nWhich of the assumptions given above is/are correct?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "An assumption is what the author must be **taking for granted** to write that last line: \"Planning in India, and its education differ from the West.\" That sentence is written as a *deficiency*, contrasted with the West's \"most ingenious planners\".\n\n- **Assumption 1 — valid.** The whole passage is built on the premise that systems-based, interdisciplinary training produces good planners; saying India's education differs presupposes India needs professionals equipped with that modern knowledge.\n- **Assumption 2 — invalid.** \"No capacity **or potential**\" is an absolute. The passage says Indian planning education *differs*; **different ≠ incapable, and certainly not without potential.** Extreme words (no, never, only, always) in an assumption statement are almost always the giveaway.\n\nSo **1 only**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    11
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 13,
+   "page": 11,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nNot every voice on the internet commands the same kind of audience. When anonymous private entities with high capital can pay for more space for their opinions, they are effectively buying a louder voice. If political discourse in the digital sphere is a matter of outshining one's opponent till the election is won, then the quality of politics suffers. The focus of social media is restricted to the promotion of content that generates more user engagement, regardless of how inflammatory the content may be.\n\nWhich one of the following statements best reflects the central idea of the above passage?",
+   "options": [
+    "Constructed as a marketplace of views, social media ensures instant access to information.",
+    "Social media are not ideal or moral institutions but the products built by companies to make profits.",
+    "Social media have been created to strengthen democracies.",
+    "In today's world, social media are inevitable for well-informed social life."
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Deciding line: **\"The focus of social media is restricted to the promotion of content that generates more user engagement, regardless of how inflammatory the content may be.\"**\n\nEngagement above all, plus \"entities with high capital... buying a louder voice\" = platforms run on a **commercial logic, not a moral or democratic one**. That is exactly option (b).\n\n- **(a)** \"Instant access to information\" — the passage is about unequal amplification, not access speed.\n- **(c)** Directly contradicted: it says \"the quality of politics suffers\".\n- **(d)** \"Inevitable for well-informed social life\" — praise the passage never offers.\n\nCentral idea = the passage's own critical verdict, not a general truth about social media.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    14
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 14,
+   "page": 11,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nNot every voice on the internet commands the same kind of audience. When anonymous private entities with high capital can pay for more space for their opinions, they are effectively buying a louder voice. If political discourse in the digital sphere is a matter of outshining one's opponent till the election is won, then the quality of politics suffers. The focus of social media is restricted to the promotion of content that generates more user engagement, regardless of how inflammatory the content may be.\n\nBased on the above passage, the following assumptions have been made :\n\n1. Internet is not inclusive enough.\n2. Internet can adversely affect the quality of politics in a country.\n\nWhich of the assumptions given above is/are valid?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Test each against a line of the passage.\n\n- **Assumption 1 — valid.** **\"Not every voice on the internet commands the same kind of audience\"** + those with capital \"are effectively buying a louder voice\". Unequal reach = **the internet is not inclusive enough**. Note: inclusive here means equal *amplification*, which is precisely what the passage denies.\n- **Assumption 2 — valid.** **\"then the quality of politics suffers\"** — stated almost verbatim.\n\nBoth follow, so **Both 1 and 2**. Careless candidates reject 1 by reading \"inclusive\" as \"access to the internet\"; the passage is about whose voice is *heard*, not who can log on.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    13
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 15,
+   "page": 11,
+   "stem": "222³³³ + 333²²² is divisible by which of the following numbers?",
+   "options": [
+    "2 and 3 but not 37",
+    "3 and 37 but not 2",
+    "2 and 37 but not 3",
+    "2, 3 and 37"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Check each divisor separately.\n\n**By 2:** 222^333 is even. 333^222 is **odd** (an odd base to any power stays odd). even + odd = **odd** → **not divisible by 2**. This one line kills options (a), (c), (d) if you trust it.\n\n**By 3:** 222 = 3 × 74 and 333 = 3 × 111, so 3 divides both terms → divides the sum. ✔\n\n**By 37:** 222 = **37 × 6** and 333 = **37 × 9**, so 37 divides both terms → divides the sum. ✔\n\nDivisible by **3 and 37 but not 2** → (b).\n\nMemory hook: 111 = 3 × 37, so every repdigit 222, 333, 444… carries both 3 and 37.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 16,
+   "page": 11,
+   "stem": "What percent of water must be mixed with honey so as to gain 20% by selling the mixture at the cost price of honey?",
+   "options": [
+    "20%",
+    "10%",
+    "5%",
+    "4%"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Take **100 litres of honey at Rs 1/litre → cost = Rs 100**. Water is free, so adding *x* litres costs nothing.\n\nMixture sold **at honey's cost price**, Rs 1/litre:\n- Revenue = (100 + x) × 1 = 100 + x\n- Cost = 100\n- Profit = x\n\nWant 20% gain: **x/100 = 20/100 → x = 20**.\n\nSo 20 litres of water per 100 litres of honey = **20%**.\n\nShortcut worth memorising: when the adulterant is free and the mixture sells at the pure article's cost price, **gain % = (water ÷ pure article) × 100**. So a 20% gain needs water = 20% of the honey.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "In the printed paper the options are laid out in a two-column grid: (a) 20% and (b) 10% on the first row, (c) 5% and (d) 4% on the second. Order a,b,c,d preserved here.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 17,
+   "page": 11,
+   "stem": "What is the rightmost digit preceding the zeros in the value of 30³⁰?",
+   "options": [
+    "1",
+    "3",
+    "7",
+    "9"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Split the base: **30³⁰ = (3 × 10)³⁰ = 3³⁰ × 10³⁰**.\n\nThe 10³⁰ supplies exactly **thirty trailing zeros**, and 3³⁰ is odd (so it contributes no extra zero). Therefore the digit just before the block of zeros is the **units digit of 3³⁰**.\n\nCycle of units digits of powers of 3: **3, 9, 7, 1** (period 4).\n30 ÷ 4 = 7 remainder **2** → take the 2nd term → **9**.\n\nAnswer: **9**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Options printed in a two-column grid: (a) 1 and (b) 3 on the first row, (c) 7 and (d) 9 on the second. Order a,b,c,d preserved here.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 18,
+   "page": 11,
+   "stem": "421 and 427, when divided by the same number, leave the same remainder 1. How many numbers can be used as the divisor in order to get the same remainder 1?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "If dividing by *n* leaves remainder 1 in both cases, then *n* divides **421 − 1 = 420** and **427 − 1 = 426**.\n\nSo *n* must divide **gcd(420, 426)**:\n426 − 420 = 6, and 6 | 420 → **gcd = 6**.\n\nDivisors of 6: 1, 2, 3, 6. Discard **n = 1** — a remainder of 1 is impossible when the divisor is 1 (remainder must be less than the divisor).\n\nVerify the survivors:\n- 421 = 2(210) + 1, 427 = 2(213) + 1 ✔\n- 421 = 3(140) + 1, 427 = 3(142) + 1 ✔\n- 421 = 6(70) + 1, 427 = 6(71) + 1 ✔\n\n**3 possible divisors** → (c).",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Options printed in a two-column grid: (a) 1 and (b) 2 on the first row, (c) 3 and (d) 4 on the second. Order a,b,c,d preserved here.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 19,
+   "page": 11,
+   "stem": "A can X contains 399 litres of petrol and a can Y contains 532 litres of diesel. They are to be bottled in bottles of equal size so that whole of petrol and diesel would be separately bottled. The bottle capacity in terms of litres is an integer. How many different bottle sizes are possible?",
+   "options": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "One bottle size must divide **both** 399 and 532 exactly, so the size is any **common divisor** — i.e. any divisor of their HCF.\n\nFactorise:\n- 399 = 3 × 133 = **3 × 7 × 19**\n- 532 = 4 × 133 = **2² × 7 × 19**\n\n**HCF = 7 × 19 = 133.**\n\nNumber of bottle sizes = number of divisors of 133 = **1, 7, 19, 133** → **4**.\n\n(Sanity check on 133 L: 399/133 = 3 bottles of petrol, 532/133 = 4 bottles of diesel — whole numbers, fine.) The trap is answering \"1\" by giving only the HCF; the question asks how many *sizes* work, and every divisor of the HCF does.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Options printed in a two-column grid: (a) 3 and (b) 4 on the first row, (c) 5 and (d) 6 on the second. Order a,b,c,d preserved here.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 20,
+   "page": 11,
+   "stem": "Consider the following statements in respect of the sum S = x + y + z, where x, y and z are distinct prime numbers each less than 10 :\n\n1. The unit digit of S can be 0.\n2. The unit digit of S can be 9.\n3. The unit digit of S can be 5.\n\nWhich of the statements given above are correct?",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Primes below 10: **2, 3, 5, 7**. Choosing 3 distinct ones gives only **four** possible sums — just list them all:\n\n| Triple | Sum | Unit digit |\n|---|---|---|\n| 2+3+5 | 10 | **0** |\n| 2+3+7 | 12 | 2 |\n| 2+5+7 | 14 | 4 |\n| 3+5+7 | **15** | **5** |\n\n- Statement 1 (unit digit 0): **yes**, from 2+3+5 = 10.\n- Statement 2 (unit digit 9): **no** — no sum ends in 9.\n- Statement 3 (unit digit 5): **yes**, from 3+5+7 = 15.\n\n**1 and 3 only** → (c). With only four cases, exhaustive listing beats any clever parity argument.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 21,
+   "page": 13,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nBy the time children reach class 8, the bulk of them tend to be in the age range of 13 years to 15 years. But in our country, about a quarter of all children in class 8 struggle with reading simple texts and more than half are still unable to do basic arithmetic operations like division. Every year about 25 million young boys and girls from elementary school move into the life that lies for them beyond compulsory schooling. They cannot enter the workforce at least in the organized sector till they are 18. For many families, these children are the first from their families ever to get this far in school. Parents and children expect that such 'graduates' from school will go on to high school and college. Hardly anyone wants to go back to agriculture. On the other hand, abilities in terms of academic competencies are far lower than they should be even based on curricular expectations of class 8.\n\nBased on the above passage, the following assumptions have been made :\n\n1. For effective school education, parents have greater role than the governments.\n2. School curriculum that conforms to today's requirements and is uniform for the entire country may address the issues brought out.\n\nWhich of the assumptions given above is/are valid?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**An assumption must be something the passage silently takes for granted — check whether the passage's argument depends on it.**\n\n**Assumption 1 — parents > governments:** The passage mentions parents only once, and only to say what they *expect* (\"Parents and children expect that such 'graduates' ... will go on to high school and college\"). It never compares parents' role with the government's, and its argument does not need that comparison. **Not valid.**\n\n**Assumption 2 — a uniform, modern national curriculum:** The passage says abilities are low \"even based on curricular expectations of class 8\" — i.e. children are failing the curriculum that already exists. It nowhere assumes uniformity across the country is the fix; that is an outside solution the candidate imports. **Not valid.**\n\nBoth statements add ideas the passage does not rest on → **Neither 1 nor 2 (d)**.\n\n*Trap:* an assumption is not \"any reasonable policy idea\" — it is a hidden premise without which the passage collapses.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    22
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 22,
+   "page": 13,
+   "stem": "Directions: Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nBy the time children reach class 8, the bulk of them tend to be in the age range of 13 years to 15 years. But in our country, about a quarter of all children in class 8 struggle with reading simple texts and more than half are still unable to do basic arithmetic operations like division. Every year about 25 million young boys and girls from elementary school move into the life that lies for them beyond compulsory schooling. They cannot enter the workforce at least in the organized sector till they are 18. For many families, these children are the first from their families ever to get this far in school. Parents and children expect that such 'graduates' from school will go on to high school and college. Hardly anyone wants to go back to agriculture. On the other hand, abilities in terms of academic competencies are far lower than they should be even based on curricular expectations of class 8.\n\nWhich one of the following statements best reflects the central idea conveyed by the passage?",
+   "options": [
+    "Total eradication of poverty in the country will resolve the issue of under-performance of our school-children.",
+    "Monetary incentives to parents and teachers is a strategy to improve the children's academic performance.",
+    "Public policy should ensure that competencies and achievements of young people are aligned with their expectations.",
+    "India is not going to take advantage of the demographic dividend unless some school pass-outs go back to agriculture."
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Find the tension the passage sets up, and pick the option that names both sides of it.**\n\nThe passage's structure is a gap:\n- **Expectation side:** \"Parents and children expect that such 'graduates' from school will go on to high school and college. Hardly anyone wants to go back to agriculture.\"\n- **Reality side:** \"abilities in terms of academic competencies are far lower than they should be even based on curricular expectations of class 8.\"\n\n**That mismatch between aspiration and actual competency is the whole point** → (c) public policy must align competencies and achievements with expectations.\n\nWhy the others fail:\n- **(a) poverty eradication** — poverty is never mentioned, and \"total eradication ... will resolve\" is an extreme causal claim.\n- **(b) monetary incentives** — no incentive, salary or reward is discussed anywhere.\n- **(d) go back to agriculture** — reverses the passage; it notes \"hardly anyone wants to go back to agriculture\" as a fact, not as a prescription. \"Demographic dividend\" is also not in the text.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    21
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 23,
+   "page": 15,
+   "stem": "[The passage for this item begins on an earlier page that is not part of this batch. Only its closing lines are visible on this page:]\n\n... sense further back, because we nurse the illusion that the industrial revolution ended a golden age.\n\nWhich one of the following statements best reflects the thinking of the author about the science?",
+   "options": [
+    "Science must value the commitment of the scientists.",
+    "Science is a product of civilized society and must be used for the promotion of scientific awareness in people.",
+    "Industrial revolution was made possible by the advancements in science.",
+    "Science must pursue truth but be responsible for social welfare."
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**The question asks for the author's view of *science itself*, not a fact about history.**\n\nThe closing line — the illusion \"that the industrial revolution ended a golden age\" — is the author rejecting the romantic anti-science position: progress did not destroy a paradise. But the whole thrust of such a passage is that science's licence to seek truth carries an obligation to society.\n\n**(d) Science must pursue truth but be responsible for social welfare** is the only option that states a *position on what science ought to do* — truth-seeking plus social responsibility.\n\nWhy the others fail:\n- **(a)** \"value the commitment of scientists\" — a comment on scientists, not on science's purpose; too narrow.\n- **(b)** inverts the relation (science as a *product* of society, used merely to spread awareness) — awareness-spreading is not the author's demand.\n- **(c)** is a *historical fact claim* about the industrial revolution, not the author's thinking about science; and the passage's last line uses the industrial revolution to attack a myth, not to credit science with it.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Comprehension item whose passage starts on the preceding page (p-13/p-14), which was not supplied in this batch. Only the final sentence fragment of the passage appears at the top of p-15 and is reproduced above. The stem is therefore NOT self-contained; the missing passage text must be added from the earlier page. The item may also share that passage with earlier-numbered items on that page.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 24,
+   "page": 15,
+   "stem": "Consider the sequence\n\nA _ BCD _ BBCDABC _ DABC _ D\n\nthat follows a certain pattern. Which one of the following completes the sequence?",
+   "options": [
+    "B, A, D, C",
+    "B, A, C, D",
+    "A, A, C, D",
+    "A, A, D, C"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**Break the string into blocks of 5 — the count gives the pattern away.**\n\nWrite it out: `A _ B C D | _ B B C D | A B C _ D | A B C _ D` (20 letters, 4 blanks).\n\nThe rule: each block is **A B C D with one letter doubled, and the doubled letter moves one step right each block**:\n\n| Block | Pattern | Blank |\n|---|---|---|\n| 1 | A **A** B C D | **A** |\n| 2 | **A** B B C D | **A** |\n| 3 | A B C **C** D | **C** |\n| 4 | A B C D **D** | **D** |\n\nReading the four blanks in order: **A, A, C, D** → option (c).\n\n*Check:* the full string becomes AABCD ABBCD ABCCD ABCDD — the double slides A→B→C→D. Clean.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 25,
+   "page": 15,
+   "stem": "Two persons P and Q enter into a business. P puts ₹14,000 more than Q, but P has invested for 8 months and Q has invested for 10 months. If P's share is ₹400 more than Q's share out of the total profit of ₹2,000, what is the capital contributed by P?",
+   "options": [
+    "₹30,000",
+    "₹26,000",
+    "₹24,000",
+    "₹20,000"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Partnership profit splits in the ratio of capital × time.**\n\nShares: P + Q = 2000 and P − Q = 400 → **P = ₹1200, Q = ₹800, so ratio 3 : 2**.\n\nLet Q's capital = x, so P's capital = x + 14000.\n\n$$\\frac{8(x+14000)}{10x}=\\frac{3}{2}$$\n\nCross-multiply: 16(x + 14000) = 30x → 16x + 224000 = 30x → **14x = 224000 → x = 16000**.\n\nP's capital = 16000 + 14000 = **₹30,000** (a).\n\n*Verify:* P = 30000×8 = 240000; Q = 16000×10 = 160000 → 240 : 160 = 3 : 2 ✓ (₹1200 vs ₹800).",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 26,
+   "page": 15,
+   "stem": "P's salary is 20% lower than Q's salary which is 20% lower than R's salary. By how much percent is R's salary more than P's salary?",
+   "options": [
+    "48·75%",
+    "56·25%",
+    "60·50%",
+    "62·25%"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Take R = 100 — successive percentages never add, they multiply.**\n\n- R = 100\n- Q is 20% lower than R → Q = 80\n- P is 20% lower than Q → **P = 0.8 × 80 = 64**\n\nR is more than P by:\n\n$$\\frac{100-64}{64}\\times100=\\frac{36}{64}\\times100=\\mathbf{56.25\\%}$$\n\nAnswer (b).\n\n*Trap:* the base for \"how much more is R than P\" is **P (64)**, not R. Dividing by 100 gives 36%, which is not even an option — that is the check that you used the right base.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 27,
+   "page": 15,
+   "stem": "A number is mistakenly divided by 4 instead of multiplying by 4. What is the percentage change in the result due to this mistake?",
+   "options": [
+    "25%",
+    "50%",
+    "72·75%",
+    "93·75%"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Percentage change is always measured against the *intended* (correct) result.**\n\nLet the number be 4 (choose a convenient value, or use x):\n- Correct result: 4 × 4 = **16**\n- Wrong result: 4 ÷ 4 = **1**\n\n$$\\text{change}=\\frac{1-16}{16}\\times100=-\\frac{15}{16}\\times100=-93.75\\%$$\n\nSo the result **falls by 93.75%** → (d).\n\nGeneral form: wrong/correct = (x/4)/(4x) = **1/16**, i.e. the answer is 1/16 of what it should be — a drop of 15/16 = 93.75%.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 28,
+   "page": 15,
+   "stem": "In an examination, 80% of students passed in English, 70% of students passed in Hindi and 15% failed in both the subjects. What is the percentage of students who failed in only one subject?",
+   "options": [
+    "15%",
+    "20%",
+    "25%",
+    "35%"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Convert everything to failures, then use the union formula.**\n\n- Failed English = 100 − 80 = **20%**\n- Failed Hindi = 100 − 70 = **30%**\n- Failed both = **15%**\n\nFailed at least one = 20 + 30 − 15 = **35%**.\n\nFailed **only one** = (failed at least one) − (failed both) = 35 − 15 = **20%** (b).\n\n*Cross-check by parts:* only English = 20 − 15 = 5%; only Hindi = 30 − 15 = 15%; 5 + 15 = **20%** ✓ (and passed both = 65%).\n\n*Trap:* 35% is \"failed at least one\", not \"failed only one\".",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 29,
+   "page": 15,
+   "stem": "A father said to his son, \"n years back I was as old as you are now. My present age is four times your age n years back\". If the sum of the present ages of the father and the son is 130 years, what is the difference of their ages?",
+   "options": [
+    "30 years",
+    "32 years",
+    "34 years",
+    "36 years"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Turn each sentence into an equation.**\n\nLet father = F, son = S.\n1. \"n years back I was as old as you are now\": **F − n = S**, so **n = F − S**.\n2. \"My present age is four times your age n years back\": **F = 4(S − n)**.\n\nSubstitute n = F − S into (2): S − n = S − (F − S) = **2S − F**.\n\nSo F = 4(2S − F) → F = 8S − 4F → **5F = 8S → F = 1.6S**.\n\nWith F + S = 130: 1.6S + S = 2.6S = 130 → **S = 50, F = 80**.\n\nDifference = 80 − 50 = **30 years** (a).\n\n*Verify:* n = 30. Son 30 years back = 20, and 4 × 20 = 80 = father's present age ✓. Father 30 years back = 50 = son's age now ✓.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 30,
+   "page": 15,
+   "stem": "Consider the following :\n\n1. 1000 litres = 1 m³\n2. 1 metric ton = 1000 kg\n3. 1 hectare = 10000 m²\n\nWhich of the above are correct?",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Check each conversion from its base unit.**\n\n1. **1000 litres = 1 m³** — 1 litre = 1 dm³ = (0.1 m)³ = 0.001 m³, so 1000 L = 1 m³. **Correct.**\n2. **1 metric ton = 1000 kg** — the tonne is defined as 10³ kg. **Correct.** (Only the imperial short/long ton differs; \"metric\" settles it.)\n3. **1 hectare = 10000 m²** — a hectare is 100 m × 100 m. **Correct.**\n\nAll three hold → **1, 2 and 3 (d)**.\n\n*Bank these:* 1 ha = 10⁴ m², 100 ha = 1 km²; 1 m³ = 1000 L; 1 tonne = 1000 kg = 10⁶ g.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 31,
+   "page": 17,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\n\"The history of science is the real history of mankind.\" In this striking epigram, a nineteenth-century writer links science with its background. Like most epigrams, its power lies in emphasizing by contrast an aspect of truth which may be easily overlooked. In this case, it is easy to overlook the relations between science and mankind, and to treat the former as some abstract third party, which can sometimes be praised for its beneficial influences, but frequently and conveniently blamed for the horrors of war. Science and mankind cannot be divorced from time to time at men's convenience. Yet we have seen that, in spite of countless opportunities of improvement, the opening years of the present period of civilization have been dominated by international conflict. Is this the inevitable result of the progress of science or does the fault lie elsewhere?\n\nWhich of the following is/are emphatically conveyed by the author of the passage?\n\n1. Without science, mankind could not have continued to exist till today.\n2. It is the science that will ultimately determine the destiny of mankind.\n\nSelect the correct answer using the code given below.",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Neither claim is in the passage.**\n\n- Statement 1 (mankind could not have survived without science): the passage never discusses survival at all. It discusses the *relation* between science and man.\n- Statement 2 (science will determine mankind's destiny): the passage argues the opposite drift — the closing question, *\"Is this the inevitable result of the progress of science or does the fault lie elsewhere?\"*, deliberately leaves the blame with **man**, not science.\n\nDeciding line: *\"Science and mankind cannot be divorced from time to time at men's convenience.\"* The emphasis is on **inseparability**, not on science's supremacy.\n\nAnswer: **(d) Neither 1 nor 2**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    32
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 32,
+   "page": 17,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\n\"The history of science is the real history of mankind.\" In this striking epigram, a nineteenth-century writer links science with its background. Like most epigrams, its power lies in emphasizing by contrast an aspect of truth which may be easily overlooked. In this case, it is easy to overlook the relations between science and mankind, and to treat the former as some abstract third party, which can sometimes be praised for its beneficial influences, but frequently and conveniently blamed for the horrors of war. Science and mankind cannot be divorced from time to time at men's convenience. Yet we have seen that, in spite of countless opportunities of improvement, the opening years of the present period of civilization have been dominated by international conflict. Is this the inevitable result of the progress of science or does the fault lie elsewhere?\n\nBased on the above passage, the following assumptions have been made :\n\n1. The horrors of modern life are the inevitable result of the progress of science.\n2. The aspect of truth likely to be overlooked is that science is what man has made it.\n\nWhich of the assumptions given above is/are correct?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Assumption 2 only.**\n\n- **1 is wrong**: the passage puts this as an open *question*, not an assumption — *\"Is this the inevitable result of the progress of science or does the fault lie elsewhere?\"* An author who asks whether X is true has not assumed X.\n- **2 is right**: deciding line — *\"it is easy to overlook the relations between science and mankind, and to treat the former as some abstract third party.\"* The truth being overlooked is precisely that science is **not** a third party — it is man's own creation, i.e. science is what man has made it.\n\nAnswer: **(b) 2 only**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    31
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 33,
+   "page": 17,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nOnly with long experience and opening of his wares on many a beach where his language is not spoken, will the merchant come to know the worth of what he carries, and what is parochial and what is universal in his choice. Such delicate goods as justice, love and honour, courtesy, and indeed all the things we care for, are valid everywhere but they are variously moulded and often differently handled, and sometimes nearly unrecognizable if you meet them in a foreign land, and the art of learning fundamental common values is perhaps the greatest gain of travel to those who wish to live at ease among their fellows.\n\nWhen we meet other people while we travel, we learn to differentiate between",
+   "options": [
+    "imagination and understanding",
+    "communities and nationalities",
+    "local values and universal values",
+    "friends and foes"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Deciding line: the merchant learns *\"what is parochial and what is universal in his choice.\"*\n\n**Parochial = local, universal = common to all** — that is exactly option (c).\n\nWhy the others fail:\n- (a) imagination/understanding — neither word nor idea appears.\n- (b) communities/nationalities — the passage distinguishes *values*, not groups of people.\n- (d) friends/foes — nothing hostile in the passage; it ends with living \"at ease among their fellows.\"\n\nAnswer: **(c) local values and universal values**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    34
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 34,
+   "page": 19,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nOnly with long experience and opening of his wares on many a beach where his language is not spoken, will the merchant come to know the worth of what he carries, and what is parochial and what is universal in his choice. Such delicate goods as justice, love and honour, courtesy, and indeed all the things we care for, are valid everywhere but they are variously moulded and often differently handled, and sometimes nearly unrecognizable if you meet them in a foreign land, and the art of learning fundamental common values is perhaps the greatest gain of travel to those who wish to live at ease among their fellows.\n\nWith reference to the above passage, the following assumptions have been made :\n\n1. Travel leads to an understanding of humans.\n2. Travel helps those who wish to learn fundamental common values.\n3. A person with long experience in travel can resolve differences amongst people.\n\nWhich of the assumptions given above are valid?",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**1 and 2 only.**\n\n- **2 is explicit**: *\"the art of learning fundamental common values is perhaps the greatest gain of travel to those who wish to live at ease among their fellows.\"*\n- **1 follows**: values are \"variously moulded... sometimes nearly unrecognizable... in a foreign land\", and the traveller learns to read them — that is an understanding of humans, and it underpins living at ease among one's fellows.\n- **3 fails**: the passage says the traveller *recognises* differences in how common values are handled. **Nowhere does it claim he can resolve disputes between others** — that is an extra power the text never grants.\n\nAnswer: **(a) 1 and 2 only**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The passage (Passage—2) is printed on page 17; the item appears on page 19 and refers to it as \"the above passage\". Full passage reproduced in the stem.",
+   "shares_passage_with": [
+    33
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 35,
+   "page": 19,
+   "stem": "Let X be a two-digit number and Y be another two-digit number formed by interchanging the digits of X. If (X + Y) is the greatest two-digit number, then what is the number of possible values of X?",
+   "options": [
+    "2",
+    "4",
+    "6",
+    "8"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let X = 10a + b, so Y = 10b + a.\n\nX + Y = 11a + 11b = **11(a + b)**.\n\nGreatest two-digit number = 99, so 11(a + b) = 99 → **a + b = 9**.\n\nNow count valid digit pairs. X two-digit ⇒ a ≠ 0; Y two-digit ⇒ b ≠ 0.\n\na = 1…8 gives b = 8…1, all non-zero: **18, 27, 36, 45, 54, 63, 72, 81** — 8 numbers. (a = 9, b = 0 is rejected because Y = 09 is not two-digit.)\n\nAnswer: **(d) 8**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 36,
+   "page": 19,
+   "stem": "Consider the following :\n\nWeight of 6 boys = Weight of 7 girls = Weight of 3 men = Weight of 4 women\n\nIf the average weight of the women is 63 kg, then what is the average weight of the boys?",
+   "options": [
+    "40 kg",
+    "42 kg",
+    "45 kg",
+    "63 kg"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "These are **total** weights, not averages.\n\nWeight of 4 women = 4 × 63 = **252 kg**.\n\nGiven weight of 6 boys = weight of 4 women = 252 kg.\n\nAverage weight of a boy = 252 ÷ 6 = **42 kg**.\n\n(The girls and men data is filler — you never need it.)\n\nAnswer: **(b) 42 kg**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 37,
+   "page": 19,
+   "stem": "How many times the hour hand and the minute hand coincide in a clock between 10:00 a.m. and 2:00 p.m. (same day)?",
+   "options": [
+    "3 times",
+    "4 times",
+    "5 times",
+    "6 times"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "The hands coincide every **65 5/11 min** (720/11 min), and 12:00 is a coincidence.\n\nWork outward from 12:00 noon:\n- One step back: 12:00 − 65 5/11 min = **10:54:33 a.m.** ✓ (in range)\n- **12:00:00 noon** ✓\n- One step forward: **1:05:27 p.m.** ✓\n- Next: 2:10:55 p.m. ✗ (past 2 p.m.); two steps back: 9:49 a.m. ✗ (before 10 a.m.)\n\nSo **3 coincidences**. Note the 11-o'clock hour has no coincidence of its own — it is absorbed into 12:00.\n\nAnswer: **(a) 3 times**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 38,
+   "page": 19,
+   "stem": "The calendar for the year 2025 is same for",
+   "options": [
+    "2029",
+    "2030",
+    "2031",
+    "2033"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "A calendar repeats when the **odd days sum to 0 (mod 7)** and the leap status matches.\n\nAdd odd days year by year (leap year = 2, ordinary = 1):\n\n| Year | Odd days | Running total |\n|---|---|---|\n| 2025 | 1 | 1 |\n| 2026 | 1 | 2 |\n| 2027 | 1 | 3 |\n| 2028 (leap) | 2 | 5 |\n| 2029 | 1 | 6 |\n| 2030 | 1 | **7 ≡ 0** |\n\nSo 1 Jan **2031** falls on the same weekday as 1 Jan 2025 (both Wednesday), and both are ordinary years.\n\nAnswer: **(c) 2031**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 39,
+   "page": 19,
+   "stem": "Let p, q, r and s be distinct positive integers. Let p, q be odd and r, s be even. Consider the following statements :\n\n1. (p − r)²(qs) is even.\n2. (q − s)q²s is even.\n3. (q + r)²(p + s) is odd.\n\nWhich of the statements given above are correct?",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Parity only: p, q **odd**; r, s **even**.\n\n1. (p − r)²(qs): odd − even = odd, squared = odd. qs = odd × even = **even**. odd × even = **even** ✓\n2. (q − s)q²s: odd − even = odd; q² = odd; s = even. odd × odd × even = **even** ✓\n3. (q + r)²(p + s): odd + even = odd, squared = odd. p + s = odd + even = odd. odd × odd = **odd** ✓\n\n**Any product containing an even factor is even; a product of only odd factors is odd.** All three hold.\n\nAnswer: **(d) 1, 2 and 3**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 40,
+   "page": 19,
+   "stem": "What is the angle between the minute hand and hour hand when the clock shows 4:25 hours?",
+   "options": [
+    "12·5°",
+    "15°",
+    "17·5°",
+    "20°"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Measure both hands from 12.\n\n- Minute hand: 25 min × 6° = **150°**\n- Hour hand: 4 × 30° + 25 × 0.5° = 120° + 12.5° = **132.5°** (the hour hand creeps 0.5° per minute — that half-degree drift is the whole question)\n\nAngle = 150° − 132.5° = **17.5°**\n\nAnswer: **(c) 17·5°**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 41,
+   "page": 21,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nConventional classrooms, by emphasizing fixed duration over learning effectiveness, resign themselves to variable outcomes. The tyranny of the classroom is that every learner is subjected to the same set of lectures in the same way for the same duration. In the end, a few learners shine, some survive, and the rest are left behind. After the fixed duration, the classroom model moves on, with not a thought spared for those left behind. This is how we end up with 10 percent employability in our graduates after a decade and half of formal education. Repeating the same ineffectual script in the realm of skill education will not produce different results.\n\nWhich of the following statements best reflects/reflect the most logical and rational inference/inferences that can be made from the passage?\n\n1. In conventional classroom learning, the central goal is duration of learning rather than attainment of competency.\n2. Conventional classrooms encourage one-size-fits-all approach and stamp out all differentiation.\n\nSelect the correct answer using the code given below.",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (c) Both 1 and 2**\n\n**The word that decides this question is \"differentiation.\"** In education writing it is a term of art — *differentiated instruction*, i.e. varying the content, method and pace of **teaching** to suit the individual learner. It does **not** mean \"difference in results.\" Read it correctly and Statement 2 is not an overstatement at all; read it as \"difference in outcomes\" and you talk yourself out of the right answer.\n\n**Statement 1 — supported.**\nSentence 1: *\"Conventional classrooms, by emphasizing fixed duration over learning effectiveness, resign themselves to variable outcomes.\"* The passage itself sets up the pair: what is emphasised is **fixed duration**; what is subordinated is **learning effectiveness**. Statement 1 restates that with \"duration of learning\" for *fixed duration* and \"attainment of competency\" for *learning effectiveness* — and the closing line about **10 percent employability** confirms that \"effectiveness\" is being measured in competency terms. Direct, one-to-one match.\n\n**Statement 2 — also supported, on both halves.**\n\n*One-size-fits-all:* *\"every learner is subjected to the same set of lectures in the same way for the same duration.\"* That is the definition of one-size-fits-all, stated in the passage's own words.\n\n*Stamps out all differentiation:* the quantifier \"all\" is what tempts you to reject this — but the passage supplies its own absolute. It names **three** variables and freezes every one of them: **what** is taught (*the same set of lectures*), **how** it is taught (*in the same way*), and **for how long** (*for the same duration*). Content, method, pace — there is no remaining dimension along which instruction could be varied. And \"every learner\" is itself universal. The passage then closes the last escape route: after the fixed duration the model *\"moves on, with not a thought spared for those left behind\"* — no remedial track, no second pace, nothing individualised even after the failure is visible. Differentiation of instruction is not merely reduced; it has nowhere left to exist.\n\n**Why (a) \"1 only\" is wrong.**\nThe rejection of 2 runs: *\"the passage says a few shine, some survive, and the rest are left behind — that IS differentiation, so 'stamps out all differentiation' contradicts the passage.\"* This swaps the term of art for a near-synonym. \"A few shine, some survive, the rest are left behind\" describes **variable outcomes** — which the very first sentence flags as the **result** the model resigns itself to. Those unequal outcomes are the *consequence of* undifferentiated teaching, not an instance of differentiation. Uniform input, variable output: that is the passage's entire argument. Citing the variable output as evidence against the uniform input reverses cause and effect.\n\nThe second worry — that \"all\" is an unsupported absolute of the kind CSAT usually punishes — does not apply here either. The absolute-quantifier trap fires when a statement extends *beyond* the passage (\"all skill education will fail\", \"no student ever learns\"). Here the absolute is the passage's own: *every* learner, *same* lectures, *same* way, *same* duration. Statement 2 borrows the passage's universality rather than adding to it. Note also that 2 stays strictly inside the passage — it makes no claim about skill education, employability rates, or what should replace the classroom.\n\n**The takeaway for the next one like it:** when a statement uses a domain term (\"differentiation\", \"attainment\", \"competency\"), fix its technical meaning before testing it, and check whether a strong quantifier is *imported by you* or *already present in the passage*. Here both checks clear, so both inferences stand — **(c)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    42
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": "Official key says c, worked solution said a (medium confidence)."
+  },
+  {
+   "q_no": 42,
+   "page": 21,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nConventional classrooms, by emphasizing fixed duration over learning effectiveness, resign themselves to variable outcomes. The tyranny of the classroom is that every learner is subjected to the same set of lectures in the same way for the same duration. In the end, a few learners shine, some survive, and the rest are left behind. After the fixed duration, the classroom model moves on, with not a thought spared for those left behind. This is how we end up with 10 percent employability in our graduates after a decade and half of formal education. Repeating the same ineffectual script in the realm of skill education will not produce different results.\n\nBased on the above passage, the following assumptions have been made :\n\n1. As a large number of workers in our country are employed in unorganized sector, India does not need to change its present conventional classroom system of education.\n2. Even with its present conventional classroom system of education, India produces sufficient number of skilled workers to fully realize the benefits of demographic dividend.\n\nWhich of the assumptions given above is/are valid?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "An assumption must be something the author **takes for granted**. Both statements contradict the passage.\n\n**Assumption 1** — \"India does not need to change its system\": the passage's last line says \"**Repeating the same ineffectual script... will not produce different results**\", i.e. change is exactly what is needed. Also the unorganized sector is never mentioned. Invalid.\n\n**Assumption 2** — \"produces sufficient skilled workers\": the passage says we get \"**10 percent employability in our graduates after a decade and half of formal education**\". That is the opposite of sufficient. Demographic dividend is never mentioned. Invalid.\n\nAnswer: **Neither 1 nor 2**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [
+    41
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 43,
+   "page": 23,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nWhen a child reaches adolescence, there is apt to be a conflict between the parents and the child, since the latter considers himself to be by now quite capable of managing his own affairs, while the former are filled with parental solicitude, which is often a disguise for love of power. Parents consider, usually, that the various moral problems which arise in adolescence are peculiarly their province. The options they express, however, are so dogmatic that the young seldom confide in them, and usually go their own way in secret.\n\nBased on the above passage, the following assumptions have been made :\n\n1. The adolescent does not feel comfortable with his parents because they tend to be dominating and assertive.\n2. The adolescent of modern times does not have much respect for parents.\n\nWhich of the assumptions given above is/are valid?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Assumption 1 is what makes the last sentence work:** \"The opinions they express, however, are **so dogmatic that the young seldom confide in them**, and usually go their own way in secret.\" Dogmatic + \"solicitude... a disguise for **love of power**\" = dominating and assertive; not confiding = not comfortable. Valid.\n\n**Assumption 2 fails twice.** The passage never mentions **respect**, and never contrasts \"modern times\" with any earlier era — it describes adolescence in general. Secrecy is explained by parental dogmatism, not by disrespect. Invalid.\n\nAnswer: **1 only**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Passage—2 begins on page 21 and continues at the top of page 23; the complete passage is reproduced in the stem.",
+   "shares_passage_with": [
+    44
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 44,
+   "page": 23,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nWhen a child reaches adolescence, there is apt to be a conflict between the parents and the child, since the latter considers himself to be by now quite capable of managing his own affairs, while the former are filled with parental solicitude, which is often a disguise for love of power. Parents consider, usually, that the various moral problems which arise in adolescence are peculiarly their province. The options they express, however, are so dogmatic that the young seldom confide in them, and usually go their own way in secret.\n\nWhich one of the following statements best reflects the central idea of the above passage?",
+   "options": [
+    "Parents in general may not be of much help when children are on their way to becoming adults.",
+    "When children reach adolescence, involvement of parents in their lives is unnecessary.",
+    "Modern-day nuclear families are not capable of bringing up children properly.",
+    "In modern societies, adolescents tend to be stubborn, disobedient and careless."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "The passage's arc: parents claim moral guidance as \"peculiarly their province\", but are so dogmatic that \"**the young seldom confide in them, and usually go their own way in secret**\" — i.e. parents end up being of little help precisely when the child is becoming an adult. **(a) matches.**\n\n**(b)** \"involvement is unnecessary\" — the author criticises *how* parents involve themselves (dogmatism, love of power), never says involvement itself is unwanted. Too extreme.\n**(c)** nuclear families are never mentioned.\n**(d)** blames the adolescent; the passage blames the parents' dogmatism, and calls the adolescent \"quite capable of managing his own affairs\".\n\nAnswer: **(a)**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Passage—2 begins on page 21 and continues at the top of page 23; the complete passage is reproduced in the stem.",
+   "shares_passage_with": [
+    43
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 45,
+   "page": 23,
+   "stem": "What is the number of fives used in numbering a 260-page book?",
+   "options": [
+    "55",
+    "56",
+    "57",
+    "60"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Count the **digit 5** in the numbers 1 to 260 (position by position).\n\n**Units place:** 5, 15, 25, ..., 255 → (255 − 5)/10 + 1 = **26**.\n\n**Tens place:** blocks 50–59, 150–159, 250–259 → 10 + 10 + 10 = **30** (259 ≤ 260, so the last block is complete).\n\n**Hundreds place:** would need 500–599 — none, since the book stops at 260 → **0**.\n\nTotal = 26 + 30 = **56**. (Note 55 and 155 get counted twice, correctly — each uses two fives.)\n\nAnswer: **56**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 46,
+   "page": 23,
+   "stem": "What is the sum of the first 28 terms in the following sequence?\n\n1, 1, 2, 1, 3, 2, 1, 4, 3, 2, 1, 5, 4, 3, 2, ···",
+   "options": [
+    "83",
+    "84",
+    "85",
+    "86"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Break the sequence into groups: (1), (1,2), (1,3,2), (1,4,3,2), (1,5,4,3,2), ...\nGroup *n* has *n* terms: a 1, then *n* counting down to 2.\n\n**Terms used after n groups = 1+2+...+n.** For n = 7 that is 28 — the 28 terms are exactly 7 complete groups, no partial group to worry about.\n\nSum of group *n* = 1 + (2+3+...+n) = **n(n+1)/2**:\n1, 3, 6, 10, 15, 21, 28.\n\nTotal = 1+3+6+10+15+21+28 = **84**.\n\nAnswer: **84**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 47,
+   "page": 23,
+   "stem": "A person buys three articles P, Q and R for ₹3,330. If P costs 25% more than R and R costs 20% more than Q, then what is the cost of P?",
+   "options": [
+    "₹1,000",
+    "₹1,200",
+    "₹1,250",
+    "₹1,350"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Work in **ratio form**, not percentages, to avoid fractions.\n\nR is 20% more than Q → **Q : R = 5 : 6**.\nP is 25% more than R → **R : P = 4 : 5**.\n\nMake R common (LCM of 6 and 4 = 12): Q : R = 10 : 12, R : P = 12 : 15.\nSo **Q : R : P = 10 : 12 : 15**, total 37 parts.\n\n₹3,330 ÷ 37 = **₹90 per part**.\nP = 15 × 90 = **₹1,350** (R = ₹1,080, Q = ₹900; check 1350+1080+900 = 3330 ✓).\n\nAnswer: **₹1,350**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 48,
+   "page": 23,
+   "stem": "If the sum of the two-digit numbers AB and CD is the three-digit number 1CE, where the letters A, B, C, D, E denote distinct digits, then what is the value of A?",
+   "options": [
+    "9",
+    "8",
+    "7",
+    "Cannot be determined due to insufficient data"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Write it out: (10A + B) + (10C + D) = 100 + 10C + E.\n\nThe **10C cancels from both sides**:\n**10A + B + D = 100 + E**, i.e. 10A = 100 + E − B − D.\n\nNow bound it. B + D ≤ 9 + 8 = 17 and E ≥ 0, so 10A ≥ 100 − 17 = 83 ⇒ **A = 9** (A ≤ 9 since it is a digit).\n\nCheck it is achievable: 98 + 34 = 132 → A=9, B=8, C=3, D=4, E=2, all distinct ✓ (and B + D − E = 10 ✓).\n\nAnswer: **9**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 49,
+   "page": 23,
+   "stem": "Three numbers x, y, z are selected from the set of the first seven natural numbers such that x > 2y > 3z. How many such distinct triplets (x, y, z) are possible?",
+   "options": [
+    "One triplet",
+    "Two triplets",
+    "Three triplets",
+    "Four triplets"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Set = {1,...,7}, need **x > 2y** and **2y > 3z**. Fix z first — it is the most restricted.\n\n**z = 1:** need 2y > 3 ⇒ y ≥ 2.\n- y = 2 → 2y = 4, so x > 4: x = 5, 6, 7 → **3 triplets**\n- y = 3 → 2y = 6, so x > 6: x = 7 → **1 triplet**\n- y ≥ 4 → 2y ≥ 8 > 7, no x possible.\n\n**z = 2:** need 2y > 6 ⇒ y ≥ 4 ⇒ 2y ≥ 8, so x > 8 — impossible. z ≥ 2 all die the same way.\n\nTriplets: (5,2,1), (6,2,1), (7,2,1), (7,3,1) = **4**.\n\nAnswer: **Four triplets**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 50,
+   "page": 23,
+   "stem": "The total cost of 4 oranges, 6 mangoes and 8 apples is equal to twice the total cost of 1 orange, 2 mangoes and 5 apples. Consider the following statements :\n\n1. The total cost of 3 oranges, 5 mangoes and 9 apples is equal to the total cost of 4 oranges, 6 mangoes and 8 apples.\n2. The total cost of one orange and one mango is equal to the cost of one apple.\n\nWhich of the statements given above is/are correct?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let the prices be o, m, a.\nGiven: 4o + 6m + 8a = 2(o + 2m + 5a) = 2o + 4m + 10a.\n\nBring everything to one side: **2o + 2m − 2a = 0 ⇒ o + m = a**. → **Statement 2 is correct.**\n\n**Statement 1:** compare (4o + 6m + 8a) − (3o + 5m + 9a) = **o + m − a = 0**. So the two totals are equal. → **Statement 1 is correct.**\n\n(Sanity check with o = 1, m = 2, a = 3: 4+12+24 = 40 and 3+10+27 = 40 ✓)\n\nAnswer: **Both 1 and 2**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 51,
+   "page": 25,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—1\n\nWhen an international team of scientists pumped a carbon dioxide and water mix into underground basalt rocks, basic chemistry took over. The acidic mixture dissolved rocks' calcium and magnesium and formed limestone. Basically carbon dioxide is converted into stone, exclaimed the scientists.\n\nWhich one of the following statements best reflects the most logical, rational and practical suggestion implied by the passage?",
+   "options": [
+    "It is a cheap and practical method to produce limestone at commercial level for building purposes.",
+    "This can be used as one of the methods of carbon sequestration.",
+    "Basalt rock can be made a good source of calcium and magnesium minerals by this method.",
+    "Good rock-dissolving acid can be produced by mixing carbon dioxide and water."
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding line: \"Basically carbon dioxide is converted into stone.\"** CO₂ is taken out of the air and locked into solid limestone underground — that *is* carbon sequestration.\n\n- **(a)** fails: nothing in the passage says it is cheap, commercial, or aimed at producing limestone for building. The limestone is a by-product, not the goal.\n- **(c)** fails: the process *dissolves* calcium and magnesium out of basalt and re-fixes them as rock; it is not presented as a mining method.\n- **(d)** fails: the acidic mix is a means, not the product. Making acid from CO₂ + water is trivial and is not the finding.\n\n**Rule of thumb:** the \"implied suggestion\" is the *purpose* of the experiment, not an incidental side-effect.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 52,
+   "page": 25,
+   "stem": "Directions : Read the following passage and answer the item that follows the passage. Your answer to this item should be based on the passage only.\n\nPassage—2\n\nGeographers analyzed 175 satellite images of ocean colour, which is an indicator of phytoplankton productivity at the ocean's surface, and found that giant icebergs are responsible for storing up to 20 percent of carbon in the Southern Ocean. The researchers discovered that melting water from giant icebergs which contains iron and other nutrients, supports hitherto unexpectedly high levels of phytoplankton growth.\n\nBased on the above passage, the following assumptions have been made :\n\n1. Giant icebergs have a bearing on primary productivity and food chains of the Southern Ocean.\n2. Melting of giant icebergs can produce climate change effects and impact world fisheries.\n\nWhich of the assumptions given above is/are valid?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Two chains, both traceable to the passage.\n\n**Assumption 1 — valid.** Phytoplankton *are* the primary producers; the passage calls ocean colour \"an indicator of phytoplankton productivity\" and says iceberg melt supports \"unexpectedly high levels of phytoplankton growth.\" **If icebergs drive phytoplankton, they drive primary productivity and therefore the food chain built on it.**\n\n**Assumption 2 — valid.** The passage says icebergs store **up to 20 % of carbon in the Southern Ocean**; carbon storage is a climate lever, so a change in melting changes that storage → climate effects. And more phytoplankton at the base of the chain → more fish higher up.\n\nBoth follow, so **(c)**. Note the assumptions are hedged (\"have a bearing on\", \"can produce\") — hedged statements are much easier to validate than absolute ones. Nothing in the passage contradicts either.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 53,
+   "page": 27,
+   "stem": "Passage—3\n\nEvolution has endowed caterpillars that feed on corn with a unique ability, they can induce the plant to turn off its defence against insect predators. This helps caterpillars to eat more and grow faster. The agent that causes this effect is the caterpillar's faeces or frass. The find could throw new light on compounds associated with plant response to pathogens like fungi or bacteria.\n\nWhich one of the following statements best reflects the most logical, rational and practical message conveyed by the passage?",
+   "options": [
+    "Farmers can use caterpillars to feed on weeds in their crop fields/plantations.",
+    "This finding can help in the development of clinically useful antimicrobial compounds.",
+    "This finding can help in the development of organic, ecologically sustainable pesticides.",
+    "Caterpillars can be genetically modified to be predators of the other plant pests."
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "The setting is a **crop field**: corn, an insect pest, and the plant's own chemical defence.\n\nThe find shows (i) which compounds switch corn's anti-insect defence on and off, and (ii) how those compounds tie into the plant's response to fungi and bacteria. **Knowing the plant's own defence chemistry is exactly what you need to build plant-based, biodegradable crop protection — organic, ecologically sustainable pesticides.**\n\n- **(a)** absurd: caterpillars eat the crop, not the weeds; you cannot aim them.\n- **(b)** overreaches: the passage is about a *plant's* response to plant pathogens. \"Clinically useful\" jumps to human medicine, which the passage never touches.\n- **(d)** fantasy: nothing about genetic modification, and caterpillars are herbivores, not predators.\n\n**Test to apply:** stay inside the passage's own domain (agriculture); the option that leaves it is the trap.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Passage—3 of an earlier 'Directions' set whose instruction line appears on a preceding page not included in this batch. The passage itself is complete on page 27 and is reproduced in full inside the stem.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 54,
+   "page": 27,
+   "stem": "$32^5 + 2^{27}$ is divisible by",
+   "options": [
+    "3",
+    "7",
+    "10",
+    "11"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Write both terms in base 2.\n\n$32^5 = (2^5)^5 = 2^{25}$\n\n**So the sum is $2^{25} + 2^{27} = 2^{25}(1 + 2^2) = 2^{25} \\times 5$.**\n\nThe number is $5 \\times 2^{25}$ — its only prime factors are 2 and 5, so it is divisible by $2 \\times 5 = \\mathbf{10}$.\n\nQuick rule-out: 3, 7 and 11 do not divide $5 \\cdot 2^{25}$ since neither 5 nor any power of 2 contains them.\n\n**Answer (c).**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 55,
+   "page": 27,
+   "stem": "Let $p$ and $q$ be positive integers satisfying $p < q$ and $p + q = k$. What is the smallest value of $k$ that does not determine $p$ and $q$ uniquely?",
+   "options": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "List the splits of $k$ into $p+q$ with $p<q$, both positive integers.\n\n- $k=3$: only $(1,2)$ → unique\n- $k=4$: $(1,3)$ only — $(2,2)$ is barred by $p<q$ → unique\n- **$k=5$: $(1,4)$ and $(2,3)$ → two possibilities, not unique**\n\nSo the smallest $k$ that fails to pin down $p$ and $q$ is **5**.\n\n(6 also fails — $(1,5),(2,4)$ — but the question asks for the *smallest*.) **Answer (c).**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 56,
+   "page": 27,
+   "stem": "A person walks 100 m straight from his house, turns left and walks 100 m, again turns left and walks 300 m, then turns right and walks 100 m to reach his office. In which direction does he walk initially from his house if his office is exactly in the North-East direction?",
+   "options": [
+    "North-West",
+    "West",
+    "South",
+    "South-West"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Don't guess the heading — **test South and see if the office lands NE.**\n\nStart at (0, 0), walk **South** 100 → (0, −100).\nTurn **left** (facing South, left = East), walk 100 → (100, −100).\nTurn **left** (facing East, left = North), walk 300 → (100, +200).\nTurn **right** (facing North, right = East), walk 100 → **(200, +200)**.\n\n**Final position is 200 m East and 200 m North of the house — exactly North-East.** ✔\n\nWhy the others fail: the net displacement is always *200 units forward-left of nothing* — formally, net = 200 × (left direction − initial direction). With North-West, West or South-West as the start, that resultant points NW, SW and SE respectively, not NE.\n\n**Answer (c) South.**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 57,
+   "page": 27,
+   "stem": "A person walks 100 m Westward, then turns left and walks 100 m. He then takes 225° turn clockwise. In which direction is he walking now?",
+   "options": [
+    "South-West",
+    "South-East",
+    "North-West",
+    "North-East"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Track the facing, not the position.\n\n1. Walking **West**.\n2. Turns **left**: facing West, your left hand points South → now walking **South**.\n3. **225° clockwise** from South.\n\nUse bearings (clockwise from North): South = 180°.\n\n**180° + 225° = 405° → 405 − 360 = 45° = North-East.**\n\nSanity check in steps of 90° clockwise from South: 90° → West, 180° → North, 270° → East. 225° sits halfway between North (180°) and East (270°) = **NE**.\n\n**Answer (d).**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 58,
+   "page": 27,
+   "stem": "A Statement is given followed by two Conclusions numbered I and II. Consider the Statement and the Conclusions.\n\nStatement :\n\nIndia is the world's largest producer of milk.\n\nConclusion–I :\n\nIndia is the world's largest exporter of milk.\n\nConclusion–II :\n\nIndia does not import milk.\n\nWhich one of the following is correct?",
+   "options": [
+    "Only Conclusion–I follows",
+    "Only Conclusion–II follows",
+    "Both Conclusion–I and Conclusion–II follow",
+    "Neither Conclusion–I nor Conclusion–II follows"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "conclusion_count",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "The statement gives **production** only. Nothing else.\n\n**Conclusion I (largest exporter) — does not follow.** Producing the most says nothing about the surplus left after domestic consumption. A country with a huge population can be the top producer and export almost nothing.\n\n**Conclusion II (does not import milk) — does not follow.** Being the biggest producer is compatible with importing — for shortfalls in particular products, seasons, regions or grades.\n\nBoth conclusions add outside information (trade data) that the statement never supplies. **In syllogism items, only what is logically forced by the statement counts — not what you happen to know about India.**\n\n**Answer (d).**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 59,
+   "page": 29,
+   "stem": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nQuestion :\n\nWhat are the values of $m$ and $n$, where $m$ and $n$ are natural numbers?\n\nStatement–I :\n\n$m + n > mn$ and $m > n$.\n\nStatement–II :\n\nThe product of $m$ and $n$ is 24.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+   "options": [
+    "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+    "The Question can be answered by using either Statement alone",
+    "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+    "The Question cannot be answered even by using both the Statements together"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "**Statement I alone:** rearrange $m + n > mn$ as $mn - m - n < 0$, i.e. **$(m-1)(n-1) < 1$**. For natural numbers that product is a non-negative integer, so it must be **0** → $m = 1$ or $n = 1$. Since $m > n$, $m$ can't be 1, so **$n = 1$ and $m \\ge 2$** — $m$ is not pinned down. Insufficient.\n\n**Statement II alone:** $mn = 24$ → (1,24), (2,12), (3,8), (4,6)… Insufficient.\n\n**Together:** $n = 1$ from I, so $m \\times 1 = 24$ → **$m = 24, n = 1$**. Check: $24 > 1$ ✔ and $24 + 1 = 25 > 24$ ✔. Unique.\n\nBoth needed, neither alone. **Answer (c).**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 60,
+   "page": 29,
+   "stem": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nQuestion :\n\nWhat is the time required to download the software?\n\nStatement–I :\n\nThe size of the software is 12 megabytes.\n\nStatement–II :\n\nThe transfer rate is 2·4 kilobytes per second.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+   "options": [
+    "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+    "The Question can be answered by using either Statement alone",
+    "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+    "The Question cannot be answered even by using both the Statements together"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "Time = **size ÷ transfer rate**. You need both quantities; one alone gives nothing.\n\n- **I alone:** 12 MB, no rate → no time.\n- **II alone:** 2·4 KB/s, no size → no time.\n- **Together:** 12 MB = 12 × 1024 = 12,288 KB; 12,288 ÷ 2·4 = **5,120 seconds ≈ 85 minutes**.\n\n(Even taking 1 MB = 1000 KB you get 12,000 ÷ 2·4 = 5,000 s — the exact figure doesn't matter, only that both statements together yield one.)\n\n**Answer (c): both needed, neither alone.**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 61,
+   "page": 31,
+   "stem": "Directions for the following 3 (three) items :\n\nRead the following three passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.\n\nPassage—1\n\nIn a robust democracy, reality, howsoever inconvenient it may be, finds its expression both in the speech of political leaders and the other social forms of assertion. The existence of the real has to be transparent, both through its circulation in and by the media as well as its argumentative articulation in deliberative democracy. A normatively responsible media through its communication effect has the responsibility to circulate the content of reality without distortion.\n\nWhich one of the following statements best reflects the crux of the above passage?",
+   "options": [
+    "Responsible media should not distort the real in an ideal democracy.",
+    "Fake news seems inherent in the life of an ideal democracy.",
+    "There should not be any kind of restrictions on the freedom of expression in an ideal democracy.",
+    "Irresponsible media and political leaders cannot be effectively controlled in an ideal democracy."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding line: \"A normatively responsible media through its communication effect has the responsibility to circulate the content of reality without distortion.\"** That is the passage's own conclusion, and (a) restates it.\n\n- (b) Reverses the passage — it argues reality must find expression, not that fake news is inherent.\n- (c) The passage never discusses restrictions on free speech; it discusses distortion of content.\n- (d) \"Cannot be effectively controlled\" is defeatist; the passage assigns responsibility, it doesn't declare control impossible.\n\n**Rule for crux questions: pick the sentence the passage itself ends on, not the topic it touches.**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 62,
+   "page": 31,
+   "stem": "Directions for the following 3 (three) items :\n\nRead the following three passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.\n\nPassage—2\n\nNow-a-days there is a growing trend to use interconnected home devices. As consumers increasingly network their homes, the connected home device manufacturers and service providers will seek to overcome \"thin profit margins by gathering more of our personal data—with or without our agreement—turning the home into a corporate storefront\". Corporate marketers will have powerful incentives to observe consumer behaviour to understand the buying needs and preferences of the device owners.\n\nWhich one of the following statements best reflects the most logical, rational and practical message implied by the passage?",
+   "options": [
+    "Knowledge of consumer behaviour leads to more capital expenditure in manufacturing sector.",
+    "Knowledge of consumer behaviour stimulates the growth of commerce and trade and thus helps in the overall economic development of the country.",
+    "Interconnected devices give a lot of comfort to home users and improve the overall quality of life.",
+    "Interconnected devices can be at security risk and home users may have privacy risk."
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding line: manufacturers will gather personal data \"with or without our agreement—turning the home into a corporate storefront\".** Data taken without agreement = a privacy risk to the home user. So (d).\n\n- (a) Capital expenditure in manufacturing is never mentioned.\n- (b) Growth of trade / national economic development is an outside idea, not implied here — and it ignores the passage's warning tone.\n- (c) Comfort and quality of life are the assumed *background* (\"growing trend to use interconnected home devices\"), not the message.\n\n**\"With or without our agreement\" is the key phrase — consent violated means privacy, not commerce.**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 63,
+   "page": 33,
+   "stem": "Directions for the following 3 (three) items :\n\nRead the following three passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.\n\nPassage—3\n\nGreen growth involves rethinking growth strategies with regard to the impacts on environmental sustainability and the environmental resources available to poor and vulnerable groups. In rethinking growth, we need to focus on the current reality of a resource-constrained world. Resource intensive and, in particular energy intensive processes will need to make way for more efficient and resource frugal development strategies if we are to avoid an economic dead end or a world in which only a small elite is able to enjoy affluence in the midst of a sea of poverty.\n\nWhich one of the following statements best reflects the crux of the above passage?",
+   "options": [
+    "Environmental sustainability is inimical to our objective of achieving a high rate of GDP growth.",
+    "Poverty eradication is not possible without a rapid economic growth and the consequent environmental degradation.",
+    "Maintaining high environmental standards is now a prerequisite for achieving a steady, sufficient and inclusive growth.",
+    "With large populations, rampant poverty and limited resources of today's world, environmental degradation cannot be prevented and inequalities are inevitable."
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding line: resource-intensive processes \"will need to make way for more efficient and resource frugal development strategies if we are to avoid an economic dead end or a world in which only a small elite is able to enjoy affluence in the midst of a sea of poverty.\"** Environmental discipline is thus a *precondition* for growth that is steady, sufficient and inclusive → (c).\n\n- (a) \"Inimical\" — the passage says the opposite: ignoring sustainability leads to a dead end.\n- (b) The passage rejects the growth-at-any-environmental-cost route.\n- (d) Fatalistic; the passage says degradation and inequality can be *avoided* by rethinking growth.\n\n**The words \"avoid an economic dead end\" make sustainability enabling, not opposing, growth.**",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Passage—3 begins on page 31 and continues onto page 33; the full passage is reproduced in the stem. The question itself is printed on page 33.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 64,
+   "page": 33,
+   "stem": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nQuestion :\n\nWhat are the unique values of $x$ and $y$, where $x$, $y$ are distinct natural numbers?\n\nStatement–I : $x / y$ is odd.\n\nStatement–II : $xy = 12$\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+   "options": [
+    "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+    "The Question can be answered by using either Statement alone",
+    "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+    "The Question cannot be answered even by using both the Statements together"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "x, y distinct natural numbers; we need **unique** values.\n\n**Statement I alone:** x/y odd → (3,1), (5,1), (9,3)… infinitely many. Not sufficient.\n\n**Statement II alone:** xy = 12 → (1,12), (12,1), (2,6), (6,2), (3,4), (4,3). Not unique. Not sufficient.\n\n**Both together:** test each factor pair for x/y odd (odd ⇒ must be a whole number):\n- 1/12, 2/6, 3/4, 4/3 → not integers ✗\n- 12/1 = 12 → even ✗\n- **6/2 = 3 → odd ✓**\n\nUnique: **x = 6, y = 2**. Both needed, neither alone → **(c)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 65,
+   "page": 33,
+   "stem": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nA certain amount was distributed among $X$, $Y$ and $Z$.\n\nQuestion :\n\nWho received the least amount?\n\nStatement–I :\n\n$X$ received 4/5 of what $Y$ and $Z$ together received.\n\nStatement–II :\n\n$Y$ received 2/7 of what $X$ and $Z$ together received.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+   "options": [
+    "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+    "The Question can be answered by using either Statement alone",
+    "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+    "The Question cannot be answered even by using both the Statements together"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "Let the total be T.\n\n**Statement I alone:** X = (4/5)(T − X) ⇒ 5X = 4T − 4X ⇒ **X = 4T/9**, so Y + Z = 5T/9. Y and Z individually unknown (could be 5T/9 and 0-ish), so we cannot name the least person. Not sufficient.\n\n**Statement II alone:** Y = (2/7)(T − Y) ⇒ 7Y = 2T − 2Y ⇒ **Y = 2T/9**, so X + Z = 7T/9. X could be tiny (say T/90) and still fit, so Y isn't necessarily least. Not sufficient.\n\n**Both together:** X = 4T/9, Y = 2T/9 ⇒ Z = T − 6T/9 = **3T/9**.\nSo X : Y : Z = **4 : 2 : 3** → **Y received the least**. Answer **(c)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 66,
+   "page": 35,
+   "stem": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nQuestion :\n\nIf the average marks in a class are 60, then what is the number of students in the class?\n\nStatement–I :\n\nThe highest marks in the class are 70 and the lowest marks are 50.\n\nStatement–II :\n\nExclusion of highest and lowest marks from the class does not change the average.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+   "options": [
+    "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+    "The Question can be answered by using either Statement alone",
+    "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+    "The Question cannot be answered even by using both the Statements together"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "Let n = number of students, total marks = 60n.\n\n**Statement I alone:** highest 70, lowest 50 — says nothing about how many students. Not sufficient.\n\n**Statement II alone:** removing highest H and lowest L keeps the average 60:\n(60n − H − L)/(n − 2) = 60 ⇒ 60n − H − L = 60n − 120 ⇒ **H + L = 120**.\nThe n cancels out completely — the condition holds for *every* n. Not sufficient.\n\n**Both together:** I gives H + L = 70 + 50 = 120, which is exactly what II already required. The statements merely agree with each other; **n never appears**. A class of 3, 30 or 300 with average 60 satisfies both.\n\nAnswer **(d)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 67,
+   "page": 35,
+   "stem": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nThere are three distinct prime numbers whose sum is a prime number.\n\nQuestion :\n\nWhat are those three numbers?\n\nStatement–I : Their sum is less than 23.\n\nStatement–II : One of the numbers is 5.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+   "options": [
+    "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+    "The Question can be answered by using either Statement alone",
+    "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+    "The Question cannot be answered even by using both the Statements together"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "Three **distinct primes**, sum is prime.\n\n**Key filter: 2 cannot be one of them.** 2 + odd + odd = even, and an even number > 2 is never prime. So all three are odd primes, minimum sum 3 + 5 + 7 = 15.\n\n**Statement I alone (sum < 23):** list all triples with sum in [15, 22]:\n- 3+5+7 = 15 (not prime)\n- 3+5+11 = **19 (prime ✓)**\n- 3+5+13 = 21 (not prime)\n- 3+7+11 = 21 (not prime)\n- next is 5+7+11 = 23, already ≥ 23\n\nExactly one triple: **{3, 5, 11}**. **Sufficient.**\n\n**Statement II alone (one number is 5):** {3,5,11} → 19 ✓, {5,7,11} → 23 ✓, {3,5,23} → 31 ✓. Many answers. Not sufficient.\n\nOne statement works, the other doesn't → **(a)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 68,
+   "page": 35,
+   "stem": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nQuestion : Is $(x + y)$ an integer?\n\nStatement–I : $(2x + y)$ is an integer.\n\nStatement–II : $(x + 2y)$ is an integer.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+   "options": [
+    "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+    "The Question can be answered by using either Statement alone",
+    "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+    "The Question cannot be answered even by using both the Statements together"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "**Statement I alone:** 2x + y integer. Take x = 0.5, y = 0 → 2x + y = 1 ✓ but x + y = 0.5, not an integer. Take x = y = 1 → x + y = 2, integer. Both outcomes possible. Not sufficient.\n\n**Statement II alone:** symmetric, same counter-examples. Not sufficient.\n\n**Both together:** adding, (2x + y) + (x + 2y) = **3(x + y) = integer**, so x + y is a multiple of 1/3 — *not* necessarily an integer.\n- x = y = 1/3: 2x + y = 1 ✓, x + 2y = 1 ✓, but x + y = 2/3 → **NO**\n- x = 0, y = 1: 2x + y = 1 ✓, x + 2y = 2 ✓, x + y = 1 → **YES**\n\nBoth statements hold in each case yet the answer flips → **(d)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 69,
+   "page": 37,
+   "stem": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nA person buys three articles p, q and r for ₹50. The price of the article q is ₹16 which is the least.\n\nQuestion :\n\nWhat is the price of the article p?\n\nStatement–I :\n\nThe cost of p is not more than that of r.\n\nStatement–II :\n\nThe cost of r is not more than that of p.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+   "options": [
+    "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+    "The Question can be answered by using either Statement alone",
+    "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+    "The Question cannot be answered even by using both the Statements together"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "**Answer: (c)** — both statements together are needed; neither alone is enough.\n\n### Set up what the stem actually fixes\n\np + q + r = 50 and q = 16, so **p + r = 34**.\n\n\"₹16, which is the least\" tells you only that q is the smallest of the three — it is a *comparison*, nothing more. So p > 16 and r > 16. Since r = 34 − p, that bounds p to **16 < p < 18**. Nothing in the stem picks a single value out of that range.\n\n### Statement I alone: cost of p is not more than r\n\n\"Not more than\" means **≤**, not \"<\". So p ≤ r, i.e. p ≤ 17.\n\nRange left: 16 < p ≤ 17. p could be 16.50 with r 17.50, or p = r = 17. **Not sufficient.**\n\n### Statement II alone: cost of r is not more than p\n\nr ≤ p, i.e. p ≥ 17. Range left: 17 ≤ p < 18. p could be 17.25 with r 16.75, or p = r = 17. **Not sufficient.**\n\n### Both together\n\np ≤ r *and* r ≤ p forces **p = r**, and with p + r = 34, **p = ₹17**. Unique value. Sufficient.\n\nHence (c).\n\n### Why (b) is the trap\n\n(b) requires each statement to work on its own. It only looks that way if you quietly add an assumption the question never makes: **that the prices are whole rupees.** With integers, p > 16 and r > 16 forces p, r ≥ 17, and p + r = 34 then gives p = r = 17 immediately — so each statement appears \"sufficient\" only because the answer was already fixed before you read it.\n\nTwo things kill that reading:\n\n1. The stem never says the prices are integers. ₹50 and ₹16 happening to be whole rupees says nothing about p and r; ₹16.50 is a price. Data sufficiency is answered from what is *stated*, and integrality is not stated.\n2. Run the integer assumption to its conclusion and it defeats itself: if p = 17 is already forced by the stem, the question is answerable using **neither** statement. No such option exists on the paper. The presence of (c) and the absence of a \"no statement needed\" option is the setter signalling that the stem alone leaves a genuine range — which it does, once you stop assuming whole rupees.\n\n### The other slip to avoid\n\nRead \"**not more than**\" as ≤, not as \"less than\". Read strictly, I says p < r and II says r < p, which together are contradictory, and you would wrongly land on (d). The inclusive ≤ is exactly what lets the two statements combine into the equality p = r that pins the value.\n\n**Takeaway:** in data sufficiency, \"the least\" is a ranking claim, not a licence to assume integers, and \"not more than\" always carries the equality case.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "medium"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": "Official key says c, worked solution said b (medium confidence)."
+  },
+  {
+   "q_no": 70,
+   "page": 37,
+   "stem": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nP, Q, R and S appeared in a test.\n\nQuestion :\n\nHas P scored more marks than Q?\n\nStatement–I :\n\nThe sum of the marks scored by P and Q is equal to the sum of the marks scored by R and S.\n\nStatement–II :\n\nThe sum of the marks scored by P and S is more than the sum of the marks scored by Q and R.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+   "options": [
+    "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+    "The Question can be answered by using either Statement alone",
+    "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+    "The Question cannot be answered even by using both the Statements together"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "Question: is P > Q?\n\n**I alone:** P + Q = R + S — no comparison between P and Q. Not sufficient.\n**II alone:** P + S > Q + R — S and R are free, so no. Not sufficient.\n\n**Both together:** substitute S = P + Q − R (from I) into II:\nP + (P + Q − R) > Q + R ⇒ 2P > 2R ⇒ **P > R**. Similarly R = P + Q − S gives **S > Q**.\nSo the statements only fix P > R and S > Q — they say nothing directly about P vs Q.\n\nTwo valid cases:\n- P = 10, Q = 5, R = 5, S = 10 → I: 15 = 15 ✓, II: 20 > 10 ✓, **P > Q**\n- **P = 5, Q = 10, R = 4, S = 11** → I: 15 = 15 ✓, II: 16 > 14 ✓, **P < Q**\n\nAnswer flips → **(d)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 71,
+   "page": 39,
+   "stem": "Directions : Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.\n\nPassage—1\n\nUnlike religion and science, poetry does not posit or expect any belief in absolute truths. Those forces or individuals who claim to have absolute truths in their grasp tend to turn dictatorial and tyrannical. Truth usually does not admit any contradictions or imperfections. It is unitarian. It is, therefore, not of much use for poetry. Poetry abides by the plurality of life and existence. Perhaps poetry follows reality which is plural, anachronistic, full of contradictions. Against the tyranny of truth, poetry remains a partisan of democratic reality. Against the arrogance of power, wealth and hierarchy, poetry proposes both humility and defiance.\n\nWhich one of the following statements best reflects the most logical and rational message conveyed by the above passage?",
+   "options": [
+    "It is the poetry, not science or religion, which recognizes and accepts imperfections in humans.",
+    "Truth is revealed through science or religion and poetry is anathema to truth.",
+    "Poetry is romantic, imaginary and is about feeling whereas science and religion are about truth.",
+    "In a world of violence, tyranny and bigotry, poetry is a form of dynamic resistance."
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding lines: \"Against the tyranny of truth, poetry remains a partisan of democratic reality. Against the arrogance of power, wealth and hierarchy, poetry proposes both humility and defiance.\"** The whole passage is built on the word *against* — poetry set opposite tyranny, arrogance, hierarchy. That is exactly \"a form of dynamic resistance\" (d).\n\nWhy the others fail:\n- **(a)** The passage says *truth* admits no imperfections; it never says poetry recognizes imperfections *in humans*. It also drops the resistance idea, which is the passage's spine.\n- **(b)** Reverses the passage. It never claims truth is revealed by science/religion, and poetry is not \"anathema to truth\" — it simply does not posit absolute truths.\n- **(c)** \"Romantic, imaginary, about feeling\" appears nowhere. The passage's contrast is plurality vs. unitarian absolutes, not feeling vs. fact.\n\nRule of thumb at 21:40: pick the option that carries the passage's *verbs* (against, defiance), not the one that merely reuses its nouns.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Q71 and Q72 fall under a single 'Directions for the following 2 (two) items' block, but each question refers to its own separate passage (Q71 to Passage—1, Q72 to Passage—2), so no passage is actually shared between them.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 72,
+   "page": 39,
+   "stem": "Directions : Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only.\n\nPassage—2\n\nThe flower was not invented to please us. It flaunted its petals and spread its perfume to attract an insect. The insect carries the pollen from flower to flower so that pollen is not carried away by wind and thus not wasted. What we call a flower's beauty is merely a by-product and a human invention. The perfume is not there to please us, it pleases us because it is there and we have been conditioned to it.\n\nBased on the above passage, the following assumptions have been made :\n\n1. The author of the passage believes that flowers are creations of Nature's luxury.\n\n2. The author of the passage does not believe in the usefulness of flowers except as things of beauty.\n\nWhich of the assumptions given above is/are valid?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Both assumptions contradict the passage, so the answer is Neither.**\n\n- **Assumption 1 (Nature's luxury):** The passage says the opposite — the flower \"flaunted its petals and spread its perfume **to attract an insect**\" so pollen \"is not carried away by wind and thus not wasted.\" That is thrift and function, not luxury.\n- **Assumption 2 (useful only as beauty):** Again reversed. Beauty is called \"merely a **by-product** and a human invention\"; the real use is pollination. The author believes in usefulness — just not the usefulness we flatter ourselves with.\n\nStandard assumption-question trap: an option that restates the passage's *target of attack* as if it were the author's own belief.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "Q71 and Q72 fall under a single 'Directions for the following 2 (two) items' block, but each question refers to its own separate passage (Q71 to Passage—1, Q72 to Passage—2), so no passage is actually shared between them.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 73,
+   "page": 41,
+   "stem": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.\n\nAge of each of P and Q is less than 100 years but more than 10 years. If you interchange the digits of the age of P, the number represents the age of Q.\n\nQuestion :\n\nWhat is the difference of their ages?\n\nStatement–I :\n\nThe age of P is greater than the age of Q.\n\nStatement–II :\n\nThe sum of their ages is 11/6 times their difference.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+   "options": [
+    "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+    "The Question can be answered by using either Statement alone",
+    "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+    "The Question cannot be answered even by using both the Statements together"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "Let P = 10a + b, so Q = 10b + a. Then **sum = 11(a+b)** and **difference = 9|a−b|**.\n\n**Statement I** (P > Q) only tells you a > b. Difference could be 9, 18, 27… — not answerable.\n\n**Statement II:** 11(a+b) = (11/6)·9|a−b| → (a+b) = (3/2)|a−b| → **2(a+b) = 3|a−b|**. Taking a > b: 2a + 2b = 3a − 3b → **a = 5b**. Digits allow only b = 1, a = 5 (b = 2 gives a = 10). So the ages are **51 and 15, difference = 36**. Check: 66 = (11/6)×36 ✓.\n\nSo II alone answers it, I alone does not → \"one of the Statements alone, but not the other\" = **(a)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 74,
+   "page": 41,
+   "stem": "A Main Statement is followed by four Statements labelled P, Q, R and S. Choose the ordered pair of the Statements where the first Statement implies the second, and the two Statements are logically consistent with the Main Statement.\n\nMain Statement :\n\nPradeep becomes either a Director or a Producer.\n\nStatement P : Pradeep is a Director.\n\nStatement Q : Pradeep is a Producer.\n\nStatement R : Pradeep is not a Director.\n\nStatement S : Pradeep is not a Producer.\n\nSelect the correct answer.",
+   "options": [
+    "SP only",
+    "RQ only",
+    "Both SP and RQ",
+    "Neither SP nor RQ"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "pairs",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Main statement: **D ∨ P** (Director or Producer).\n\n- **S → P:** \"Not a Producer\" ⇒ since he must be one of the two, **he is a Director**. Valid implication, consistent with the main statement. ✔\n- **R → Q:** \"Not a Director\" ⇒ **he is a Producer**. Same disjunctive syllogism. ✔\n\nThe other candidate pairs fail: P→Q or Q→P assert both roles (not implied); P→R and Q→S are self-contradictory.\n\nBoth ordered pairs work → **(c) Both SP and RQ**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 75,
+   "page": 41,
+   "stem": "If a + b means a − b; a − b means a × b; a × b means a ÷ b; a ÷ b means a + b, then what is the value of 10 + 30 − 100 × 50 ÷ 25? (Operations are to be replaced simultaneously)",
+   "options": [
+    "15",
+    "0",
+    "−15",
+    "−25"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Swap every symbol **simultaneously**: + → −, − → ×, × → ÷, ÷ → +.\n\n10 + 30 − 100 × 50 ÷ 25  becomes  **10 − 30 × 100 ÷ 50 + 25**\n\nNow apply **BODMAS to the new expression** (this is the whole question — do not work left to right):\n- 30 × 100 = 3000\n- 3000 ÷ 50 = 60\n- 10 − 60 + 25 = **−25**\n\nThe distractor −15 is what you get by evaluating strictly left to right ((10−30)×100÷50+25). After substitution the expression is an ordinary arithmetic expression, so precedence applies → **(d) −25**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 76,
+   "page": 43,
+   "stem": "If P means 'greater than (>)'; Q means 'less than (<)'; R means 'not greater than (≯)'; S means 'not less than (≮)' and T means 'equal to (=)', then consider the following statements :\n\n1. If 2x(S)3y and 3x(T)4z, then 9y(P)8z.\n\n2. If x(Q)2y and y(R)z, then x(R)z.\n\nWhich of the statements given above is/are correct?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Decode: P = >, Q = <, **R = ≤**, **S = ≥**, T = =.\n\n**Statement 1:** 2x ≥ 3y and 3x = 4z. Scale to a common term: ×3 gives **6x ≥ 9y**; ×2 gives **6x = 8z**. So **9y ≤ 8z** — the exact opposite of the claimed 9y > 8z. (It would be correct as 9y **R** 8z.) ✘\n\n**Statement 2:** x < 2y and y ≤ z give only x < 2z, not x ≤ z. **Counterexample: y = z = 2, x = 3** — then 3 < 4 ✓ and 2 ≤ 2 ✓, but x = 3 > z = 2, so x ≤ z fails. ✘\n\nNeither holds → **(d)**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": "The symbols printed in the scan for R and S are the crossed-out 'greater than' and 'less than' signs; transcribed here as ≯ and ≮ respectively.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 77,
+   "page": 43,
+   "stem": "If in a certain code, 'ABCD' is written as 24 and 'EFGH' is written as 1680, then how is 'IJKL' written in that code?",
+   "options": [
+    "11880",
+    "11240",
+    "7920",
+    "5940"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Use positional values and **multiply**:\n- ABCD = 1 × 2 × 3 × 4 = **24** ✓\n- EFGH = 5 × 6 × 7 × 8 = **1680** ✓\n\nSo IJKL = I(9) × J(10) × K(11) × L(12).\n\n9 × 10 = 90; 11 × 12 = 132; **90 × 132 = 11880**.\n\nAnswer **(a) 11880**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 78,
+   "page": 43,
+   "stem": "If in a certain code, 'POT' is written as ATOP and 'TRAP' is written as APART, then how is 'ARENA' written in that code?",
+   "options": [
+    "AARENA",
+    "AANREA",
+    "AANEAR",
+    "AANERA"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Find the rule from both examples:\n- POT → reverse = TOP → **prefix A** → A + TOP = **ATOP** ✓\n- TRAP → reverse = PART → **prefix A** → A + PART = **APART** ✓\n\nRule: **reverse the word, then put an A in front.**\n\nARENA reversed: A-R-E-N-A read backwards = **ANERA**. Prefix A → **AANERA**.\n\nAnswer **(d)**. (Check the middle carefully: the reversal is ANERA, not AANREA or AANEAR — the trap options scramble the interior letters.)",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 79,
+   "page": 43,
+   "stem": "What will come in place of * in the sequence 3, 14, 39, 84, *, 258?",
+   "options": [
+    "150",
+    "155",
+    "160",
+    "176"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Take differences: 14−3 = 11, 39−14 = 25, 84−39 = 45.\nSecond differences: 25−11 = 14, 45−25 = 20 → rising by 6, so next is **26**.\nNext first difference = 45 + 26 = **71** → missing term = 84 + 71 = **155**.\nVerify the last term: next second difference 32, so 71 + 32 = 103, and 155 + 103 = **258** ✓.\n\nCleaner check with a formula: **term = n³ + n² + n**. n = 1…6 gives 3, 14, 39, 84, **155**, 258.\n\nAnswer **(b) 155**.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  },
+  {
+   "q_no": 80,
+   "page": 43,
+   "stem": "In some code, letters P, Q, R, S, T represent numbers 4, 5, 10, 12, 15. It is not known which letter represents which number. If Q − S = 2S and T = R + S + 3, then what is the value of P + R − T?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "Cannot be determined due to insufficient data"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Numbers available: 4, 5, 10, 12, 15.\n\n**Q − S = 2S ⇒ Q = 3S.** Only two triples fit: (S = 4, Q = 12) or (S = 5, Q = 15).\n\n**Case S = 4, Q = 12** — left with {5, 10, 15}; T = R + 4 + 3 = R + 7. R = 5 → T = 12 (already used), R = 10 → 17, R = 15 → 22. **No solution.**\n\n**Case S = 5, Q = 15** — left with {4, 10, 12}; T = R + 5 + 3 = R + 8. **R = 4 → T = 12** ✓, so **P = 10**.\n\nTherefore P + R − T = 10 + 4 − 12 = **2**.\n\nAnswer **(b)** — the data is sufficient, the elimination just takes one extra case.",
+   "has_table": false,
+   "has_figure": false,
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high"
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "review_flag": null
+  }
+ ],
+ "reviewed_on": "2026-08-31",
+ "review_note": "Loaded under Pragaman's standing instruction (31 Aug 2026): official key, no per-question approval. Solved blind first; 77/80 matched. Q2/Q41/Q69 re-checked against the printed key image by hand and confirmed correctly transcribed; explanations rewritten to defend the official answer and judged defensible. Series A, 0 dropped. Stems self-contained per D42."
+}
