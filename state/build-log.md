@@ -227,3 +227,41 @@ and then by a real spec: a PDF uploaded through the topic page, served over a
 signed URL with matching bytes, and its stored object gone after the row was
 deleted (the signed URL 400s afterwards). Key added to Vercel production and
 preview; it takes effect on the next deploy. Suite 36/36.
+
+## navigation + CSAT — 2026-08-31 (evening)
+
+**The navigation complaint turned out to be a defect, not a gap.** Practice
+mode's "exit" used the same `backHref` prop as its "Another batch" button, and
+that href pointed at `/practice/run?…` — so exit *restarted the batch*. Closing
+the app really was the only way out. Split into `restartHref` and `exitHref`
+(D41), made the control a 44px chevron, and hid the floating guide button
+during practice where it had been sitting on top of the progress counter.
+`/revise/[id]`, `/tests/new` and `/ca` had no back control at all; a shared
+`BackLink` gives them one. Four tests in `nav.spec.ts` assert the controls
+exist and are ≥40px, so they cannot silently shrink back to text links.
+
+**All six CSAT papers ingested — 479 questions, every one with a worked
+solution.** Pipeline: transcribe → solve blind → read the official key → tag →
+reconcile. Blind agreement by year: 2021 73/80, 2022 76/79, 2023 76/80,
+2024 77/80, 2025 74/80, 2026 76/80. **Every single disagreement was re-read
+against the key image by hand**, which is how 2021's dip was shown to be a hard
+paper rather than column drift.
+
+**Two bugs the pipeline itself produced, both caught before loading:**
+1. The reconcile pass keyed its results on the q_no the model returned. An
+   agent given one question numbers it 1 — so Q64's explanation was pasted onto
+   Q1. The number now comes from the closure, never the model.
+2. Explanations for key-vs-solver disagreements argued for the *solver's*
+   answer, which would have taught the opposite of what the app displays. That
+   is what the reconcile phase exists to fix.
+
+**Two questions the keys could not settle:** 2021 Q39 (key handwritten "C or
+D") and 2025 Q59 (a work-rate problem where the key is arithmetically
+impossible — n = 4, not 6). Both stored disputed, badged, excluded from accuracy
+stats; Q59 stores the derived answer per D44.
+
+**Also:** practice now defaults to GS1 (D43) — without it, 479 CSAT questions
+would have made an unfiltered batch roughly half qualifying-paper material.
+
+**Suite:** 40/40. Build, lint, tsc clean. **Every ingestion task is now done;
+`open_tasks` is empty for the first time.**

@@ -78,16 +78,17 @@ Everything below is shipped, tested, and in production.
 | v4 | 31 Aug 2026 | Mock scoring, audit dashboard, CA capture, decay meter, export, PWA |
 | guide | 31 Aug 2026 | Top-right menu → daily routine (day-synced) + book tracker |
 | enrich | 31 Aug 2026 | GS1 2025 load, dark mode, topic materials + reference links |
+| nav + CSAT | 31 Aug 2026 | Real exit from practice, back controls everywhere, all six CSAT papers |
 
 **Content in the database right now:**
 
-- **593 questions** — GS1 2021–2026, all six years, **every one with an explanation**
+- **1,072 questions** — GS1 2021–2026 (593) and CSAT 2021–2026 (479), **every one with an explanation**
 - **192 topics** — 186 planned + 6 bonus (see D30: bonus topics are never scheduled)
 - **252 reference links** across all 192 topics, every URL verified HTTP 200
 - 11 subjects · 7 phases · 912 plan blocks · PASS2–4 revision events seeded
 - 21 books tracked with have / to-buy / free-PDF status
 
-**Test suite: 36 tests, all passing.** `tests/v0…v4.spec.ts`, `guide.spec.ts`, `enrich.spec.ts`.
+**Test suite: 40 tests, all passing.** `tests/v0…v4.spec.ts`, `guide.spec.ts`, `enrich.spec.ts`, `nav.spec.ts`.
 
 ## 6. Stack, layout and credentials
 
@@ -171,7 +172,8 @@ These cost real hours. Do not rediscover them.
 5. **Uploads are gated on the key.** `storageReady()` is false without
    `SUPABASE_SERVICE_KEY`; the UI says so rather than half-working. Files live in a *private*
    bucket and open through 1-hour signed URLs — a shared link expires by design.
-6. **Tailwind v4 dark mode here is manual** (D38): `data-theme="dark"` on `<html>`, set by an
+6. **Practice defaults to the GS1 pool** (D43). CSAT is qualifying only, so `?paper=CSAT` is the only way into those 479 questions. Any test or query that counts questions behind /practice must scope to a paper or it will disagree with the screen.
+7. **Tailwind v4 dark mode here is manual** (D38): `data-theme="dark"` on `<html>`, set by an
    inline script in `<body>` before paint. It deliberately ignores `prefers-color-scheme` —
    at 05:30 the phone is still in night mode and the app should not follow it.
 
@@ -197,7 +199,6 @@ Everything below is optional. The build order is complete.
 
 | Item | Size | When it matters |
 |---|---|---|
-| **CSAT ingestion** — 6 papers (D27) | ~2 sessions + his review | Before CSAT Saturdays start, December |
 | Offline write queue (D35) | medium | Only if logging offline actually bites |
 | Notifications (D5) | small | Revisit ~14 Sept, only if 05:30 is slipping |
 | Practice `topic=` filter | ~1 h | `lib/practice.ts` parses it; the runner SQL ignores it. Completing it enables "drill this topic" from a topic page |
