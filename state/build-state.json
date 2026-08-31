@@ -196,7 +196,8 @@
     }
   ],
   "deferred": [
-    "Offline write queue (D35) \u2014 reads work offline; logging needs a connection"
+    "Offline write queue (D35) \u2014 reads work offline; logging needs a connection",
+    "Mains mode for Sociology (D45) \u2014 scoped 1 Sep 2026, deliberately not built. Revisit after Prelims (23 May 2027); blocked on the 1 Feb 2027 freeze decision and on Sociology Mains PYQ PDFs."
   ],
   "needs_human_verification": [
     "v4: mock entry under four minutes with a real scorecard",
