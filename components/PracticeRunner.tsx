@@ -64,11 +64,13 @@ function md(src: string) {
 
 export default function PracticeRunner({
   batch,
-  backHref,
+  restartHref,
+  exitHref,
   seed,
 }: {
   batch: Q[]
-  backHref: string
+  restartHref: string
+  exitHref: string
   seed: string
 }) {
   const [i, setI] = useState(0)
@@ -165,14 +167,22 @@ export default function PracticeRunner({
 
           <div className="mt-7 flex flex-col gap-2 sm:flex-row">
             <Link
-              href={`${backHref.replace(/([?&])seed=[^&]*/, '$1seed=' + nextSeed(seed))}`}
+              href={`${restartHref.replace(/([?&])seed=[^&]*/, '$1seed=' + nextSeed(seed))}`}
               className="flex h-14 flex-1 items-center justify-center rounded-btn bg-accent text-lg font-semibold text-white active:bg-accent-deep lg:hover:bg-accent-deep"
             >
               Another batch
             </Link>
             <Link
+              href="/practice"
+              data-testid="summary-practice"
+              className="flex h-14 flex-1 items-center justify-center rounded-btn border border-line bg-surface font-medium active:bg-bg lg:hover:border-muted"
+            >
+              Practice
+            </Link>
+            <Link
               href="/"
-              className="flex h-14 flex-1 items-center justify-center rounded-btn border border-line bg-surface font-medium active:bg-bg"
+              data-testid="summary-today"
+              className="flex h-14 flex-1 items-center justify-center rounded-btn border border-line bg-surface font-medium active:bg-bg lg:hover:border-muted"
             >
               Today
             </Link>
@@ -185,8 +195,15 @@ export default function PracticeRunner({
   return (
     <main className="mx-auto max-w-2xl px-4 pb-16 pt-5 sm:px-6">
       <header className="mb-3 flex items-center gap-3">
-        <Link href={backHref} className="mono-label text-muted underline">
-          exit
+        <Link
+          href={exitHref}
+          data-testid="exit"
+          className="-ml-2 inline-flex h-11 items-center gap-1.5 rounded-btn px-2 text-sm font-medium text-muted active:bg-surface lg:hover:bg-surface lg:hover:text-ink"
+        >
+          <svg aria-hidden viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="size-4">
+            <path d="m15 18-6-6 6-6" />
+          </svg>
+          Exit
         </Link>
         <span data-testid="progress" className="mono-label ml-auto text-muted">
           {i + 1} of {batch.length}

@@ -214,3 +214,13 @@ Format: `### DN — <decision>` then **Context**, **Decision**, **Consequence** 
 **Context:** User created an empty sheet and wants optional per-topic reading links "like the learning tracker". The app cannot write to Google Sheets without OAuth, and reading a public CSV export needs nothing.
 **Decision:** 252 links across all 192 topics were curated agentically (Wikipedia-first, official portals second), every URL verified HTTP 200, committed as `seed/topic-links.json`, and imported as `source='sheet'` rows. `seed/topic-links.csv` is the file to import into his sheet once; from then on the sheet is edited by hand and `node scripts/sync-links.mjs` replaces all sheet rows from it wholesale. Rows added in the app (`source='user'`) are never touched by a sync, and sheet rows show no delete control in the app.
 **Consequence:** Curation lives where editing is pleasant (the sheet), reading lives where studying happens (the topic page), and neither can corrupt the other.
+
+### D41 — Exit and restart are different destinations
+**Context:** Practice mode hides the bottom nav for focus, and its only way out was a small "exit" text link whose href was `backHref` — the same prop the "Another batch" button used. That href pointed at `/practice/run?…`, so tapping exit re-entered the batch. In practice the only way out of a running batch was closing the app.
+**Decision:** Split the prop: `restartHref` re-enters the runner with a fresh seed, `exitHref` goes to `/practice?…` with the filters intact. The exit control became a 44px chevron button, and the batch summary offers Practice and Today as well as Another batch.
+**Consequence:** Practice keeps its focused, nav-free screen without becoming a trap. A shared `BackLink` now gives `/revise/[id]`, `/tests/new`, `/ca` and `/topic/[code]` the same 44px way back — they previously had none at all except the bottom nav.
+
+### D42 — CSAT stems are self-contained, passages duplicated
+**Context:** CSAT comprehension passages serve 2–5 questions each, and data sets serve several DI questions. The practice runner shows exactly one question at a time with no notion of a shared preamble.
+**Decision:** During ingestion the full passage or data set is reproduced inside the stem of **every** question that depends on it; `shares_passage_with` records the sibling question numbers for reference. No shared-passage table, no runner changes.
+**Consequence:** Every CSAT question drills standalone and in any shuffled order, at the cost of duplicated passage text in the database — which is cheap and never edited.

@@ -6,6 +6,7 @@ import { isAuthed } from '@/lib/auth'
 import { displayDateShort, todayIST } from '@/lib/dates'
 import { markBgtDone } from '@/app/ca/actions'
 import CAForm from '@/components/CAForm'
+import BackLink from '@/components/BackLink'
 
 export const dynamic = 'force-dynamic'
 
@@ -35,6 +36,7 @@ export default async function CA() {
 
   return (
     <main className="mx-auto max-w-md px-4 pb-16 pt-5 sm:px-6 lg:max-w-2xl lg:pt-8">
+      <BackLink href="/audit" label="Audit" />
       <header className="mb-5">
         <p className="mono-label text-muted">current affairs · {Number(weekCount)} this week</p>
         <h1 className="mt-1 font-display text-2xl font-bold tracking-tight lg:text-4xl">Capture</h1>

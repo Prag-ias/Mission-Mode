@@ -5,6 +5,7 @@ import { questions, subjects } from '@/db/schema'
 import { isAuthed } from '@/lib/auth'
 import { todayIST } from '@/lib/dates'
 import { createMock } from '@/app/tests/actions'
+import BackLink from '@/components/BackLink'
 
 export const dynamic = 'force-dynamic'
 
@@ -29,6 +30,7 @@ export default async function NewMock() {
 
   return (
     <main className="mx-auto max-w-md px-4 pb-16 pt-5 sm:px-6 lg:max-w-2xl lg:pt-8">
+      <BackLink href="/audit" label="Audit" />
       <header className="mb-5">
         <p className="mono-label text-muted">sunday · after the mock</p>
         <h1 className="mt-1 font-display text-2xl font-bold tracking-tight lg:text-4xl">Enter the mock</h1>

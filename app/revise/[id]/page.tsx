@@ -4,6 +4,7 @@ import { db } from '@/lib/db'
 import { revisionEvents, subjects, topics } from '@/db/schema'
 import { isAuthed } from '@/lib/auth'
 import RecallFlow from '@/components/RecallFlow'
+import BackLink from '@/components/BackLink'
 
 export const dynamic = 'force-dynamic'
 
@@ -30,6 +31,7 @@ export default async function Recall({ params }: { params: Promise<{ id: string 
 
   return (
     <main className="mx-auto max-w-md px-4 pb-10 pt-5 lg:max-w-2xl lg:pt-10">
+      <BackLink href="/revise" label="Revision queue" />
       <header className="mb-4 flex items-baseline justify-between">
         <span className="mono-label text-muted">D1 · blind recall</span>
         <span className="flex items-center gap-2 text-sm text-muted">

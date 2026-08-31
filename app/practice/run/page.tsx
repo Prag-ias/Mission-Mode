@@ -56,5 +56,15 @@ export default async function Run({
 
   if (batch.length === 0) redirect('/practice')
 
-  return <PracticeRunner batch={batch} backHref={`/practice/run?${filterQuery(f).toString()}`} seed={f.seed} />
+  const query = filterQuery(f).toString()
+  // restartHref re-enters the runner with a fresh seed; exitHref leaves it.
+  // These were once the same prop, which made "exit" restart the batch.
+  return (
+    <PracticeRunner
+      batch={batch}
+      restartHref={`/practice/run?${query}`}
+      exitHref={`/practice?${query}`}
+      seed={f.seed}
+    />
+  )
 }

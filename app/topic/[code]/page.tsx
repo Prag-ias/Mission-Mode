@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import { notFound, redirect } from 'next/navigation'
 import { asc, desc, eq, sql } from 'drizzle-orm'
 import { db } from '@/lib/db'
@@ -9,6 +8,7 @@ import { setStage } from '@/app/actions'
 import { addMaterialLink, deleteMaterial, uploadMaterial } from '@/app/topic/actions'
 import { storageReady } from '@/lib/storage'
 import NoteEditor from '@/components/NoteEditor'
+import BackLink from '@/components/BackLink'
 
 export const dynamic = 'force-dynamic'
 
@@ -59,9 +59,7 @@ export default async function Topic({ params }: { params: Promise<{ code: string
   return (
     <main className="mx-auto max-w-md px-4 pb-10 pt-5 lg:max-w-3xl lg:pt-10">
       <header className="mb-4 flex items-baseline justify-between">
-        <Link href="/syllabus" className="text-sm font-medium text-accent-deep underline">
-          Syllabus
-        </Link>
+        <BackLink href="/syllabus" label="Syllabus" />
         <span className="flex items-center gap-2 text-sm text-muted">
           <span
             aria-hidden
