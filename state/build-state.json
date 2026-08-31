@@ -43,12 +43,6 @@
       "task": "CSAT papers x6 (D27), after 2025 loads",
       "est_minutes": 300,
       "blocked_on": "user go-ahead"
-    },
-    {
-      "id": "enr-1",
-      "task": "Paste SUPABASE_SERVICE_KEY into .env.local and Vercel env to switch on topic file uploads",
-      "est_minutes": 5,
-      "blocked_on": "user"
     }
   ],
   "done_tasks": [
@@ -219,7 +213,8 @@
     "design: day-arc tints at 05:30 - calm or noise?",
     "Day 1 itself: the 05:30 block, logged one-handed",
     "enrich: dark mode at 21:40 on the phone - calm or gloomy?",
-    "enrich: a reference link tapped from a topic page opens something actually worth reading"
+    "enrich: a reference link tapped from a topic page opens something actually worth reading",
+    "enrich: upload a real photo of handwritten notes from the phone, then open it from the laptop"
   ],
   "ingestion": {
     "papers_total": 12,

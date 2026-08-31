@@ -220,3 +220,10 @@ first tab; re-importing can never break it again. Synced live from his sheet:
 252 links, 192 topics.
 
 **Blocked on user:** SUPABASE_SERVICE_KEY for uploads. Nothing else.
+
+**Storage switched on — 2026-08-31 (same day).** He pasted the service_role
+key; verified by round-trip (bucket create → upload → signed fetch → delete)
+and then by a real spec: a PDF uploaded through the topic page, served over a
+signed URL with matching bytes, and its stored object gone after the row was
+deleted (the signed URL 400s afterwards). Key added to Vercel production and
+preview; it takes effect on the next deploy. Suite 36/36.
