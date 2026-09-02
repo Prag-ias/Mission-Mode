@@ -212,7 +212,7 @@
     "csat: Q39 2021 \u2014 key handwritten \"C or D\"; stored as c, disputed."
   ],
   "ingestion": {
-    "papers_total": 12,
+    "papers_total": 26,
     "papers_done": [
       "GS1 2026 (loaded, 99 live)",
       "GS1 2021 (loaded, 99 live)",
@@ -225,10 +225,26 @@
       "CSAT 2023 (loaded)",
       "CSAT 2024 (loaded)",
       "CSAT 2025 (loaded)",
-      "CSAT 2026 (loaded)"
+      "CSAT 2026 (loaded)",
+      "GS1 2014 (loaded, 100 live)",
+      "GS1 2015 (loaded, 100 live)",
+      "GS1 2016 (loaded, 100 live)",
+      "GS1 2017 (loaded, 100 live)"
     ],
-    "in_flight": [],
-    "not_started": [],
+    "in_flight": [
+      "CSAT 2014",
+      "GS1 2018",
+      "GS1 2019",
+      "GS1 2020"
+    ],
+    "not_started": [
+      "CSAT 2015",
+      "CSAT 2016",
+      "CSAT 2017",
+      "CSAT 2018",
+      "CSAT 2019",
+      "CSAT 2020"
+    ],
     "script": "workflows/scripts/ingest-gs1-paper-wf_cf19cbd7-285.js (resume with scriptPath + resumeFromRunId)",
     "pages_rendered": "all 6 GS1 papers under .ingest/pages/ (gitignored, regenerate with scripts/render-pages.mjs)",
     "keys_held": [
@@ -242,7 +258,9 @@
       "GS1 2024 https://upsc.gov.in/sites/default/files/AnsKey-CivilServicesPExam-2024-GeneralStudies-I-210525.pdf"
     ],
     "note": "upsc.gov.in 403s automated fetch and serves keys as downloads, so the user must save them. Keys are series-specific: verify each paper's booklet series before applying a key. 2021/2026 confirmed Series A; 2022/2024 show a '( 3 - A )' page mark; 2023/2025 need their cover page checked. All 12 papers are now ingested. CSAT keys were supplied by the user as images (2021-2025) and a PDF (2026); every key-vs-solver disagreement was re-read against the key image by hand.",
-    "collector": "node scripts/collect-paper.mjs <task-output.json> writes the unreviewed draft and reports topic-tree gaps"
+    "collector": "node scripts/collect-paper.mjs <task-output.json> writes the unreviewed draft and reports topic-tree gaps",
+    "backfill_note": "2014-2020 backfill in progress, phase-wise: each paper is collected, its key-vs-solver disagreements re-read against the key image by hand, loaded, then committed. Blind agreement so far \u2014 GS1 2014 95/100, 2015 100/100, 2016 100/100, 2017 96/100. The two perfect papers were each verified by sampling 50 stored answers across every key column.",
+    "topic_gaps": "The tagger has flagged recurring topic-tree gaps in the older papers (political theory, international NGOs, tribal communities and community conservation, standards bodies BIS/AGMARK/QCI/FSSAI, social justice and welfare, evolution and animal taxonomy, watershed and rural development, left wing of the national movement). Collected across all papers for ONE consolidated bonus-topic proposal at the end \u2014 topics.json is not to be touched paper by paper."
   },
   "replan": {
     "last_run": null,
@@ -254,9 +272,9 @@
     "note": "runs against the live database; fixtures are TEST-* and self-cleaning"
   },
   "content": {
-    "questions": 1072,
+    "questions": 1472,
     "questions_explained": 1072,
-    "gs1": 593,
+    "gs1": 993,
     "csat": 479,
     "topics": 192,
     "bonus_topics": 6,
