@@ -232,7 +232,10 @@
       "GS1 2017 (loaded, 100 live)",
       "GS1 2018 (loaded)",
       "GS1 2019 (loaded)",
-      "GS1 2020 (loaded)"
+      "GS1 2020 (loaded)",
+      "CSAT 2018 (loaded, 76 of 80)",
+      "CSAT 2019 (loaded, 80)",
+      "CSAT 2020 (loaded, 80)"
     ],
     "in_flight": [],
     "not_started": [],
@@ -253,7 +256,8 @@
     "backfill_note": "GS1 backfill COMPLETE \u2014 all 13 years 2014-2026 loaded, every question explained. Blind agreement by year: 2014 95/100, 2015 100/100, 2016 100/100, 2017 96/100, 2018 98/100, 2019 95/100, 2020 92/98 (Q27 and Q52 marked X in the key and stored as dropped). Every disagreement was re-read against the key image by hand before loading.",
     "topic_gaps": "The tagger has flagged recurring topic-tree gaps in the older papers (political theory, international NGOs, tribal communities and community conservation, standards bodies BIS/AGMARK/QCI/FSSAI, social justice and welfare, evolution and animal taxonomy, watershed and rural development, left wing of the national movement). Collected across all papers for ONE consolidated bonus-topic proposal at the end \u2014 topics.json is not to be touched paper by paper.",
     "plan_doc": "docs/ingestion-plan.md",
-    "csat_backfill": "STOPPED by Pragaman on 5 Sep 2026 \u2014 CSAT 2014-2020 is not wanted. CSAT 2021-2026 (479 questions) remains loaded and live. Pages for csat_2014..2020 are rendered under .ingest/pages/ and the keys are in PYQs/, so it can be resumed later with no re-rendering; the part-finished CSAT 2014 run was wf_69a47db1-2b4. Do not restart this without asking."
+    "csat_backfill": "2018-2020 ingested on 5 Sep 2026 at Pragaman's request; 2014-2017 remain deliberately not done (he stopped that on 5 Sep and it should not be restarted without asking). CSAT now covers 2018-2026, nine years. A content filter blocked one transcription batch in 2018 and one in 2019; single-page probes recovered everything except CSAT 2018 Q17-20, whose shared passage begins on a page the filter would not transcribe. Those four are omitted and the reason is recorded in seed/questions-csat-2018.json.",
+    "weaker_checks": "CSAT 2018 Q14-16/Q21-26 and CSAT 2019 Q22-31 were recovered after batch failures and explained against the known official answer rather than solved blind. Their answers come from the key image, but they carry no independent cross-check \u2014 a weaker guarantee than the rest of the bank. Recorded in each seed file."
   },
   "replan": {
     "last_run": null,
@@ -265,10 +269,10 @@
     "note": "runs against the live database; fixtures are TEST-* and self-cleaning"
   },
   "content": {
-    "questions": 1770,
+    "questions": 2006,
     "questions_explained": 1072,
     "gs1": 1291,
-    "csat": 479,
+    "csat": 715,
     "topics": 192,
     "bonus_topics": 6,
     "reference_links": 252,
