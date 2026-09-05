@@ -229,22 +229,13 @@
       "GS1 2014 (loaded, 100 live)",
       "GS1 2015 (loaded, 100 live)",
       "GS1 2016 (loaded, 100 live)",
-      "GS1 2017 (loaded, 100 live)"
+      "GS1 2017 (loaded, 100 live)",
+      "GS1 2018 (loaded)",
+      "GS1 2019 (loaded)",
+      "GS1 2020 (loaded)"
     ],
-    "in_flight": [
-      "CSAT 2014",
-      "GS1 2018",
-      "GS1 2019",
-      "GS1 2020"
-    ],
-    "not_started": [
-      "CSAT 2015",
-      "CSAT 2016",
-      "CSAT 2017",
-      "CSAT 2018",
-      "CSAT 2019",
-      "CSAT 2020"
-    ],
+    "in_flight": [],
+    "not_started": [],
     "script": "workflows/scripts/ingest-gs1-paper-wf_cf19cbd7-285.js (resume with scriptPath + resumeFromRunId)",
     "pages_rendered": "all 6 GS1 papers under .ingest/pages/ (gitignored, regenerate with scripts/render-pages.mjs)",
     "keys_held": [
@@ -259,16 +250,10 @@
     ],
     "note": "upsc.gov.in 403s automated fetch and serves keys as downloads, so the user must save them. Keys are series-specific: verify each paper's booklet series before applying a key. 2021/2026 confirmed Series A; 2022/2024 show a '( 3 - A )' page mark; 2023/2025 need their cover page checked. All 12 papers are now ingested. CSAT keys were supplied by the user as images (2021-2025) and a PDF (2026); every key-vs-solver disagreement was re-read against the key image by hand.",
     "collector": "node scripts/collect-paper.mjs <task-output.json> writes the unreviewed draft and reports topic-tree gaps",
-    "backfill_note": "2014-2020 backfill in progress, phase-wise: each paper is collected, its key-vs-solver disagreements re-read against the key image by hand, loaded, then committed. Blind agreement so far \u2014 GS1 2014 95/100, 2015 100/100, 2016 100/100, 2017 96/100. The two perfect papers were each verified by sampling 50 stored answers across every key column.",
+    "backfill_note": "GS1 backfill COMPLETE \u2014 all 13 years 2014-2026 loaded, every question explained. Blind agreement by year: 2014 95/100, 2015 100/100, 2016 100/100, 2017 96/100, 2018 98/100, 2019 95/100, 2020 92/98 (Q27 and Q52 marked X in the key and stored as dropped). Every disagreement was re-read against the key image by hand before loading.",
     "topic_gaps": "The tagger has flagged recurring topic-tree gaps in the older papers (political theory, international NGOs, tribal communities and community conservation, standards bodies BIS/AGMARK/QCI/FSSAI, social justice and welfare, evolution and animal taxonomy, watershed and rural development, left wing of the national movement). Collected across all papers for ONE consolidated bonus-topic proposal at the end \u2014 topics.json is not to be touched paper by paper.",
-    "resume_ids": {
-      "note": "Part-finished runs from 3 Sep 2026. Resume with Workflow({scriptPath: workflows/scripts/ingest-paper.js, resumeFromRunId}) BEFORE launching anything new \u2014 completed agents replay from cache. See docs/ingestion-plan.md.",
-      "CSAT 2014": "wf_69a47db1-2b4",
-      "GS1 2018": "wf_f222d64a-527",
-      "GS1 2019": "wf_8e318277-34d",
-      "GS1 2020": "wf_56cafffb-d7f"
-    },
-    "plan_doc": "docs/ingestion-plan.md"
+    "plan_doc": "docs/ingestion-plan.md",
+    "csat_backfill": "STOPPED by Pragaman on 5 Sep 2026 \u2014 CSAT 2014-2020 is not wanted. CSAT 2021-2026 (479 questions) remains loaded and live. Pages for csat_2014..2020 are rendered under .ingest/pages/ and the keys are in PYQs/, so it can be resumed later with no re-rendering; the part-finished CSAT 2014 run was wf_69a47db1-2b4. Do not restart this without asking."
   },
   "replan": {
     "last_run": null,
@@ -280,9 +265,9 @@
     "note": "runs against the live database; fixtures are TEST-* and self-cleaning"
   },
   "content": {
-    "questions": 1472,
+    "questions": 1770,
     "questions_explained": 1072,
-    "gs1": 993,
+    "gs1": 1291,
     "csat": 479,
     "topics": 192,
     "bonus_topics": 6,
