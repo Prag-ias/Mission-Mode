@@ -1,0 +1,2902 @@
+{
+ "paper": "CSAT",
+ "year": 2019,
+ "booklet_series": "A",
+ "source_pdf": "PYQs/Prelims/GS PAPER 2/GS PAPER 2 2019.pdf",
+ "transcribed_on": "2026-09-05",
+ "reviewed_by_human": true,
+ "answer_key": {
+  "source": "official",
+  "note": "Official UPSC answer key supplied by the user; read from the key image."
+ },
+ "independent_pass": {
+  "done_on": "2026-09-05",
+  "note": "Q1-21 and Q32-80 were solved blind before the key was read (69/70 matched). Q22-31 were transcribed separately after a content-filter block on their batch and explained against the known official answer, so those ten carry NO blind cross-check."
+ },
+ "explanations_generated": {
+  "on": "2026-09-05",
+  "note": "Written during the solve pass (D2); recovered questions explained against the official answer."
+ },
+ "questions": [
+  {
+   "q_no": 1,
+   "page": 3,
+   "stem": "Directions for the following 8 (eight) items :\nRead the following seven passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.\n\nPassage – 1\n\nPolitical theorists no doubt have to take history of injustice, for example, untouchability, seriously. The concept of historical injustice takes note of a variety of historical wrongs that continue into the present in some form or the other and tend to resist repair. Two reasons might account for resistance to repair. One, not only are the roots of injustice buried deep in history, injustice itself constitutes economic structures of exploitation, ideologies of discrimination and modes of representation. Two, the category of historical injustice generally extends across a number of wrongs such as economic deprivation, social discrimination and lack of recognition. This category is complex, not only because of the overlap between a number of wrongs, but because one or the other wrong, generally discrimination, tends to acquire partial autonomy from others. This is borne out by the history of repair in India.\n\nWhat is the *main idea* that we can infer from the passage ?",
+   "options": [
+    "Untouchability in India has not been taken seriously by political theorists.",
+    "Historical injustice is inevitable in any society and is always beyond repair.",
+    "Social discrimination and deprivation have their roots in bad economies.",
+    "It is difficult, if not impossible, to repair every manifestation of historical injustice."
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding line: historical wrongs \"continue into the present in some form or the other and tend to resist repair.\"** The whole passage then explains *why* repair is hard — roots buried deep in history, injustice built into economic structures and ideologies, and several overlapping wrongs of which discrimination acquires partial autonomy. That is exactly (d).\n\n- (a) fails: the passage says theorists **have to** take it seriously — a prescription, not an accusation that they have not.\n- (b) fails: \"tend to resist repair\" ≠ \"always beyond repair\"; the passage even refers to a \"history of repair in India\".\n- (c) fails: economics is one strand, and the passage stresses discrimination becomes **partly autonomous** of it.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Passage-based main-idea inference, four plain choices.",
+   "transcription_note": null,
+   "shares_passage_with": [
+    2
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 2,
+   "page": 3,
+   "stem": "Directions for the following 8 (eight) items :\nRead the following seven passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.\n\nPassage – 1\n\nPolitical theorists no doubt have to take history of injustice, for example, untouchability, seriously. The concept of historical injustice takes note of a variety of historical wrongs that continue into the present in some form or the other and tend to resist repair. Two reasons might account for resistance to repair. One, not only are the roots of injustice buried deep in history, injustice itself constitutes economic structures of exploitation, ideologies of discrimination and modes of representation. Two, the category of historical injustice generally extends across a number of wrongs such as economic deprivation, social discrimination and lack of recognition. This category is complex, not only because of the overlap between a number of wrongs, but because one or the other wrong, generally discrimination, tends to acquire partial autonomy from others. This is borne out by the history of repair in India.\n\nOn the basis of the above passage, the following assumptions have been made :\n1. Removal of economic discrimination leads to removal of social discrimination.\n2. Democratic polity is the best way to repair historical wrongs.\nWhich of the above assumptions is/are valid ?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Neither assumption survives.\n\n- **1 is contradicted:** discrimination \"tends to acquire **partial autonomy**\" from the other wrongs — so fixing the economic wrong does not automatically fix the social one.\n- **2 is absent:** the passage never mentions democracy, polity or any remedy mechanism. A statement outside the passage cannot be a valid assumption.\n\nRule of thumb: an assumption must be something the passage *takes for granted*, not a new policy claim you supply.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Two numbered assumptions on a passage; 1 only / 2 only / both / neither pattern.",
+   "transcription_note": null,
+   "shares_passage_with": [
+    1
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 3,
+   "page": 3,
+   "stem": "Directions for the following 8 (eight) items :\nRead the following seven passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.\n\nPassage – 2\n\nEducation plays a great transformatory role in life, particularly so in this rapidly changing and globalizing world. Universities are the custodians of the intellectual capital and promoters of culture and specialized knowledge. Culture is an activity of thought, and receptiveness to beauty and human feelings. A merely well informed man is only a bore on God's earth. What we should aim at is producing men who possess both culture and expert knowledge. Their expert knowledge will give them a firm ground to start from and their culture will lead them as deep as philosophy and as high as art. Together it will impart meaning to human existence.\n\nOn the basis of the above passage, the following assumptions have been made :\n1. A society without well educated people cannot be transformed into a modern society.\n2. Without acquiring culture, a person's education is not complete.\nWhich of the above assumptions is/are valid ?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (b) 2 only**\n\nAn assumption is an *unstated* thing the author must already be taking for granted for the passage to make sense. It is not \"anything the passage sounds sympathetic to,\" and it must survive the exact wording it is written in.\n\n**Statement 2 is valid.**\nThe passage says: \"A merely well informed man is only a bore on God's earth. What we should aim at is producing men who possess both culture and expert knowledge.\" That sentence only makes sense if the author already believes expert knowledge *by itself* leaves something missing. The word doing the work is **\"merely\"** — the passage is not attacking information, it is attacking information *alone*. And the aim named is **\"both\"**, not \"either.\" So the author is presupposing exactly what Statement 2 says: education that stops at expert knowledge is incomplete; culture is what finishes it. The closing line — culture \"will lead them as deep as philosophy and as high as art. Together it will impart meaning\" — is the same presumption restated.\n\n**Statement 1 is not valid — and this is where the solver's (c) breaks.**\nThe passage's first line is tempting: \"Education plays a great transformatory role in **life**.\" Three separate slips take you from there to Statement 1:\n\n1. **Great role ≠ necessary condition.** The passage makes a *contributory* claim — education contributes powerfully to transformation. Statement 1 makes a *necessity* claim: without well educated people, a society **cannot** be transformed. \"Plays a great role in X\" never entails \"X is impossible without it.\" That quantifier jump — from a strong positive to an absolute negative — is the whole trap.\n2. **Life ≠ society.** The passage transforms *life* — individual lives, and the universities that shape them. Statement 1 is about transforming a **society**. The passage never scales the claim up to the collective level.\n3. **\"Modern society\" is imported.** The passage speaks of a \"rapidly changing and globalizing world\" as the *setting* education operates in. It never sets \"becoming a modern society\" as a goal, and never says education is the road to it. A term of art the passage never uses cannot be an assumption the passage rests on.\n\n**Why (c) is the tempting wrong answer.** Statement 1 is a true-sounding, agreeable proposition, and the passage opens on education's transformatory power — so it reads as \"obviously the author thinks this.\" But CSAT assumption items test whether the passage *must* be resting on the statement, not whether the author would nod along with it. Statement 1 is stronger than anything the passage commits to, on a subject (society, modernity) the passage does not address. Strike it and only 2 survives.\n\n**Rule to carry forward:** in assumption items, mark every \"cannot,\" \"only,\" \"all,\" \"never\" — an absolute in the option that has no absolute behind it in the passage is almost always the disqualifier, however reasonable the sentence sounds on its own.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Two numbered assumptions on a passage.",
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": "Official key says b, worked solution said c (medium confidence)."
+  },
+  {
+   "q_no": 4,
+   "page": 5,
+   "stem": "Directions for the following 8 (eight) items :\nRead the following seven passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.\n\nPassage – 3\n\nSoil, in which nearly all our food grows, is a living resource that takes years to form. Yet it can vanish in minutes. Each year 75 billion tonnes of fertile soil is lost to erosion. That is alarming — and not just for food producers. Soil can trap huge quantities of carbon dioxide in the form of organic carbon and prevent it from escaping into the atmosphere.\n\nOn the basis of the above passage, the following assumptions have been made :\n1. Large scale soil erosion is a major reason for widespread food insecurity in the world.\n2. Soil erosion is mainly anthropogenic.\n3. Sustainable management of soils helps in combating climate change.\nWhich of the above assumptions is/are valid ?",
+   "options": [
+    "1 and 2 only",
+    "3 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Only 3.\n\n- **3 is grounded:** \"Soil can **trap huge quantities of carbon dioxide** in the form of organic carbon and prevent it from escaping into the atmosphere\" — so conserving soil is a climate tool.\n- 1 fails: the passage says erosion is alarming for food producers, but never claims widespread food **insecurity** or that erosion is its major cause.\n- 2 fails: no cause of erosion is stated at all — human or natural. Nothing to base \"mainly anthropogenic\" on.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Three numbered assumptions on a passage.",
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 5,
+   "page": 5,
+   "stem": "Directions for the following 8 (eight) items :\nRead the following seven passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.\n\nPassage – 4\n\nInequality is visible, even statistically measurable in many instances, but the economic power that drives it is invisible and not measurable. Like the force of gravity, power is the organising principle of inequality, be it of income, or wealth, gender, race, religion and region. Its effects are seen in a pervasive manner in all spheres, but the ways in which economic power pulls and tilts visible economic variables remain invisibly obscure.\n\nOn the basis of the above passage, the following assumptions have been made :\n1. Economic power is the only reason for the existence of inequality in a society.\n2. Inequality of different kinds, income, wealth, etc. reinforces power.\n3. Economic power can be analysed more through its effects than by direct empirical methods.\nWhich of the above assumptions is/are valid ?",
+   "options": [
+    "1 and 2 only",
+    "3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Only 3.\n\n- **3 is grounded:** power is \"invisible and not measurable\", yet **\"Its effects are seen in a pervasive manner in all spheres\"** — so it is knowable through effects, not direct measurement.\n- 1 fails on the word **only**: the passage calls power the organising principle of inequality, never the sole cause. Absolute words rarely survive an assumption check.\n- 2 reverses the arrow: the passage runs power → inequality (\"power pulls and tilts visible economic variables\"), not inequality → power.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Three numbered assumptions on a passage.",
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 6,
+   "page": 7,
+   "stem": "Directions for the following 8 (eight) items :\nRead the following seven passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.\n\nPassage – 5\n\nClimate change may actually benefit some plants by lengthening growing seasons and increasing carbon dioxide. Yet other effects of a warmer world, such as more pests, droughts, and flooding, will be less benign. How will the world adapt ? Researchers project that by 2050, suitable croplands for four commodities — maize, potatoes, rice and wheat — will shift, in some cases pushing farmers to plant new crops. Some farmlands may benefit from warming, but others won't. Climate alone does not dictate yields; political shifts, global demand, and agricultural practices will influence how farms fare in the future.\n\nWhich one of the following is the *most logical and rational inference* that can be made from the above passage ?",
+   "options": [
+    "Farmers who modernize their methods and diversify their fields will be in an advantageous position in future.",
+    "Climate change will adversely affect the crop diversity.",
+    "Shifting major crops to new croplands will lead to a great increase in the total area under cultivation and thus an increase in overall agricultural production.",
+    "Climate change is the most important factor affecting the agricultural economy in the future."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding line: \"Climate alone does not dictate yields; political shifts, global demand, and **agricultural practices** will influence how farms fare\"** — plus croplands shifting \"in some cases pushing farmers to plant new crops\". Adapting practices and diversifying crops is the passage's own logic. That is (a).\n\n- (d) is directly contradicted by \"climate alone does not dictate yields\".\n- (b) fails: crops shift location; nothing says diversity falls.\n- (c) fails: the passage says suitable croplands **shift**, not expand; no claim about total area or total output.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Most logical inference from passage; four plain choices.",
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 7,
+   "page": 7,
+   "stem": "Directions for the following 8 (eight) items :\nRead the following seven passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.\n\nPassage – 6\n\nA bat's wings may look like sheets of skin. But underneath, a bat has the same five fingers as an orangutan or a human, as well as a wrist connected to the same cluster of wrist bones connected to the same long bones of the arm. What can be more curious than that the hand of a man, formed for grasping, that of a mole for digging, the leg of the horse, the paddle of the porpoise, and the wing of the bat, should all be constructed on the same pattern ?\n\nWhich one of the following is the *most logical, scientific and rational inference* that can be made from the above passage ?",
+   "options": [
+    "Different species having similar structure of hands is an example of biodiversity.",
+    "Limbs being used by different species for different kinds of work is an example of biodiversity.",
+    "Man and the aforementioned animals having similar structure of limbs is an example of coincidence in evolution.",
+    "Man and the aforementioned animals have a shared evolutionary history."
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Same bones — five fingers, wrist cluster, long arm bones — repurposed for grasping, digging, running, swimming and flying is the textbook case of homologous organs, which point to common ancestry.** That is (d).\n\n- (a), (b) fail: biodiversity is about variety of life forms, not shared skeletal architecture.\n- (c) fails: coincidence would be **analogy** (e.g. bat wing vs. insect wing). Identical underlying bone pattern is not coincidence — it is inheritance.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Most logical inference from passage; four plain choices.",
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 8,
+   "page": 9,
+   "stem": "Passage – 7\n\nAround 56 million years ago, the Atlantic Ocean had not fully opened and animals, perhaps including our primate ancestors, could walk from Asia to North America through Europe and across Greenland. Earth was warmer than it is today, but as the Palaeocene epoch gave way to Eocene, it was about to get much warmer still — rapidly and radically. The cause was a massive geologically sudden release of carbon. During this period called Palaeocene – Eocene Thermal Maximum or PETM, the carbon injected into the atmosphere was roughly the amount that would be injected today if humans burned all the Earth's reserves of coal, oil and natural gas. The PETM lasted for about 1,50,000 years, until the excess carbon was reabsorbed. It brought on drought, floods, insect plagues and a few extinctions. Life on Earth survived — indeed, it prospered — but it was drastically different.\n\nBased on the above passage, the following assumptions have been made :\n1. Global warming has a bearing on the planet's biological evolution.\n2. Separation of land masses causes the release of huge quantities of carbon into the atmosphere.\n3. Increased warming of Earth's atmosphere can change the composition of its flora and fauna.\n4. The present man-made global warming will finally lead to conditions similar to those which happened 56 million years ago.\nWhich of the assumptions given above are valid ?",
+   "options": [
+    "1 and 2",
+    "3 and 4",
+    "1 and 3",
+    "2 and 4"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "1 and 3.\n\n- **Deciding line: the PETM \"brought on drought, floods, insect plagues and a few extinctions. Life on Earth survived — indeed, it prospered — but it was drastically different.\"** That validates 1 (warming bears on biological evolution) and 3 (warming changes flora and fauna composition).\n- 2 fails: the un-opened Atlantic is only scene-setting for animal migration; the carbon release is called \"geologically sudden\" with **no cause attributed to continental separation**.\n- 4 fails: the passage draws a **conditional** comparison — the same amount *if* humans burned all reserves — not a prediction that today's warming will reproduce the PETM.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Four numbered assumptions on a passage; three-or-more statements maps to stmt_1_2_3.",
+   "transcription_note": "Passage – 7 is reproduced in full inside the stem. Only Q8 appears under this passage on p-09; any sibling items for Passage – 7 would be on pages not included in this batch. Verified against source image.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 9,
+   "page": 9,
+   "stem": "The number of times the digit 5 will appear while writing the integers from 1 to 1000 is",
+   "options": [
+    "269",
+    "271",
+    "300",
+    "302"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**300.**\n\nWrite every number 1–999 as a 3-digit string with leading zeros (000–999). That is 1000 strings × 3 positions = 3000 digit slots, and the ten digits 0–9 are perfectly symmetric, so each digit fills **3000 ÷ 10 = 300** slots. Leading zeros add no 5s, so the count for 1–999 is unchanged.\n\nCross-check position by position: units place 5 occurs 100 times, tens place 100 times, hundreds place 100 times → 300. **1000 contains no 5**, so the total for 1–1000 stays 300.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Digit-counting over 1-1000; basic numeracy/counting.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 10,
+   "page": 9,
+   "stem": "A solid cube is painted yellow, blue and black such that opposite faces are of same colour. The cube is then cut into 36 cubes of two different sizes such that 32 cubes are small and the other four cubes are big. None of the faces of the bigger cubes is painted blue. How many cubes have only one face painted ?",
+   "options": [
+    "4",
+    "6",
+    "8",
+    "10"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**8.**\n\nSizes fix the geometry: a 4×4×4 cube gives 4 big cubes of 2×2×2 (volume 32) + 32 unit cubes = 36 pieces.\n\n**The big cubes touch no blue face, so the 2×2×2 slab they form must sit in the two middle layers along the blue axis** — leaving one 4×4×1 layer of 16 small cubes against each blue face.\n\nIn each such layer every small cube has its blue face painted; the extra faces come only from the yellow/black sides:\n- 4 corner cubes → 3 painted faces\n- 8 edge cubes → 2 painted faces\n- **4 central cubes → blue face only = exactly 1 painted face**\n\nTwo layers × 4 = **8**. (Each big cube sits at a corner of the 4×4 cross-section, touching one yellow and one black face → 2 painted faces, so none qualifies.)",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Painted-cube cutting puzzle — classic analytical reasoning; has a spatial-counting element so CSA-03 is a near-miss, but the reasoning load dominates.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 11,
+   "page": 9,
+   "stem": "A and B are two heavy steel blocks. If B is placed on the top of A, the weight increases by 60%. How much weight will reduce with respect to the total weight of A and B, if B is removed from the top of A ?",
+   "options": [
+    "60%",
+    "45·5%",
+    "40%",
+    "37·5%"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let A's weight = 100. Placing B on A raises the weight by 60%, so **A + B = 160 and B = 60**.\n\nRemoving B is a loss of 60 out of the *total* 160:\n\n60/160 = 37·5%\n\nThe trap is 60% — that is B measured against **A**, but the question asks against **A + B**. Percentage increase and percentage decrease use different bases: up 60% from 100, down 37·5% from 160.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Percentage change with shifting base — weight increase vs reduction relative to combined total.",
+   "transcription_note": "Options (b) and (d) use the printer's middot decimal separator: 45·5% and 37·5%.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 12,
+   "page": 11,
+   "stem": "Mr 'X' has three children. The birthday of the first child falls on the 5th Monday of April, that of the second one falls on the 5th Thursday of November. On which day is the birthday of his third child, which falls on 20th December ?",
+   "options": [
+    "Monday",
+    "Thursday",
+    "Saturday",
+    "Sunday"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "April has 30 days, so a **5th Monday exists only if April 1 or 2 is a Monday**. November also has 30 days, so a 5th Thursday needs Nov 1 or 2 to be Thursday.\n\nTest April 2 = Monday (April 1 = Sunday). Days from 1 April to 1 November = 29+31+30+31+31+30+31 = 213. 213 mod 7 = 3, so 1 Nov = Sunday+3 = **Wednesday**, and 2 Nov = Thursday — the 5th-Thursday condition holds. (April 1 = Monday fails: it puts 1 Nov on Tuesday, giving only four Thursdays.)\n\nFrom 1 Nov (Wednesday): 20 Dec is 49 days later, and 49 is exactly 7 weeks, so **20 December is also a Wednesday+1 count check** — 1 Dec = Wed+30 = 30 mod 7 = 2 → Friday; 20 Dec = Friday + 19, 19 mod 7 = 5 → **Thursday**.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Calendar reasoning: 5th Monday of April and 5th Thursday of November fix the year/day pattern, then derive 20 December.",
+   "transcription_note": "In the printed paper the ordinals are superscripted: 5^th Monday of April, 5^th Thursday of November, 20^th December. 'X' carries single quotation marks in print.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 13,
+   "page": 11,
+   "stem": "Consider the following Statements and Conclusions :\n*Statements :*\n1. Some rats are cats.\n2. Some cats are dogs.\n3. No dog is a cow.\n*Conclusions :*\nI. No cow is a cat.\nII. No dog is a rat.\nIII. Some cats are rats.\nWhich of the above conclusions is/are drawn from the statements ?",
+   "options": [
+    "I, II and III",
+    "Only I and II",
+    "Only III",
+    "Only II and III"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "conclusion_count",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Only III follows.\n\n**III is the simple converse of statement 1** — \"Some rats are cats\" always converts to \"Some cats are rats.\" Particular affirmative propositions convert validly.\n\nI fails: no dog is a cow tells us nothing about cats-that-are-not-dogs; some of them could be cows.\n\nII fails: two \"some\" premises (some rats are cats, some cats are dogs) yield **no definite conclusion** — the rat-cats and dog-cats may or may not overlap, so \"No dog is a rat\" is not forced.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Syllogism with three statements and three conclusions. Asks which conclusions are drawn — conclusion_count fits the conclusions-follow family better than stmt_1_2_3, though the options list conclusions rather than a count.",
+   "transcription_note": "Statements are numbered in Arabic (1./2./3.) and Conclusions in Roman (I./II./III.), exactly as printed. 'Statements :' and 'Conclusions :' are italic in print.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 14,
+   "page": 11,
+   "stem": "The number of parallelograms that can be formed from a set of four parallel lines intersecting another set of four parallel lines, is",
+   "options": [
+    "18",
+    "24",
+    "32",
+    "36"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "A parallelogram needs **two lines from each family**. Pick 2 of the 4 lines in the first set and 2 of the 4 in the second:\n\n**C(4,2) × C(4,2) = 6 × 6 = 36**\n\nC(4,2) = (4×3)/2 = 6. Do not use 4×4 = 16 (that counts intersection points, not parallelograms) and do not use permutations.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Counting parallelograms from intersecting parallel lines — combinatorial reasoning (4C2 x 4C2) sitting between analytical ability and basic numeracy.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 15,
+   "page": 11,
+   "stem": "In a school every student is assigned a unique identification number. A student is a football player if and only if the identification number is divisible by 4, whereas a student is a cricketer if and only if the identification number is divisible by 6. If every number from 1 to 100 is assigned to a student, then how many of them play cricket as well as football ?",
+   "options": [
+    "4",
+    "8",
+    "10",
+    "12"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Football ⇒ divisible by 4. Cricket ⇒ divisible by 6. Both ⇒ divisible by **LCM(4,6) = 12** (not 24 — 4 = 2², 6 = 2×3, so LCM = 2²×3 = 12).\n\nMultiples of 12 up to 100: 12, 24, 36, 48, 60, 72, 84, 96 → ⌊100/12⌋ = **8**.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Divisibility/LCM counting: multiples of 12 within 1-100.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 16,
+   "page": 11,
+   "stem": "When a runner was crossing the 12 km mark, she was informed that she had completed only 80% of the race. How many kilometres was the runner supposed to run in this event ?",
+   "options": [
+    "14",
+    "15",
+    "16",
+    "16·5"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**12 km is 80% of the race.**\n\n0·8 × total = 12 → total = 12 / 0·8 = **15 km**.\n\nQuick check: 10% = 1·5 km, so 100% = 15 km, and 80% of 15 = 12. ✔",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Straight percentage: 12 km is 80% of the total.",
+   "transcription_note": "Option (d) uses the printer's middot decimal separator: 16·5.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 17,
+   "page": 11,
+   "stem": "Raju has ₹ 9000 with him and he wants to buy a mobile handset; but he finds that he has only 75% of the amount required to buy the handset. Therefore, he borrows ₹ 2000 from a friend. Then",
+   "options": [
+    "Raju still does not have enough amount to buy the handset.",
+    "Raju has exactly the same amount as required to buy the handset.",
+    "Raju has enough amount to buy the handset and he will have ₹ 500 with him after buying the handset.",
+    "Raju has enough amount to buy the handset and he will have ₹ 1000 with him after buying the handset."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "₹9000 is 75% of the price, so **price = 9000 / 0·75 = ₹12,000**.\n\nAfter borrowing: 9000 + 2000 = ₹11,000.\n\n11,000 < 12,000 — he is still **short by ₹1000**. The trap is treating ₹9000 as the price and adding 25% (₹11,250), which also looks \"almost enough\"; the correct base is 9000/0·75, not 9000×1·25.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Percentage of an amount plus a comparison; options are outcome statements but the paper format is four plain choices.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 18,
+   "page": 13,
+   "stem": "In 2002, Meenu's age was one-third of the age of Meera, whereas in 2010, Meenu's age was half the age of Meera. What is Meenu's year of birth ?",
+   "options": [
+    "1992",
+    "1994",
+    "1996",
+    "1998"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let Meenu be M and Meera be R in 2002: R = 3M.\n\nIn 2010 (8 years on): M + 8 = (R + 8)/2 → 2M + 16 = 3M + 8 → **M = 8**.\n\nSo Meenu was 8 in 2002 → born in **1994**.\n\nCheck: 2002 — Meenu 8, Meera 24 (one-third ✔). 2010 — Meenu 16, Meera 32 (half ✔).",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Ages problem solved by linear equations.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 19,
+   "page": 13,
+   "stem": "Rakesh and Rajesh together bought 10 balls and 10 rackets. Rakesh spent ₹ 1300 and Rajesh spent ₹ 1500. If each racket costs three times a ball does, then what is the price of a racket ?",
+   "options": [
+    "₹ 70",
+    "₹ 90",
+    "₹ 210",
+    "₹ 240"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Together they bought **10 balls + 10 rackets** for 1300 + 1500 = **₹2800**. (Who spent what is irrelevant — a distractor.)\n\nLet a ball = b, so a racket = 3b:\n\n10b + 10(3b) = 40b = 2800 → b = ₹70\n\nRacket = 3 × 70 = **₹210**. ₹70 is the ball's price, the planted trap.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Ratio and linear equations on prices of balls and rackets.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 20,
+   "page": 13,
+   "stem": "In a conference, out of a total 100 participants, 70 are Indians. If 60 of the total participants are vegetarian, then which of the following statements is/are correct ?\n1. At least 30 Indian participants are vegetarian.\n2. At least 10 Indian participants are non-vegetarian.\nSelect the correct answer using the codes given below :",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Total 100, Indians 70, vegetarians 60.\n\n**Statement 1:** minimum overlap = 70 + 60 − 100 = **30**. Even if all 30 non-Indians are vegetarian, 30 vegetarians must still be Indian. ✔\n\n**Statement 2:** Indian non-vegetarians = 70 − (Indian vegetarians), and Indian vegetarians can be at most 60 (the total vegetarian count). So Indian non-vegetarians ≥ 70 − 60 = **10**. ✔\n\nBoth are guaranteed minimums, so both hold.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Two numbered statements with 1 only / 2 only / both / neither codes. Set-overlap minimum reasoning — analytical rather than pure computation, though CSA-03 is adjacent.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 21,
+   "page": 13,
+   "stem": "*Directions for the following 8 (eight) items :*\n*Read the following **six** passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.*\n\nPassage – 1\n\nLow-end IoT (Internet of Things) devices are cheap commodity items : addressing security would add to the cost. This class of items is proliferating with new applications; many home appliances, thermostats, security and monitoring devices and personal convenience devices are part of the IoT. So are fitness trackers, certain medical implants and computer-like devices in automobiles. The IoT is expected to expand exponentially — but new security challenges are daunting.\n\nWhich one of the following statements is the *most logical and rational inference* that can be made from the above passage ?",
+   "options": [
+    "Development of enabling technologies in India can be a big boost to its manufacturing sector.",
+    "India is not yet fully ready to adopt IoT in view of the imminent security challenges.",
+    "Life becomes more comfortable with the development of cheap low-end IoT devices.",
+    "As we go digital, we must recognise the huge threat to Internet security from some IoT devices."
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**The passage's whole point is that cheap IoT devices skip security and are multiplying, so \"new security challenges are daunting.\"** That is exactly option (d): as we go digital, some IoT devices pose a huge threat to Internet security.\n\nWhy the others fail:\n- **(a)** and **(b)** invent India — the passage never mentions India, manufacturing, or readiness. Inference must stay inside the passage.\n- **(c)** \"Life becomes more comfortable\" picks up the list of convenience devices but ignores the passage's actual conclusion; it is a side detail, not the inference the passage builds toward.\n\n*Rule for these items: the correct inference restates the passage's own conclusion in wider terms — it never adds a country, a policy or a value judgement.*",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Passage-based inference item; single best inference from four plain choices.",
+   "transcription_note": "The Directions block and Passage – 1 are reproduced in full inside the stem. The whole Directions block is italic in print, with 'six' additionally set in bold-italic. Only Q21 appears under Passage – 1 on p-13; the Directions state these 8 items span six passages, so sibling items for Passage – 1 (if any) would fall on pages not included in this batch.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 22,
+   "page": 15,
+   "stem": "Passage – 2\n\nWith the digital phenomenon restructuring most social sectors, it is little surprise that global trade negotiations are now eyeing the digital area in an attempt to pre-emptively colonise it. Big Data is freely collected or mined from developing countries, and converted into digital intelligence in developed countries. This intelligence begins to control different sectors and extract monopoly rents. A large foreign company providing cab service, for instance, is not a network of cars and drivers; it is digital intelligence about commuting, public transport, roads, traffic, city events, personal behavioural characteristics of commuters and drivers and so on.\n\nWhich one of the following is the most logical and rational corollary to the above passage ?",
+   "options": [
+    "Globalization is not in the interests of India as it undermines its socio-economic structures.",
+    "India should be careful to protect its digital sovereignty in global trade talks.",
+    "India should charge monopoly rents from multinational companies in exchange for Big Data.",
+    "The loss of Big Data from India is proportional to the degree/value of its foreign trade."
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Deciding line: \"global trade negotiations are now eyeing the digital area in an attempt to pre-emptively colonise it.\"**\n\nThe passage names an arena (trade negotiations), a mechanism (Big Data taken free from developing countries, turned into digital intelligence abroad), and a harm (that intelligence controls sectors and extracts monopoly rents). The corollary must act *in that arena* against *that harm* — guard India's data at the negotiating table, i.e. (b). \"Pre-emptively\" is what fixes the timing: the defence has to happen in the talks, before the rules are written.\n\n- **(c) is the trap.** It lifts \"monopoly rents\" verbatim, so it feels sourced. But in the passage monopoly rent is the harm the foreign firm *extracts* — not a price India can pocket. Charging for Big Data licenses the very transfer the passage is warning against. Colonised for a fee is still colonised.\n- **(a)** widens \"digital\" to \"globalization\" and adds a verdict (\"not in the interests of India\") the passage never delivers. It warns about one sector, not the whole project.\n- **(d)** invents a proportion. The data is \"**freely** collected or mined\" — free means untied to trade value, and nothing in the passage quantifies the loss.\n\nHabit: a corollary must stay inside the passage's scope — reject options that widen the subject, reverse the role of a lifted phrase, or add arithmetic the passage never supplies.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Passage corollary",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": null,
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 23,
+   "page": 15,
+   "stem": "Passage – 2\n\nWith the digital phenomenon restructuring most social sectors, it is little surprise that global trade negotiations are now eyeing the digital area in an attempt to pre-emptively colonise it. Big Data is freely collected or mined from developing countries, and converted into digital intelligence in developed countries. This intelligence begins to control different sectors and extract monopoly rents. A large foreign company providing cab service, for instance, is not a network of cars and drivers; it is digital intelligence about commuting, public transport, roads, traffic, city events, personal behavioural characteristics of commuters and drivers and so on.\n\nWhich of the following is most definitively implied by the above passage ?",
+   "options": [
+    "Big Data is the key resource in the digital space.",
+    "Big economies create Big Data.",
+    "Access to Big Data is the prerogative of developed countries.",
+    "Access to and possession of Big Data is a characteristic of developed countries."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (a) Big Data is the key resource in the digital space.**\n\n**Deciding line — the cab example:** *\"A large foreign company providing cab service, for instance, is not a network of cars and drivers; it is digital intelligence about commuting, public transport, roads, traffic, city events, personal behavioural characteristics of commuters and drivers and so on.\"*\n\nWork it in two steps:\n\n1. **The passage strips the visible assets away — cars, drivers — and says what the company actually *is* is data-derived intelligence.** That is the passage defining the firm's real asset for you, in its own words.\n2. The same intelligence \"begins to control different sectors and extract monopoly rents.\" So both what the firm *is* and where its rent *comes from* trace back to the data.\n\nSomething that constitutes the business and generates its monopoly rent is its key resource. Option (a) says exactly that and adds nothing the passage did not supply.\n\n**Why (d) tempts and fails.** The passage does say data is mined from developing countries and converted in developed ones, so \"possession by developed countries\" feels supported. But (d) upgrades a described *practice* — one the passage frames as a live grab, \"pre-emptively colonise\" — into a settled *characteristic*. Worse, the data originates in developing countries; they hold it first. (d) adds scope the passage never granted.\n\nQuick kills: (c) \"prerogative\" means an exclusive right — the passage describes a taking, not an entitlement. (b) reverses the passage outright: the data comes *from* developing countries, not from big economies.\n\n**Rule for \"most definitively implied\":** choose the option needing the fewest words the passage did not give you. (a) needs zero.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Passage inference",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": null,
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 24,
+   "page": 15,
+   "stem": "Passage – 3\n\nThe rural poor across the world, including India, have contributed little to human-induced climate change, yet they are on the frontline in coping with its effects. Farmers can no longer rely on historical averages for rainfall and temperature, and the more frequent and extreme weather events, such as droughts and floods, can spell disaster. And there are new threats, such as sea level rise and the impact of melting glaciers on water supply. How significant are small farms ? As many as two billion people worldwide depend on them for their food and livelihood. Small-holder farmers in India produce 41 percent of the country's food grains, and other food items that contribute to local and national food security.\n\nWhat is the most logical and rational corollary to the above passage ?",
+   "options": [
+    "Supporting small farmers is an important part of any agenda regarding environmentally sustainable development.",
+    "Poor countries have little role to play in the mitigation of global warming.",
+    "Due to a large number of farmer households, India will not have food security problem in the foreseeable future.",
+    "Only small-holder farmers in India can ensure food security."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (a)**\n\n### The passage does exactly two things\n\nA corollary has to use both of them.\n\n1. **Small farmers are the most exposed.** \"The rural poor... have contributed little to human-induced climate change, yet they are on the frontline in coping with its effects\" — droughts, floods, sea level rise, glacier melt.\n2. **Small farms are not marginal.** The author asks \"How significant are small farms?\" and answers it with numbers: \"two billion people worldwide depend on them for their food and livelihood,\" and Indian small-holders \"produce 41 percent of the country's food grains.\"\n\n**Join the halves: the people least able to absorb climate shocks are the same people who feed two billion others and grow 41% of India's food grains — so supporting them is not welfare, it is a condition for development that survives the climate.** That is (a), and it is the only option that carries both halves: *environmentally* (the climate threat) and *sustainable development* (food and livelihood).\n\n### Why (d) is the trap\n\n(d) says \"**Only** small-holder farmers in India can ensure food security.\" It dies on the passage's own arithmetic: 41% from small-holders means **100 − 41 = 59% comes from everyone else** — the majority. The passage makes small farms *significant*, not *sufficient*. One word takes a supported claim past what the text will bear.\n\nNotice that (a) is hedged in the opposite direction — \"**an** important part of **any** agenda\", not the whole of it. On corollary questions the surviving option is usually the modest one.\n\n### The other two, fast\n\n- **(b)** Confuses cause with cure. \"Contributed little to human-induced climate change\" says who *created* the problem, not who should help *solve* it. The passage is also about the rural poor, not \"poor countries\".\n- **(c)** Reverses the passage. Its entire warning is that historical averages no longer hold and extreme weather \"can spell disaster\" — the food future is riskier, not guaranteed.\n\n**Takeaway:** when an option contains *only*, *all*, or *no*, check it against the passage's own number before anything else. 41 percent kills \"only\" in one step.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Corollary",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": null,
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 25,
+   "page": 15,
+   "stem": "Passage – 3\n\nThe rural poor across the world, including India, have contributed little to human-induced climate change, yet they are on the frontline in coping with its effects. Farmers can no longer rely on historical averages for rainfall and temperature, and the more frequent and extreme weather events, such as droughts and floods, can spell disaster. And there are new threats, such as sea level rise and the impact of melting glaciers on water supply. How significant are small farms ? As many as two billion people worldwide depend on them for their food and livelihood. Small-holder farmers in India produce 41 percent of the country's food grains, and other food items that contribute to local and national food security.\n\nThe above passage implies that\n1. There is a potential problem of food insecurity in India.\n2. India will have to strengthen its disaster management capabilities.\nWhich of the above assumptions is/are valid ?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (c) Both 1 and 2**\n\n**Statement 1 — valid.** Chain it from the passage's own two facts: smallholders \"produce 41 percent of the country's food grains\", and those same farmers are the ones for whom droughts and floods \"can spell disaster.\" **If ~41% of the food-grain supply sits with the group the passage names as most exposed to erratic rainfall, floods and drought, then that supply is at risk — which is a potential problem of food insecurity.** The passage even names the stake itself: small farms \"contribute to local and national food security.\"\n\n**Statement 2 — valid.** The passage lists the threats as \"more frequent and extreme weather events, such as droughts and floods,\" plus sea level rise and glacial melt affecting water supply. Rising frequency and severity of disasters implies the capacity to handle them must rise too. Note the passage's own framing: the poor are \"on the frontline in coping with its effects\" — coping capacity is the passage's subject, not an outside idea.\n\n**Why (a) 1 only fails:** candidates drop 2 because \"disaster management\" is a policy phrase the passage never uses. But an implication need not reuse the author's vocabulary. The passage asserts more frequent extreme events hitting a vulnerable, food-critical population — strengthening disaster capability is a direct consequence, not an added assumption.\n\n**Rule of thumb:** reject a statement only if it adds information the passage does not contain, not merely because it adds a word the passage does not use.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Two-assumption passage item",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": null,
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 26,
+   "page": 17,
+   "stem": "Passage – 4\n\nA changing climate, and the eventual efforts of governments (however reluctant) to deal with it, could have a big impact on investors' returns. Companies that produce or use large amounts of fossil fuels will face higher taxes and regulatory burdens. Some energy producers may find it impossible to exploit their known reserves, and be left with \"stranded assets\" — deposits of oil and coal that have to be left in the ground. Other industries could be affected by the economic damage caused by more extreme weather — storms, floods, heat waves and droughts.\n\nOn the basis of the above passage, the following assumptions have been made :\n\n1. Governments and companies need to be adequately prepared to face the climate change.\n2. Extreme weather events will reduce the economic growth of governments and companies in future.\n3. Ignoring climate change is a huge risk for investors.\n\nWhich of the above assumptions is/are valid ?",
+   "options": [
+    "1 and 2 only",
+    "3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (c) 1 and 3 only**\n\nAn assumption here must be something the passage *rests on* or states directly — not a claim stronger than the text supports.\n\n**Statement 3 — valid.** Line 1: \"A changing climate, and the eventual efforts of governments... could have a big impact on investors' returns.\" The entire paragraph is then a list of ways investors get hurt — higher taxes, stranded assets, weather damage. An investor who ignores all this carries that risk. Valid.\n\n**Statement 1 — valid.** Two hooks in the text: governments are already making \"eventual efforts (however reluctant) to deal with it,\" and companies \"will face higher taxes and regulatory burdens.\" Note the tense — *will face*, not *might*. The passage is written on the premise that both sides have something unavoidable coming at them, which is exactly what \"need to be adequately prepared\" says. Valid.\n\n**Statement 2 — invalid. The passage's only weather line is: \"Other industries *could* be affected by the economic damage caused by more extreme weather.\" Statement 2 converts \"could be affected\" into \"will reduce,\" and converts \"other industries\" into \"the economic growth of governments and companies.\"** Two upgrades the text never licenses: possibility → certainty, and some industries → macro growth of governments. Out.\n\n1 and 3 stand, 2 falls → **(c)**.\n\n**Why (d) tempts:** statement 2 recycles the passage's own vocabulary — \"extreme weather,\" \"economic damage\" — so it scans as a paraphrase. It isn't. Shared words are not shared claims. In assumption sets, any statement that raises the modality (*could* → *will*, *some* → *all*, *affected* → *reduced growth*) is rejected on that alone.\n\n**Why (b) fails:** it's over-strict. Statement 1 imports nothing from outside — government action and corporate tax/regulation burdens are both already on the page.\n\n**Carry forward:** underline every *could / may / might* in the passage, then check whether the statement kept it. That single habit decides most CSAT assumption questions.\n",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Three assumptions",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": null,
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 27,
+   "page": 17,
+   "stem": "Passage – 5\n\nAccess to schooling for those coming of school age is close to universal, but access to quality exhibits a sharp gradient with socio-economic status. Quotas for the weaker sections in private schools is a provision introduced by the Right of Children to Free and Compulsory Education Act, 2009. The quotas have imposed a debate on issues of social integration and equity in education that private actors had escaped by and large. The idea of egalitarian education system with equality of opportunity as its primary goal appears to be outside the space that private school principals inhabit. Therefore, the imposition of the quotas has led to resistance, sometimes justified.\n\nWith reference to the above passage, the following assumptions have been made :\n\n1. Making equality of opportunity a reality is the fundamental goal of the Indian education system.\n2. The present Indian school system is unable to provide egalitarian education.\n3. Abolition of private schools and establishment of more government schools is the only way to ensure egalitarian education.\n\nWhich of the above assumptions is/are valid ?",
+   "options": [
+    "1 and 2 only",
+    "2 only",
+    "2 and 3 only",
+    "3 only"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (b) — 2 only**\n\n**Test each statement against the passage's own wording.**\n\n**1 — invalid.** The tempting line is *\"The idea of egalitarian education system with equality of opportunity as its primary goal appears to be outside the space that private school principals inhabit.\"* Read the grammar: *primary goal* belongs to **the idea of an egalitarian system** — an ideal being described — not to the Indian education system as it exists. And the passage says that ideal sits **outside** the space private actors inhabit. The passage's own facts point the other way: quality has \"a sharp gradient with socio-economic status\", and private actors \"had escaped by and large\" the equity debate until a law forced quotas on them. An aspiration that had to be legislated in 2009 and is still resisted is not being treated as the system's fundamental goal.\n\n**2 — valid. The deciding line: *\"Access to schooling for those coming of school age is close to universal, but access to quality exhibits a sharp gradient with socio-economic status.\"*** Everyone gets a seat; not everyone gets a good one, and which one you get tracks your family's income. That gap *is* the failure to be egalitarian. It is also the unstated premise the whole passage rests on — if the system already delivered egalitarian education, RTE quotas would have nothing to correct.\n\n**3 — invalid on two words: \"abolition\" and \"only\".** The remedy the passage describes is quotas **inside private schools**, which presupposes private schools keep existing. Abolishing them, building more government schools, and any claim that this is the *sole* route are all imported from outside the text.\n\n**Answer: 2 only → (b).**\n\n**Why (a) is the trap.** Candidates spot \"equality of opportunity as its primary goal\", recognise the phrase, and tick 1. But an assumption must be what the passage takes for granted, not a phrase lifted out of its clause. Statement 1 swaps the subject — *an egalitarian education system* (a described ideal) becomes *the Indian education system* (the real one) — and swaps *primary goal of that ideal* for *fundamental goal in practice*. The passage spends its whole length showing the real system does not run on that goal. Both parts of the swap are the reader's, not the author's.\n",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Three assumptions",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": null,
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 28,
+   "page": 19,
+   "stem": "Passage – 6\n\nA majority of the TB infected in India are poor and lack sufficient nutrition, suitable housing and have little understanding of prevention. TB then devastates families, makes the poor poorer, particularly affects women and children, and leads to ostracisation and loss of employment. The truth is that even if TB does not kill them, hunger and poverty will. Another truth is that deep-seated stigma, lack of counselling, expensive treatment and lack of adequate support from providers and family, coupled with torturous side-effects demotivate patients to continue treatment — with disastrous health consequences.\n\nWhich one of the following is the most logical, rational and crucial message conveyed by the above passage ?",
+   "options": [
+    "TB is not a curable disease in Indian circumstances.",
+    "Curing TB requires more than diagnosis and medical treatment.",
+    "Government's surveillance mechanism is deficient; and poor people have no access to treatment.",
+    "India will be free from diseases like TB only when its poverty alleviation programmes are effectively and successfully implemented."
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Answer: (b) Curing TB requires more than diagnosis and medical treatment.**\n\n## Working\n\nThe passage is built as two \"truths.\" Sort what each one blames.\n\n**Truth 1 — the patient's circumstances kill even when the disease doesn't:** poverty, no nutrition, no suitable housing, ostracisation, loss of employment. *\"even if TB does not kill them, hunger and poverty will.\"*\n\n**Truth 2 — the deciding line — is a list of reasons patients stop treatment:** *\"deep-seated stigma, lack of counselling, expensive treatment and lack of adequate support from providers and family, coupled with torturous side-effects demotivate patients to continue treatment — with disastrous health consequences.\"*\n\nNow check that list against the medical system. Stigma, counselling, family support, affordability, side-effect management — **not one of these is diagnosis or a drug regimen, yet every one of them decides whether the patient is cured.** The passage says medicine is available and still fails, because the non-medical scaffolding around the patient is missing. That is exactly (b).\n\n## Why (d) fails\n\n(d) is the tempting one — poverty is all over paragraph 1, so it feels like the theme. But (d) makes poverty alleviation the *sufficient and only* condition (\"only when\"), and it quietly drops the entire second truth. Stigma, absent counselling and no family support are not poverty; a middle-class patient abandoning treatment from side-effects and shame fits the passage perfectly. (b) contains poverty *and* stigma *and* support; (d) contains only one of the three. The wider option wins.\n\nQuick sweep of the rest: (a) is contradicted — the passage's whole complaint is that patients *stop* a treatment that would work. (c) invents \"surveillance mechanism\" and \"no access,\" neither of which the passage mentions; access is not the failure, continuation is.\n\n**Rule of thumb:** when a passage lists non-medical barriers to a medical cure, the message is \"treatment alone isn't enough,\" not \"fix the one barrier you noticed first.\"",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Central message",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": null,
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 29,
+   "page": 19,
+   "stem": "A five-storeyed building with floors from I to V is painted using four different colours and only one colour is used to paint a floor.\nConsider the following statements :\n1. The middle three floors are painted in different colours.\n2. The second (II) and the fourth (IV) floors are painted in different colours.\n3. The first (I) and the fifth (V) floors are painted red.\nTo ensure that any two consecutive floors have different colours",
+   "options": [
+    "Only statement 2 is sufficient",
+    "Only statement 3 is sufficient",
+    "Statement 1 is not sufficient, but statement 1 along with statement 2 is sufficient",
+    "Statement 3 is not sufficient, but statement 3 along with statement 2 is sufficient"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02",
+    "CSA-04"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**Answer: (b) — statement 3 alone does it.**\n\nSet up the counting first. Five floors, four colours, all four used: so the colour split is **2 + 1 + 1 + 1** — exactly one colour appears twice, the other three appear once each.\n\n**Statement 3 — I and V are red.** Red is now the doubled colour, and both its uses are spent on floors I and V. **That forces the remaining three colours onto II, III and IV — one each — so those three floors are automatically all different from each other, and none of them is red.**\n\nCheck every adjacent pair:\n\n| Pair | Colours | Same? |\n|---|---|---|\n| I–II | red / non-red | no |\n| II–III | two distinct colours | no |\n| III–IV | two distinct colours | no |\n| IV–V | non-red / red | no |\n\nAll four consecutive pairs differ. Sufficient.\n\n**Statement 1 — middle three all different.** Say II, III, IV = blue, green, yellow. Red still has to appear somewhere, and one colour still repeats, so take I = blue, V = red. Now I and II are both blue — consecutive floors, same colour. Not sufficient.\n\n**Why (c) is the trap.** Statement 2 says II ≠ IV. But statement 1 already says II, III and IV are *all* different, which contains II ≠ IV. **Statement 2 adds nothing to statement 1**, so the blue-blue counterexample above survives intact. 1 + 2 is still insufficient. And (a) fails for the same reason — II ≠ IV constrains nothing about I, III or V.\n\n**Why (d) fails.** It claims 3 is insufficient. It isn't — the 2 + 1 + 1 + 1 split does all the work.\n",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Data sufficiency style arrangement",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": null,
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 30,
+   "page": 19,
+   "stem": "P, Q and R are three towns. The distance between P and Q is 60 km, whereas the distance between P and R is 80 km. Q is in the West of P and R is in the South of P. What is the distance between Q and R ?",
+   "options": [
+    "140 km",
+    "130 km",
+    "110 km",
+    "100 km"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Answer: (d) 100 km**\n\nWest and south are perpendicular directions, so **P is the right-angle corner** — Q is 60 km out along one arm, R is 80 km out along the other, and QR is the hypotenuse.\n\nSketch it before calculating:\n\n```\n      Q ————60———— P\n                   |\n                   80\n                   |\n                   R\n```\n\nNow Pythagoras on the triangle with the right angle at P:\n\n**QR² = 60² + 80² = 3600 + 6400 = 10000 → QR = √10000 = 100 km**\n\nShortcut worth keeping: 60–80–100 is the 3-4-5 triangle scaled by 20. Legs of 60 and 80 give a hypotenuse of 100 on sight, no squaring needed.\n\n**Why (a) 140 km fails:** it is simply 60 + 80 — the distance you cover walking Q → P → R along the two arms. That is a path length, not a straight-line distance. The three towns are not collinear (Q is west of P, R is south of P), so the direct Q–R distance must be *less* than the sum of the two legs. Anything at or above 140 can be rejected without arithmetic; 130 and 110 are just wrong hypotenuses — only 100 satisfies 60² + 80².\n\nNote also that the specific compass words don't matter, only that they are at 90° to each other. West-and-south, east-and-north, north-and-west — same triangle, same 100 km.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Direction + Pythagoras distance",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": null,
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 31,
+   "page": 19,
+   "stem": "All members of a club went to Mumbai and stayed in a hotel. On the first day, 80% went for shopping and 50% went for sightseeing, whereas 10% took rest in the hotel. Which of the following conclusion(s) can be drawn from the above data ?\n1. 40% members went for shopping as well as sightseeing.\n2. 20% members went for only shopping.\nSelect the correct answer using the code given below :",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**Answer: (a) 1 only**\n\nTake the club as 100 members.\n\n- Shopping S = 80\n- Sightseeing G = 50\n- Rested in the hotel (did neither) = 10\n\nIf 10% stayed back, everyone else did at least one of the two activities:\n\nn(S ∪ G) = 100 − 10 = **90**\n\n**Now apply n(S ∪ G) = n(S) + n(G) − n(S ∩ G):  90 = 80 + 50 − n(S ∩ G) → n(S ∩ G) = 130 − 90 = 40**\n\nSo **40% did both shopping and sightseeing → Statement 1 is correct.**\n\nStatement 2 follows straight from that overlap:\n\n- Only shopping = 80 − 40 = **40%**, not 20%.\n- Only sightseeing = 50 − 40 = 10%.\n- Check: 40 (only shop) + 40 (both) + 10 (only sight) + 10 (rest) = 100. ✓\n\nStatement 2 is wrong. Hence **1 only**.\n\n**Why (c) tempts you:** the figure 20 is sitting right there — 100 − 80 = 20 — and it feels like \"only shopping\". It isn't. 20% is the share who did *not* go shopping at all (the 10 only-sightseeing + 10 resting). \"Only shopping\" means shopping minus the overlap, and the overlap is 40, so the answer is 40%. Statement 2 fails, and (c) falls with it.\n\n*Note the assumption the question intends: the 10% who rested did neither activity, so the two circles cover exactly 90%. Without that, no overlap can be pinned down at all.*",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Set/percentage conclusions; also numeracy flavour",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": null,
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 32,
+   "page": 21,
+   "stem": "In a school, 60% students play cricket. A student who does not play cricket, plays football. Every football player has got a two-wheeler. Which of the following conclusions ***cannot*** be drawn from the above data ?\n1. 60% of the students do not have two-wheelers.\n2. No cricketer has a two-wheeler.\n3. Cricket players do not play football.\nSelect the correct answer using the code given below :",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Given: 60% play cricket; **non-cricketer → footballer**; **footballer → owns a two-wheeler**. So 40% are footballers and all 40% own two-wheelers. Nothing more.\n\n- **1. \"60% do not have two-wheelers\"** — false step. We only know footballers *do* own one; cricketers are simply unmentioned, and some (or all) may own two-wheelers too. Cannot be drawn.\n- **2. \"No cricketer has a two-wheeler\"** — same error in reverse. \"Footballers own two-wheelers\" says nothing about cricketers. Cannot be drawn.\n- **3. \"Cricket players do not play football\"** — **the given statement is only \"not cricket → football\"; its converse/inverse \"cricket → not football\" does not follow.** Nothing bars a student from playing both. Cannot be drawn.\n\nAll three fail, so the answer is 1, 2 and 3.\n\n*Trap: a conditional \"if not P then Q\" never licenses \"if P then not Q\".*",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Three numbered conclusions with a select-the-code answer; syllogistic/logical deduction from given data rather than computation. Not conclusion_count since it asks which cannot be drawn, not how many follow.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "medium",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 33,
+   "page": 21,
+   "stem": "The ratio of a two-digit natural number to a number formed by reversing its digits is 4 : 7. The number of such pairs is",
+   "options": [
+    "5",
+    "4",
+    "3",
+    "2"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let the number be $10a+b$ and the reverse $10b+a$.\n\n$$\\frac{10a+b}{10b+a}=\\frac{4}{7}\\;\\Rightarrow\\;70a+7b=40b+4a\\;\\Rightarrow\\;66a=33b\\;\\Rightarrow\\;\\mathbf{b=2a}$$\n\nNow run $a=1\\ldots9$ with $b\\le 9$:\n- $a=1,b=2 \\to 12:21$\n- $a=2,b=4 \\to 24:42$\n- $a=3,b=6 \\to 36:63$\n- $a=4,b=8 \\to 48:84$\n- $a=5 \\to b=10$, not a digit — stop.\n\n**Four pairs.**",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Two-digit number and ratio on reversed digits — basic numeracy.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 34,
+   "page": 21,
+   "stem": "In an examination, A has scored 20 marks more than B. If B has scored 5% less marks than A, how much has B scored ?",
+   "options": [
+    "360",
+    "380",
+    "400",
+    "420"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "B scored 5% less than A, so $B=0.95A$. Also $A-B=20$.\n\n$$A-0.95A=20 \\Rightarrow 0.05A=20 \\Rightarrow A=400$$\n\n**So $B=0.95\\times400=380$.**\n\nCheck: $400-380=20$ ✓ and $20$ is $5\\%$ of $400$ ✓.\n\n*Trap: the 5% is taken on A's marks, not on B's — do not compute $A=1.05B$ (that would give 400 and be wrong).*",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Percentage relation between two scores.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 35,
+   "page": 21,
+   "stem": "Seeta and Geeta go for a swim after a gap of every 2 days and every 3 days respectively. If on 1st January both of them went for a swim together, when will they go together next ?",
+   "options": [
+    "7th January",
+    "8th January",
+    "12th January",
+    "13th January"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "\"A gap of 2 days\" means she skips 2 days, so she swims **every 3rd day**; a gap of 3 days means **every 4th day**.\n\n- Seeta: Jan 1, 4, 7, 10, **13**\n- Geeta: Jan 1, 5, 9, **13**\n\n**LCM(3, 4) = 12, so they meet 12 days after 1 January = 13 January.**\n\n*Trap: reading \"gap of 2 days\" as a 2-day cycle gives LCM(2,3)=6 → 7 January, the planted wrong option.*",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "LCM / calendar-cycle numeracy.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 36,
+   "page": 21,
+   "stem": "X, Y and Z are three contestants in a race of 1000 m. Assume that all run with different uniform speeds. X gives Y a start of 40 m and X gives Z a start of 64 m. If Y and Z were to compete in a race of 1000 m, how many metres start will Y give to Z ?",
+   "options": [
+    "20",
+    "25",
+    "30",
+    "35"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Convert starts into distances covered in the same time.\n\n- X 1000 → Y 960\n- X 1000 → Z 936\n\nSo in the time Y covers 960, Z covers 936. Scale Y up to a full 1000 m race:\n\n$$Z = 936\\times\\frac{1000}{960} = 975$$\n\n**Z runs 975 m while Y runs 1000 m, so Y gives Z a start of 1000 − 975 = 25 m.**\n\n*Method: chain the ratios through the common runner X; never subtract the starts (64 − 40 = 24 is the trap).*",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Races and head-start — time-distance-speed numeracy.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 37,
+   "page": 21,
+   "stem": "If x is greater than or equal to 25 and y is less than or equal to 40, then which one of the following is always correct ?",
+   "options": [
+    "x is greater than y",
+    "(y – x) is greater than 15",
+    "(y – x) is less than or equal to 15",
+    "(x + y) is greater than or equal to 65"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Given $x\\ge 25$ and $y\\le 40$. Add the inequalities after flipping the x one: $-x\\le -25$, so\n\n$$y-x \\le 40-25 = 15$$\n\n**$(y-x)\\le 15$ always holds — option (c).**\n\n- **(a)** fails at $x=25,\\;y=40$: $x<y$.\n- **(b)** fails at the same point: $y-x=15$, not greater than 15.\n- **(d)** fails because y has no lower bound — take $y=-100$, then $x+y$ is far below 65.\n\n*Only (c) survives every legal pair, and that is what \"always correct\" demands.*",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Inequality bounds: tests which statement must always hold, so the work is logical validity over a numeric range; numeracy secondary.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 38,
+   "page": 23,
+   "stem": "Ena was born 4 years after her parents' marriage. Her mother is three years younger than her father and 24 years older than Ena, who is 13 years old. At what age did Ena's father get married ?",
+   "options": [
+    "22 years",
+    "23 years",
+    "24 years",
+    "25 years"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Work backwards from Ena, age 13.\n\n- Mother = Ena + 24 = **37**\n- Father = Mother + 3 = **40**\n- Ena was born 4 years after the marriage, so the marriage was $13+4=\\mathbf{17}$ years ago.\n\n**Father's age at marriage = 40 − 17 = 23 years.**\n\n*Trap: \"three years younger than her father\" makes the father older, not younger.*",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Ages problem — basic numeracy.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 39,
+   "page": 23,
+   "stem": "Rakesh had money to buy 8 mobile handsets of a specific company. But the retailer offered very good discount on that particular handset. Rakesh could buy 10 mobile handsets with the amount he had. What was the discount the retailer offered ?",
+   "options": [
+    "15%",
+    "20%",
+    "25%",
+    "30%"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "His money is fixed. Let the marked price be $P$ and the discounted price $D$.\n\n$$8P = 10D \\Rightarrow D = 0.8P$$\n\n**He pays 80% of the original price, so the discount is 20%.**\n\n*Trap: 2 extra handsets out of 8 is 25%, but discount is measured on price, not on quantity — the count goes up by 25% only because the price fell by 20%.*",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Discount percentage from quantity change.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 40,
+   "page": 23,
+   "stem": "The average marks of 100 students are given to be 40. It was found later that marks of one student were 53 which were misread as 83. The corrected mean marks are",
+   "options": [
+    "39",
+    "39·7",
+    "40",
+    "40·3"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Wrong total $= 100\\times 40 = 4000$.\n\nThe entry was 30 too high (83 instead of 53), so the correct total is $4000-30=3970$.\n\n**Corrected mean $=3970/100 = 39.7$.**\n\n*Shortcut: an error of 30 spread over 100 students shifts the mean by exactly 0.3, downwards.*",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Corrected average after a misread value.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 41,
+   "page": 25,
+   "stem": "*Directions for the following 7 (seven) items :*\n\n*Read the following **six** passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.*\n\nPassage – 1\n\nWhat stands in the way of the widespread and careful adoption of 'Genetic Modification (GM)' technology is an 'Intellectual Property Rights' regime that seeks to create private monopolies for such technologies. If GM technology is largely corporate driven, it seeks to maximize profits and that too in the short run. That is why corporations make major investments for herbicide-tolerant and pest-resistant crops. Such properties have only a short window, as soon enough, pests and weeds will evolve to overcome such resistance. This suits the corporations. The National Farmers Commission pointed out that priority must be given in genetic modification to the incorporation of genes that can help impart resistance to drought, salinity and other stresses.\n\nWhich one of the following is the ***most logical, rational and crucial message*** conveyed by the above passage ?",
+   "options": [
+    "Public research institutions should take the lead in GM technology and prioritise the technology agenda.",
+    "Developing countries should raise this issue in WTO and ensure the abolition of Intellectual Property Rights.",
+    "Private corporations should not be allowed to do agribusiness in India, particularly the seed business.",
+    "Present Indian circumstances do not favour the cultivation of genetically modified crops."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**The passage blames corporate/IPR control for the wrong research priorities, so the fix is non-corporate (public) leadership setting the agenda.** The chain is: private monopolies → profit maximisation → herbicide-tolerant and pest-resistant traits with a short window → drought/salinity traits (what the National Farmers Commission wants) get ignored. Only (a) addresses both halves — who does the research *and* who sets priorities.\n\n- (b) Abolishing IPR through WTO is not suggested anywhere; the passage criticises how the regime is used, not its existence.\n- (c) Banning private seed business is an extreme policy leap beyond the text.\n- (d) The passage supports \"widespread and careful adoption\" of GM — it is pro-GM, anti-monopoly.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Passage-based 'most logical, rational and crucial message' — comprehension inference with four plain choices.",
+   "transcription_note": "Passage – 1 and the Directions block are printed on PDF page 23; the passage has been reproduced in full inside this stem so the item is self-contained.",
+   "shares_passage_with": [
+    42
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 42,
+   "page": 25,
+   "stem": "*Directions for the following 7 (seven) items :*\n\n*Read the following **six** passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.*\n\nPassage – 1\n\nWhat stands in the way of the widespread and careful adoption of 'Genetic Modification (GM)' technology is an 'Intellectual Property Rights' regime that seeks to create private monopolies for such technologies. If GM technology is largely corporate driven, it seeks to maximize profits and that too in the short run. That is why corporations make major investments for herbicide-tolerant and pest-resistant crops. Such properties have only a short window, as soon enough, pests and weeds will evolve to overcome such resistance. This suits the corporations. The National Farmers Commission pointed out that priority must be given in genetic modification to the incorporation of genes that can help impart resistance to drought, salinity and other stresses.\n\nOn the basis of the above passage, the following assumptions have been made :\n1. The issue of effects of natural calamities on agriculture is not given due consideration by GM technology companies.\n2. In the long run, GM technology will not be able to solve agricultural problems arising due to global warming.\nWhich of the above assumptions is/are valid ?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**Assumption 1 is valid**: corporations invest in herbicide-tolerance and pest-resistance, while the National Farmers Commission has to *point out* that drought, salinity and other stresses deserve priority — i.e. these natural stresses are being neglected by GM companies.\n\n**Assumption 2 fails on two counts**: the passage never mentions global warming, and it never says GM technology *cannot* solve such problems — it says the technology is being pointed in the wrong direction. The \"short window\" remark is about pest/weed resistance evolving, not about climate.\n\nSo 1 only.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Passage assumption validity with two numbered assumptions; comprehension plus assumption-validity reasoning.",
+   "transcription_note": "Passage – 1 and the Directions block are printed on PDF page 23; the passage has been reproduced in full inside this stem so the item is self-contained.",
+   "shares_passage_with": [
+    41
+   ],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 43,
+   "page": 25,
+   "stem": "*Directions for the following 7 (seven) items :*\n\n*Read the following **six** passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.*\n\nPassage – 2\n\nMost invasive species are neither terribly successful nor very harmful. Britain's invasive plants are not widespread, not spreading especially quickly, and often less of a nuisance than vigorous natives such as bracken. The arrival of new species almost always increases biological diversity in a region; in many cases, a flood of newcomers drives no native species to extinction. One reason is that invaders tend to colonise disturbed habitats like polluted lakes and post-industrial wasteland, where little else lives. They are nature's opportunists.\n\nWhich one of the following is the ***most logical and rational inference*** that can be made from the above passage ?",
+   "options": [
+    "Invasive species should be used to rehabilitate desert areas and wastelands of a country.",
+    "Laws against the introduction of foreign plants are unnecessary.",
+    "Sometimes, the campaigns against foreign plants are pointless.",
+    "Foreign plants should be used to increase the biodiversity of a country."
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**\"Most invasive species are neither terribly successful nor very harmful\"** — if the threat is usually exaggerated, then campaigns against foreign plants are *sometimes* pointless. The hedged word \"sometimes\" is exactly what \"most\" licenses.\n\n- (a) Prescribes deliberate use of invaders to rehabilitate land; the passage only observes they colonise disturbed habitats, it does not recommend planting them.\n- (b) \"Unnecessary\" is absolute — \"most\" leaves a harmful minority, so laws may still be needed.\n- (d) Again a recommendation to *introduce* foreign plants; the passage describes a side-effect, it does not advise a policy.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Inference from passage, four plain options.",
+   "transcription_note": "Passage – 2 is printed on PDF page 25 alongside this item and has been reproduced in full inside the stem. The Directions block governing this 7-item set is printed on PDF page 23 and has been reproduced here for self-containment. Only this one item follows Passage – 2; since the Directions specify 7 items across 6 passages and Passage – 1 carries two items (41, 42), Passages 2 through 6 carry one item each.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 44,
+   "page": 27,
+   "stem": "Passage – 3\n\nDiarrhoeal deaths among Indian children are mostly due to food and water contamination. Use of contaminated groundwater and unsafe chemicals in agriculture, poor hygiene in storage and handling of food items to food cooked and distributed in unhygienic surroundings; there are myriad factors that need regulation and monitoring. People need to have awareness of adulteration and ways of complaining to the relevant authorities. Surveillance of food-borne diseases involves a number of government agencies and entails a good training of inspection staff. Considering the proportion of the urban population that depends on street food for its daily meals, investing in training and education of street vendors is of great significance.\n\nOn the basis of the above passage, the following assumptions have been made :\n1. Food safety is a complex issue that calls for a multipronged solution.\n2. Great investments need to be made in developing the manpower for surveillance and training.\n3. India needs to make sufficient legislation for governing food processing industry.\nWhich of the above assumptions is/are valid ?",
+   "options": [
+    "1 and 2 only",
+    "3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**\"Myriad factors that need regulation and monitoring\" → assumption 1 (complex, multipronged) is valid.** Contaminated groundwater, farm chemicals, storage, cooking, street vending — many fronts.\n\n**Assumption 2 is valid**: \"a number of government agencies\", \"a good training of inspection staff\", \"investing in training and education of street vendors\" — that is manpower for surveillance and training.\n\n**Assumption 3 fails**: the passage speaks of regulation, monitoring, awareness and training, but says nothing about *legislation*, and nothing at all about the food processing industry (its examples are groundwater, farms, homes and street food).\n\nSo 1 and 2 only.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Three numbered assumptions to validate against the passage.",
+   "transcription_note": "Passage – 3 is reproduced in full inside the stem. Only Q44 appears against this passage on page 27. Verified against source image: passage wording, three Arabic-numbered assumptions, and all four options confirmed.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 45,
+   "page": 27,
+   "stem": "Passage – 4\n\nThe interests of working and poor people have historically been neglected in the planning of our cities. Our cities are increasingly intolerant, unsafe and unlivable places for large numbers of citizens and yet we continue to plan via the old ways — the static Development Plan — that draws exclusively from technical expertise, distanced from people's live experiences and needs, and actively excluding large number of people, places, activities and practices that are an integral part of the city.\n\nThe passage seems to argue",
+   "options": [
+    "against the monopoly of builders and the interests of elite groups.",
+    "against the need for global and smart cities.",
+    "in favour of planning cities mainly for working class and poor people.",
+    "in favour of participation of peoples' groups in city planning."
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**The complaint is that planning \"draws exclusively from technical expertise, distanced from people's live experiences and needs, and actively excluding large numbers of people\"** — the remedy implied is participation by people's groups in planning.\n\n- (a) Builders and elite groups are never mentioned; the villain named is the static, expert-only Development Plan.\n- (b) Global/smart cities do not appear in the passage.\n- (c) Planning *mainly* for the poor swaps one exclusion for another; the passage argues against exclusion itself, not for a new privileged class.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "'The passage seems to argue' — direct comprehension, four plain choices.",
+   "transcription_note": "Passage – 4 is reproduced in full inside the stem. Only Q45 appears against this passage on page 27. Source prints 'unlivable' (not 'unliveable') and 'people's live experiences' (not 'lived') — both confirmed at zoom.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 46,
+   "page": 29,
+   "stem": "Passage – 5\n\nA vast majority of Indians are poor, with barely 10 percent employed in the organised sector. We are being convinced that vigorous economic growth is generating substantial employment. But this is not so. When our economy was growing at 3 percent per year, employment in the organised sector was growing at 2 percent per year. As the economy began to grow at 7 – 8 percent per year, the rate of growth of employment in the organised sector actually declined to 1 percent per year.\n\nThe above passage seems to imply that\n1. most of modern economic growth is based on technological progress.\n2. much of modern Indian economy does not nurture sufficient symbiotic relationship with labour-intensive, natural resource-based livelihoods.\n3. service sector in India is not very labour-intensive.\n4. literate rural population is not willing to enter organised sector.\nWhich of the statements given above are correct ?",
+   "options": [
+    "1 and 2 only",
+    "3 and 4 only",
+    "1, 2 and 3 only",
+    "1, 2, 3 and 4"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**The core fact is jobless growth: growth rose 3% → 7–8% while organised-sector employment growth fell 2% → 1%.**\n\n- **1 valid** — output rising while labour absorption falls implies growth driven by technology/capital, not more workers.\n- **2 valid** — with only ~10% in the organised sector and a poor majority left outside, the modern economy plainly does not connect with labour-intensive, resource-based livelihoods.\n- **3 valid** — India's 7–8% surge was services-led, yet it created almost no organised employment, so services are implied to be low in labour intensity.\n- **4 fails** — willingness of the literate rural population is never touched; the passage is about jobs not existing, not about people refusing them.\n\nSo 1, 2 and 3 only. (Statement 4 is the giveaway that eliminates (b) and (d).)",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": null,
+   "tagging_note": "Four numbered implications drawn from the passage; three-or-more numbered statements.",
+   "transcription_note": "Passage – 5 is reproduced in full inside the stem. Only Q46 appears against this passage on page 29. Percentages (10, 3, 2, 7 – 8, 1) and the negatives in statements 2, 3 and 4 confirmed at zoom.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 47,
+   "page": 29,
+   "stem": "Passage – 6\n\nIndia has banking correspondents, who help bring people in the hinterland into the banking fold. For them to succeed, banks cannot crimp on costs. They also cannot afford to ignore investing in financial education and literacy. Banking correspondents are way too small to be viewed as a systemic risk. Yet India's banking regulator has restricted them to serving only one bank, perhaps to prevent arbitrage. Efforts at banking outreach may succeed only if there are better incentives at work for such last-mile workers and also those providers who ensure not just basic bank accounts but also products such as accident and life insurance and micro pension schemes.\n\nWhich one of the following is the *most logical, rational and crucial inference* that can be derived from the above passage ?",
+   "options": [
+    "Efforts to bring people in India's hinterland into the banking system are not successful.",
+    "For meaningful financial inclusion, India's banking system needs more number of banking correspondents and other such last-mile workers.",
+    "Meaningful financial inclusion in India requires that banking correspondents have diverse skills.",
+    "Better banking outreach would be impossible unless each banking correspondent is allowed to serve a number of banks."
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**The last sentence asks correspondents to deliver \"not just basic bank accounts but also products such as accident and life insurance and micro pension schemes\"** — plus financial education and literacy. Selling and servicing that spread of products demands **diverse skills**, so (c) is the inference the text actually supports.\n\n- (a) \"Not successful\" is a verdict the passage never gives; it says efforts *may succeed only if* conditions are met.\n- (b) The passage argues for better incentives and training, not for a larger *number* of correspondents.\n- (d) \"Impossible unless\" is far too absolute; the one-bank restriction is mentioned as a curiosity (\"perhaps to prevent arbitrage\"), not as the decisive barrier.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Most logical inference from passage, four plain choices.",
+   "transcription_note": "Passage – 6 is reproduced in full inside the stem. Only Q47 appears against this passage on page 29. 'most logical, rational and crucial inference' is printed in bold italics in the original; asterisks mark that emphasis. Negatives in options (a) 'not successful' and (d) 'impossible unless' confirmed at zoom.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "medium",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 48,
+   "page": 31,
+   "stem": "What is X in the sequence\n132, 129, 124, 117, 106, 93, X ?",
+   "options": [
+    "74",
+    "75",
+    "76",
+    "77"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Take successive differences:\n\n132 −**3**→ 129 −**5**→ 124 −**7**→ 117 −**11**→ 106 −**13**→ 93\n\n**The subtracted numbers are consecutive primes: 3, 5, 7, 11, 13 — so the next is 17.**\n\n93 − 17 = **76**\n\n(The trap is reading the gaps as 3, 5, 7, 9, 11 — but 117 − 106 = 11, not 9, which confirms primes, and rules out 74.)",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Number-series next-term; pattern-detection reasoning rather than arithmetic technique. Differences 3,5,7,11,13 (primes).",
+   "transcription_note": "Sequence digits verified at zoom: 132, 129, 124, 117, 106, 93.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 49,
+   "page": 31,
+   "stem": "A wall clock moves 10 minutes fast in every 24 hours. The clock was set right to show the correct time at 8:00 a.m. on Monday. When the clock shows the time 6:00 p.m. on Wednesday, what is the correct time ?",
+   "options": [
+    "5:36 p.m.",
+    "5:30 p.m.",
+    "5:24 p.m.",
+    "5:18 p.m."
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Faulty clock: 1450 of its minutes = 1440 true minutes** (it gains 10 min per 24 h).\n\nElapsed *on the clock*, Mon 8:00 a.m. → Wed 6:00 p.m. = 48 h + 10 h = 58 h = 3480 min.\n\nTrue elapsed = 3480 × 1440/1450 = 3480 × 144/145 = 24 × 144 = **3456 min = 57 h 36 min**.\n\nMon 8:00 a.m. + 57 h 36 min = Wed 8:00 a.m. + 9 h 36 min = **Wednesday 5:36 p.m.**\n\nSanity check: the clock is 24 minutes ahead, and 24 min of gain ≈ 2.4 days of running — matches.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Faulty-clock gain over elapsed time — proportional/ratio numeracy.",
+   "transcription_note": null,
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 50,
+   "page": 31,
+   "stem": "If the numerator and denominator of a proper fraction are increased by the same positive quantity which is greater than zero, the resulting fraction is",
+   "options": [
+    "always less than the original fraction",
+    "always greater than the original fraction",
+    "always equal to the original fraction",
+    "such that nothing can be claimed definitely"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Let the proper fraction be a/b with 0 < a < b, and add x > 0 to both:\n\n(a+x)/(b+x) − a/b = [b(a+x) − a(b+x)] / [b(b+x)] = **x(b − a) / [b(b+x)]**\n\nSince x > 0 and **b − a > 0 for a proper fraction**, the difference is always positive — the new fraction is **always greater**.\n\nQuick check: 1/2 → add 3 → 4/5 (bigger). Intuition: adding the same amount to both pushes the ratio toward 1, and a proper fraction sits below 1.\n\n(For an *improper* fraction the same algebra makes it smaller — that is why the \"proper\" in the stem matters, and why (d) is wrong.)",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Property of proper fractions under equal increment — fractions/ratio numeracy.",
+   "transcription_note": "Quantifier 'always' present in options (a), (b) and (c) as printed; confirmed.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 51,
+   "page": 31,
+   "stem": "What is X in the sequence\n4, 196, 16, 144, 36, 100, 64, X ?",
+   "options": [
+    "48",
+    "64",
+    "125",
+    "256"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Two interleaved series of **perfect squares running in opposite directions**.\n\n- Odd positions: 4, 16, 36, 64 = 2², 4², 6², **8²**\n- Even positions: 196, 144, 100, X = 14², 12², 10², **8² = 64**\n\nThe even terms step down by 2 in the root each time (14 → 12 → 10 → **8**), so X = 8² = **64**.\n\nTrap: 256 = 16² tempts you into continuing upward; the even series is descending, not ascending.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Number series pattern completion — analytical reasoning on a sequence (squares alternating up/down).",
+   "transcription_note": "Sequence digits verified at zoom: 4, 196, 16, 144, 36, 100, 64.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 52,
+   "page": 31,
+   "stem": "In a group of 15 people; 7 can read French, 8 can read English while 3 of them can read neither of these two languages. The number of people who can read exactly one language is",
+   "options": [
+    "10",
+    "9",
+    "5",
+    "4"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Set formula: n(F ∪ E) = 15 − 3 (neither) = **12**.\n\nn(F ∪ E) = n(F) + n(E) − n(F ∩ E)\n12 = 7 + 8 − both → **both = 3**\n\nExactly one language = 12 − 3 = **9** (French only 7−3 = 4, English only 8−3 = 5, and 4 + 5 = 9).\n\nTrap: 10 is the answer if you forget to subtract the overlap twice; 4 and 5 are the two \"only\" pieces taken singly.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Set theory / Venn overlap counting — basic numeracy.",
+   "transcription_note": "Semicolon after '15 people' is as printed. 'neither' and 'exactly one' confirmed at zoom.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 53,
+   "page": 31,
+   "stem": "A printer numbers the pages of a book starting with 1 and uses 3089 digits in all. How many pages does the book have ?",
+   "options": [
+    "1040",
+    "1048",
+    "1049",
+    "1050"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Count digits slab by slab:\n\n- Pages 1–9: 9 × 1 = **9** digits (running total 9)\n- Pages 10–99: 90 × 2 = **180** (total 189)\n- Pages 100–999: 900 × 3 = **2700** (total 2889)\n\nDigits left: 3089 − 2889 = **200**. Four-digit pages use 4 digits each → 200 ÷ 4 = **50 pages**.\n\nSo the last page is 999 + 50 = **1049**.\n\nCheck 1050 quickly: it would need 204 extra digits, i.e. 3093 in all — one page too many.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Digit-counting arithmetic across page ranges.",
+   "transcription_note": "3089 and the four four-digit options verified at zoom.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 54,
+   "page": 31,
+   "stem": "Consider the following sequence that follows some arrangement :\n\nc_accaa_aa_bc_b\n\nThe letters that appear in the gaps are",
+   "options": [
+    "abba",
+    "cbbb",
+    "bbbb",
+    "cccc"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Break the 15-letter string into **three blocks of 5, each of the form X X Y X X**:\n\n`c c a c c | a a b a a | b b c b b`\n\nStrip the four gap letters (positions 2, 8, 11, 14) and you get exactly the given string `c_accaa_aa_bc_b` — so the fills, in order, are **c, b, b, b = cbbb**.\n\nThe blocks also cycle neatly: (c,a) → (a,b) → (b,c).\n\nTrap: `bbbb` fits three gaps but breaks the very first block, which must read c c a c c.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Letter-series gap filling — pure pattern reasoning.",
+   "transcription_note": "The sequence is printed in a monospaced/spaced style with underscores marking the four gaps: c_accaa_aa_bc_b. Verified at zoom — exactly four underscores, and the string ends in 'b'.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 55,
+   "page": 33,
+   "stem": "A family has two children along with their parents. The average of the weights of the children and their mother is 50 kg. The average of the weights of the children and their father is 52 kg. If the weight of the father is 60 kg, then what is the weight of the mother ?",
+   "options": [
+    "48 kg",
+    "50 kg",
+    "52 kg",
+    "54 kg"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Three people in each average, so multiply by 3:\n\n- 2 children + mother = 3 × 50 = **150 kg**\n- 2 children + father = 3 × 52 = **156 kg**\n\nFather = 60 → **two children together = 156 − 60 = 96 kg**.\n\nMother = 150 − 96 = **54 kg**.\n\nShortcut: father − mother = 156 − 150 = 6, so mother = 60 − 6 = 54. Individual children's weights are never needed.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Averages and weights — basic numeracy.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 56,
+   "page": 33,
+   "stem": "Suppose you have sufficient amount of rupee currency in three denominations : ₹ 1, ₹ 10 and ₹ 50. In how many different ways can you pay a bill of ₹ 107 ?",
+   "options": [
+    "16",
+    "17",
+    "18",
+    "19"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Solve 50a + 10b + c = 107 with a, b, c ≥ 0 (₹1 notes always fill the remainder, so **each valid (a, b) pair gives exactly one way**).\n\n- a = 0 → 10b ≤ 107 → b = 0…10 → **11** ways\n- a = 1 → 10b ≤ 57 → b = 0…5 → **6** ways\n- a = 2 → 10b ≤ 7 → b = 0 → **1** way\n- a = 3 → 150 > 107, stop\n\nTotal = 11 + 6 + 1 = **18**.\n\nMethod: fix the largest denomination first, then the next; the ₹1 notes are the free variable.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Counting combinations of denominations — numeracy with a systematic-enumeration reasoning element.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 57,
+   "page": 33,
+   "stem": "'A' started from his house and walked 20 m towards East, where his friend 'B' joined him. They together walked 10 m in the same direction. Then 'A' turned left while 'B' turned right and travelled 2 m and 8 m respectively. Again 'B' turned left to travel 4 m followed by 5 m to his right to reach his office. 'A' turned right and travelled 12 m to reach his office. What is the shortest distance between the two offices ?",
+   "options": [
+    "15 m",
+    "17 m",
+    "19 m",
+    "20 m"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Put A's house at (0,0), East = +x, North = +y.\n\n- 20 m East → (20,0); 10 m more East together → **(30,0)**\n- A turns **left = North**, 2 m → (30,2); then right = East, 12 m → **A's office (42,2)**\n- B turns **right = South**, 8 m → (30,−8); left (from South) = East, 4 m → (34,−8); right (from East) = South, 5 m → **B's office (34,−13)**\n\nGap: Δx = 42 − 34 = 8, Δy = 2 − (−13) = 15.\nDistance = √(8² + 15²) = √289 = **17 m** (the 8–15–17 triple).",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Direction sense / distance reasoning; Pythagoras is incidental to the logical mapping.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 58,
+   "page": 33,
+   "stem": "Consider two statements S1 and S2 followed by a question :\n\nS1 : p and q both are prime numbers.\n\nS2 : p + q is an odd integer.\n\nQuestion : Is pq an odd integer?\n\nWhich one of the following is correct ?",
+   "options": [
+    "S1 alone is sufficient to answer the question",
+    "S2 alone is sufficient to answer the question",
+    "Both S1 and S2 taken together are not sufficient to answer the question",
+    "Both S1 and S2 are necessary to answer the question"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-04"
+   ],
+   "primary_topic_code": "CSA-04",
+   "explanation_md": "The question only needs a definite Yes **or** a definite No.\n\n**S2 alone:** p + q odd ⇒ one is even and one is odd ⇒ the product has an even factor ⇒ **pq is even — a firm \"No\"**. Sufficient.\n\n**S1 alone:** p = 3, q = 5 → pq = 15 (odd); p = 2, q = 3 → pq = 6 (even). Two different answers ⇒ not sufficient.\n\nSo S2 alone answers it, and S1 is not needed — which also rules out (c) and (d). Remember: in data-sufficiency, a confirmed \"No\" counts as sufficient.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Data sufficiency format (S1/S2 sufficiency judgement) — explicitly listed under CSA-04.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 59,
+   "page": 33,
+   "stem": "Which year has the same calendar as that of 2009 ?",
+   "options": [
+    "2018",
+    "2017",
+    "2016",
+    "2015"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "A calendar repeats when the **odd days accumulate to a multiple of 7** and the leap status matches.\n\nOdd days added by each year passed (ordinary = 1, leap = 2):\n2009→1, 2010→1, 2011→1, **2012→2 (leap)**, 2013→1, 2014→1.\n\nRunning total = 1+1+1+2+1+1 = **7 ≡ 0**, reached at **2015**, and 2015 is ordinary like 2009. ✔\n\nCross-check: 1 January 2009 and 1 January 2015 were both **Thursday**.\n\nRule of thumb: an ordinary year's calendar repeats after 6 years when a leap year falls in between (as here), otherwise after 11.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Calendar repetition — odd-days computation, standard basic numeracy topic.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 60,
+   "page": 33,
+   "stem": "Number 136 is added to 5B7 and the sum obtained is 7A3, where A and B are integers. It is given that 7A3 is exactly divisible by 3. The only possible value of B is",
+   "options": [
+    "2",
+    "5",
+    "7",
+    "8"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Add column-wise: 136 + 5B7 = 7A3.\n\n- Units: 6 + 7 = 13 → write 3, carry 1 ✔\n- Hundreds: 1 + 5 + (carry from tens) = 7 ⇒ the **tens column must carry 1**\n- Tens: 3 + B + 1 = A + 10 ⇒ **A = B − 6**\n\nDivisibility by 3: 7 + A + 3 = 10 + A must be a multiple of 3 ⇒ A = 2, 5 or 8. Since A = B − 6 with B ≤ 9, A ≤ 3, so **A = 2 and B = 8**.\n\nCheck: 136 + 587 = **723**, and 723 ÷ 3 = 241. ✔",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Divisibility rule for 3 with unknown digits — number properties.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 61,
+   "page": 35,
+   "stem": "*Directions for the following 7 (seven) items :*\n\n*Read the following **five** passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.*\n\n**Passage – 1**\n\nIndia's economic footprint, given its population, still remains small compared to the US, the European Union or China. It has much to learn from other economies, yet must implement solutions that fit its unique circumstances. India especially needs an effective long-term regulatory system based on collaboration rather than the current top-down approach. Regulations seek desirable outcomes yet are repeatedly used as political tools to push one agenda or another. Often, regulations fail to consider impacts on jobs and economic growth — or less restrictive alternatives. Regulations may be used to protect local markets at the expense of more widely shared prosperity in the future. Additionally, regulations inevitably result in numerous unintended consequences. In today's hyper competitive global economy, regulations need to be viewed as \"weapons\" that seek cost-justified social and environmental benefits while improving the economic well-being of most citizens.\n\nWhich one of the following is the ***most logical, rational and crucial inference*** that can be derived from the above passage ?",
+   "options": [
+    "A better regulatory system will help India achieve the size of economy appropriate to its population.",
+    "In a competitive global economy, India must use regulations strategically.",
+    "Regulations in India do not favour its integration with today's hyper competitive global economy.",
+    "Job creation and economic growth should be dominant considerations in developing India's regulatory system."
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "**The closing line is the whole answer: \"In today's hyper competitive global economy, regulations need to be viewed as *weapons*\"** — a weapon is something you wield deliberately, i.e. strategically. That is exactly option (b).\n\nWhy the others fail:\n- **(a)** The passage never links a better regulatory system to matching economy size with population; the population line is only scene-setting.\n- **(c)** The passage criticises regulations for being political tools and for protecting local markets — it never says they block India's *integration* with the global economy.\n- **(d)** Too narrow. Jobs and growth are one neglected consideration among several (social benefits, environmental benefits, less restrictive alternatives); the passage does not make them *dominant*.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Passage-based inference question, four plain options.",
+   "transcription_note": "Passage-based comprehension item. The full Passage – 1 text and the Directions block (both printed on page 35) are reproduced inside the stem so the item is self-contained. The Directions block covers items 61-67, so later passages' items on pages beyond this batch also fall under it.",
+   "shares_passage_with": [
+    62
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 62,
+   "page": 35,
+   "stem": "*Directions for the following 7 (seven) items :*\n\n*Read the following **five** passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.*\n\n**Passage – 1**\n\nIndia's economic footprint, given its population, still remains small compared to the US, the European Union or China. It has much to learn from other economies, yet must implement solutions that fit its unique circumstances. India especially needs an effective long-term regulatory system based on collaboration rather than the current top-down approach. Regulations seek desirable outcomes yet are repeatedly used as political tools to push one agenda or another. Often, regulations fail to consider impacts on jobs and economic growth — or less restrictive alternatives. Regulations may be used to protect local markets at the expense of more widely shared prosperity in the future. Additionally, regulations inevitably result in numerous unintended consequences. In today's hyper competitive global economy, regulations need to be viewed as \"weapons\" that seek cost-justified social and environmental benefits while improving the economic well-being of most citizens.\n\nOn the basis of the above passage, the following assumptions have been made :\n\nIn today's global economy,\n\n1. regulations are **not** effectively used to protect local markets.\n\n2. social and environmental concerns are generally ignored by the governments across the world while implementing the regulations.\n\nWhich of the above assumptions is/are valid ?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "Neither assumption survives the text.\n\n- **Statement 1 is contradicted outright: \"Regulations *may be used to protect local markets* at the expense of more widely shared prosperity.\"** The passage's complaint is that they *are* so used, not that they fail to protect.\n- **Statement 2** over-extends. The passage speaks about India's regulatory system, not \"governments across the world\", and it says regulations \"seek desirable outcomes\" — it never claims social and environmental concerns are generally ignored.\n\nHence **(d) Neither 1 nor 2**.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Passage-based assumption validity with two numbered statements; 1 only / 2 only / both / neither.",
+   "transcription_note": "Passage-based comprehension item; Passage – 1 and the Directions block reproduced inside the stem for self-containment. Statement 1 contains the negative 'not', preserved.",
+   "shares_passage_with": [
+    61
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 63,
+   "page": 37,
+   "stem": "*Directions for the following 7 (seven) items :*\n\n*Read the following **five** passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.*\n\n**Passage – 2**\n\nIn a study, scientists compared the microbiomes of poorly nourished and well nourished infants and young children. Gut microbes were isolated from faecal samples of malnourished and healthy children. The microbiome was \"immature\" and less diverse in malnourished children compared to the better developed \"mature\" microbiome found in healthy children of the same age. According to some studies, the chemical composition of mother's milk has shown the presence of a modified sugar (sialylated oligosaccharides). This is **not** utilized by the baby for its own nutrition. However, the bacteria constituting the infant's microbiome thrive on this sugar which serves as their food. Malnourished mothers have low levels of this sugar in their milk. Consequently, the microbiomes of their infants fail to mature. That in turn, leads to malnourished babies.\n\nWhich one of the following is the ***most logical, rational and crucial inference*** that can be derived from the above passage ?",
+   "options": [
+    "If malnourished condition in children is caused by gut bacteria, it cannot be treated.",
+    "The guts of malnourished babies should be inoculated with mature microbiomes.",
+    "Babies of malnourished mothers should be fed with dairy milk fortified with sialylated oligosaccharides instead of mother's milk.",
+    "Research on benign effects of gut bacteria on nutrition has policy implications."
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "The passage establishes a causal chain — malnourished mother → low sialylated oligosaccharides in milk → immature infant microbiome → malnourished baby. **Establishing that gut bacteria mediate nutrition means interventions targeting them become a matter for public health policy**, which is exactly (d): the research has policy implications.\n\nWhy the others fail:\n- **(a)** Nothing in the passage says the condition is untreatable; identifying a cause usually points *towards* treatment.\n- **(b)** \"Should be inoculated\" is a prescription the passage never tests; no inoculation experiment is mentioned.\n- **(c)** Extreme and unsupported — the passage nowhere recommends replacing mother's milk with dairy milk.\n\nRule of thumb for CSAT inference: pick the mildest statement the passage fully supports, not the boldest recommendation.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Passage-based inference, four plain options.",
+   "transcription_note": "Passage-based comprehension item. Passage – 2 is printed on page 37; the Directions block is carried over from page 35 (it governs items 61-67) so the stem is self-contained. Passage sentence 'This is not utilized by the baby' preserves the negative.",
+   "shares_passage_with": [
+    64
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 64,
+   "page": 37,
+   "stem": "*Directions for the following 7 (seven) items :*\n\n*Read the following **five** passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.*\n\n**Passage – 2**\n\nIn a study, scientists compared the microbiomes of poorly nourished and well nourished infants and young children. Gut microbes were isolated from faecal samples of malnourished and healthy children. The microbiome was \"immature\" and less diverse in malnourished children compared to the better developed \"mature\" microbiome found in healthy children of the same age. According to some studies, the chemical composition of mother's milk has shown the presence of a modified sugar (sialylated oligosaccharides). This is **not** utilized by the baby for its own nutrition. However, the bacteria constituting the infant's microbiome thrive on this sugar which serves as their food. Malnourished mothers have low levels of this sugar in their milk. Consequently, the microbiomes of their infants fail to mature. That in turn, leads to malnourished babies.\n\nOn the basis of the above passage, the following assumptions have been made :\n\n1. Processed probiotic foods are a solution to treat the children suffering from malnutrition due to immature gut bacteria composition.\n\n2. The babies of malnourished mothers generally tend to be malnourished.\n\nWhich of the above assumptions is/are valid?",
+   "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "- **Statement 1 – invalid.** \"Processed probiotic foods\" appear nowhere in the passage. No solution or remedy is proposed at all.\n- **Statement 2 – valid. \"Malnourished mothers have low levels of this sugar in their milk. Consequently, the microbiomes of their infants fail to mature. That in turn, leads to malnourished babies.\"** That is precisely the claim that babies of malnourished mothers generally tend to be malnourished.\n\nAnswer: **(b) 2 only**.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Two numbered assumptions on a passage.",
+   "transcription_note": "Passage-based comprehension item; Passage – 2 reproduced inside the stem, Directions block carried over from page 35 for self-containment.",
+   "shares_passage_with": [
+    63
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 65,
+   "page": 37,
+   "stem": "*Directions for the following 7 (seven) items :*\n\n*Read the following **five** passages and answer the items that follow each passage. Your answers to these items should be based on the passages only.*\n\n**Passage – 3**\n\nTemperatures have risen nearly five times as rapidly on the Western Antarctic Peninsula than the global average over the past five decades. Researchers have now found that melting glaciers are causing a loss of species diversity among benthos in the coastal waters off the Antarctic Peninsula, impacting an entire seafloor ecosystem. They believe increased levels of suspended sediment in water to be the cause of the dwindling biodiversity in the coastal region.\n\nOn the basis of the above passage, the following assumptions have been made :\n\n1. Regions of glaciers warm faster than other regions due to global warming.\n\n2. Global warming can lead to seafloor sedimentation in some areas.\n\n3. Melting glaciers can reduce marine biodiversity in some areas.\n\nWhich of the above assumptions is/are valid?",
+   "options": [
+    "1 and 2 only",
+    "3 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "- **Statement 1 – invalid (over-generalisation).** The passage gives *one* region, the Western Antarctic Peninsula. From a single case you cannot conclude that glacier regions *as a class* warm faster than others.\n- **Statement 2 – valid.** Warming → melting glaciers → **\"increased levels of suspended sediment in water\"**, which settles as seafloor sedimentation. The qualifier \"in some areas\" keeps it safe.\n- **Statement 3 – valid.** **\"melting glaciers are causing a loss of species diversity among benthos in the coastal waters\"** — benthos are marine organisms, so marine biodiversity falls.\n\nAnswer: **(c) 2 and 3 only**. Watch the hedge words: \"can\" and \"in some areas\" make 2 and 3 safe; statement 1 has no hedge and dies.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Three numbered assumptions on a passage.",
+   "transcription_note": "Passage-based comprehension item; Passage – 3 (printed on page 37) reproduced inside the stem, with the Directions block carried over from page 35. Passage – 3 carries exactly one item: the Directions block specifies 7 items (61-67) across five passages; with 61-62 on Passage – 1 and 63-64 on Passage – 2, items 66 and 67 must fall one each to Passages 4 and 5, so shares_passage_with is confirmed empty.",
+   "shares_passage_with": [],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 66,
+   "page": 39,
+   "stem": "Passage – 4\n\nA research team examined a long-term owl roost. Owls prey on small mammals and the excreted remains of those meals that accumulated over the time, provide us an insight into the composition and structure of small mammals over the past millennia. The research suggested that when the Earth went through a period of rapid warming about 13,000 years ago, the small mammal community was stable and resilient. But, from the last quarter of the nineteenth century, human-made changes to the environment had caused an enormous drop in biomass and energy flow. This dramatic decline in energy flow means modern ecosystems are not adapting as easily as they did in the past.\n\nOn the basis of the above passage, the following assumptions have been made :\n\n1. Global warming is a frequently occurring natural phenomenon.\n2. The impending global warming will not adversely affect small mammals.\n3. Humans are responsible for the loss of the Earth's natural resilience.\n\nWhich of the above assumptions is/are valid ?",
+   "options": [
+    "1 and 2 only",
+    "3 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "- **Statement 1 – invalid.** The passage cites exactly one warming episode, \"about 13,000 years ago\". One instance does not make it \"frequently occurring\".\n- **Statement 2 – invalid, in fact reversed.** The passage warns that **\"modern ecosystems are not adapting as easily as they did in the past\"** — so future warming is likelier to hurt small mammals, not spare them.\n- **Statement 3 – valid. \"human-made changes to the environment had caused an enormous drop in biomass and energy flow\"**, and that decline is what has cost ecosystems their earlier resilience.\n\nAnswer: **(b) 3 only**.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Three numbered assumptions on a passage.",
+   "transcription_note": "Verified against p-39 at 3x. In statement 3 the scan shows the first word broken by a speckle as 'Hur ans'; the word is unambiguously 'Humans'. Question stem quantifier is 'is/are valid' (contrast Q67, which prints 'are valid'). Passage – 4 serves only this item.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 67,
+   "page": 39,
+   "stem": "Passage – 5\n\nFood varieties extinction is happening all over the world — and it is happening fast. For example, of the 7,000 apple varieties that were grown during the nineteenth century, fewer than a hundred remain. In the Philippines, thousands of varieties of rice once thrived; now only up to a hundred are grown there. In China, 90 percent of the wheat varieties cultivated just a century ago have disappeared. Farmers in the past painstakingly bred and developed crops well suited to the peculiarities of their local climate and environment. In the recent past, our heavy dependence on a few high yielding varieties and technology-driven production and distribution of food is causing the dwindling of diversity in food crops. If some mutating crop disease or future climate change decimates the few crop plants we have come to depend on to feed our growing population, we might desperately need some of those varieties we have let go extinct.\n\nOn the basis of the above passage, the following assumptions have been made :\n\n1. Humans have been the main reason for the large scale extinction of plant species.\n2. Consumption of food mainly from locally cultivated crops ensures crop diversity.\n3. The present style of production and distribution of food will finally lead to the problem of food scarcity in the near future.\n4. Our food security may depend on our ability to preserve the locally cultivated varieties of crops.\n\nWhich of the above assumptions are valid ?",
+   "options": [
+    "1 and 3",
+    "2 and 4",
+    "2 and 3",
+    "1 and 4"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-01"
+   ],
+   "primary_topic_code": "CSA-01",
+   "explanation_md": "- **Statement 1 – invalid.** The passage is about *cultivated food crop varieties* disappearing, not \"plant species\" at large, and does not rank humans as the \"main reason\" for species extinction generally.\n- **Statement 2 – valid.** Diversity existed when **\"farmers in the past painstakingly bred and developed crops well suited to the peculiarities of their local climate and environment\"**; the loss came with dependence on a few high-yielding varieties and long-distance, technology-driven distribution.\n- **Statement 3 – invalid.** The passage is conditional — \"**If** some mutating crop disease or future climate change decimates...\" — not a prediction that scarcity *will* arrive in the near future.\n- **Statement 4 – valid. \"we might desperately need some of those varieties we have let go extinct\"** ties future food security to preserving local varieties.\n\nAnswer: **(b) 2 and 4**.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Four numbered assumptions on a passage; three-or-more numbered statements maps to stmt_1_2_3.",
+   "transcription_note": "Verified against p-39. Figures confirmed: 7,000 apple varieties, 90 percent of wheat varieties. Four numbered statements, Arabic numbering as printed. Passage – 5 serves only this item.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 68,
+   "page": 41,
+   "stem": "If every alternative letter of the English alphabet from B onwards (including B) is written in lower case (small letters) and the remaining letters are capitalized, then how is the first month of the second half of the year written ?",
+   "options": [
+    "JuLY",
+    "jULy",
+    "jUly",
+    "jUlY"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Alternate letters starting at B are small: **b, d, f, h, j, l, n, p, r, t, v, x, z are lower case — i.e. every even-numbered letter. All odd-numbered letters (A, C, E, G, I, K, M, O, Q, S, U, W, Y) stay capital.**\n\nFirst month of the second half of the year = **JULY**.\n- J = 10th letter → even → **j**\n- U = 21st → odd → **U**\n- L = 12th → even → **l**\n- Y = 25th → odd → **Y**\n\nGives **jUlY** — option (d). Quick check: option (b) \"jULy\" wrongly capitalises L; (c) \"jUly\" wrongly lower-cases Y.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Alphabet/letter-coding reasoning.",
+   "transcription_note": "Verified at 3x. Option (d) prints as 'jUlY' with the third character a lowercase l (ell); the scan's letterform can be misread as capital I ('jUIY'). Compared glyph-for-glyph against the l in option (c) 'jUly' — same stroke.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 69,
+   "page": 41,
+   "stem": "Sunita cuts a sheet of paper into three pieces. Length of first piece is equal to the average of the three single digit odd prime numbers. Length of the second piece is equal to that of the first plus one-third the length of the third. The third piece is as long as the other two pieces together. The length of the original sheet of paper is",
+   "options": [
+    "13 units",
+    "15 units",
+    "16 units",
+    "30 units"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Single-digit odd primes are 3, 5 and 7** (1 is not prime, 2 is even, 9 = 3×3). Average = (3+5+7)/3 = **5**, so first piece = 5.\n\nLet third piece = z.\n- Second = 5 + z/3\n- Third = first + second ⇒ z = 5 + (5 + z/3) = 10 + z/3\n\nSo z − z/3 = 10 ⇒ (2/3)z = 10 ⇒ **z = 15**. Second = 5 + 15/3 = 10.\n\nTotal = 5 + 10 + 15 = **30 units** — option (d).\n\nSanity check: 15 = 5 + 10. ✔ Shortcut: the third piece equals the other two together, so the sheet is twice the third piece = 2 × 15 = 30.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Arithmetic word problem on lengths, average of prime numbers and fractional parts.",
+   "transcription_note": "Verified at 2.4x, including 'one-third the length of the third' and 'the other two pieces together'.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 70,
+   "page": 41,
+   "stem": "In the sequence 1, 5, 7, 3, 5, 7, 4, 3, 5, 7, how many such 5s are there which are not immediately preceded by 3 but are immediately followed by 7 ?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "None"
+   ],
+   "answer": "a",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Number the sequence: 1(1), 5(2), 7(3), 3(4), 5(5), 7(6), 4(7), 3(8), 5(9), 7(10).\n\nCheck each 5 — it must be **followed by 7** *and* **not preceded by 3**:\n- Position 2: preceded by 1, followed by 7 → **qualifies** ✔\n- Position 5: preceded by **3** → rejected\n- Position 9: preceded by **3** → rejected\n\n**Only one such 5 exists (the second term).** Answer (a).\n\nTrap: all three 5s are followed by 7, so candidates who read only half the condition pick 3.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Number-sequence counting with preceded/followed conditions — classic analytical reasoning.",
+   "transcription_note": "Verified at 3x. Sequence is ten terms: 1, 5, 7, 3, 5, 7, 4, 3, 5, 7. Both qualifiers intact — 'not immediately preceded by 3' and 'immediately followed by 7'.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "a",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 71,
+   "page": 41,
+   "stem": "A joint family consists of seven members A, B, C, D, E, F and G with three females. G is a widow and sister-in-law of D's father F. B and D are siblings and A is daughter of B. C is cousin of B. Who is E ?\n\n1. Wife of F\n2. Grandmother of A\n3. Aunt of C\n\nSelect the correct answer using the code given below :",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "stmt_1_2_3",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**E is F's wife — so all three statements hold.**\n\nBuild the family:\n- F is D's father; B and D are siblings ⇒ F is father of both B and D.\n- A is B's daughter.\n- G is a **widow** and F's sister-in-law ⇒ she married into (or is sister of) F's generation; C, being B's cousin, is G's child.\n- That accounts for A, B, C, D, F, G. The seventh member, E, can only be **the wife of F** (the mother of B and D).\n\nCheck the female count: three females = A (daughter), G (widow), E (F's wife). B, C, D, F are male — consistent.\n\nNow test each statement:\n1. Wife of F — **true** by the placement above.\n2. Grandmother of A — A is B's daughter, B is E's child ⇒ **true**.\n3. Aunt of C — C is the child of G, and G is F's sister-in-law, so E (F's wife) is C's aunt ⇒ **true**.\n\nAll of 1, 2 and 3.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Blood-relations puzzle with three numbered candidate statements and a 'select using the code below' combination answer — three-plus statement format.",
+   "transcription_note": "Verified at 2.4x: 'three females', 'widow and sister-in-law of D's father F', 'A is daughter of B', 'C is cousin of B'.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 72,
+   "page": 41,
+   "stem": "Each face of a cube can be painted in black or white colours. In how many different ways can the cube be painted ?",
+   "options": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02",
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "**10 distinct cubes.** Two paintings are \"the same\" if one can be rotated into the other, so count by the number of black faces:\n\n| Black faces | Distinct arrangements |\n|---|---|\n| 0 | 1 |\n| 1 | 1 |\n| 2 | 2 (adjacent / opposite) |\n| 3 | 2 (three round one corner / three in a band) |\n| 4 | 2 (mirror of the 2-face cases) |\n| 5 | 1 |\n| 6 | 1 |\n\nTotal = 1+1+2+2+2+1+1 = **10**.\n\nCross-check by Burnside over the 24 rotations: (2⁶ + 6·2³ + 3·2⁴ + 8·2² + 6·2³)/24 = (64+48+48+32+48)/24 = 240/24 = 10.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Cube-painting counting under rotational equivalence: spatial/logical enumeration (CSA-02) with a counting-numeracy component (CSA-03).",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 73,
+   "page": 41,
+   "stem": "How many triplets (x, y, z) satisfy the equation x + y + z = 6, where x, y and z are natural numbers ?",
+   "options": [
+    "4",
+    "5",
+    "9",
+    "10"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "**Ordered triplets of natural numbers: C(5,2) = 10.**\n\nNatural numbers here means x, y, z ≥ 1. Standard stars-and-bars: the number of positive-integer solutions of x+y+z = n is C(n−1, 2). With n = 6: C(5,2) = **10**.\n\nListing confirms it — the multisets {1,1,4}, {1,2,3}, {2,2,2} give 3 + 6 + 1 = 10 ordered triplets.\n\n(If it had asked for *unordered* sets the answer would be 3, which is not on offer — so \"triplet\" is read as ordered.)",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Counting natural-number solutions of x+y+z=6 — basic numeracy / enumeration.",
+   "transcription_note": null,
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 74,
+   "page": 43,
+   "stem": "If $ means 'divided by'; @ means 'multiplied by'; # means 'minus', then the value of 10#5@1$5 is",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "9"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03",
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Substitute the symbols: 10 # 5 @ 1 $ 5 becomes **10 − 5 × 1 ÷ 5**.\n\nApply BODMAS — division and multiplication before subtraction:\n- 5 × 1 = 5\n- 5 ÷ 5 = 1\n- 10 − 1 = **9**\n\nThe trap is working left to right (10−5 = 5, ×1 = 5, ÷5 = 1) which gives 1. Order of operations still applies after symbol substitution.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Symbol-substitution arithmetic: coded operators (CSA-02 flavour) resolved by BODMAS computation (CSA-03 primary).",
+   "transcription_note": "Verified at 2x: the expression is 10#5@1$5 (ten, hash, five, at, one, dollar, five).",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 75,
+   "page": 43,
+   "stem": "An 8-digit number 4252746B leaves remainder 0 when divided by 3. How many values of B are possible ?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-03"
+   ],
+   "primary_topic_code": "CSA-03",
+   "explanation_md": "Divisibility by 3 = digit sum divisible by 3.\n\nSum of the known digits of 4252746B: 4+2+5+2+7+4+6 = **30**, which is already a multiple of 3.\n\nSo 30 + B must be a multiple of 3 ⇒ B must itself be a multiple of 3: **B = 0, 3, 6, 9 → 4 values**.\n\n(B is a single digit, so 0–9 only; leading digit is 4 so B = 0 is allowed.)",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Divisibility-by-3 rule on an 8-digit number — number properties.",
+   "transcription_note": "Verified at 2x: the number is 4252746B.",
+   "shares_passage_with": null,
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 76,
+   "page": 43,
+   "stem": "*Directions for the following 3 (three) items :*\n*Read the following information and answer the **three** items that follow :*\n\nSix students A, B, C, D, E and F appeared in several tests. Either C or F scores the highest. Whenever C scores the highest, then E scores the least. Whenever F scores the highest, B scores the least.\n\nIn all the tests they got different marks; D scores higher than A, but they are close competitors; A scores higher than B; C scores higher than A.\n\nIf F stands second in the ranking, then the position of B is",
+   "options": [
+    "Third",
+    "Fourth",
+    "Fifth",
+    "Sixth"
+   ],
+   "answer": "c",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "F is second, so by \"either C or F is highest\", **C is first**.\n\nC highest ⇒ **E scores the least (6th)**.\n\nThat fixes C = 1, F = 2, E = 6. The remaining three slots (3rd, 4th, 5th) go to D, A, B, and the chain D > A > B gives:\n\n- D = 3rd, A = 4th, **B = 5th**\n\nAnswer: Fifth.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Ranking/ordering puzzle from a shared direction set; single plain question with four choices.",
+   "transcription_note": "Directions block verified at 2.4x, including the two-paragraph split and the semicolon-separated conditions in the second paragraph.",
+   "shares_passage_with": [
+    77,
+    78
+   ],
+   "independent_answer": {
+    "answer": "c",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 77,
+   "page": 43,
+   "stem": "*Directions for the following 3 (three) items :*\n*Read the following information and answer the **three** items that follow :*\n\nSix students A, B, C, D, E and F appeared in several tests. Either C or F scores the highest. Whenever C scores the highest, then E scores the least. Whenever F scores the highest, B scores the least.\n\nIn all the tests they got different marks; D scores higher than A, but they are close competitors; A scores higher than B; C scores higher than A.\n\nIf B scores the least, the rank of C will be",
+   "options": [
+    "Second",
+    "Third",
+    "Fourth",
+    "Second or third"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "B is least ⇒ C cannot be the topper, because **whenever C tops, E is least** — not B. So **F is 1st and B is 6th**.\n\nThat leaves C, D, A, E for ranks 2–5, with C > A, D > A, and D and A \"close competitors\" (adjacent ranks).\n\n- D = 3rd, A = 4th ⇒ C must be above A ⇒ C = 2nd, E = 5th. ✔\n- D = 4th, A = 5th ⇒ C and E fill 2nd and 3rd ⇒ C = 2nd **or** 3rd. ✔\n- D = 2nd, A = 3rd is impossible — C would have to sit below A.\n\nSo C is **second or third**.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Same ranking direction set; conditional deduction of C's rank.",
+   "transcription_note": null,
+   "shares_passage_with": [
+    76,
+    78
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 78,
+   "page": 43,
+   "stem": "*Directions for the following 3 (three) items :*\n*Read the following information and answer the **three** items that follow :*\n\nSix students A, B, C, D, E and F appeared in several tests. Either C or F scores the highest. Whenever C scores the highest, then E scores the least. Whenever F scores the highest, B scores the least.\n\nIn all the tests they got different marks; D scores higher than A, but they are close competitors; A scores higher than B; C scores higher than A.\n\nIf E is ranked third, then which one of the following is correct ?",
+   "options": [
+    "E gets more marks than C",
+    "C gets more marks than E",
+    "A is ranked fourth",
+    "D is ranked fifth"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "E is 3rd, so C cannot be the topper (**C topping forces E to be last**). Hence **F is 1st and B is 6th**.\n\nRanks 2, 4, 5 remain for C, D, A. Since C > A and D > A, A takes the lowest of these ⇒ **A = 5th**. D and A are close competitors (adjacent) ⇒ **D = 4th**, leaving **C = 2nd**.\n\nFinal order: F, C, E, D, A, B.\n\nChecking the options: C (2nd) beats E (3rd) ⇒ **\"C gets more marks than E\" is correct**. A is 5th not 4th, D is 4th not 5th, and E does not beat C.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "high",
+   "tagging_note": "Same ranking direction set; 'which one of the following is correct' with four independent options — plain single-answer form, not numbered statements.",
+   "transcription_note": "Options (a) and (b) are near-mirror images ('E gets more marks than C' vs 'C gets more marks than E'); order verified at 2x — not swapped.",
+   "shares_passage_with": [
+    76,
+    77
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 79,
+   "page": 43,
+   "stem": "*Directions for the following 2 (two) items :*\n*Read the following statements S1 and S2 and answer the **two** items that follow :*\n\nS1 : Twice the weight of Sohan is less than the weight of Mohan or that of Rohan.\nS2 : Twice the weight of Rohan is greater than the weight of Mohan or that of Sohan.\n\nWhich one of the following statements is correct ?",
+   "options": [
+    "Weight of Mohan is greatest",
+    "Weight of Sohan is greatest",
+    "Weight of Rohan is greatest",
+    "'Whose weight is greatest' cannot be determined"
+   ],
+   "answer": "d",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "Write the statements as inequalities:\n- S1: 2S < M and 2S < R\n- S2: 2R > M and 2R > S\n\nS1 pins Sohan down, but **S2 only says M < 2R — it does not say whether M is above or below R**. Both arrangements survive:\n\n- S = 1, R = 3, M = 5 → S1: 2 < 5, 2 < 3 ✔; S2: 6 > 5, 6 > 1 ✔ → **Mohan heaviest**\n- S = 1, R = 5, M = 3 → S1: 2 < 3, 2 < 5 ✔; S2: 10 > 3, 10 > 1 ✔ → **Rohan heaviest**\n\nTwo consistent worlds with different heaviest men, so who is greatest **cannot be determined**.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Inequality-based ordering from two given premises S1/S2. Labelled S1/S2 are the shared direction stimulus, not the answer statements, so format is simple rather than stmt_1_2; has a data-sufficiency feel (option D = cannot be determined) but the reasoning is analytical ordering.",
+   "transcription_note": "Verified at 2x. S1 is 'less than', S2 is 'greater than'; both name Mohan first. This item asks about greatest (Q80 asks about least) — the two items are otherwise identical in stem.",
+   "shares_passage_with": [
+    80
+   ],
+   "independent_answer": {
+    "answer": "d",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  },
+  {
+   "q_no": 80,
+   "page": 43,
+   "stem": "*Directions for the following 2 (two) items :*\n*Read the following statements S1 and S2 and answer the **two** items that follow :*\n\nS1 : Twice the weight of Sohan is less than the weight of Mohan or that of Rohan.\nS2 : Twice the weight of Rohan is greater than the weight of Mohan or that of Sohan.\n\nWhich one of the following statements is correct ?",
+   "options": [
+    "Weight of Mohan is least",
+    "Weight of Sohan is least",
+    "Weight of Rohan is least",
+    "'Whose weight is least' cannot be determined"
+   ],
+   "answer": "b",
+   "answer_source": "official",
+   "disputed": false,
+   "format": "simple",
+   "subject_code": "CSAT",
+   "topic_codes": [
+    "CSA-02"
+   ],
+   "primary_topic_code": "CSA-02",
+   "explanation_md": "From S1: **2S < M and 2S < R**.\n\nSince weights are positive, 2S < M gives S < M, and 2S < R gives S < R (each is in fact more than twice Sohan). So **Sohan is lighter than both Mohan and Rohan** — no case escapes this.\n\nS2 (2R > M, 2R > S) adds nothing that could unseat this; it only caps how heavy Mohan can be relative to Rohan.\n\nHence Sohan's weight is the **least**. Contrast with the previous item: the *greatest* is undetermined, but the *least* is fixed.",
+   "has_table": false,
+   "has_figure": false,
+   "tagging_confidence": "medium",
+   "tagging_note": "Companion item to q79 on the same S1/S2 premises; asks for the least weight. Same reasoning: stimulus statements, four plain choices including a 'cannot be determined' option.",
+   "transcription_note": "Verified at 2x: all four options use 'least', matching the print.",
+   "shares_passage_with": [
+    79
+   ],
+   "independent_answer": {
+    "answer": "b",
+    "confidence": "high",
+    "beyond_knowledge": false
+   },
+   "dropped_by_upsc": false,
+   "key_supported": true,
+   "key_raw": null,
+   "review_flag": null
+  }
+ ],
+ "reviewed_on": "2026-09-05",
+ "review_note": "Loaded under Pragaman's standing instruction: official key, no per-question approval. Complete at 80/80. Q1-21 and Q32-80 were solved blind before the key was read; 69/70 matched, and the single disagreement (Q3, key B) was re-read against the key image by hand and confirmed correctly transcribed. Q22-31 were lost to a content-filter block on their batch, recovered by transcribing pages 15/17/19 individually, and explained against the official answer — those ten carry NO blind cross-check and their answers come straight from the key image. Series A, NIL dropped."
+}
